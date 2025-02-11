@@ -109,9 +109,12 @@ def process_puzzles():
 def main():
     """Main execution function"""
     if not os.path.exists(csv_filename):
+        # Only download if we need to extract and don't have the compressed file
         if not os.path.exists(compressed_filename):
             download_dataset()
-        extract_dataset()
+        # Only extract if we don't have the CSV
+        if not os.path.exists(csv_filename):
+            extract_dataset()
     else:
         print(f"Using existing {csv_filename}")
     
