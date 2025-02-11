@@ -1,0 +1,11 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+02NvQ,2krr3/1pp3p1/p4p2/5P2/5P1B/7P/PPQp2R1/1R1KqB2 w - - 3 30,h4e1 d2e1q,410,104,73,131,advancedPawn doubleCheck mate mateIn1 middlegame oneMove promotion,https://lichess.org/5pPfcHh9#59,
+07zqN,3q1r1k/6p1/p2p2nP/2pB1P2/4PR2/2PP3R/1P4QK/r7 b - - 0 35,g6f4 h6g7,456,103,91,389,advancedPawn doubleCheck master mate mateIn1 middlegame oneMove,https://lichess.org/VDbgfmoO/black#70,
+0R2og,r1r3k1/5ppp/4p3/6P1/4Q2P/1P1P4/pR6/K1q2R2 w - - 2 29,f1c1 c8c1 b2b1 a2b1q,441,105,86,366,advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short,https://lichess.org/2wIWWuLK#57,
+EQO33,r2qkb1r/pb1p1p2/1p2p2p/5Q2/2P1N3/3B4/PP3PPP/R1B1R1K1 b kq - 0 14,e6f5 e4d6,494,99,94,792,doubleCheck mate mateIn1 middlegame oneMove,https://lichess.org/4S4mvXmn/black#28,Horwitz_Defense Horwitz_Defense_Other_variations
+NTUEf,5k2/p4pbp/5pp1/8/1R6/BP3P1P/P1r3P1/7K b - - 1 29,c2a2 b4b8,455,90,84,279,doubleCheck endgame mate mateIn1 oneMove,https://lichess.org/G9lKFB4k/black#58,
+NvFJK,7k/p5rP/2p1p3/4P3/2pP4/2P5/P4q2/3K1R1R b - - 1 40,f2a2 f1f8 g7g8 h7g8q,436,93,99,1041,advancedPawn doubleCheck endgame mate mateIn2 promotion queenRookEndgame short,https://lichess.org/kZlgz7Eu/black#80,
+buNzc,5k2/5p2/pR2pp1p/1b6/2r5/P6P/5PP1/R5K1 w - - 3 32,g1f1 c4c1,479,106,94,525,doubleCheck endgame mate mateIn1 oneMove,https://lichess.org/clRvro9c#63,
+qFETP,7k/1b4pp/p3p3/1p4B1/6Q1/PBP2r2/1P5P/R4q1K w - - 6 30,a1f1 f3f1,487,97,100,181,doubleCheck endgame mate mateIn1 oneMove,https://lichess.org/Ptkq55Ir#59,
+u4BgB,1r4k1/b5pp/4R3/1P1B4/1r6/6P1/5P1P/6K1 b - - 1 31,b4b5 e6e8,453,109,86,908,doubleCheck endgame mate mateIn1 oneMove,https://lichess.org/EE1eZE6p/black#62,
+wrdyL,2r3k1/pp2r2b/5Q2/3p2N1/8/5PP1/PPpR4/2K1q2R w - - 1 26,h1e1 e7e1 d2d1 c2d1q,451,103,88,957,advancedPawn doubleCheck mate mateIn2 middlegame promotion short,https://lichess.org/AEMEL5zD#51,

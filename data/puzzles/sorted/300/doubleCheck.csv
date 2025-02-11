@@ -1,0 +1,3 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+2wMMN,r2Q1k1r/1p3ppp/1p1R2b1/pP2p3/P3P3/Bq3PPP/4B2K/8 b - - 8 28,a8d8 d6d8,399,110,85,900,doubleCheck master mate mateIn1 middlegame oneMove,https://lichess.org/SjUYUmbY/black#56,
+Uc0lH,1kQ5/ppp5/2n5/8/4PpR1/2KPqP1B/1PP5/8 b - - 0 38,b8c8 g4g8,399,99,80,260,doubleCheck endgame mate mateIn1 oneMove,https://lichess.org/2DErBZi1/black#76,

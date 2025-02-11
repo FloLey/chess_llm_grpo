@@ -1,0 +1,8 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+DDyLV,4r1k1/Q4p1p/p5p1/Pp1Np3/2pnPn1q/2N3RP/1P3rPK/R4B2 w - - 2 29,g3g4 d4f3 h2h1 h4h3 g2h3 f2h2,2470,88,93,8327,arabianMate deflection long master mate mateIn3 middlegame pin sacrifice,https://lichess.org/SGJ4smqS#57,
+JEJfu,1r3b1r/pQ4p1/4Nk2/4nb2/5Nn1/4P1P1/PP3PBq/R1B1RK2 w - - 1 25,b7b8 h2g2 f1g2 h8h2 g2f1 h2f2 f1g1 e5f3 g1h1 f2h2,2461,102,96,2449,arabianMate attraction fork mate mateIn5 middlegame sacrifice veryLong,https://lichess.org/2kEI1xyT#49,
+MRVhE,r1b4r/ppp2Rpk/1bn4p/4P3/4N3/6R1/PP4PP/7K b - - 3 20,h8g8 e4f6 h7h8 g3g7 g8g7 f7f8 g7g8 f8g8,2407,81,94,7716,arabianMate mate mateIn4 middlegame pin sacrifice veryLong,https://lichess.org/48z9dQfr/black#40,
+NqvFO,6k1/1R5R/8/1p3p2/4nPp1/4P1P1/n2r3P/2K1N3 w - - 8 48,c1b1 a2c3 b1c1 c3e2 c1b1 e4c3 b1a1 d2a2,2446,89,94,7634,arabianMate endgame exposedKing master mate mateIn4 veryLong,https://lichess.org/TekeDUPj#95,
+WBFnj,3r2k1/1ppq1pp1/p2p2rp/8/P3Pn1n/2P1N2P/1PQ2PPK/3RRB2 w - - 5 27,f2f3 d7h3 g2h3 h4f3 h2h1 g6g1,2423,89,94,2194,arabianMate deflection fork long mate mateIn3 middlegame sacrifice,https://lichess.org/ZLpBvWrF#53,
+t194m,6r1/7R/2k5/1p2n2N/2p2N2/2P2r1P/PP1B1b1K/R7 w - - 7 38,f4e6 f2g1 a1g1 f3f2 h2h1 f2h2 h1h2 e5f3 h2h1 g8g1,2483,107,95,152152,arabianMate attraction clearance fork mate mateIn5 middlegame sacrifice veryLong,https://lichess.org/kaSiirf1#75,
+z5l60,5r1k/2R2Nb1/5Np1/8/r2Pp3/1Q2Pp2/3K1P2/q7 b - - 2 40,f8f7 b3b8 f7f8 b8f8 g7f8 c7h7,2406,82,92,9193,arabianMate exposedKing long mate mateIn3 middlegame sacrifice,https://lichess.org/4n0jujJp/black#80,

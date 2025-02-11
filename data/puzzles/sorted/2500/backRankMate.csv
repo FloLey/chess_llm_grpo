@@ -1,0 +1,7 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+CZy7h,5r2/4kp1R/8/2p5/5qP1/Q1P5/PPKr1P2/7R w - - 4 38,c2c1 d2e2 c1b1 f4e4 b1a1 e2e1 h1e1 e4e1,2517,89,94,9361,backRankMate discoveredAttack endgame mate mateIn4 veryLong,https://lichess.org/ESacrExp#75,
+FvIp5,5r1k/P1qb2p1/3bQ2B/8/2B1p3/3p4/1PP3PP/R5K1 w - - 1 31,e6g6 c7a7 a1a7 d6c5 h6e3 c5e3 g1h1 f8f1,2506,82,92,3010,backRankMate fork master mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/E3bQx5Vn#61,
+IQAzq,2k3r1/bpp1Pp1r/3p3p/pP2p2Q/P1q1P3/7N/R5P1/2BR3K b - - 0 27,c4a2 h5g4 f7f5 g4f5 c8b8 f5f8 g8f8 e7f8q,2571,84,93,2216,advancedPawn backRankMate fork mate mateIn4 middlegame promotion veryLong,https://lichess.org/7q71DiRP/black#54,
+KvvV4,1q4k1/1b2r1pp/1p6/p4Q2/3p1R2/2P1p2P/PP5K/5R2 b - - 1 38,e7e8 f5f7 g8h8 f7e8 b8e8 f4f8 e8f8 f1f8,2537,85,96,535,backRankMate clearance endgame fork mate mateIn4 sacrifice veryLong,https://lichess.org/UPjONRW4/black#76,
+pARXA,1k1r3r/ppp2ppp/8/1Q2p3/2P1Pn2/1N3q2/PPP2P1P/2KR3R w - - 2 18,b3c5 f3d1 h1d1 f4e2 c1b1 d8d1,2528,82,92,2899,backRankMate deflection long mate mateIn3 middlegame sacrifice,https://lichess.org/kUUkBnXM#35,Bishops_Opening Bishops_Opening_Boi_Variation
+qyskv,2kr3r/Rpp1ppb1/2n4p/6p1/2P5/3bBQP1/2qN1PBP/5RK1 b - - 0 17,d3f1 a7a8 c8d7 f3d5 d7e8 d5c6 b7c6 g2c6 e8f8 a8d8,2566,87,92,4234,backRankMate deflection mate mateIn5 middlegame sacrifice veryLong,https://lichess.org/JbT0qWBU/black#34,Scandinavian_Defense Scandinavian_Defense_Modern_Variation

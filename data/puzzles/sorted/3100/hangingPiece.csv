@@ -1,0 +1,11 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+3lSsj,r4r1k/pp5p/2p1P1p1/2qpR3/5PQ1/3Bn3/PP4PP/5R1K w - - 6 25,e5e3 c5e3 d3g6 h7g6 g4g6 e3e5 f4f5 f8f6,3121,128,89,1707,advantage hangingPiece middlegame veryLong,https://lichess.org/VAP7D9Cv#49,
+6oYbQ,8/2p5/2N5/1pPk2P1/pP3K2/P7/8/5b2 w - - 1 55,g5g6 d5c6 f4g5 f1h3 g6g7 h3e6,3163,107,93,753,crushing defensiveMove endgame hangingPiece long quietMove,https://lichess.org/294HzmLA#109,
+6s7tZ,8/8/8/r4P2/6PK/2p5/3k4/2R5 w - - 1 59,c1c3 d2c3 g4g5 c3d4 g5g6 d4e5 g6g7 a5a1 f5f6 e5f6 g7g8n f6g7 g8e7 a1a5 h4g3 g7f6 e7c6 a5a4 g3f2 a4c4 c6a5 c4c3 f2e1 f6e5 e1d2 e5d4,3100,119,92,529,crushing defensiveMove endgame hangingPiece master quietMove rookEndgame veryLong zugzwang,https://lichess.org/WiXlYWDP#117,
+80e31,r2k2Br/ppp2Q2/1bnp4/4pb2/1P2P2N/2PP2P1/P2q4/R4R1K b - - 1 22,d2h6 f1f5 c6e7 a1f1 h8g8 f5h5,3145,131,88,603,crushing hangingPiece long middlegame quietMove,https://lichess.org/pf1WHo7G/black#44,
+EfDoO,5rk1/pp2Qpp1/2p5/3n2P1/1P1P4/2PB1P2/q6P/4R1K1 w - - 1 28,d3h7 g8h7 g5g6 h7h6 e7h4 h6g6 g1h1 f7f5 e1g1 g6f7,3157,142,89,1473,advantage endgame hangingPiece quietMove veryLong,https://lichess.org/5rKKgJX0#55,
+RpuBx,4r1k1/1p4pp/2p5/p1Qp2K1/P4R2/1P2PP1b/1BPq3P/8 b - - 18 37,e8e5 b2e5 d2g2 g5h5 h3g4 f4g4 g2h3 h5g5 h7h6 g5f5,3101,129,91,1670,crushing defensiveMove endgame hangingPiece veryLong,https://lichess.org/TED5351g/black#74,
+YwGEf,6rk/1Qp2p2/7p/8/PP3p1q/7B/5b1K/3R1R2 w - - 0 36,f1f2 h4f2 h3g2 g8g3 h2h1 f4f3 b7c8 g3g8,3120,114,91,1391,crushing endgame hangingPiece veryLong,https://lichess.org/VOKhfRxz#71,
+dFXCx,r2q4/4kr2/1nb4Q/1p1pP3/PbpP1P2/2N5/1B4PP/5RK1 b - - 0 25,d8g8 h6c6 f7g7 f1f2 g8e6 c6b5 b4c3 f4f5 e6h6 f5f6 e7f7 f6g7,3145,139,91,2294,advancedPawn advantage discoveredAttack exposedKing fork hangingPiece middlegame quietMove veryLong,https://lichess.org/Uh1P1Qw7/black#50,
+iduuy,3r1rk1/ppq1b1pp/4Pp2/3p4/8/2PB1Q2/P1P2PPP/R3R1K1 w - - 1 15,d3h7 g8h7 f3h5 h7g8 e1e3 c7f4 e3g3 f4e4 g3h3 e4e6,3153,145,89,1333,advantage hangingPiece master middlegame veryLong,https://lichess.org/uqbY6fwD#29,Russian_Game Russian_Game_Modern_Attack
+o3424,r3br1k/ppp2q2/5n1Q/3pPp2/3P1P2/3B4/PP5P/6RK b - - 0 26,f7h7 h6f8 f6g8 g1g3,3146,125,91,1146,crushing fork hangingPiece middlegame short,https://lichess.org/EfkGIHxS/black#52,

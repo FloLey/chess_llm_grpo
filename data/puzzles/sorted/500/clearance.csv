@@ -1,0 +1,11 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+0QtZ5,r1bq1rk1/pp2bpp1/2p1pn1p/3n4/2PPNB2/3Q1N2/PPB2PPP/R4RK1 b - - 0 12,d5f4 e4f6 e7f6 d3h7,572,96,93,2817,clearance kingsideAttack mate mateIn2 middlegame short,https://lichess.org/pi2fI308/black#24,Caro-Kann_Defense Caro-Kann_Defense_Main_Line
+2pt7E,6kb/p2Npp1p/6pP/8/4KpP1/nP6/6r1/3R3R b - - 1 33,g2g4 d7f6 h8f6 d1d8,577,102,86,1191,clearance endgame mate mateIn2 sacrifice short,https://lichess.org/BvWM8K99/black#66,
+8Zsm1,r4rk1/pbq1npp1/1pp1pn1p/8/3PN3/P1PQP3/1BB2PPP/1R3RK1 b - - 3 18,a8d8 e4f6 g7f6 d3h7,571,84,96,482,clearance kingsideAttack mate mateIn2 middlegame short,https://lichess.org/bi4IN6ju/black#36,Nimzo-Indian_Defense Nimzo-Indian_Defense_Normal_Variation
+BWhlt,6k1/5p1p/p1qp2pb/1p6/3QP3/1P3P2/r5PP/B2R2K1 b - - 3 29,c6c5 d4c5 d6c5 d1d8,552,98,92,820,clearance crushing endgame short,https://lichess.org/GmTsvJjX/black#58,
+FlXaK,5r1k/7p/p3QBpP/2p5/7K/4R3/PP6/5q2 b - - 0 39,f1f6 e6f6 f8f6 e3e8 f6f8 e8f8,583,93,89,328,clearance endgame long mate mateIn3,https://lichess.org/fSCo0NCD/black#78,
+L6FOC,1b2n1k1/2q2pp1/p5B1/1p1pr3/1PpN4/P1B2Q1P/5PP1/3RR2K w - - 2 37,g6h5 e5e1 c3e1 c7h2,573,87,100,406,clearance kingsideAttack mate mateIn2 middlegame short,https://lichess.org/OhuKFJ6F#73,
+MJdjm,r4k2/6pp/8/3B4/8/4P2P/5PP1/r2R2K1 w - - 2 28,d5f3 a1d1 f3d1 a8a1 g1f1 a1d1,533,96,93,1222,advantage clearance endgame long pin,https://lichess.org/O7cDCTtj#55,
+dOrC2,r1k5/5ppp/4p3/3pP3/3N4/5B2/5PPP/rR4K1 w - - 14 32,b1d1 a1d1 f3d1 a8a1,598,96,80,158,clearance crushing endgame pin short,https://lichess.org/lsFyaAGe#63,
+oKaZY,2r1nbk1/1R3ppp/p2p4/8/3B4/3R1BNP/P5P1/2r4K w - - 1 30,d3d1 c1d1 f3d1 c8c1 h1h2 c1d1,507,99,90,1180,advantage clearance long middlegame pin,https://lichess.org/jZUfXq1T#59,
+peNZR,r4rk1/1bpnqpp1/pp2p2p/8/3PN3/3QP3/PPB2PPP/1R3RK1 b - - 2 17,d7f6 e4f6 g7f6 d3h7,551,89,100,242,clearance kingsideAttack mate mateIn2 middlegame short,https://lichess.org/L3Z82PrH/black#34,Queens_Gambit_Declined Queens_Gambit_Declined_Queens_Knight_Variation

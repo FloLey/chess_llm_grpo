@@ -1,0 +1,5 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+Dzr4O,8/8/8/3K4/8/2k5/p7/N7 w - - 5 60,d5c5 c3b2 c5d5 b2a1,410,94,100,221,crushing endgame knightEndgame short trappedPiece,https://lichess.org/9pV0Gxnl#119,
+W8kXa,r1bqr2Q/pp3kp1/4p2p/2npP3/8/2P2P2/P1B3PP/R1B1R1K1 w - - 5 20,c2g6 f7g6 h8e8 d8e8,490,95,94,985,advantage hangingPiece middlegame short trappedPiece,https://lichess.org/XiNaG311#39,
+eDwzg,3qr1k1/p5bp/1p3pp1/n2bp3/P6Q/R2P2P1/3NPPBP/1rBR1K2 b - - 3 23,d5g2 f1g2 b1c1 d1c1,466,102,75,366,crushing master middlegame short trappedPiece,https://lichess.org/xRULhrsi/black#46,
+zHV1l,7b/4k2P/6PK/p7/P7/8/1n6/8 b - - 2 57,b2a4 g6g7 h8g7 h6g7,496,103,70,284,advancedPawn crushing endgame master short trappedPiece,https://lichess.org/z0C5uwZf/black#114,

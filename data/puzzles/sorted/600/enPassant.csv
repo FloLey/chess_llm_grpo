@@ -1,0 +1,2 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+p3D6j,r3kbnr/pp3pp1/4p1p1/2Ppq1B1/Q7/8/P2N1PPP/R4RK1 b kq - 1 13,b7b5 c5b6,647,94,89,630,discoveredAttack enPassant mate mateIn1 middlegame oneMove,https://lichess.org/vWYs9lgI/black#26,Scandinavian_Defense Scandinavian_Defense_Other_variations

@@ -1,0 +1,4 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+sFCAI,8/3PNp1k/4n2p/4P1p1/8/1p2KbP1/1P3P1P/8 b - - 1 38,f3a8 f2f4 g5f4 g3f4 f7f5 e5f6 e6d8 f4f5 a8c6 e7g6 h7g8 g6e5,3124,137,89,1578,advantage enPassant endgame quietMove veryLong,https://lichess.org/aGWz69li/black#76,
+sgHm8,r2qr1k1/bppn2p1/4b1Q1/PP1p4/3P1R2/B1NpP3/6PP/5RK1 b - - 4 23,c7c5 b5c6 b7c6 f1f3 a7d4 e3d4,3175,153,86,954,crushing enPassant long middlegame quietMove,https://lichess.org/5jIjBmyp/black#46,
+yiO8y,2r2rk1/1b2bp1p/pq2p2B/np1pP3/3P4/1P5P/P1BQ2P1/2R2RK1 b - - 0 22,f7f5 e5f6 e7f6 f1f4 e6e5 f4g4,3112,127,86,471,advantage enPassant kingsideAttack long middlegame,https://lichess.org/x3hljmhJ/black#44,

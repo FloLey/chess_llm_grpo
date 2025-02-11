@@ -1,0 +1,9 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+3MF5J,2B5/8/8/8/5kQ1/3K4/1b6/7q b - - 3 58,f4e5 g4e6 e5f4 e6e3,2620,116,88,1383,endgame mate mateIn2 short,https://lichess.org/qnPWnORA/black#116,
+8ENVm,r4b1r/p5pp/5n2/2p5/8/PQNNPk1P/1Pb2P2/2B1K2R b K - 0 21,c2b3 e1g1 c5c4 d3e1,2678,91,74,294,castling mate mateIn2 middlegame short,https://lichess.org/jhHmkg8S/black#42,
+Fk1bM,2r3Q1/2q1k1R1/p2p4/3Pp3/7P/1p6/P7/1K6 b - - 4 33,e7f6 g7f7 c7f7 g8g5,2603,84,91,2534,clearance endgame fork mate mateIn2 sacrifice short,https://lichess.org/W1fl3sTh/black#66,
+GjT2D,4r1k1/p2bp2p/3pNp2/1p1P1PpQ/6N1/1P4PK/P5BP/2r2q2 b - - 3 31,f1d1 h5f7 g8f7 g4h6,2687,95,91,838,attraction kingsideAttack mate mateIn2 middlegame sacrifice short,https://lichess.org/7W8knpab/black#62,
+IeUqw,3k1r2/ppp3Qp/4Rn2/2brN3/5P2/5K2/q5PP/4R3 b - - 2 29,f6h5 e6d6 d5d6 g7f8,2659,104,87,672,interference mate mateIn2 middlegame short,https://lichess.org/Cy3KNelL/black#58,
+MpnWl,3k2r1/3n1p1p/3Qn3/1p1pP3/2pP2qN/2P2Np1/1P2B1K1/6R1 w - - 4 31,d6b4 g4h3 g2h3 e6f4,2614,83,91,1108,attraction mate mateIn2 middlegame sacrifice short,https://lichess.org/j5OAWJCs#61,
+NNGfb,r4b1r/1b1q1p2/pBk2Pp1/Pp1p2P1/2pQ4/2P5/1PB3PP/RN4K1 b - - 5 22,f8d6 d4c4 d6c5 c4c5,2653,92,92,3074,mate mateIn2 middlegame short,https://lichess.org/JoJa4n2B/black#44,
+SdLaO,5Q2/p6k/1p2p1B1/6Pp/2r2P1P/2r5/Pq3PK1/8 b - - 0 39,h7g6 f4f5 e6f5 f8g8,2616,121,91,1683,endgame mate mateIn2 short,https://lichess.org/2a6xDm2L/black#78,

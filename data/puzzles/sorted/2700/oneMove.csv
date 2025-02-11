@@ -1,0 +1,8 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+4LmA0,2r2rk1/p2R4/b4bpp/1p2p3/4P3/qP2N3/P2Q1PPP/4R1K1 b - - 3 24,f6g5 h2h4,2755,112,83,219,advantage middlegame oneMove,https://lichess.org/SBiGikDm/black#48,
+4wRuN,5rk1/ppp3pp/4P3/2b3p1/2P4q/1Q6/PR3RB1/6K1 w - - 1 27,b3c2 g5g4,2757,123,89,558,advantage defensiveMove middlegame oneMove pin,https://lichess.org/cas79OSw#53,
+Ikt81,4rrk1/pp1b4/3p3p/3Pn3/2PN1ppq/1PR4P/P2Q2P1/3BR1K1 w - - 0 29,h3g4 e5c4,2797,101,90,1072,crushing discoveredAttack middlegame oneMove,https://lichess.org/C7IbsZfQ#57,
+OM62u,6K1/4k3/1R4P1/8/1p5r/8/8/8 b - - 2 51,e7e8 b6b7,2757,113,87,453,crushing endgame oneMove rookEndgame,https://lichess.org/zXHxz8KZ/black#102,
+YCBgz,4k3/8/p2K3p/1p2P1pB/2p5/2n3PP/P7/8 b - - 1 45,e8f8 h5f3,2727,128,90,1193,crushing defensiveMove endgame oneMove,https://lichess.org/X1ZrgcOR/black#90,
+mZHqp,r2qk2r/1pp3pp/4p3/3nP3/1b6/1pNP2P1/PBPQ1P1P/2KR1B1R w kq - 0 15,a2b3 c7c6,2762,113,76,102,advantage defensiveMove middlegame oneMove,https://lichess.org/Zr3CGfe3#29,Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations
+yunpJ,5rk1/1pb1np1p/p7/5pr1/1P3P2/P5PP/2Bq2NK/RQ3R2 b - - 2 24,d2c3 b1e1,2731,98,91,1657,advantage middlegame oneMove,https://lichess.org/QNY6IWhT/black#48,

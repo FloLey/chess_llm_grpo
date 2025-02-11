@@ -1,0 +1,5 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+0iyo0,r2q1b1r/pppkp1p1/5n1p/3pnQ2/5NPP/5P2/PPP5/RNB1K2R b KQ - 1 13,e7e6 f5e6,579,88,100,200,dovetailMate mate mateIn1 oneMove opening,https://lichess.org/wARp7eLg/black#26,Nimzowitsch_Defense Nimzowitsch_Defense_Scandinavian_Variation
+8EtWe,rn1q1rk1/1b1nbP2/p5pp/1p1p4/2pP1P2/2NQ4/PPB1N1PP/R1B2RK1 b - - 0 16,g8f7 d3g6,591,81,100,203,dovetailMate mate mateIn1 oneMove opening,https://lichess.org/PvqGt60D/black#32,Queens_Gambit_Declined Queens_Gambit_Declined_Normal_Defense
+YbxCW,r2q1b2/2pb1kpp/p1n1P3/1p1n4/8/7P/PP2QPP1/RNB1R1K1 b - - 0 18,d7e6 e2e6,595,88,99,1139,dovetailMate mate mateIn1 middlegame oneMove,https://lichess.org/pWeQTPFz/black#36,Ruy_Lopez Ruy_Lopez_Berlin_Defense
+h2zcb,rn3rk1/ppp1pP2/6q1/6Q1/8/2b2P2/PP1N3P/R3K1R1 b Q - 0 21,g8f7 g5g6,597,94,90,692,dovetailMate mate mateIn1 middlegame oneMove,https://lichess.org/vE5NTN0C/black#42,

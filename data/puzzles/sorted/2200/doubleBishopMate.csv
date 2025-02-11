@@ -1,0 +1,5 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+6ziym,r3k2r/pp2bppp/1q1p4/3Pn2b/8/5N1P/PPQN1PP1/R3KB1R w KQkq - 1 14,f3e5 b6e3 f2e3 e7h4 g2g3 h4g3,2295,87,94,176199,doubleBishopMate long mate mateIn3 middlegame sacrifice,https://lichess.org/5JhTTlDw#27,Alekhine_Defense Alekhine_Defense_Exchange_Variation
+JnsRf,3r2k1/pp3p2/1bb1p2Q/2q1p3/4P1P1/P5N1/1P1r1PBP/R4RK1 w - - 7 24,g3h5 c5f2 f1f2 b6f2 g1h1 d2d1 a1d1 d8d1 g2f1 c6e4,2274,79,95,2975,doubleBishopMate kingsideAttack mate mateIn5 middlegame pin sacrifice veryLong,https://lichess.org/ckvcvUT7#47,
+W3Lx2,rn2kb1r/1p3p2/4pQp1/pPpp2Bp/8/q2B3P/5PP1/1R3RK1 b kq - 3 20,b8d7 f6e6 f7e6 d3g6,2209,76,94,7568,deflection doubleBishopMate mate mateIn2 middlegame sacrifice short,https://lichess.org/pdKV6jdU/black#40,
+wd4JU,rnbr4/1pp2Qp1/p1k5/8/4B3/B7/P1P3PP/b6K b - - 2 23,c6b6 f7b3 b6a7 b3b7 c8b7 a3c5,2294,101,96,15272,doubleBishopMate long mate mateIn3 middlegame sacrifice,https://lichess.org/GN12UP04/black#46,

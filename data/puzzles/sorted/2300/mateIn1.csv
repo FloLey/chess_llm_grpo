@@ -1,0 +1,10 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+0jbFz,8/pBP3q1/1pRkb3/3N1p2/3P2p1/P2KP1P1/r7/8 b - - 3 30,d6d5 c6b6,2312,81,93,6667,discoveredAttack endgame mate mateIn1 oneMove,https://lichess.org/DF37L8Ax/black#60,
+3Itj7,r5k1/1p4b1/2p3rp/4p3/1PPpPp2/3B1K2/7q/1RN1QR2 w - - 6 30,f1f2 h2h5,2340,79,94,534,mate mateIn1 middlegame oneMove,https://lichess.org/X5wTEJOw#59,
+BtAmV,3rk2N/p5pp/1pP5/2K1p3/Q1Bn1q2/2P5/PP1Pb1PP/RNB4R w - - 0 17,c5b4 f4f8,2398,83,92,9686,mate mateIn1 middlegame oneMove,https://lichess.org/PtFrSqKz#33,Italian_Game Italian_Game_Two_Knights_Defense
+CCuX6,r1bq4/1p1p1r1k/p1n1ppRB/7Q/Pbn1P3/2N5/1P3P1P/2R1K3 b - - 2 18,d8a5 h6g5,2322,85,73,325,discoveredAttack mate mateIn1 middlegame oneMove,https://lichess.org/IIQ3rEf7/black#36,Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Accepted
+J2CD5,8/4k2p/3Rb3/p1B1P2B/P6b/2p5/1r5P/5K2 b - - 5 39,h4f2 d6d4,2316,81,92,7073,discoveredAttack endgame master mate mateIn1 oneMove,https://lichess.org/OPySpXZ8/black#78,
+JS7Ul,2knR3/ppb3r1/8/3Q1pqP/3p1N2/P2P1K1P/1PB2P2/R1B5 w - - 5 32,f4e6 g5h5,2346,87,90,1870,mate mateIn1 middlegame oneMove,https://lichess.org/aUpvwoeY#63,
+RmsqH,5rk1/p3pp1p/b2p1bp1/2p1P3/8/q1N2N2/1rPQ1PPP/2KRR3 w - - 0 17,e5f6 b2b3,2349,88,83,394,discoveredAttack mate mateIn1 middlegame oneMove,https://lichess.org/c783QrqN#33,Sicilian_Defense Sicilian_Defense_Closed
+rfYxT,Q2rr3/1p3ppp/Nkp4n/3p4/2B1P3/P1qP2P1/4K3/1R6 b - - 5 26,b6a5 a6b8,2321,97,87,179,discoveredAttack mate mateIn1 middlegame oneMove,https://lichess.org/Jr4fkRHF/black#52,
+wSpLi,r4r2/p2R4/1p2p1p1/5pP1/2Npkn2/1P6/P7/1K2R3 b - - 3 35,e4d3 e1e3,2328,80,93,8357,endgame hookMate mate mateIn1 oneMove pin,https://lichess.org/VqWxGdcZ/black#70,

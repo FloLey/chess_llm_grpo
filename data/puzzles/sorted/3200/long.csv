@@ -1,0 +1,5 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+3GZDT,8/8/8/2P5/5r2/2K2pk1/8/5R2 w - - 2 48,f1g1 g3h3 c3d3 f3f2 g1d1 f4g4,3203,141,91,327,advancedPawn crushing defensiveMove endgame long rookEndgame,https://lichess.org/QZ5iyC5k#95,
+6pTyQ,2rq1rk1/p1pp3p/1p2p1P1/8/4B3/8/PPPQ1nP1/2KR3R b - - 0 18,f2d1 g6g7 f8f2 d2h6 g8f7 h6h5,3230,135,91,1232,advancedPawn advantage long middlegame,https://lichess.org/5nvuALXF/black#36,Dutch_Defense Dutch_Defense_Raphael_Variation
+fJIOp,r2r1b2/5Pk1/4N1p1/q3P3/3P1BQ1/2p5/6P1/q4RK1 b - - 2 39,g7f7 f4c1 f7e7 g4f3 a5e5 f3f7,3243,132,91,680,crushing discoveredAttack long middlegame,https://lichess.org/4Oqx6FxT/black#78,
+syQy9,8/p7/8/1k1P4/5P1p/1p1K3P/8/1B2b3 w - - 2 54,f4f5 b5b4 d5d6 e1c3 d3e4 b4c5,3223,121,92,782,bishopEndgame crushing endgame long quietMove,https://lichess.org/BsxT1Pzt#107,

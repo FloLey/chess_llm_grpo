@@ -1,0 +1,8 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+66h57,7k/5Q1p/p3p2R/P2p2r1/1ppn4/6q1/1P3RP1/6K1 b - - 1 31,g5g7 f7e8 g7g8 h6h7 h8h7 e8h5 h7g7 f2f7,2531,80,91,3339,attraction deflection endgame killBoxMate mate mateIn4 sacrifice veryLong,https://lichess.org/ZPS3s84F/black#62,
+9R0CX,r4r1k/pp3pR1/2pp4/4n1Q1/3qP2P/8/6P1/5R1K b - - 2 29,e5g4 g7g8 f8g8 g5h5 h8g7 f1f7,2578,86,93,2516,exposedKing killBoxMate long master mate mateIn3 middlegame sacrifice,https://lichess.org/oRFsPeJf/black#58,
+GOCKQ,r6r/p1p2kpp/1p3P2/8/2n2Q2/2PP4/q5PP/5RK1 b - - 0 20,h8f8 f4c7 f7e6 c7e7 e6d5 e7d7 c4d6 f1f5,2593,88,67,158,endgame killBoxMate mate mateIn4 pin veryLong,https://lichess.org/lP3iFGVX/black#40,
+Uiw9h,r7/1pp2k1R/p1np4/6Q1/3pP1b1/5qP1/PPP1N3/2KN1r2 b - - 2 23,f7e6 e2d4 c6d4 h7e7,2541,83,90,1579,killBoxMate mate mateIn2 middlegame sacrifice short,https://lichess.org/VW9gIbKq/black#46,
+cAKly,2r1rk2/1b1p1p2/q2Qp1p1/1pP5/5P2/7R/P5PP/R5K1 b - - 3 29,e8e7 d6e5 f7f6 e5f6 e7f7 h3h8,2539,96,91,1025,killBoxMate long mate mateIn3 middlegame,https://lichess.org/fyA1MONk/black#58,
+iVoMv,3r2k1/pR3ppp/1p2p3/8/4Q1NP/P1P2P2/1P1r2q1/1K5R w - - 0 32,h1h2 d2b2 b1c1 d8d1 c1d1 g2f1 e4e1 f1d3 h2d2 b2b1,2518,101,90,3047,attraction killBoxMate mate mateIn5 middlegame queensideAttack sacrifice veryLong,https://lichess.org/GyrI66S2#63,
+mDx8H,8/1q4p1/3p3p/p3p3/1r1pP3/5R2/8/2k1Q1K1 b - - 5 46,c1b2 e1d2 b2a1 d2c1 b4b1 f3a3,2546,82,92,2025,endgame killBoxMate long mate mateIn3,https://lichess.org/1OaBYoP2/black#92,

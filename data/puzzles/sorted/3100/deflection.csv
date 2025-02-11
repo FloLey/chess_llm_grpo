@@ -1,0 +1,7 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+2uO90,8/6R1/1k6/5K1p/1p3B1r/8/P7/8 w - - 0 38,f5g5 h4g4 g5f6 g4f4 f6e5 f4g4 g7h7 b6b5 e5d5 g4g5 d5d4 b5a4 h7a7 g5a5,3151,116,92,1688,crushing deflection endgame veryLong,https://lichess.org/MRMbHt5y#75,
+3XkuX,8/8/4pk1p/pp2r3/3K3P/PPP3R1/8/8 b - - 3 39,h6h5 g3g6 f6g6 d4e5 g6f7 e5d4 f7f6 c3c4 e6e5 d4d5,3153,125,90,298,crushing deflection endgame rookEndgame veryLong,https://lichess.org/p3MWTHLS/black#78,
+KA5kE,4kr2/1p3p2/3pq2p/p5r1/2PQPp2/PP6/5PPP/1R2R1K1 w - - 2 27,b1d1 e6h3 g1f1 f4f3 e1e3 g5g2 f1e1 g2f2 e1f2 h3g2 f2e1 f3f2 e1d2 f2f1q d2c3 f1f4,3195,125,92,3441,advancedPawn advantage attackingF2F7 attraction deflection discoveredAttack endgame kingsideAttack pin promotion sacrifice veryLong,https://lichess.org/GBr2Skjg#53,
+eP3kr,r1bN4/2N3pp/pk6/2b5/Q7/3q2P1/PP3P1P/R5K1 b - - 0 23,b6c7 a4a5 c7d6 d8f7 d6e7 a5c5 e7f7 c5c6,3151,139,90,468,crushing deflection exposedKing fork middlegame veryLong,https://lichess.org/HcFAZW9H/black#46,
+ju5QD,r1bq1rk1/pp3p1p/2p3pQ/2bpP3/8/3B4/PPP1N1PP/R4R1K b - - 3 15,f8e8 f1f7 g8f7 h6h7 f7e6 e2d4,3107,134,89,548,advantage attraction deflection kingsideAttack long middlegame sacrifice,https://lichess.org/vhQIovPn/black#30,Blackmar-Diemer_Gambit_Accepted Blackmar-Diemer_Gambit_Accepted_Ryder_Gambit
+meK95,1k6/pp1Q1pb1/2n1p1p1/P3P1Pp/1P2qP1P/2P2N2/5K2/8 b - - 1 31,e4f5 a5a6 b7a6 d7c6 f5f4 c6a6 f4e4 a6a4,3153,130,91,894,crushing deflection endgame veryLong,https://lichess.org/EfMJk0Nz/black#62,

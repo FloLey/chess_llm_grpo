@@ -1,0 +1,6 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+4Unew,k2r4/p1R5/N7/1p1pp3/8/1Pb5/P2qPQ1P/R4K2 b - - 0 24,c3a1 c7a7,745,82,100,323,endgame mate mateIn1 oneMove vukovicMate,https://lichess.org/ZkujoY3Z/black#48,
+6fpV7,8/5b2/3p3p/n3b3/4BN1k/1r3P2/7K/2B3R1 b - - 0 38,d6d5 g1g4,761,88,97,237,master mate mateIn1 middlegame oneMove vukovicMate,https://lichess.org/9zoCwQdW/black#76,
+DyGEf,1r6/p4Rpp/4p3/2k5/2n5/K7/P5PP/2R5 w - - 0 32,a3a4 b8b4,701,97,83,387,endgame mate mateIn1 oneMove vukovicMate,https://lichess.org/Kmiu72T4#63,
+EIkF9,5k2/5n2/4R1Kp/2r5/6P1/4P2P/8/5B2 w - - 0 53,e6f6 c5g5 g6h7 g5g7,770,106,93,705,endgame master mate mateIn2 short vukovicMate,https://lichess.org/MYahcztF#105,
+s8uN2,8/p6p/4N3/5p2/P1R5/5nkP/1r6/3R1K2 w - - 3 38,c4c3 b2f2,710,88,87,291,endgame master mate mateIn1 oneMove vukovicMate,https://lichess.org/EsENfZWx#75,

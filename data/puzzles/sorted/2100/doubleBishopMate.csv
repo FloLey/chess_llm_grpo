@@ -1,0 +1,7 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+7WMhh,r6k/1p2b2p/p1b1BN2/4B3/8/1P1p3P/P5r1/3n3K b - - 1 41,g2e2 f6e4 e7f6 e5f6,2199,79,95,2054,discoveredAttack doubleBishopMate master mate mateIn2 middlegame short,https://lichess.org/NlmKfkNC/black#82,
+DUTya,r1b2bk1/ppnn3p/3p2p1/2P5/1PP1p1Bq/P3Pp1P/1B3PP1/1R1Q1RK1 b - - 0 19,f3g2 d1d5 c7d5 g4e6,2164,87,95,3261,doubleBishopMate kingsideAttack mate mateIn2 middlegame sacrifice short,https://lichess.org/ttVJS6bO/black#38,
+IbhGt,4r3/pp3B1k/1bb3pp/8/2Q2Bp1/3P2Nq/PPP4P/R6K w - - 3 26,f7d5 e8e2 g3e2 h3f3 d5f3 c6f3,2108,64,93,188410,doubleBishopMate kingsideAttack long mate mateIn3 middlegame sacrifice xRayAttack,https://lichess.org/cTjkVmfl#51,
+MHY5R,8/Q6p/3p1kp1/4bb2/8/2P1B1qP/PP4P1/R6K w - - 1 30,e3g1 g3h3 g2h3 f5e4,2182,78,93,2649,doubleBishopMate endgame mate mateIn2 sacrifice short,https://lichess.org/dCcWX91Y#59,
+T58fx,rr4k1/2Q2p1p/6p1/3q4/2Bbp1b1/8/P4PPP/B3R1K1 b - - 1 30,d5c5 c7f7 g8h8 f7f6 d4f6 a1f6,2163,85,95,24434,doubleBishopMate long master mate mateIn3 middlegame sacrifice xRayAttack,https://lichess.org/Q9YxuQC3/black#60,
+XdmZO,3rR2k/1p4bp/p1nB2p1/8/3p4/1BPQ1r1q/PP3P2/4R1K1 b - - 1 27,g7f8 d3d4 c6d4 d6e5 f3f6 e5f6,2163,80,92,4573,doubleBishopMate kingsideAttack long mate mateIn3 middlegame sacrifice,https://lichess.org/aCv8f6Aw/black#54,

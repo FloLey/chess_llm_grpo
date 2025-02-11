@@ -1,0 +1,12 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+ILmI1,5b1k/p4p2/4pNp1/4P1P1/3PQ3/2r5/Pq3rP1/4R1K1 b - - 0 32,f2g2 e4g2 b2a3 g2f2,3165,127,91,343,advantage defensiveMove middlegame short,https://lichess.org/T1LY1lrR/black#64,
+JC7Ai,r4rk1/pRp2p2/1b5p/8/5NP1/3P1Q1K/2q4P/5R2 b - - 1 22,a7a5 f4d5 a8d8 b7b8,3137,107,93,653,advantage master masterVsMaster middlegame short,https://lichess.org/fN9Ao5iN/black#44,
+NiD5J,4rk1r/3R4/ppQ1pq2/2p3pp/P1P5/1PbRP1P1/5PP1/6K1 b - - 1 32,c3b4 e3e4 g5g4 c6c7,3104,144,88,1012,advantage master middlegame quietMove short,https://lichess.org/CGjVNLfw/black#64,
+QKmuE,3b1rk1/5pp1/n2q3p/p3pQ1P/4P3/2P1B3/B5P1/5R1K b - - 0 41,d6e7 f5g6 a6c7 e3c5,3132,109,92,1072,crushing master middlegame pin short,https://lichess.org/50hnZl1V/black#82,
+QexwA,6R1/p7/8/1KP5/8/P7/2r2kp1/8 w - - 5 47,a3a4 c2c1 b5a6 c1c5,3117,118,90,864,crushing endgame master rookEndgame short,https://lichess.org/0Yd1Fcpi#93,
+RrJvC,6k1/Q4pp1/P7/5q1p/8/2p4P/5PP1/1r3RK1 w - - 1 31,a7d4 b1f1 g1f1 f5c8,3103,124,88,558,crushing endgame short,https://lichess.org/9IXBD3xM#61,
+TPLUl,8/2R5/8/3p4/2pP1p1k/1p3P1b/1P4p1/6K1 w - - 0 69,c7g7 h3f5 g7b7 h4h3,3159,111,92,325,crushing defensiveMove endgame master quietMove short,https://lichess.org/NQgM5Iij#137,
+o3424,r3br1k/ppp2q2/5n1Q/3pPp2/3P1P2/3B4/PP5P/6RK b - - 0 26,f7h7 h6f8 f6g8 g1g3,3146,125,91,1146,crushing fork hangingPiece middlegame short,https://lichess.org/EfkGIHxS/black#52,
+pETI1,r2q1rk1/1bpnnpp1/pb1p3p/1p2pN2/4P2N/1B1PB3/1PP2PPP/R2Q1RK1 b - - 5 16,g8h7 e3g5 e7f5 g5d8,3101,122,89,1478,advantage middlegame short,https://lichess.org/i33UrzzI/black#32,Ruy_Lopez Ruy_Lopez_Classical_Variation
+qblpL,8/6Q1/3k1p2/1P6/2P4P/8/pq4PK/8 w - - 5 52,g7f8 d6e5 f8d8 e5e4,3135,141,90,1619,crushing defensiveMove endgame queenEndgame short,https://lichess.org/Ke3NZFzo#103,
+umxW1,Qn3rk1/p3ppbp/4b1p1/3p4/4n3/2N1BN2/Pq2PPPP/2R1KB1R w K - 2 14,c3e4 d5e4 e3d2 f8c8,3158,122,91,1008,advantage middlegame short,https://lichess.org/XfTaw3kE#27,Grunfeld_Defense Grunfeld_Defense_Russian_Variation

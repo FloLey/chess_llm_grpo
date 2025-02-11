@@ -1,0 +1,6 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+5B3ut,rrk2b2/1q1n4/4N1Q1/2p1P2p/5P1P/2n3P1/P6R/K1R3B1 w - - 0 39,e6f8 a8a2 h2a2 b7b2 a2b2 b8a8 g6a6 a8a6 b2a2 a6a2,2540,89,95,16069,arabianMate mate mateIn5 middlegame sacrifice veryLong,https://lichess.org/YbJE1bdw#77,
+fPvxJ,6k1/pp4pp/2pp2p1/2P3n1/2P5/3QP1qP/PP1B1rB1/R6K w - - 0 24,a1g1 g5f3 d3d6 g3g2 g1g2 f2f1 g2g1 f1g1,2524,92,94,13062,arabianMate exposedKing kingsideAttack mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/5lWRlx1u#47,
+pGGb5,6k1/2R3b1/3N2p1/4pnNp/8/3rP3/r5PP/1R4K1 b - - 1 29,d3d2 b1b8 g7f8 b8f8 g8f8 g5h7 f8g8 h7f6 g8h8 c7h7,2552,83,95,17917,arabianMate attraction exposedKing mate mateIn5 middlegame sacrifice veryLong,https://lichess.org/WwJgR0Df/black#58,
+wUL1J,6k1/2Q2pp1/1p3n2/P2p4/3P4/2P2n2/4r1rP/2R2N1K w - - 0 32,c7c8 f6e8 c8e8 g8h7 e8e3 g2h2 f1h2 e2h2,2510,79,91,9751,arabianMate defensiveMove master mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/8H4D8fDn#63,
+zIOWV,r5k1/2qbb2r/3pppQ1/pnp4N/1p2P1P1/P2PR3/BPP2PP1/5RK1 b - - 5 22,g8h8 e3h3 d7e8 g6g7 h7g7 h5f6 e8h5 h3h5 g7h7 h5h7,2540,104,95,21161,arabianMate discoveredAttack exposedKing kingsideAttack mate mateIn5 middlegame quietMove sacrifice veryLong,https://lichess.org/YnlFnFMq/black#44,

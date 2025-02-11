@@ -1,0 +1,7 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+3NmL7,8/pp1r2k1/7p/8/3q1p2/PQ1NpP2/1P4KP/4R3 w - - 2 35,b3c3 d4c3 b2c3 d7d3,588,88,100,408,advantage capturingDefender discoveredAttack endgame short,https://lichess.org/xbbHb4KH#69,
+6LyUQ,3qr3/pb2p1kp/1p2Npp1/2p5/8/P7/5PPP/R3R1K1 b - - 1 25,g7g8 e6d8 e8d8 e1e7,588,90,75,222,advantage capturingDefender discoveredAttack endgame short,https://lichess.org/IyouuyvD/black#50,
+TnOa7,2r2k2/p1n2ppp/1q2p3/8/1PQ1P3/P4P2/6PP/2R2K2 b - - 0 25,b6a6 c4a6 c7a6 c1c8,564,97,83,169,capturingDefender crushing discoveredAttack endgame short,https://lichess.org/rpkS3N8C/black#50,
+eNVbu,3r2k1/1p1P1pp1/4qb2/3Q3P/p7/P6P/KP1RB3/N1r5 b - - 2 32,d8d7 d5e6 f7e6 d2d7,536,100,92,1472,advantage capturingDefender discoveredAttack master middlegame short,https://lichess.org/tkG4l4DC/black#64,
+x2e2f,3r4/4k3/3q2p1/6P1/1p1N1P2/1QP5/P2K4/8 w - - 2 43,b3b4 d6b4 c3b4 d8d4,572,103,80,291,capturingDefender crushing discoveredAttack endgame short,https://lichess.org/QuBDCdp4#85,
+zdAwC,r3k2r/pp3ppp/4p3/8/3pqb2/5Q1P/PPP3K1/R4RN1 b kq - 1 22,f7f5 f3e4 f5e4 f1f4,575,95,83,154,advantage capturingDefender discoveredAttack middlegame short,https://lichess.org/3fkLZ6qa/black#44,

@@ -1,0 +1,2 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+nf2R3,2kr1b1r/Qp3ppp/4pn2/1B2qb2/8/2N1B3/PPn2PPP/2R3K1 b - - 3 16,c2e3 a7a8 e5b8 c3e4 e3c2 c1c2 f8c5 c2c5,2988,106,92,1349,discoveredAttack mate mateIn4 middlegame queensideAttack veryLong,https://lichess.org/xElYltjC/black#32,Caro-Kann_Defense Caro-Kann_Defense_Other_variations

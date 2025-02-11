@@ -1,0 +1,11 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+0qitQ,r7/PR6/8/8/1P3p2/3K2p1/7k/8 w - - 0 39,b4b5 f4f3 b5b6 f3f2 b7f7 h2h1 d3c3 g3g2 b6b7 a8a7 f7h7 h1g1 b7b8q a7h7 b8b1 f2f1q,3070,114,91,1566,advancedPawn crushing endgame promotion rookEndgame skewer veryLong,https://lichess.org/GQ0reJYA#77,
+3q8ln,r6r/p2nqkb1/1p1pBnp1/3Pp1B1/4P3/7Q/PP3PP1/R3K2R b KQ - 4 20,f7f8 h3h8 g7h8 h1h8 f8g7 h8a8 d7c5 a8g8 g7h7 g8c8,3035,107,86,285,crushing exposedKing middlegame skewer veryLong,https://lichess.org/2UUhisi8/black#40,
+EIYeJ,8/4R3/2p1p3/p1PkN3/1q1P4/5P2/PPK5/8 b - - 2 38,b4d4 e7d7 d5e5 d7d4 e5d4 a2a4 d4c4 f3f4 c4c5 c2c3 c5d5 b2b4 a5b4 c3b4 d5d4 a4a5 c6c5 b4a3,3001,109,87,224,crushing defensiveMove endgame quietMove skewer veryLong,https://lichess.org/kvf5kQc6/black#76,
+EPAkJ,r4rk1/4Rp2/p2P2R1/1p6/5b2/BQ3p1q/5P1P/7K b - - 0 30,g8h8 a3b2 h8h7 g6g3 f4g3 e7f7 h7g6 f7g7 g6h6 g7g3,3051,121,89,570,crushing exposedKing middlegame sacrifice skewer veryLong,https://lichess.org/NibnLzRC/black#60,
+OlHq5,4r2k/7p/2Q1p3/4Nr1q/3pR3/3P4/PPP2Pp1/1R4K1 w - - 0 33,f2f3 e8f8 c6e6 h5h1 g1f2 h1b1,3012,123,90,751,advantage exposedKing long middlegame quietMove skewer,https://lichess.org/QYoewt6p#65,
+gitqm,b3Q3/8/3K4/3p4/3k4/1p6/8/3q4 b - - 0 54,d1g4 e8a4 d4c3 a4g4 b3b2 g4f5 c3d2 f5b1,3030,115,81,269,crushing endgame fork skewer veryLong,https://lichess.org/0GICz0MX/black#108,
+krT5k,6kr/2p5/2q3Pr/pp1pQp2/3Pp3/PPP1P3/6R1/1NB2K2 w - - 3 36,c1b2 h6h1 f1e2 h1b1 b2c1 c6d7,3085,117,88,214,advantage defensiveMove long middlegame skewer,https://lichess.org/3SFn8a4F#71,
+lOMSe,3r1k2/pp4pp/4Q3/3P3q/3N4/8/PP2Kp2/R7 w - - 2 33,e2f1 h5h1 f1f2 h1a1 e6e2 f8g8 d4f5 a1c1,3004,125,89,1352,crushing endgame skewer veryLong,https://lichess.org/2yfmcy8c#65,
+qDtsI,2k1r3/pp5p/1q4p1/5p1P/1P2n3/P4Q2/3p1PP1/R2N1K1R w - - 1 25,h5g6 e4g3 f1g1 e8e1 g1h2 e1h1 h2g3 b6g6 g3f4 g6d6,3003,115,88,936,crushing middlegame pin skewer veryLong,https://lichess.org/WBEfW6rm#49,
+zHbJW,r1r5/1p2k1pp/p3b1q1/6p1/2pP4/P7/5RPP/R3Q2K b - - 0 28,c8d8 e1b4 e7e8 a1e1 a8b8 d4d5 d8d5 f2f8 e8d7 f8b8,3050,96,92,2056,clearance crushing exposedKing master middlegame pin skewer veryLong,https://lichess.org/l3aGm2qK/black#56,

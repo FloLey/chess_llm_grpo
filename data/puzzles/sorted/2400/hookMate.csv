@@ -1,0 +1,11 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+0f3zy,6k1/1R4pp/4pn1r/3pN3/3P1PK1/4P3/5r1P/4R3 w - - 7 40,g4g3 f6e4 g3g4 h6h4 g4h4 f2h2 h4g4 h7h5 g4f3 h2f2,2404,79,94,9496,attraction endgame hookMate master mate mateIn5 sacrifice veryLong,https://lichess.org/I87IMS2T#79,
+IvE49,r3nrk1/q2Nbp1p/1p2p1pP/pB1p2P1/P2Q4/2N1BP2/1Pb5/n4K1R b - - 1 22,e7c5 d4g7 e8g7 d7f6 g8h8 h6g7 h8g7 h1h7,2433,80,93,6391,advancedPawn attraction discoveredAttack hookMate kingsideAttack mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/60j62xTI/black#44,
+MXIs6,1nb3r1/R7/5R2/1kp1Nn2/1p3P1p/1P5P/5K2/8 b - - 11 51,f5d4 a7a5 b5a5 e5c4 a5b5 f6b6,2423,83,93,8271,attraction hookMate long mate mateIn3 middlegame sacrifice,https://lichess.org/cnoyDbbM/black#102,
+QjihW,6k1/1p3p2/p3p1p1/1b4P1/1b2NK2/8/B3qP2/3R3R b - - 1 28,b5c6 d1d8 g8g7 h1h7 g7h7 e4f6 h7g7 d8g8,2415,81,94,271,attraction hookMate master mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/qof0oeIl/black#56,
+WE4A6,r1b2k1r/ppp2Bp1/1b1qP3/6N1/3n2p1/6P1/PP3P2/RNBQ1RK1 w - - 0 18,b2b3 d6g3 f2g3 d4f3 g1g2 h8h2,2440,85,88,465,doubleCheck hookMate kingsideAttack long mate mateIn3 middlegame sacrifice,https://lichess.org/zjvPWBTk#35,Italian_Game Italian_Game_Classical_Variation
+Zadjk,2krNR1r/pp1n3p/2p1Q1p1/q3P3/3P4/2P5/P1P3PP/1R5K b - - 0 21,h8f8 e6c6 b7c6 e8d6 c8c7 b1b7,2489,83,94,8128,hookMate long mate mateIn3 middlegame queensideAttack sacrifice,https://lichess.org/AzfO69Xr/black#42,
+Zb1Oy,3Q4/k4p2/b3p3/p2pP3/2qP4/1pP2R2/1n2NRP1/1B2K2r w - - 1 37,e1d2 c4e2 f2e2 b2c4 d2d3 h1d1 e2d2 d1d2,2426,89,95,6169,fork hookMate master mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/mWYs9Amz#73,
+geqS1,8/8/P4p1p/3P2pk/2P2n2/2Qb1PKP/1P2r1n1/6R1 w - - 1 39,a6a7 g2e3 c3f6 e3f1 g1f1 e2g2,2439,80,91,640,endgame hookMate long mate mateIn3 sacrifice,https://lichess.org/icUL6dwb#77,
+pxIrp,5k1r/1pp1bp2/2p1bN2/4P1B1/2P5/rP6/3R1PP1/3R2K1 b - - 0 23,a3b3 g5h6 h8h6 d2d8 e7d8 d1d8 f8e7 d8e8,2444,82,92,6333,hookMate mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/IETlTlP1/black#46,
+zFsMt,3R4/pp2rkp1/n1p1pp2/8/1Pb1NP2/P4N1P/1K6/8 b - - 3 27,c4d5 e4g5 f6g5 f3e5 f7f6 d8f8 e7f7 f8f7,2478,79,92,3880,endgame hookMate mate mateIn4 sacrifice veryLong,https://lichess.org/XBE4SESD/black#54,

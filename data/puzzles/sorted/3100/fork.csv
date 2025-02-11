@@ -1,0 +1,13 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+4qNUf,rnb2rk1/pp5p/1q1Pp2p/5P2/1bB5/8/PB4PP/1R3Q1K b - - 0 18,b8c6 f1e2 f8f5 c4e6 g8f8 e6f5 c8f5 b1f1,3145,116,92,1566,crushing fork middlegame pin veryLong,https://lichess.org/La81qTKR/black#36,Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit
+9s14V,1k1r3r/p4qpp/1pP1p3/1Q6/P3Pn2/5P2/1R4PP/5RK1 b - - 0 26,f7h5 f1c1 h5b5 c6c7 b8b7 c7d8n h8d8 a4b5,3126,132,91,814,advancedPawn crushing fork middlegame promotion quietMove sacrifice underPromotion veryLong,https://lichess.org/DVbEMin9/black#52,
+MZqp4,5k2/p1q2r2/1pp2p2/3n3p/1P1P3b/P4K2/1BQ1RP2/6R1 w - - 2 40,c2g6 c7f4 f3g2 h4f2 g1f1 f2e3 f1f4 d5f4 g2f3 f4g6,3124,129,89,548,advantage exposedKing fork middlegame sacrifice veryLong,https://lichess.org/6hgI7mEp#79,
+YJWnn,1r3k2/5pRp/b2p1P2/2p1p3/4P3/qr1P1Q1P/1pP1K3/1R6 w - - 1 25,c2b3 a3b3 e2f2 b3c2 f3e2 c2e2 f2e2 b8b3,3129,150,89,1095,crushing endgame fork master veryLong,https://lichess.org/zSMPSvFs#49,
+Z5Ya2,3nr1k1/1b6/p2qp1NQ/1p1p4/2pPn3/2P3PP/PPBN2K1/4Rr2 w - - 0 30,e1f1 d6g3 g2h1 d8f7 h6f4 g3f4 g6f4 e4g3 h1g1 g3f1,3116,116,91,1716,advantage fork master middlegame veryLong,https://lichess.org/c90lEumm#59,
+bAVoh,r4rk1/ppB3pp/2npb3/2b5/2P1B1n1/P3PN2/1q1N1PPP/R2Q1RK1 w - - 3 14,f3g5 f8f2 f1f2 c5e3 a1b1 b2f6,3117,111,91,2278,advantage capturingDefender fork long middlegame pin sacrifice,https://lichess.org/GSfliaIF#27,Indian_Defense Indian_Defense_Budapest_Defense
+dFXCx,r2q4/4kr2/1nb4Q/1p1pP3/PbpP1P2/2N5/1B4PP/5RK1 b - - 0 25,d8g8 h6c6 f7g7 f1f2 g8e6 c6b5 b4c3 f4f5 e6h6 f5f6 e7f7 f6g7,3145,139,91,2294,advancedPawn advantage discoveredAttack exposedKing fork hangingPiece middlegame quietMove veryLong,https://lichess.org/Uh1P1Qw7/black#50,
+dxyjh,r3r3/6b1/p3k2p/qp1p3Q/2p1b1P1/P1PpP3/1P5R/1NK2R2 b - - 2 32,a5a4 h5f7 e6d6 f7g7 e8e7 g7d4,3100,120,88,708,crushing fork long middlegame,https://lichess.org/nE7cP29y/black#64,
+eP3kr,r1bN4/2N3pp/pk6/2b5/Q7/3q2P1/PP3P1P/R5K1 b - - 0 23,b6c7 a4a5 c7d6 d8f7 d6e7 a5c5 e7f7 c5c6,3151,139,90,468,crushing deflection exposedKing fork middlegame veryLong,https://lichess.org/HcFAZW9H/black#46,
+i4FXd,1k4rr/ppp5/5N2/1qB1ppp1/3p4/P5Pn/1PP2P2/R2QRK2 w - - 2 25,d1e2 b5c6 e2e5 h3f4 g3f4 c6f3 f6h7 d4d3 c2d3 f3d3,3101,133,89,1361,crushing fork middlegame quietMove sacrifice veryLong,https://lichess.org/BqgC2QhM#49,
+o3424,r3br1k/ppp2q2/5n1Q/3pPp2/3P1P2/3B4/PP5P/6RK b - - 0 26,f7h7 h6f8 f6g8 g1g3,3146,125,91,1146,crushing fork hangingPiece middlegame short,https://lichess.org/EfkGIHxS/black#52,
+pJplS,8/4k1p1/7p/p2BnP1K/1p5P/1P4P1/8/8 w - - 3 50,g3g4 e5d3 h5g6 d3f4 g6g7 f4d5 g4g5 h6g5 h4g5 d5b6 f5f6 e7e6,3129,119,91,1994,crushing endgame fork quietMove veryLong,https://lichess.org/VrezNRfY#99,

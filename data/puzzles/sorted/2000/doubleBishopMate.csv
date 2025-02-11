@@ -1,0 +1,6 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+3iMYv,5bk1/7p/bp2RBp1/p2B1p2/3n3P/PP4P1/5PKN/2r5 b - - 1 29,a6b7 e6c6 d4e6 d5e6,2010,82,95,29459,discoveredAttack doubleBishopMate kingsideAttack master mate mateIn2 middlegame short,https://lichess.org/NA5LUlLn/black#58,
+BTIqI,r4k1r/pb3ppp/2B2n2/4pqB1/Q1Pb4/2N3P1/PP3P1P/R2R2K1 w - - 1 16,g5f6 f5f2 g1h1 f2f3 c6f3 b7f3,2037,80,93,154990,doubleBishopMate long mate mateIn3 middlegame sacrifice xRayAttack,https://lichess.org/dByM65lZ#31,Horwitz_Defense Horwitz_Defense_Other_variations
+EDXa8,6k1/p4p1p/2p3p1/5b2/5b2/1BP3qP/PP2Q1P1/3r2BK w - - 0 30,e2d1 g3h3 g2h3 f5e4 d1f3 e4f3,2048,89,92,164226,doubleBishopMate endgame long mate mateIn3 sacrifice,https://lichess.org/RBsZVgFq#59,
+Z2ox7,r1b1kb1r/2qn1pp1/p2p3p/1p1Qp3/4P2B/1N6/PPP1BPPP/R3K2R b KQkq - 0 12,c8b7 d5e6 f7e6 e2h5 g7g6 h5g6,2089,82,93,158242,doubleBishopMate long mate mateIn3 middlegame sacrifice,https://lichess.org/IBSI7VtI/black#24,Sicilian_Defense Sicilian_Defense_Najdorf_Variation
+sqqFI,r4rk1/pbp3p1/1p2p1Q1/2b5/4nP2/2Pq2P1/PP4BP/R1B1R2K w - - 0 18,g2e4 d3f3 e4f3 b7f3,2014,89,92,163458,doubleBishopMate kingsideAttack mate mateIn2 middlegame sacrifice short xRayAttack,https://lichess.org/qhGK7OEd#35,Zukertort_Opening Zukertort_Opening_Queenside_Fianchetto_Variation

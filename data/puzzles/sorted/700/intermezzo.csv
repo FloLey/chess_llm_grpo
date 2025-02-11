@@ -1,0 +1,17 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+1LdgC,4r2k/pp3pRp/2p5/3p3P/3P4/2P2P2/PP3P2/3Kr1R1 w - - 1 28,g1e1 e8e1 d1e1 h8g7,744,94,95,1652,advantage endgame intermezzo rookEndgame short,https://lichess.org/iLB1AvGw#55,
+2iJ58,r1b1kb1r/p1p1qpp1/2p4p/3pp1n1/8/2PP1N2/PP3PPP/RNBQR1K1 w kq - 1 10,e1e5 g5f3 d1f3 e7e5,744,86,78,80,crushing intermezzo kingsideAttack opening short,https://lichess.org/UPI11EMT#19,Italian_Game Italian_Game_Anti-Fried_Liver_Defense
+9xllz,4Q3/3N1ppk/p3rq1p/1r1b4/1P6/8/5PPP/R3R1K1 b - - 9 27,e6e8 d7f6 g7f6 e1e8,774,84,93,535,advantage intermezzo master middlegame short,https://lichess.org/9Ifk9ets/black#54,
+H22Nr,r3kb1r/pp3ppp/2n1p3/3q4/3P4/5B2/PP3PPP/R1BQK2R b KQkq - 0 11,d5d4 f3c6 b7c6 d1d4,766,134,83,16,crushing intermezzo middlegame short,https://lichess.org/x5hOrxyy/black#22,Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack
+HNczg,r2q1rk1/ppp2ppp/3p1n2/4n1B1/6R1/2PB1Q2/PPP2PPP/R5K1 w - - 3 15,g5f6 e5f3 g2f3 d8f6,708,88,95,362,advantage intermezzo middlegame short,https://lichess.org/5R3OdaB0#29,Russian_Game Russian_Game_Three_Knights_Game
+JrC49,r6k/p4pp1/1pbp4/2p1r3/2P5/3B1q2/P1Q2PPP/R4RK1 w - - 3 20,g2f3 e5g5 g1h1 c6f3,734,80,93,463,intermezzo kingsideAttack mate mateIn2 middlegame short,https://lichess.org/2XJDccu3#39,
+MgI0u,r2qk2r/pp4pp/2p1bb2/4p3/2QR3P/2N5/PPP2PP1/2K2BNR b kq - 0 14,e6c4 d4d8 a8d8 f1c4,750,80,100,282,advantage intermezzo middlegame short,https://lichess.org/SQUEXrxX/black#28,French_Defense French_Defense_Alekhine-Chatard_Attack
+N0rDP,6k1/3r1p2/p3pP1p/1p1n1QpP/1P1P4/2r5/5PPK/1B2R3 b - - 6 33,e6f5 e1e8 g8h7 b1f5,788,79,97,291,endgame intermezzo mate mateIn2 short,https://lichess.org/00KMv3qn/black#66,
+aCewA,1r3rk1/p4pp1/1p6/2p1pb1p/2PpRq1P/P2Q1B1R/1PP3P1/5K2 w - - 6 24,e4f4 f5d3 c2d3 e5f4,755,107,60,32,advantage intermezzo middlegame short,https://lichess.org/4F5yajOv#47,
+ahK8f,2kr3r/1bpnq3/1p1b4/1P1pn1pp/8/1N1P1NP1/4PPB1/R1BQ1RK1 w - - 0 18,c1g5 e5f3 e2f3 e7g5,786,94,93,815,crushing intermezzo kingsideAttack middlegame short,https://lichess.org/uiBa23qD#35,English_Opening English_Opening_Anglo-Indian_Defense
+cs7FI,r4rk1/pppN1ppp/5q2/8/3n4/3P2PP/PPP1QP2/R3K2R b KQ - 2 17,d4e2 d7f6 g7f6 e1e2,796,85,91,648,advantage intermezzo middlegame short,https://lichess.org/kdtftTsb/black#34,Italian_Game Italian_Game_Other_variations
+fB2eY,r2qkb1r/ppp1pp1p/2n2p2/8/3P4/5B2/PPP2PPP/R1BQK2R b KQkq - 0 8,d8d4 f3c6 b7c6 d1d4,790,99,96,549,crushing intermezzo middlegame short,https://lichess.org/oxAep5b3/black#16,Nimzowitsch_Defense Nimzowitsch_Defense_Scandinavian_Variation
+gZRPO,r1bqk2r/1p3ppp/p1n2b2/3p4/8/P1N1PN2/1P3PPP/R2QKB1R w KQkq - 0 12,d1d5 f6c3 b2c3 d8d5,794,128,69,61,crushing intermezzo opening short,https://lichess.org/OQeJ2wu8#23,Queens_Gambit_Declined Queens_Gambit_Declined_Harrwitz_Attack
+obTnV,r3kb1r/pp2pppp/2nq1n2/8/3P4/2N2B2/PP3PPP/R1BQK2R b KQkq - 0 11,d6d4 f3c6 b7c6 d1d4,782,94,95,333,crushing intermezzo opening short,https://lichess.org/1o5hdsSS/black#22,Sicilian_Defense Sicilian_Defense_Alapin_Variation
+ppcBi,r4rk1/p1pq1pp1/2n2n1p/1B2p2P/1b1pP1P1/3Q1P2/2PB4/R3K1NR w KQ - 2 17,d2b4 c6b4 b5d7 b4d3 c2d3 f6d7,787,89,91,284,crushing exposedKing intermezzo long middlegame,https://lichess.org/CKt1R4kR#33,Kings_Pawn_Game Kings_Pawn_Game_Kings_Head_Opening
+zedEs,4rr1k/1p4p1/2qpQ2p/p4R2/5P2/2P3PK/PP5P/4R3 b - - 0 29,e8e6 f5f8 h8h7 e1e6,769,78,79,136,advantage endgame hangingPiece intermezzo queenRookEndgame short,https://lichess.org/ZiY5mOrV/black#58,

@@ -1,0 +1,11 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+1O0X1,2b1k2r/1p3p2/2pp4/2q1p1p1/1PP1P1n1/3Q2B1/2P1N1PP/r4R1K w k - 0 20,b4c5 a1f1 e2g1 h8h2 g3h2 g4f2,2082,82,92,4703,hangingPiece kingsideAttack long master mate mateIn3 middlegame smotheredMate,https://lichess.org/SvIvwQJh#39,
+3peVI,r5rk/1pp2pbn/p1n5/5NNQ/1P3P2/P4RK1/2q3PP/8 b - - 10 27,c2f5 h5h7 f5h7 g5f7,2044,84,100,160,deflection kingsideAttack mate mateIn2 middlegame sacrifice short smotheredMate,https://lichess.org/MW0jwJ8C/black#54,
+4KiYz,Q4b1B/4kp1p/4b1p1/1p6/4n3/8/PPP2qPP/RN2K2R w KQ - 0 17,e1d1 e6g4 d1c1 f8h6 b1d2 f2d2 c1b1 d2c1 h1c1 e4d2,2029,81,93,6040,mate mateIn5 middlegame sacrifice smotheredMate veryLong,https://lichess.org/aAp4LMOP#33,Scotch_Game Scotch_Game_Scotch_Gambit
+7eBEC,5r1k/2p3pp/8/8/P3n3/2BQ4/1PP2qPP/4R2K w - - 5 30,d3d4 f2f1 e1f1 f8f1 d4g1 e4f2,2040,90,91,6487,endgame long mate mateIn3 pin sacrifice smotheredMate,https://lichess.org/s89gQSGt#59,
+FPu0r,6k1/8/7p/8/P2Q1pnq/8/6PP/6RK w - - 36 60,d4f4 h4h2 f4h2 g4f2,2061,83,90,14114,endgame mate mateIn2 sacrifice short smotheredMate,https://lichess.org/70u61m6Z#119,
+IOAPa,2k2r2/3b2Q1/p3P3/1p5p/2p5/N2q3B/PP5P/1K2n2R w - - 4 35,b1a1 d3d1 a3b1 e1c2,2023,100,93,113,mate mateIn2 middlegame short smotheredMate,https://lichess.org/KLH2lqV7#69,
+JHx18,r1bq1rk1/1pp3pp/p1nb1n2/1B1N2N1/3Pp3/1Q6/PP3PPP/R1B1K2R b KQ - 0 11,a6b5 d5f6 g8h8 b3g8 f8g8 g5f7,2015,92,84,203,doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice smotheredMate,https://lichess.org/QOtowom9/black#22,Ponziani_Opening Ponziani_Opening_Ponziani_Countergambit
+gjW61,r1bqr2k/pp2nQbp/2n3p1/6NP/3p4/1B1PB3/PP3PP1/RN2K2R b KQ - 0 14,d4e3 f7g8 e7g8 g5f7,2052,76,96,1379,kingsideAttack mate mateIn2 opening sacrifice short smotheredMate,https://lichess.org/IN3eiVn0/black#28,Sicilian_Defense Sicilian_Defense_Alapin_Variation
+l0Vnj,2r3k1/pp3pb1/1q4p1/4P2p/1P1n1Pn1/P1N5/1Q4BP/4RRK1 w - - 1 26,c3d5 d4e2 g1h1 b6g1 f1g1 g4f2,2074,83,94,186522,doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice smotheredMate,https://lichess.org/eK7Afcqq#51,
+uLTca,2rq1rk1/pR4pp/3b1n2/n2NNp2/3P1B2/5P2/Q5PP/4R1K1 b - - 0 26,a5b7 d5f6 g8h8 a2g8 f8g8 e5f7,2098,86,92,149469,doubleCheck kingsideAttack long master mate mateIn3 middlegame sacrifice smotheredMate,https://lichess.org/Xulc4idH/black#52,

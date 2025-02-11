@@ -1,0 +1,3 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+8Rku9,2kr3r/pb4bp/1p4p1/2pPppq1/8/1BP5/PPQN1PPP/3R1RK1 b - - 0 18,b7d5 b3d5 d8d5 c2a4 d5d2 h2h4 g5f4 a4f4 e5f4 d1d2,3185,114,86,474,advantage capturingDefender clearance middlegame sacrifice veryLong,https://lichess.org/SHCIMFEw/black#36,English_Defense English_Defense_Other_variations
+bAVoh,r4rk1/ppB3pp/2npb3/2b5/2P1B1n1/P3PN2/1q1N1PPP/R2Q1RK1 w - - 3 14,f3g5 f8f2 f1f2 c5e3 a1b1 b2f6,3117,111,91,2278,advantage capturingDefender fork long middlegame pin sacrifice,https://lichess.org/GSfliaIF#27,Indian_Defense Indian_Defense_Budapest_Defense

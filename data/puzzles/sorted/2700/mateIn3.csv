@@ -1,0 +1,33 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+3FXTa,r3k2r/1bR2pp1/7p/1p5q/8/4PN2/5PPP/3Q1RK1 b kq - 0 19,b7f3 d1d6 h5g5 d6d7 e8f8 d7f7,2718,114,91,2246,long mate mateIn3 middlegame,https://lichess.org/1sqK0eHi/black#38,English_Opening English_Opening_Anglo-Scandinavian_Defense
+3kL4P,8/5pQ1/6p1/6k1/4q2p/6P1/5P1P/6K1 w - - 0 44,g7f7 e4b1 g1g2 h4h3 g2h3 b1f1,2758,112,89,1381,attraction endgame long mate mateIn3 queenEndgame,https://lichess.org/tN2a3tk1#87,
+6psXs,r1q4r/pbpR1pkp/1p2pNp1/5nQ1/2P2P2/8/PP2B1PP/5RK1 b - - 6 22,h7h6 g5g6 g7g6 e2h5 g6g7 d7f7,2736,96,91,2169,attraction long mate mateIn3 middlegame pin sacrifice,https://lichess.org/iUjZnhWt/black#44,
+9BHI3,8/Q1p1qkpp/8/8/2P1n1b1/3PK3/Pr4PP/R4B1R w - - 0 17,d3e4 e7g5 e3d4 g5d8 d4c3 d8d2,2725,88,73,331,long mate mateIn3 middlegame,https://lichess.org/RDhvkSoM#33,Scandinavian_Defense Scandinavian_Defense_Icelandic-Palme_Gambit
+A89m0,5r2/pp3k2/5p2/3Np2K/8/5Br1/PP3b2/R2RB3 w - - 1 34,h5h4 g3g5 e1f2 f8h8 f3h5 h8h5,2724,88,94,470,discoveredAttack long mate mateIn3 middlegame sacrifice,https://lichess.org/wYUPE4UE#67,
+Ab7Ym,r1b3nr/2ppk2p/p1p2p2/8/3P2Q1/P7/3BKPPP/7q b - - 3 17,e7d6 g4e4 h1h2 d2b4 c6c5 d4c5,2796,101,93,645,long mate mateIn3 middlegame,https://lichess.org/K1GkxeKP/black#34,Ruy_Lopez Ruy_Lopez_Exchange_Variation
+BqIaV,6k1/pb4pp/1p2q1n1/3pPP1Q/3P3B/1P3p1P/P1r4K/R6R w - - 1 26,h2g3 e6e5 d4e5 c2g2 g3f3 d5d4,2773,123,90,1000,discoveredAttack long mate mateIn3 middlegame sacrifice,https://lichess.org/dKxrQ27H#51,
+Bt4UH,r1b1k3/ppp2p1Q/2n3p1/3p4/1b2P1B1/2KP3N/PPP2q1P/RNB4R w q - 2 16,c3b3 f2c2 b3c2 c6d4 c2d1 c8g4,2716,105,91,1636,attraction exposedKing long mate mateIn3 middlegame sacrifice,https://lichess.org/XR0NKvBI#31,Kings_Pawn_Game Kings_Pawn_Game_Wayward_Queen_Attack
+CTQfs,2r1brk1/p1n3pp/2N5/2K5/1P1p1p2/3P1BN1/2P2PPP/2R4R w - - 0 31,g3e4 f8f5 c6e5 c7b5 c5d5 e8f7,2716,101,90,886,discoveredAttack long mate mateIn3 middlegame pin,https://lichess.org/2T3BNjAC#61,
+J57db,r4rk1/pb1nq3/1pp1ppB1/3n2Np/3B2PQ/P1P5/1PP4P/R4RK1 b - - 0 20,f6g5 g6h7 e7h7 h4g5 h7g6 g5g6,2719,95,87,684,deflection exposedKing kingsideAttack long mate mateIn3 middlegame sacrifice,https://lichess.org/Ufjsp03f/black#40,
+JiFaW,5rk1/pp3p1R/q7/3Pp1P1/2n1B3/2P2Q2/P2KNP2/8 w - - 5 30,d2c2 a6a2 c2d3 a2b1 d3c4 f8c8,2717,111,91,1828,long mate mateIn3 middlegame sacrifice,https://lichess.org/O35BpaUx#59,
+JlhRe,8/P5k1/3r4/5p2/1P3P1p/RR2P1Pp/4K2r/8 w - - 4 45,e2f3 d6g6 g3g4 g6g4 e3e4 g4g3,2724,116,90,493,endgame long mate mateIn3 rookEndgame,https://lichess.org/ct1jCpaq#89,
+KTthU,2kr4/R5p1/1pp5/5P2/4Q1P1/2PqBK1r/1P6/5R2 w - - 1 28,f3f4 d3d6 e4e5 d6h6 g4g5 h6h4,2706,106,91,1029,long mate mateIn3 middlegame,https://lichess.org/79MTBhSs#55,
+LY8jk,3r2k1/pp2Q1p1/2p1b2r/q7/3P2P1/2P1R3/P3RPP1/4K3 w - - 0 29,e3e6 h6h1 e1d2 d8d4 d2e3 a5c3,2711,86,91,317,deflection endgame long mate mateIn3 pin,https://lichess.org/PqtX8Op0#57,
+QCI75,3r4/ppk1b1pp/7q/2p2Q2/4p3/2P2nP1/PP3PNP/3R1K1R w - - 1 23,d1d8 h6a6 c3c4 a6c4 d8d3 c4d3,2750,93,92,561,long mate mateIn3 middlegame,https://lichess.org/EpvleVcb#45,
+T9Gaa,7k/1p1r3p/8/5NQ1/p7/P1P5/b1q1KP1P/6R1 w - - 0 33,e2f1 c2d3 f1g2 a2d5 f2f3 d3f3,2749,115,91,5582,dovetailMate endgame long mate mateIn3,https://lichess.org/gVNBGEWu#65,
+TBQ3n,3r4/1p3rpk/p7/3B4/2Qn4/2N3P1/PP2Pq2/R2K4 w - - 0 25,d5f7 f2g1 d1d2 d4b3 d2c2 b3a1,2708,101,88,201,doubleCheck long master mate mateIn3 middlegame,https://lichess.org/eDOUP8Sc#49,
+WUMyk,r5k1/1b1p1p1p/1q1p1Qp1/2pP2N1/2n5/1P6/P4PPP/4R1K1 b - - 1 23,a8f8 g5f7 f8f7 e1e8 f7f8 f6f8,2706,85,85,559,kingsideAttack long master mate mateIn3 middlegame sacrifice,https://lichess.org/uzfJGrsN/black#46,
+WW6YG,2r4r/1pkpPQ2/p2pN2b/2q1n2B/4P2p/1R6/P1P3PP/7K b - - 2 31,d7e6 e7e8q e5f7 e8e7 c7b8 e7b7,2734,98,91,1922,advancedPawn discoveredAttack fork long mate mateIn3 middlegame promotion,https://lichess.org/pfv1xeV7/black#62,
+Y0DWW,8/8/8/5KRk/5p2/5P1p/6Pr/8 b - - 1 61,h5h4 g2g3 f4g3 f5g6 g3g2 g5g4,2723,90,92,1414,endgame long master mate mateIn3 rookEndgame,https://lichess.org/ecc8JTJE/black#122,
+Y38w2,8/1p6/p3r3/5pp1/4q3/P3PkP1/1P1p1PQK/4R3 b - - 1 43,f3g4 g2h3 g4f3 g3g4 f3f2 h3f1,2712,94,92,2186,discoveredAttack endgame long mate mateIn3,https://lichess.org/x1B2GWQN/black#86,
+YBN2H,3k3r/pp1P2p1/6p1/P1Pp4/5q2/3B3r/2Q2PP1/R4RK1 w - - 1 24,g2h3 f4g5 g1h2 g5g4 f2f3 h8h3,2740,91,94,4379,endgame long mate mateIn3 pin,https://lichess.org/nWcQ44kR#47,
+gKcm1,1r4k1/4n3/6PR/1K1p1b2/2pb4/8/1B1Q4/3R4 w - - 6 37,b5a6 b8a8 a6b7 a8a7 b7b8 e7c6,2727,93,86,322,long mate mateIn3 middlegame,https://lichess.org/xKVHP3sB#73,
+lrjUw,r3r3/ppp3pp/3pN3/n2P1k2/6n1/5Q2/P4P2/q1B1R1K1 b - - 1 25,f5g6 e6f8 e8f8 f3g4 g6f7 g4e6,2762,104,95,12650,dovetailMate exposedKing long mate mateIn3 middlegame,https://lichess.org/4wJBxlvz/black#50,
+mbHTs,8/pp1kr3/2p1p3/3pP3/3Pq3/P1P5/1P3QRr/6RK w - - 0 39,h1h2 e4h7 h2g3 e7g7 g3f4 h7e4,2727,94,84,232,endgame exposedKing long mate mateIn3,https://lichess.org/jWKvHLFq#77,
+mcit9,5b1r/pr2nRpp/2B1p3/k3P3/8/1P2B3/P4PPP/nN4K1 b - - 2 21,b7c7 f7f4 e7c6 f4a4 a5b5 b1c3,2701,86,72,225,long mate mateIn3 middlegame sacrifice,https://lichess.org/qW7ZYv1Q/black#42,
+oCDfH,3r4/pkp1nppp/1pn5/1K1bP3/5P2/2P5/PP4PP/R1B3NR w - - 4 17,g1f3 d5b3 a2b3 d8d5 b5a4 d5a5,2737,92,94,2962,clearance long mate mateIn3 middlegame sacrifice,https://lichess.org/NJ4th6t4#33,Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation
+pPUCC,8/8/2p5/ppNp4/2kPb3/P1P5/1P1K4/8 b - - 3 37,a5a4 b2b3 a4b3 c5b7 b3b2 b7a5,2716,87,92,2170,endgame long mate mateIn3 quietMove,https://lichess.org/zwsmtk0M/black#74,
+qjHPZ,rn1r4/2b1kp2/p1q1pNp1/1p1pP3/4NP1Q/P7/1PP3PP/3R2K1 b - - 1 27,d5e4 d1d7 b8d7 f6d5 e7f8 h4h8,2765,121,90,392,doubleCheck long mate mateIn3 middlegame sacrifice,https://lichess.org/BRc8Tr78/black#54,
+sdFD7,8/1P4k1/2R1B1p1/2pPp2p/4Pq1K/1P1Q3P/6P1/7r w - - 4 48,g2g4 f4f6 g4g5 f6f4 e6g4 f4g4,2739,101,91,620,endgame long mate mateIn3 pin,https://lichess.org/kA8svRcz#95,
+u3ecG,r4rk1/pp3ppp/3p4/3PpPB1/1P1n2n1/P5P1/2P1Nq1P/R1QK1B1R w - - 3 20,h2h3 f2e1 d1e1 d4f3 e1d1 g4f2,2715,117,91,1428,attraction long mate mateIn3 middlegame sacrifice,https://lichess.org/vXyD4uNz#39,
+vlPld,2rr4/1bqkb3/p7/1p3QP1/2P5/1PN1Bp2/P6P/6K1 b - - 4 30,d7d6 c3b5 a6b5 e3f4 d6c6 f5b5,2743,88,94,1356,exposedKing intermezzo long mate mateIn3 middlegame sacrifice,https://lichess.org/149byQey/black#60,

@@ -1,0 +1,8 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+2sar5,2k3rr/pp6/2pp4/6Q1/3PB3/4P2p/PPP3p1/R4R1K w - - 0 27,h1h2 g2f1n a1f1 g8g5,1357,82,87,1773,advancedPawn advantage endgame promotion short underPromotion,https://lichess.org/tL25ZkPE#53,
+EUzfL,6k1/2q1P2p/6n1/p2B4/5rP1/6K1/PP1Q4/8 b - - 0 36,g8g7 e7e8n g7f8 e8c7,1337,82,85,214,advancedPawn crushing endgame fork promotion short underPromotion,https://lichess.org/wyEY2D4g/black#72,
+HYSIq,7r/3RP3/1p3k2/1p4pr/2n2p2/2P2PB1/P5P1/4R1K1 b - - 0 36,f4g3 e7e8n h8e8 e1e8,1386,85,90,7062,advancedPawn crushing endgame master promotion short underPromotion,https://lichess.org/yIrLIuTv/black#72,
+QSNRY,8/2R3P1/7k/3P1K2/8/1rp5/p7/8 b - - 0 50,a2a1q g7g8n h6h5 c7h7,1327,82,81,1135,advancedPawn endgame mate mateIn2 promotion short underPromotion,https://lichess.org/qb47ebGE/black#100,
+WY33V,6k1/1p3p2/p3b2p/4Q3/1P1B4/P2P3P/2rq1pP1/R5K1 w - - 0 31,g1h2 f2f1n h2g1 d2g2,1337,437,18,1,advancedPawn discoveredAttack endgame mate mateIn2 promotion short underPromotion,https://lichess.org/ZYHJrMWR#61,
+ohpOu,r2qr1k1/7p/2p2Pp1/1p6/3P4/2P5/3Q2PP/R4RK1 b - - 0 24,a8a1 f6f7 g8g7 f7e8n,1343,85,87,4366,advancedPawn crushing endgame fork promotion short underPromotion,https://lichess.org/q7LBvusE/black#48,
+tPcvc,6k1/pp4Pp/7b/2r5/3p4/1PP1p3/1P2Q1RP/2K5 w - - 0 35,c3c4 d4d3 e2d3 e3e2 c1c2 e2e1n c2c3 e1d3,1358,86,92,11334,advancedPawn advantage discoveredAttack endgame fork promotion underPromotion veryLong,https://lichess.org/fVV1syOd#69,

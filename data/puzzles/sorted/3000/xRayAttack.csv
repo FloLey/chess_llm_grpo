@@ -1,0 +1,6 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+AJnFn,4k3/6p1/2R4p/1p3br1/1P6/P1N2PqP/6P1/6QK w - - 1 35,c3b5 f5h3 c6c2 g5h5 g1e3 e8f8 h1g1 h5e5 e3f2 e5e1 f2e1 g3e1,3063,120,91,2066,crushing endgame fork pin veryLong xRayAttack,https://lichess.org/kcMmY673#69,
+E1XTD,5Q2/4r1pk/2pqPp1p/1p3P1P/p2Pb3/P3B3/1P4P1/5RK1 w - - 6 34,e3h6 h7h6 f1f2 h6h7 h5h6 g7g6 f5g6 e4g6,3091,130,91,708,advantage endgame hangingPiece veryLong xRayAttack,https://lichess.org/Ell24UHk#67,
+T6QLX,2r4k/5npp/R4r2/8/1PB1q3/2Q1p3/1B5P/4K2R w K - 11 31,h1g1 f7e5 a6f6 g7f6 c4d5 e5f3 e1f1 e4b1 b2c1 b1c1 c3c1 c8c1,3035,102,92,630,crushing exposedKing fork middlegame veryLong xRayAttack,https://lichess.org/mGTyF9G2#61,
+YneeD,6k1/pQ3p2/2pq3p/6p1/6R1/2P3PP/PP3P1K/4r3 w - - 0 27,g4d4 d6f6 b7c8 g8h7 f2f4 f6g6 c8d7 g5f4 g3g4 g6c2 d4d2 e1e2 d2e2 c2e2,3041,130,91,1480,crushing defensiveMove endgame quietMove veryLong xRayAttack,https://lichess.org/Acri84xa#53,
+sA2mJ,r4rk1/p7/1p1p2pQ/2p1p3/2P1R3/P2P2PP/1P3q2/1R5K b - - 0 23,f2g3 e4e3 f8f3 b1g1 g3h3 h6h3 f3h3 e3h3,3007,131,87,530,crushing endgame veryLong xRayAttack,https://lichess.org/Tj6Espht/black#46,

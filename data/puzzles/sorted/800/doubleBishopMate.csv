@@ -1,0 +1,844 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+00FjB,rnbk3r/pppp1Bpp/8/5p2/4p3/2PP4/P1P2PPP/R1B1K2R b KQ - 0 13,h8f8 c1g5,885,146,59,200,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/r1BPO2dx/black#26,Bishops_Opening Bishops_Opening_Boden-Kieseritzky_Gambit
+05mPT,r1b1k1nr/ppp2p2/2qp2p1/3NN1p1/4P3/1P6/1PPP1bPP/R1BK3R w kq - 0 13,e5c6 c8g4,884,117,75,380,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/vv5SQa2r#25,Vienna_Game Vienna_Game_Stanley_Variation
+07F8Y,rnb1kb1r/pp3ppp/2p5/8/2P2q2/4PN2/PP1B2PP/R2Q1BKR w kq - 0 13,e3f4 f8c5 f3d4 c5d4 d2e3 d4e3,855,90,86,669,doubleBishopMate kingsideAttack long mate mateIn3 opening,https://lichess.org/toDHbL4c#25,Indian_Defense Indian_Defense_Budapest_Defense
+0DL2F,k7/p4p2/Bp5p/8/2P1b1n1/2q3Q1/P2b2P1/K2R4 w - - 4 37,g3c3 d2c3,861,166,57,72,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/AwOgQvsT#73,
+0E1ni,rnb2r1k/pp5p/2pP2p1/4p3/2B2Q2/P1B5/1P3P1P/R3K3 b Q - 0 22,f8f4 c3e5 f4f6 e5f6,857,109,81,510,doubleBishopMate fork mate mateIn2 middlegame short,https://lichess.org/jzk4Z86m/black#44,
+0FSCf,2r3k1/1BB2ppp/4bn2/1p6/8/6P1/PP2Pb1P/R6K w - - 0 21,b7c8 e6d5 e2e4 d5e4,831,87,91,1628,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/2smB4w6M#41,
+0FpXd,2r4k/1b4pp/4B2Q/pqBp4/1Pn5/8/5PPP/3R2K1 b - - 0 30,g7h6 c5d4 c4e5 d4e5,866,85,83,514,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/elYoFfOQ/black#60,
+0IdCa,6k1/5pbp/1Bp3p1/P2r4/4p3/2Pb4/5PPP/1rRBK2R w K - 4 23,c1b1 g7c3,833,81,90,479,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/wzqmpUZr#45,
+0KGte,2kr3r/Bppnqpp1/3b1n1p/3Pp3/2B3b1/2P2N2/PP1N2PP/R2Q1RK1 b - - 0 13,b7b6 c4a6,863,100,54,112,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/6srngxQx/black#26,Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Blackmar_Gambit
+0KvZ5,3rk2r/Q1p1pp1p/2b2p1b/8/8/2N3P1/PPP1N2P/5BK1 w k - 1 17,a7c7 h6e3,807,91,95,580,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/LgjohG69#33,Blackmar-Diemer_Gambit_Accepted Blackmar-Diemer_Gambit_Accepted_Ryder_Gambit
+0O47h,3r1r1k/2R2B1p/1p1P2p1/p3bp2/P3p3/1P1RP1BP/5PP1/6K1 b - - 0 33,e4d3 g3e5,873,95,100,94,doubleBishopMate endgame hangingPiece kingsideAttack mate mateIn1 oneMove,https://lichess.org/yz4966uK/black#66,
+0SGDa,8/2R5/3Pbkpp/3B1p2/8/6P1/4rb1P/5N1K w - - 6 39,d6d7 e6d5,856,85,87,360,doubleBishopMate endgame hangingPiece master mate mateIn1 oneMove,https://lichess.org/DUiQwqNt#77,
+0cYcZ,8/3k3p/R2b4/8/6PP/3b3K/5P2/8 w - - 3 46,a6a5 d3f1,851,94,78,1715,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/awJrKLlc#91,
+0d32M,7k/ppp3pp/3q1P2/8/2B4n/1PQ1Pn1P/PB3P2/5K2 b - - 2 27,g7f6 c3f6 d6f6 b2f6,859,96,80,549,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/1DUmogxR/black#54,
+0e7kY,rn3r1k/6pp/p4R2/1p5q/3Q4/1BB2b1P/1P3PP1/R5K1 b - - 0 22,g7f6 d4f6 f8f6 c3f6,856,101,82,870,doubleBishopMate mate mateIn2 middlegame sacrifice short,https://lichess.org/MFHsCiZY/black#44,
+0s5rR,8/6p1/p2p2bk/2br4/2P2P2/1P6/P6P/3R3K w - - 0 51,c4d5 g6e4,884,115,100,37,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/GanGbKt3#101,
+0ywZf,8/1N2k2p/2B2p2/2P3p1/pP6/P2bb1P1/1B5P/7K w - - 0 36,c6a4 d3e4,836,140,86,194,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/vJfGoO7c#71,
+156n6,rkb2R2/pp4b1/2p3B1/6Bp/2P4P/8/PP4P1/2K4n b - - 0 20,g7f8 g5f4 f8d6 f4d6,807,102,93,800,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/MJA2YUdI/black#40,
+15ivF,6r1/p1p2k2/1bp2r2/4P3/4N2p/P1PP2P1/1P2b2P/1RB4K w - - 0 25,e4f6 e2f3,899,105,89,963,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/W0Pm8M6q#49,
+162iU,7k/pb5p/1p3qp1/3pP3/1P6/P2Bb1P1/1BP4P/7K w - - 0 28,e5f6 d5d4 d3e4 b7e4,862,88,94,1072,bishopEndgame discoveredAttack doubleBishopMate endgame mate mateIn2 short,https://lichess.org/QJvICpFT#55,
+1AS87,r4r1k/1p5p/3BB1p1/2pP4/2P5/5PN1/p1nK2P1/Rb6 b - - 0 29,c2a1 d6e5 f8f6 e5f6,858,98,87,582,doubleBishopMate fork mate mateIn2 middlegame short,https://lichess.org/0by2oLit/black#58,
+1F4wB,rnb5/3p1k2/3P3p/pp3Bp1/1P3pP1/2P1b3/1B5P/R3R2K w - - 0 26,b4a5 c8b7 f5e4 b7e4,836,92,89,358,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/VwE4wJSk#51,
+1LKX5,6k1/pp5p/2p1b1p1/4Pp2/8/1PB5/P1P2bPP/3B3K w - - 0 25,g2g3 e6d5 d1f3 d5f3,851,90,83,399,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/bes1cgWE#49,
+1Lh8u,r2qr2k/1p1b3p/p2P1Q2/3B4/8/2B5/PP4PP/R5K1 b - - 0 23,d8f6 c3f6,805,91,90,602,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/dZLXytmj/black#46,
+1NG9b,r2qk2r/pp1n1ppp/2p1p3/2PpNb2/3P1P1b/PP4n1/3NP2P/R1BQKB1R w KQkq - 0 11,h2g3 h4g3,864,99,95,354,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/vew2sv4w#21,Queens_Pawn_Game Queens_Pawn_Game_Symmetrical_Variation
+1PWNa,2kr1bnr/Bppqp1pp/8/3pnb2/8/P1P4P/1P3PP1/RN1QKBNR b KQ - 0 9,b7b6 f1a6,808,82,90,452,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/2waWJmzn/black#18,Nimzowitsch_Defense Nimzowitsch_Defense_Scandinavian_Variation
+1S93K,b3k3/4bppp/B2Bp3/3n4/P3N3/5P2/6PP/6K1 b - - 2 32,e7d8 a6b5 a8c6 b5c6,812,79,89,552,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/LNhmvkHe/black#64,
+1UGKM,r4r1k/pp5p/1n4p1/8/4P1b1/1Bn1B3/P1P2PP1/1R3K2 b - - 1 25,c3b1 e3d4 f8f6 d4f6,833,92,86,435,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/70gvAflY/black#50,
+1XVlN,5B2/1p1B3p/k5p1/P2P1n2/1P3Pb1/8/4Nb1P/2R4K w - - 3 38,f8c5 g4f3,897,91,81,3001,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/LQacKvJ4#75,
+1cpHU,r4r1k/1ppb3p/p7/6N1/2B2B2/1N3nP1/PP3bK1/R7 b - - 0 26,f3g5 f4e5 f8f6 e5f6,841,79,96,2590,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/DduX2jQa/black#52,
+1jTUj,r2bk2r/1p3ppp/1p1Bpn2/3p3b/3P4/2PB3P/PP3PP1/R3K1NR b KQkq - 2 14,f6e4 d3b5,857,127,72,220,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/0T4WUhXI/black#28,Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation
+1jtx9,rn3r1k/p5pp/2p5/3P4/2Q3bB/1PP3N1/5b1P/4R2K w - - 0 26,e1f1 g4f3,864,101,78,395,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/rdACVPmR#51,
+1lMUK,rn2k2r/ppq1bppp/2p1p3/2P4b/3PpP2/1Q2PN1P/PP4P1/R1B1KB1R w KQkq - 0 13,f3d2 e7h4 g2g3 h4g3,843,86,95,813,doubleBishopMate master mate mateIn2 opening short,https://lichess.org/m0sH9BBf#25,Slav_Defense Slav_Defense_Other_variations
+1nhDC,2r4k/p6p/6p1/8/4P1P1/1Bp1B1bP/P2p4/6K1 b - - 1 36,c3c2 e3d4 g3e5 d4e5,856,109,79,743,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/YMpe2JdP/black#72,
+1suYN,5r2/Q3bkpp/4n3/4P3/8/8/PPpNb1PP/R1B3KR w - - 0 19,a7a4 e7c5 a4d4 c5d4,867,99,64,750,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/gd7kLF4B#37,Danish_Gambit Danish_Gambit_Other_variations
+1zV3x,2q2rn1/1b5k/p3P2p/1p1rBQ2/1Pp5/P4P1P/7K/1BR1R3 b - - 0 37,f8f5 b1f5,801,94,90,428,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/kUoJBcfJ/black#74,
+24qw6,3rr2k/1p5b/p6p/P7/5p2/BB5P/P3p1P1/4K3 b - - 0 38,h7g8 a3b2 h8h7 b3c2 d8d3 c2d3 e8e4 d3e4,842,90,75,1814,doubleBishopMate endgame exposedKing mate mateIn4 veryLong,https://lichess.org/BYUnJiuR/black#76,
+25UEH,8/b3k1pp/b3p3/1p3p2/5P2/2P2BP1/PP5P/R2R3K w - - 0 26,f3e2 a6b7 d1d5 b7d5 e2f3 d5f3,844,90,94,1023,doubleBishopMate endgame long mate mateIn3,https://lichess.org/2i1xQZPc#51,
+26eJU,r5k1/pbp3p1/1pqp3p/4pr2/2P5/5PPB/PP3b1P/R1BQ1R1K w - - 1 18,h3f5 c6f3 d1f3 b7f3,888,103,65,522,doubleBishopMate fork mate mateIn2 middlegame short,https://lichess.org/U4yqP1nz#35,English_Opening English_Opening_Kings_English_Variation
+29NjF,r6k/2R4p/p5p1/1p1Bb3/bB2PP2/6K1/6PP/8 b - - 0 30,e5c7 b4c3 c7e5 c3e5,868,101,68,1598,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/dGwoy8Eh/black#60,
+2IGs4,2k5/1pp5/p1b1p3/4P3/6N1/2N1bn2/PP4PP/R6K w - - 1 28,g2f3 c6f3,836,139,79,283,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/T8qke5r9#55,
+2JN7A,r1b1kbnr/pppp2pp/2n5/5pB1/3Pp3/2P5/PP1NBPPP/RN3RK1 b kq - 1 9,h7h6 e2h5 g7g6 h5g6,864,85,89,682,doubleBishopMate mate mateIn2 opening short,https://lichess.org/E1B9KVcN/black#18,Center_Game Center_Game_Other_variations
+2O8Lo,r4r1k/ppp2p1p/1b6/3PP1pN/2B2p2/8/PPbB2PP/R4R1K w - - 0 21,g2g3 c2e4 f1f3 e4f3,804,77,97,2963,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/smd7seaA#41,
+2Qnes,r1bq1r1k/1p1pn2p/p1n5/4Qpp1/2B5/2N3B1/PPP2PPP/R3K2R b KQ - 3 14,c6e5 g3e5 f8f6 e5f6,870,101,64,304,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/0Ybyr9Wq/black#28,Sicilian_Defense Sicilian_Defense_Taimanov_Variation
+2VuRo,r1b2bkr/ppp3pp/2n5/3B4/3p4/8/PPP2PPP/RNB1K2R b KQ - 0 10,c8e6 d5e6,880,144,62,273,doubleBishopMate hangingPiece kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/5c4K33ka/black#20,Italian_Game Italian_Game_Two_Knights_Defense
+2g5Xz,r2qk2r/ppp1bppp/8/2nP4/4QPb1/7P/PPPP2P1/R1B1KBNR w KQkq - 1 10,e4c4 e7h4 g2g3 h4g3,875,83,87,2304,doubleBishopMate mate mateIn2 opening short,https://lichess.org/ElisMEIp#19,Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit
+2jUIk,1N5k/pp2BB1p/6p1/8/3bb1P1/2n4P/P4R1K/8 b - - 4 37,d4f2 e7f6,819,138,100,68,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/8URiTvjO/black#74,
+2lH2P,r4r1k/bpp1R2p/p3B1p1/P4n2/5B2/2P5/1P3PPP/5RK1 b - - 12 24,f5e7 f4e5 f8f6 e5f6,849,86,89,550,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/YDfl1Mfq/black#48,
+2mUm2,3r1r1k/pp5p/2n3p1/1bp5/3RPB2/P4PP1/BP4KP/R7 b - - 0 24,c6d4 f4e5 f8f6 e5f6,860,94,82,372,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/ikOWDX1i/black#48,
+2nWNh,2b3nr/4kppp/p7/4B3/8/2P3P1/PP2Pb1P/RN1R3K w - - 0 24,e5g7 c8b7 d1d5 b7d5 e2e4 d5e4,810,83,88,580,doubleBishopMate long mate mateIn3 middlegame,https://lichess.org/guiK5Vg4#47,
+2r2Aj,4k3/3p1pb1/p3pq2/5p2/4bPpP/1Nr3P1/PP1Q4/K3R3 w - - 0 30,b2c3 f6c3 d2c3 g7c3,865,106,83,467,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/8cY7NwsT#59,
+33LAh,7k/4b1pp/8/B1pB4/2P5/1b4P1/5P2/6K1 b - - 1 33,g7g6 a5c3 e7f6 c3f6,801,92,58,61,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/QIw5GPOK/black#66,
+33PpE,5rk1/p4p1p/1p2b1p1/2b1P3/4BP2/N2r2P1/nP5P/R3B2K w - - 0 24,e4d3 e6d5 d3e4 d5e4,843,77,100,350,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/P2zcf3nR#47,
+37u9X,1r2kb1r/pbB1pppp/B7/8/3P4/8/PP3P1P/R3K1R1 b Qk - 0 14,b8c8 a6b5 b7c6 b5c6,812,87,92,1783,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/dnRTjsu9/black#28,Scandinavian_Defense Scandinavian_Defense_Modern_Variation
+3CBKE,8/3bk2p/3p2p1/1P3pN1/8/4b3/2B3PP/R3B1K1 w - - 0 33,g1f1 d7b5 c2d3 b5d3,834,92,81,587,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/ydiPyrNz#65,
+3DVo2,rn3rk1/ppp1bppp/8/3P4/5Pb1/8/PPPN2PP/R1B1KB1R w KQ - 1 11,h2h3 e7h4 g2g3 h4g3,883,98,79,916,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/qKQ0cCo2#21,Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit
+3GfRo,2r1r2k/1pn3pp/1pnR1Q2/7q/1PB1p3/P3P3/1B3PPP/3R2K1 b - - 0 31,g7f6 b2f6,856,103,79,716,doubleBishopMate kingsideAttack master mate mateIn1 middlegame oneMove,https://lichess.org/kzHfxrtQ/black#62,
+3ITKX,1r5k/pp2R2p/5bp1/2P2p2/2B1p3/4P3/P4PPP/4BK2 b - - 6 23,f6e7 e1c3 e7f6 c3f6,855,88,88,443,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/C0ibZ7m0/black#46,
+3KB8D,rkb4N/pp1p2pp/5n2/2p5/4n3/PqBB4/1P3PPP/R1K4R b - - 3 20,d7d5 c3e5 e4d6 e5d6,839,82,91,667,doubleBishopMate mate mateIn2 middlegame queensideAttack short,https://lichess.org/1ldcr4Ab/black#40,
+3KGES,r7/ppp2pk1/7p/8/2pN1P2/2Pbb3/PP4PP/R2R3K w - - 4 25,g2g3 d3e4 d4f3 e4f3,838,77,98,1940,doubleBishopMate endgame kingsideAttack mate mateIn2 short,https://lichess.org/oCkjiKsO#49,
+3KfQy,1k3r2/8/pnp5/1p1pP3/3P2B1/BPP5/P1bb4/K6R w - - 8 42,a3f8 d2c3,872,94,83,392,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/EFc5DUPF#83,
+3KshJ,r1bk3r/pppp1Bpp/8/8/8/P1PP1K2/2P4P/R1B4n b - - 0 15,h8f8 c1g5,846,103,75,338,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/lTAOedIE/black#30,Vienna_Game Vienna_Game_Max_Lange_Defense
+3S8wC,r1bq3k/pp3B1p/6p1/8/5B2/6P1/PQ2rP1P/R4RK1 b - - 0 18,e2b2 f4e5 d8f6 e5f6,823,93,93,555,doubleBishopMate fork mate mateIn2 middlegame short,https://lichess.org/vHLed5wH/black#36,English_Opening English_Opening_Great_Snake_Variation
+3SEOr,2R1r2k/1p5p/p5p1/3B4/5B1q/1P2P1nP/P5P1/4b1K1 b - - 1 32,e8c8 f4e5 h4f6 e5f6,833,147,78,211,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/qO6WjGc6/black#64,
+3XPHd,2kr1bnr/Bppq2pp/5p2/4p3/2B1P3/2NP1Q2/PPP3PP/R5K1 b - - 0 12,b7b6 c4a6,841,79,90,778,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/zifkun7r/black#24,Vienna_Gambit_with_Max_Lange_Defense Vienna_Gambit_with_Max_Lange_Defense_Other_variations
+3XVr8,r4rk1/1b2np1p/1p2p1p1/2p5/p2bPPPQ/P5N1/BPP4P/R1B2q1K w - - 0 20,g3f1 b7e4,864,108,59,333,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/1sM89EKm#39,
+3jJGd,r3kb1r/pp1b2pp/1q2p3/3n1pB1/3N4/2P2B2/PPQ3PP/R4RK1 b kq - 0 15,h7h6 f3h5 g7g6 h5g6,841,112,96,233,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/N7A84v31/black#30,French_Defense French_Defense_Tarrasch_Variation
+3nOg2,2r1rk2/3pnppB/p1b1q3/1p6/3R4/4B1R1/PP2QPPP/6K1 b - - 12 29,g7g6 e3h6,823,86,70,158,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/zYuufYpH/black#58,
+4CBns,6k1/5ppp/p7/1p3b2/5P2/5BP1/PPPBrb1P/RN5K w - - 3 21,f3e2 f5e4 e2f3 e4f3,862,89,82,359,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/YLOXQiic#41,
+4E1N0,r3rnk1/pp4b1/3p1q2/2p4R/2P5/1PN1PN2/P1bB1QP1/K2R4 w - - 1 23,d1h1 f6c3 d2c3 g7c3,858,107,82,1163,doubleBishopMate mate mateIn2 middlegame sacrifice short,https://lichess.org/alg6051J#45,
+4M5UE,r1b3nr/pppp2bk/2n4p/5p2/2Bp2P1/8/PPP4P/RNB2K1R b - - 0 14,f5g4 c4d3,890,84,75,388,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/2hfwQV5Q/black#28,Scotch_Game Scotch_Game_Other_variations
+4fhR6,Q4rk1/p2b1pp1/4p2p/1pb1P3/2p5/2Pp2P1/PP5P/RNB2R1K w - - 0 17,a8a7 d7c6 f1f3 c6f3,853,84,81,3128,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/hU4oiB37#33,Mieses_Opening Mieses_Opening_Other_variations
+4p7r0,r1bqkb1r/pp1np2p/2pp1p2/6Nn/3P3B/4P3/PPP1BPPP/RN1QK2R b KQkq - 0 8,f6g5 e2h5,832,83,78,382,doubleBishopMate hangingPiece mate mateIn1 oneMove opening,https://lichess.org/t2xTF1TI/black#16,Queens_Pawn_Game Queens_Pawn_Game_Other_variations
+4rgU7,N1b3n1/pp2kp2/8/n2Pp2p/2B5/8/PPPP1bPP/R1BK3R w - - 1 14,c4b3 c8g4,869,82,100,139,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/Kpz5IddB#27,Vienna_Game Vienna_Game_Stanley_Variation
+4rykF,5bk1/p6p/2bP1Bp1/6P1/6B1/1PKp4/P3p2P/5R2 b - - 0 34,e2f1q g4e6,841,116,100,73,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/SJbUm1D6/black#68,
+4y2GT,6k1/1b4p1/p1q1p2p/p1p1P3/2Pp2Q1/PP1P1rN1/R4bPP/7K w - - 0 28,g2f3 c6f3 g4f3 b7f3,804,96,90,625,doubleBishopMate endgame kingsideAttack mate mateIn2 short,https://lichess.org/n2dS8WY5#55,
+50mxu,4k2r/p2b1ppp/4pn2/8/1bp5/5BP1/PP2PP1P/RNBK3R w k - 2 12,a2a3 d7a4 b2b3 a4b3,851,105,69,360,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/4B91URO4#23,Kings_Indian_Attack Kings_Indian_Attack_French_Variation
+50suj,r1b1q2k/pppp2pp/2n2Q2/8/2B5/5N2/PB3PPP/R5K1 b - - 0 17,g7f6 b2f6,830,133,58,170,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/LMy89FkX/black#34,Danish_Gambit_Accepted Danish_Gambit_Accepted_Copenhagen_Defense
+50u3w,r2qkb1r/pppbpp2/2n2nNp/3p2p1/3P1B2/2PBP3/PP1N1PPP/R2QK2R b KQkq - 1 9,f7g6 d3g6,818,78,98,1060,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/7lRogzk5/black#18,
+53iOk,7k/7p/2p3p1/P4pB1/2B1p3/2b3P1/2P2PKP/3r4 b - - 6 36,c3a5 g5f6,876,151,93,133,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/iSrTsjX0/black#72,
+5MUuF,2krr3/B1bb1ppp/2pn4/8/P3N3/3B4/1PP2PPP/R4RK1 b - - 0 18,d6e4 d3a6,875,92,94,264,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/gw0HsgZL/black#36,Scandinavian_Defense Scandinavian_Defense_Blackburne_Gambit
+5NvGG,r1b1kb1r/pp1n1pp1/1qp1Q2p/6B1/3P4/2PB1N2/PP3PPP/R3K2R b KQkq - 0 12,f7e6 d3g6,871,88,100,93,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/6SKj1GAA/black#24,Caro-Kann_Defense Caro-Kann_Defense_Other_variations
+5WRE2,r5k1/2N2ppp/p7/1p3b2/2pp1P2/4b1P1/PPP1B2P/R6K w - - 4 27,c7a8 f5e4 e2f3 e4f3,869,89,88,977,doubleBishopMate endgame fork mate mateIn2 short,https://lichess.org/sdw420hC#53,
+5Wmpa,r4r1k/pb1p3p/1pnP1Q2/6Bq/2B5/5N2/PP3KPP/4R3 b - - 0 21,f8f6 g5f6,850,88,86,728,doubleBishopMate kingsideAttack master mate mateIn1 middlegame oneMove,https://lichess.org/YgqzO7vg/black#42,
+5ZExl,2b3nk/R3nB1p/2pB2p1/1p3p2/3b4/2N5/PP4PP/5K2 b - - 3 28,d4a7 d6e5 g8f6 e5f6,847,81,100,450,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/3ruqb2Z4/black#56,
+5vMbq,r5k1/ppp2p1p/5p2/3p1N2/2b2P2/2P3P1/PP2rbBP/R1R4K w - - 10 25,g2d5 c4d5,855,86,84,892,doubleBishopMate hangingPiece mate mateIn1 middlegame oneMove,https://lichess.org/N5DNipkG#49,
+5y9VW,rn2kb1r/ppB1pppp/6n1/8/8/7P/PPP2P1P/RN1K1B1R b kq - 0 9,b8a6 f1b5,854,98,88,247,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/NBkZKIPn/black#18,Pirc_Defense Pirc_Defense_Other_variations
+5yyOd,2b2k2/p1p2P1p/6p1/1p6/N1Bb2P1/3N4/PP5P/7K w - - 0 29,c4b5 c8b7 b5c6 b7c6,863,97,75,981,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/bvtu9J9p#57,
+62zm5,8/p2r2pk/bpB1p1pp/2b1P3/2P2P2/1P4P1/1B5P/7K w - - 0 31,c6d7 a6b7 d7c6 b7c6,892,95,78,638,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/rDSrWynR#61,
+64IEN,2k4r/ppp2p1p/5pb1/4b3/2P5/5P2/PP2BBPP/2Kr3R w - - 0 19,e2d1 e5f4 f2e3 f4e3,862,87,80,2126,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/pq9ZkU2T#37,
+64v5h,1r3rk1/1b1R2pp/pp2p1n1/2b5/P3pP2/1PN3P1/1BP1B2P/3R3K w - - 0 22,c3e4 b7e4 e2f3 e4f3,822,118,64,86,doubleBishopMate hangingPiece kingsideAttack mate mateIn2 middlegame short,https://lichess.org/oQTXqZAZ#43,
+66Eko,5rk1/2R2p2/p2N2pp/3B4/8/4b1P1/r3b2P/2R4K w - - 6 41,d5a2 e2f3,853,112,67,89,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/wDiY6cWc#81,
+66vHN,2n5/p2b4/2n1p1k1/2BpP1pp/3P4/P1KB4/2N3PP/8 b - - 5 35,g6h6 c5f8,808,98,66,268,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/E1vuittT/black#70,
+681eY,r5k1/pp4bp/3p2p1/2nP1p2/1Q2bP2/6P1/P6P/4RBK1 w - - 2 28,b4b5 g7d4 e1e3 d4e3,895,87,70,394,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/ObFDYlmJ#55,
+68AQO,r4r1k/p1p4p/8/1p4p1/6b1/1B1PB3/PPP2R1P/7K b - - 0 22,f8f2 e3d4 f2f6 d4f6,857,94,81,1400,doubleBishopMate endgame fork mate mateIn2 short,https://lichess.org/XNy5AqCg/black#44,
+6Akbz,r1bqkb1r/ppppp3/2n2n1p/5pp1/3P4/4P1B1/PPP1BPPP/RN1QK1NR b KQkq - 2 6,f6e4 e2h5,875,83,95,1427,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/lwxpnXvy/black#12,Dutch_Defense Dutch_Defense_Hopton_Attack
+6EPcH,3r3k/pp6/2n3p1/2b2pN1/5N2/3P4/bPPB2P1/2KR4 w - - 0 23,b2b3 c5a3,864,97,76,1054,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/ZslyjyzV#45,
+6EugE,r4b1r/ppNk1ppp/2n2p2/8/3P4/8/PPb1PPPP/R3KBNR w KQ - 3 11,c7a8 f8b4,885,106,85,508,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/QGOwjPKs#21,Slav_Defense Slav_Defense_Other_variations
+6Mg1g,rq2k2r/1p2bpp1/p1p1p2p/2PpP3/5Pb1/1Q2P3/PP1N2PP/2R1KB1R w Kkq - 1 16,h2h3 e7h4 g2g3 h4g3,822,109,70,1348,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/09KFDwSZ#31,Indian_Defense Indian_Defense_Other_variations
+6QFpa,2b3nr/ppk2pQp/1N1p4/4p3/4P3/8/PPPP1bPP/R1BK3R w - - 1 13,g7h8 c8g4,854,92,88,267,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/0hWitqAl#25,Vienna_Game Vienna_Game_Stanley_Variation
+6RLku,5k2/7R/5pp1/3Ppb2/1pBb4/1P6/6PP/5R1K w - - 2 38,g2g4 f5e4 f1f3 e4f3,829,81,83,346,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/pid6ZXd1#75,
+6Vmub,8/7k/p3qpp1/7p/2P1Q1b1/6P1/2B2b1P/4R2K w - - 0 44,e4e6 g4f3,858,138,78,196,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/1pIkP1U6#87,
+6dRfg,2kr3r/Bppq1ppp/3b1n2/8/6b1/P1NB4/1PPK1QPP/4R2R b - - 0 15,b7b6 d3a6,887,103,74,1702,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/OPZjwvhv/black#30,Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Ryder_Gambit
+6h0yK,rn5r/pp2kppp/2b1p3/8/1b1P4/8/PP2NPPP/R1BK1B1R w - - 4 14,a2a3 c6a4 b2b3 a4b3,833,92,91,1124,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/04eAOBTp#27,Scandinavian_Defense Scandinavian_Defense_Panov_Transfer
+6hJIm,2kr1bnr/Bppq2pp/p2p1p2/4p3/2B1P3/3P1Q2/PPP2PPP/R3K2R b KQ - 0 11,b7b6 c4a6,804,78,99,912,doubleBishopMate mate mateIn1 middlegame oneMove queensideAttack,https://lichess.org/DoyFyNjf/black#22,Philidor_Defense Philidor_Defense_Other_variations
+6iVkD,8/5p1p/3p3k/8/p1b5/2B2BP1/PP2rb1P/5R1K w - - 0 35,f3e2 c4d5 e2f3 d5f3,869,91,85,1483,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/P6mlzG0l#69,
+6ivFR,r4r2/1R2Nppk/7p/p1p1P3/3pqRb1/4b1P1/7P/4Q2K w - - 0 25,f4e4 g4f3,837,95,88,618,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/5MGdrtpK#49,
+6oZqS,2b2rk1/p1N2ppp/1pnp4/4P1b1/2P5/8/PP2P1PP/RK3B1R w - - 0 17,e5d6 c8f5 e2e4 f5e4 f1d3 e4d3,824,92,91,1158,doubleBishopMate long mate mateIn3 middlegame queensideAttack,https://lichess.org/LlEwnP7o#33,Indian_Defense Indian_Defense_Budapest_Defense
+6vchD,3b1k2/pb3ppp/1p1Bp3/8/8/2P2P2/PP2B1PP/6K1 b - - 3 24,f8e8 e2b5 b7c6 b5c6,868,171,63,56,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/fUEbMyRZ/black#48,
+6weaO,2rR4/5ppk/7p/1Qb1Nb2/5P2/P1P3P1/1P5P/7K w - - 5 31,d8c8 f5e4 e5f3 e4f3,819,89,91,672,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/nzaDfOmr#61,
+6xsmX,r4r1k/pp1b3p/3p4/3B1p2/1P3P1N/P1b1B1PP/4p2K/4R3 b - - 5 28,c3e1 e3d4 f8f6 d4f6,853,93,87,548,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/TD6Gf8pf/black#56,
+716S4,r4r2/ppk2B2/2p1P1pp/8/3b1P2/8/PP2b2P/R1B2R1K w - - 1 26,f1e1 e2f3,861,107,95,92,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/CkjndWg9#51,
+71QvK,r5k1/pp2p1bp/3p2p1/8/2PqpPb1/8/P1N3PP/R1Q2BKR w - - 5 21,c2d4 g7d4 c1e3 d4e3,874,107,70,103,doubleBishopMate fork mate mateIn2 middlegame short,https://lichess.org/EC31S6o0#41,
+72vsr,r1b1q2k/pp1pB2p/2p2Qp1/5r2/2B5/8/PP3PPP/RN3RK1 b - - 6 17,f5f6 e7f6,800,103,93,1044,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/n3hrnQrL/black#34,Ruy_Lopez Ruy_Lopez_Nurnberg_Variation
+740dW,5bk1/7p/8/8/8/1p2qBPP/1B3pK1/8 b - - 4 44,e3e1 f3d5 e1e6 d5e6,812,104,90,647,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/MWzUmMdZ/black#88,
+7BlXh,r4rk1/1b3ppp/p2p4/2b2P1n/1p6/3P1q1P/BPP1N2B/R2Q1R1K w - - 0 21,f1f3 b7f3,824,95,92,886,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/J4Z2Dxub#41,
+7LGr5,1r3rkb/p4N1b/7P/3p2p1/3q4/1PP2Q2/P7/K4R1R w - - 0 34,c3d4 h8d4 f3c3 d4c3,821,80,88,580,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/8jc4koMi#67,
+7U8g3,r3k2r/p1p2pp1/B3pn2/2bq1b1p/8/2N3P1/PBPPN2P/R2Q1R1K w kq - 3 15,c3d5 f5e4 f1f3 e4f3,880,82,88,413,doubleBishopMate fork mate mateIn2 middlegame short,https://lichess.org/XBH5SNaF#29,Scandinavian_Defense Scandinavian_Defense_Other_variations
+7Vmyi,rnbr3k/pp5p/2pb4/5p2/2BBp3/2N5/PPP2PPP/R4RK1 b - - 1 16,d6e5 d4e5,866,155,58,163,doubleBishopMate hangingPiece kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/8ngZVKhU/black#32,Kings_Pawn_Game Kings_Pawn_Game_Alapin_Opening
+7gDNK,r2qkbnr/pppbp1pp/2n2p2/3p4/3P1B2/3BPN2/PPPN1PPP/R2QK2R b KQkq - 3 6,h7h5 d3g6,806,94,90,187,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/aFDjaXds/black#12,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+7lcGQ,6bk/R7/3p2Bp/3P4/2pb2P1/5K1P/P7/r3B3 b - - 2 43,d4a7 e1c3 a7d4 c3d4,885,90,90,569,doubleBishopMate endgame fork mate mateIn2 short,https://lichess.org/D4Fhkdb8/black#86,
+7mO5v,rn2k1nr/ppp1bppp/8/8/3N2b1/8/PPPP2PP/RNB1KB1R w KQkq - 3 8,h2h3 e7h4 g2g3 h4g3,816,77,90,507,doubleBishopMate mate mateIn2 opening short,https://lichess.org/XfWCJHcW#15,Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit_Accepted
+7vl89,6k1/bb4p1/p1qB1p2/1p5Q/8/2P2n2/PP4PP/3R3K w - - 8 30,g2f3 c6f3 h5f3 b7f3,805,103,85,536,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/BNpoT6OI#59,
+7wEfs,r3k2r/pp2nppp/3p1b2/8/3N1Pb1/1P1P4/PB1P2PP/R3KB1R w KQkq - 3 14,h2h3 f6h4 g2g3 h4g3,866,83,83,2243,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/iuPlL3uK#27,French_Defense French_Defense_La_Bourdonnais_Variation
+86Mhj,6k1/p6p/bp4r1/2b4Q/8/3p2P1/PPP4P/5N1K w - - 0 27,c2d3 a6b7 h5d5 b7d5,853,106,83,1056,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/fU23SjHH#53,
+8CCEw,5rk1/pp5p/n3b1pb/4p3/8/5P1N/PPP3PP/RK1N1B1R w - - 1 17,c2c3 e6f5 f1d3 f5d3,876,87,83,609,doubleBishopMate mate mateIn2 middlegame queensideAttack short,https://lichess.org/cr9kR0wz#33,Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation
+8Mni7,1r4k1/rp3pP1/6qp/p1bbp3/4B3/2P2RP1/PPQ1N2P/R6K w - - 3 25,e4g6 d5f3,833,165,87,274,doubleBishopMate hangingPiece kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/OFxacut3#49,
+8Q2NG,r2qkbnr/pppbp1pp/2n2p2/3p4/3P1B2/2PBPN2/PP3PPP/RN1QK2R b KQkq - 3 6,h7h5 d3g6,823,92,82,196,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/yZq2I554/black#12,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+8S2kE,r4rk1/1p3ppp/2p3n1/1pb5/5Pb1/1PNB2P1/PBP4P/R3R2K w - - 6 19,c3e4 g4f3,810,95,67,261,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/M94nDjz3#37,Scotch_Game Scotch_Game_Other_variations
+8aQzr,3r3k/1p1P3p/p3B1p1/P1B1bp2/8/6PP/5P1K/8 b - - 2 35,e5c7 c5d4 c7e5 d4e5,839,92,86,411,doubleBishopMate endgame master mate mateIn2 short,https://lichess.org/7y47q0g7/black#70,
+8enaC,6k1/p4ppp/Q7/1P6/2b5/P4BP1/2r2b1P/3r3K w - - 0 31,f3d1 c4d5 d1f3 d5f3,872,101,75,1244,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/BAxhtnij#61,
+8gkZV,r1br3k/ppp4p/6p1/2b3B1/2B1p3/8/2P3PP/1R3R1K b - - 1 20,d8e8 g5f6,896,122,-79,24,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/j8IOBrxT/black#40,
+8njan,R4nk1/1B1b4/1b2p2p/4Ppp1/5P2/6P1/4N2P/7K w - - 2 32,b7c8 d7c6,862,111,61,531,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/vSEwOS2Y#63,
+8ziYe,2r3k1/1p5p/p2r3b/4B3/1P6/8/P1b2PPP/K4B1R w - - 0 22,e5d6 h6g7 d6e5 g7e5,858,100,79,351,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/FPuqTWMJ#43,
+9FLlD,rq5k/bp4pp/p1n2Q2/8/2B1b3/1P2P3/PB3PPP/R2R2K1 b - - 0 21,g7f6 b2f6,835,77,100,189,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/Mjip5zPs/black#42,
+9IsJs,3R4/p1k2p1p/5Bp1/2b1P3/5P2/4n1P1/P1b4P/K7 w - - 10 36,d8h8 c5d4,881,154,64,288,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/cPL0uXIz#71,
+9KTVc,r5k1/1b4p1/pbq1p2p/1p2n3/3P4/1N1B1P2/PP1BQ2P/R6K w - - 0 25,d4e5 c6f3 e2f3 b7f3,843,88,94,1256,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/pcQNUlir#49,
+9KrNT,2r4k/B3p2p/b5p1/5p2/2B5/1P3PK1/r5PP/R7 b - - 0 26,a2a1 a7d4 e7e5 d4e5,885,85,85,530,doubleBishopMate endgame fork mate mateIn2 short,https://lichess.org/mxN1orw9/black#52,
+9YRxF,7k/1pp1bB1p/p3p3/3p1b2/8/2P3K1/r7/6B1 b - - 1 37,a2a3 g1d4 e6e5 d4e5 e7f6 e5f6,833,97,89,1106,doubleBishopMate endgame long mate mateIn3,https://lichess.org/ipDHw34X/black#74,
+9jN0L,3rr2k/ppp4p/4B1p1/2qRP1B1/5P2/1P4P1/P5KP/Q7 b - - 0 25,d8d5 g5f6,858,94,92,1162,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/OszAjLCn/black#50,
+9lkYk,r4r1k/pp5p/2n3p1/3B4/1P6/2P3KP/PB6/8 b - - 2 26,a8d8 c3c4 c6e5 b2e5 f8f6 e5f6,849,93,86,607,discoveredAttack doubleBishopMate endgame long mate mateIn3,https://lichess.org/STSfGUUi/black#52,
+9sy3K,r4r1k/1p5p/p7/3B2p1/N4b2/PP2B3/4KP1q/7R b - - 2 37,h2h1 e3d4 f4e5 d4e5 f8f6 e5f6,883,87,92,853,doubleBishopMate long mate mateIn3 middlegame,https://lichess.org/O1WDQaUk/black#74,
+9tM0a,4r1k1/pbp4p/1p2R1p1/2b5/2Q4N/5qP1/P2B3P/2R4K w - - 0 26,h4f3 b7f3,846,104,85,806,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/KoeWmzUx#51,
+9v0YK,6k1/b5pp/p3p3/3p4/1P3P2/5q2/2rBb1PP/1Q2R2K w - - 0 31,g2f3 e2f3,856,87,84,589,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/31la0cjP#61,
+9yxHT,rn4k1/bp2rppp/p2p4/3Pp2b/2P1P1q1/1P4P1/PB2N1BP/R2Q1R1K w - - 1 18,g2f3 g4f3 f1f3 h5f3,805,85,91,217,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/ISJZ43uT#35,English_Opening English_Opening_Kings_English_Variation
+A91S4,rkb2b1r/pp4pp/8/8/P7/2B2B2/3P1PPP/n2K3R b - - 0 24,a1b3 c3e5 f8d6 e5d6,802,102,90,736,doubleBishopMate mate mateIn2 middlegame queensideAttack short,https://lichess.org/nKaWoSB7/black#48,
+AIdym,r4rk1/6pp/pbp3q1/1p1P4/5P2/2P3P1/PPB4P/R1BbR2K w - - 0 25,c2g6 d1f3,870,92,78,590,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/PtCAXaLb#49,
+AJ7wY,2Q5/3r1ppk/8/pp3b1B/8/2P1p3/PP3b1P/2R4K w - - 4 35,c8c5 f5e4 h5f3 e4f3,899,87,71,286,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/lWM6bguK#69,
+AJQdY,r3kb1r/1bqn1pp1/p3p2p/1p6/2pPp2B/P1P1P3/1PQNBPPP/R3K2R b KQkq - 1 14,f7f5 e2h5 g7g6 h5g6,846,106,79,712,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/TxldkU2V/black#28,Indian_Defense Indian_Defense_Other_variations
+AJZEL,r2qkb1r/pppbp1pp/2n2p2/3p4/3P1BP1/2PBPP2/PP1Q3P/R3K1NR b KQkq - 2 9,h7h5 d3g6,885,119,52,336,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/ZfLJ0Vg7/black#18,Indian_Defense Indian_Defense_Other_variations
+ATW0t,r3r2k/1b1pR2p/p1nB2p1/1p4p1/8/1BP3N1/P5PP/4R1K1 b - - 0 26,c6e7 d6e5,894,85,83,3585,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/cr4XbmXC/black#52,
+AW1Qt,4rR1k/p6p/1bp3p1/1p6/8/1B4BP/Pn4P1/7K b - - 2 36,e8f8 g3e5 f8f6 e5f6,830,91,94,854,doubleBishopMate endgame fork mate mateIn2 short,https://lichess.org/ORigdG8k/black#72,
+AeCsE,5k2/p4ppp/4p3/2p5/b1P2P2/2P5/P2B1bPP/1N5K w - - 1 25,g2g3 a4c6,844,79,97,2260,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/EXl0tomQ#49,
+AlATP,r1b2r1k/pp3B1p/2nN2p1/2p3B1/8/8/P1P3PP/R6K b - - 0 19,c6e5 g5f6,851,139,79,188,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/Tjd7zz3Y/black#38,
+ArDbH,N4b1r/p2k1ppp/1pn2p2/8/3P4/8/PPb1PPPP/R3KBNR w KQ - 1 12,a1c1 f8b4,814,76,100,272,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/7MYnpwq5#23,Slav_Defense Slav_Defense_Other_variations
+AvupQ,r1bq1bkr/pp4pp/2pB4/3Q4/2Bp4/8/PPP2PPP/R4RK1 b - - 0 14,c6d5 c4d5 c8e6 d5e6,838,100,79,198,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/FG3tcV5F/black#28,Italian_Game Italian_Game_Two_Knights_Defense
+B0Dvb,r4r1k/pp5p/8/3B1p2/3qP1p1/2P3B1/PP6/4R2K b - - 0 38,d4d3 g3e5 f8f6 e5f6,855,98,87,711,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/kQphY0vV/black#76,
+B0XoD,3q1rk1/4p1bp/p2pP1p1/1p1b1pP1/8/P1PB3P/8/R2Q1RBK w - - 0 23,h1h2 g7e5 f1f4 e5f4,837,80,88,225,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/VZhSuOk7#45,
+B0m7s,8/1b4kp/p7/1p1pb3/7P/P3P3/1P4BK/4B3 w - - 0 33,h2h3 b7c8,883,108,77,292,bishopEndgame doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/uUyIQbLJ#65,
+B1A6j,7k/7p/5bp1/2PB4/3p4/3P2P1/1r3B2/5K2 b - - 0 40,f6g5 f2d4 g5f6 d4f6,871,86,76,512,doubleBishopMate endgame fork mate mateIn2 short,https://lichess.org/2Ukws6vc/black#80,
+BAYw2,3q2k1/6r1/3pP2Q/2p3B1/bpPb4/6P1/7P/5R1K w - - 1 34,g5d8 a4c6 f1f3 c6f3,856,84,86,1974,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/j0tkUPD2#67,
+BCM37,r6k/pp4p1/5Np1/7q/2bn1P1Q/6P1/P4b1P/3R3K w - - 2 30,f6h5 c4d5,837,81,88,469,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/iDxUfVCS#59,
+BElCd,2kr1bnr/B1pb1ppp/1p1q4/2P1p3/8/1QN2P2/PP2BP1P/R3K2R b KQ - 0 13,d6c5 e2a6,898,95,72,1014,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/qb0pBAs9/black#26,Scotch_Game Scotch_Game_Other_variations
+BGvXR,2r5/1p3k2/4R3/pB2B3/P2pbN2/6P1/3b3P/6K1 w - - 2 38,b5f1 d2e3,824,94,89,664,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/2LA12e2N#75,
+BKedD,4r1k1/5p2/r1p1bn2/p1P1q3/Pp1P2pQ/3Pb1P1/1B2B2P/R3R2K w - - 0 34,d4e5 e6d5 e2f3 d5f3,824,98,90,480,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/WE0ymNEE#67,
+BRJb3,3r2k1/p6p/1p1B2p1/4b3/2B5/5b1P/PPP2R2/2K5 b - - 1 26,g8h8 d6e5,845,85,92,463,doubleBishopMate endgame hangingPiece mate mateIn1 oneMove,https://lichess.org/fivThlTG/black#52,
+BRz0O,2kr3r/Bppn1ppp/3b1nb1/3p4/6P1/2N2N1P/PPP1BP2/2KR2R1 b - - 0 15,b7b6 e2a6,897,97,70,459,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/gk2jthrh/black#30,Scandinavian_Defense Scandinavian_Defense_Valencian_Variation
+BY7Jj,k2r1b1r/p3nppp/2Q1p3/1B3b2/1P1p1B2/N7/Pq3PPP/2R2RK1 b - - 3 19,e7c6 b5c6,838,123,87,260,doubleBishopMate mate mateIn1 middlegame oneMove queensideAttack,https://lichess.org/FoHKRIZc/black#38,Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation
+BYiM8,5rk1/R4ppp/2n1pb2/2Np4/4bP2/6P1/7P/2R2BK1 w - - 3 34,a7a6 f6d4,831,131,93,147,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/KBthCGfY#67,
+BgqXt,4k3/b2r2p1/2Q2pN1/5P1p/4P1b1/pP4P1/P6P/4R2K w - - 6 41,g6f8 g4f3,864,82,76,299,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/YFgB1n5P#81,
+BinZd,r3qr1k/4n2p/p1pb1p2/1p4Q1/4PP1n/P1N1B3/BPP2P1P/R5RK b - - 0 19,f6g5 e3d4 d6e5 d4e5 f8f6 e5f6,850,125,64,328,doubleBishopMate kingsideAttack long mate mateIn3 middlegame,https://lichess.org/wTh78Npa/black#38,Philidor_Defense Philidor_Defense_Other_variations
+BpVeS,r4rk1/pp1nbppp/2p1p3/1P1pP2b/2P2P2/2N1P2P/1P4P1/R1B1KB1R w KQ - 1 14,c1d2 e7h4 g2g3 h4g3,869,77,98,747,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/tUo2lynf#27,Slav_Defense Slav_Defense_Quiet_Variation
+Bzk67,r3kbnr/ppB1pppp/8/8/2B5/5P2/PPn1KPPP/RN5R b kq - 2 9,c2a1 c4b5,865,103,69,1217,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/gaD4cnNI/black#18,
+C1oRg,r2qkbnr/3bp3/pnp2p2/1p1p3p/3P2p1/2P1P1BP/PPBN1PPN/R1Q1R1K1 b kq - 1 16,g4h3 c2g6,821,88,89,1072,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/fahhjlUl/black#32,Queens_Pawn_Game Queens_Pawn_Game_Other_variations
+C6L1i,7k/7p/4Bpp1/8/1P1B4/7P/2r2PP1/1n4K1 b - - 1 44,b1c3 d4f6,868,90,82,496,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/PH8O9B2V/black#88,
+CEvc7,5k2/5pp1/4p2p/2b5/P3PP2/1Pp5/2B1b1PP/2B4K w - - 1 48,g2g3 e2f3,809,99,85,337,bishopEndgame doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/KWSZV4uj#95,
+CFQO7,2kr1b1r/Bppnpppp/5n2/1B1P4/8/5N2/P1P2PPP/R3K2R b KQ - 0 14,b7b6 b5a6,892,80,93,2342,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/hTZxAYgJ/black#28,Scandinavian_Defense Scandinavian_Defense_Main_Line
+CGxWr,r3k2r/2p2ppp/p1b5/4P3/5B1P/4p3/PPP2b1P/RN1Q3K w kq - 0 16,d1d5 c6d5,826,130,78,203,doubleBishopMate hangingPiece mate mateIn1 middlegame oneMove,https://lichess.org/NBuQGM8h#31,Ruy_Lopez Ruy_Lopez_Berlin_Defense
+CXpc6,r2qkbnr/pp1np1pp/2p5/3pp1B1/8/3P1B1P/PPP2PP1/RN1QK2R b KQkq - 1 9,h7h6 f3h5 g7g6 h5g6,850,89,72,123,doubleBishopMate mate mateIn2 opening short,https://lichess.org/e53bJAge/black#18,Caro-Kann_Defense Caro-Kann_Defense_Endgame_Offer
+CZWVq,2r4r/1p2kppb/p3p2p/3pP3/5PP1/2P4P/PP2Bb1B/R3R2K w - - 1 21,e1f1 h7e4 e2f3 e4f3,883,96,83,471,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/EJKfZdT0#41,
+CcFU5,r6k/7p/p5p1/2R1r3/PpBn4/7P/1B4P1/6K1 b - - 0 38,e5c5 b2d4 c5e5 d4e5,805,89,64,291,doubleBishopMate endgame fork hangingPiece mate mateIn2 short,https://lichess.org/8esIBJyE/black#76,
+CcyGl,rnb2rk1/ppp2ppp/3b4/8/2P5/2N2N2/PP2P1PP/R1B2BKR w - - 3 11,e2e4 d6c5 f3d4 c5d4 c1e3 d4e3,864,94,76,1268,doubleBishopMate kingsideAttack long mate mateIn3 opening,https://lichess.org/0CKC7gZa#21,Indian_Defense Indian_Defense_Budapest_Defense
+CdGKW,3k4/p5Q1/b7/4p3/3b4/P1r5/7P/3R3K w - - 0 34,g7e5 a6b7 e5e4 b7e4,874,78,93,945,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/nwWdy0EM#67,
+Cgavc,r6k/1R2p2p/p2pB1p1/P2P4/1q2P3/8/1n3BPP/1R5K b - - 0 31,b4b7 f2d4,804,79,97,371,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/wb5AwVJJ/black#62,
+CjkNo,4Q3/pbB3pk/1p6/2b4p/4P3/6P1/PP5P/5R1K w - - 0 25,c7e5 b7e4 f1f3 e4f3,861,153,71,217,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/IwEZbKYt#49,
+CoX4x,r4r1k/1pB4p/2n3p1/p7/2BRPp2/2q2P1P/P1P1Q3/2K4R b - - 0 23,c6d4 c7e5 f8f6 e5f6,835,102,91,418,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/qyqk66pe/black#46,
+CseIQ,4r2k/p1p2R2/1bp5/7N/5Bp1/2P3P1/PP2b2P/3R3K w - - 3 30,h5f6 e2f3,877,91,84,1952,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/AhsSDUdV#59,
+CvANE,r3k2r/2q4p/p1p1pp2/3p2p1/3P2b1/5N2/PPP1QP1b/R1BNR1K1 w kq - 2 18,g1f1 g4h3,858,97,58,548,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/ln3lLowo#35,Caro-Kann_Defense Caro-Kann_Defense_Other_variations
+Cva6s,3b3k/p6p/6p1/2B5/2B5/3p4/PPb3PP/6K1 b - - 0 26,d3d2 c5d4 d8f6 d4f6,818,83,85,694,bishopEndgame doubleBishopMate endgame master mate mateIn2 short,https://lichess.org/hBvOc45j/black#52,
+Cvfw7,rnbk1r2/pppp1Bpp/8/4P3/3b1B1q/2N2QP1/PPP4R/R4KN1 b - - 0 12,h4h2 f4g5,849,86,99,1020,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/5isHkkqi/black#24,Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit
+CwB3B,r1b1kb1r/pppp2pp/8/4PpB1/8/8/P1P1BPPP/R4RK1 b kq - 0 13,h7h6 e2h5 g7g6 h5g6,817,80,98,596,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/6djaSTfp/black#26,Italian_Game Italian_Game_Two_Knights_Defense
+Cz02X,rn2k1r1/pp3p1p/2pbp3/3p2qb/8/1PN1PN1P/PBPP4/R2QKB1R w KQq - 0 13,f3g5 d6g3,859,119,83,205,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/GohHt4EA#25,Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Classical_Variation
+Cz6Zm,2n3k1/pB3p1p/6p1/8/1P1b1P2/6P1/2bB3P/7K w - - 4 34,b7c8 c2e4,867,100,57,736,bishopEndgame doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/DBuEwsqS#67,
+D1cvB,r3kbnr/ppB1pppp/8/3P4/4P3/1P6/P4PPP/n2K1BNR b kq - 1 12,a8c8 f1b5,801,93,81,316,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/zBogaoFa/black#24,Queens_Gambit_Declined Queens_Gambit_Declined_Austrian_Defense
+D64IE,r3kb1r/pbB1pppp/1p6/3pP2n/8/1PP1P2P/4BPP1/RN2K2R b KQkq - 0 14,a8c8 e2b5 b7c6 b5c6,820,77,100,173,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/0BitCcQk/black#28,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+DBqH7,r5k1/3b1ppp/pb2p2B/4PP2/8/6P1/PP5P/RN3R1K w - - 0 20,f5e6 d7c6 f1f3 c6f3,815,99,70,351,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/IyyK5EvN#39,
+DJPIV,2k1rbnr/pp3p2/2p3q1/8/3pNP2/1P3BP1/b1PBQ2P/2KR3R w - - 1 18,e2d3 f8a3,866,141,75,271,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/r2Za0YX7#35,Englund_Gambit_Complex Englund_Gambit_Complex_Englund_Gambit
+DPkff,4N1k1/r7/1p1p4/p1nPp3/1b2P3/1P1b2B1/P5B1/K6R w - - 3 34,e8d6 b4c3,831,94,91,894,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/dcBgSndk#67,
+DTWqF,4b1k1/ppp1nr2/3p3p/5p2/2P2Pp1/3Nb1P1/PP5P/R2Q3K w - - 0 22,d1b3 e8c6,862,95,76,407,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/Kk1FYZei#43,
+Daulh,3k4/p1r4p/8/Q1b5/2pNP3/2Pp1q2/PP2b2P/RN2R2K w - - 2 28,d4f3 e2f3,865,100,53,124,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/rgveOzp8#55,
+Db0di,3R3k/1p5p/p1b1Bbp1/5p2/2P2B2/5PP1/P5KP/8 b - - 0 31,f6d8 f4e5 d8f6 e5f6,887,182,61,180,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/nppjmlM2/black#62,
+DesfG,5rk1/5p2/5p1p/1pbr1b2/2p2P2/1PN3P1/P6P/3R1R1K w - - 0 25,c3d5 f5e4 f1f3 e4f3,852,88,86,637,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/Aq6pSsjD#49,
+Djm4h,4rk1r/1b3p2/p1p4p/5Pp1/6P1/4b1Bq/PPP4P/R2QR1NK w - - 0 27,g1h3 c6c5 d1d5 b7d5,859,93,87,820,discoveredAttack doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/Fb5h4IRk#53,
+Dq3Mw,2r4k/p1pp3p/1p1q2p1/3B1R2/2P5/2N1B3/PP4PP/6K1 b - - 0 26,g6f5 e3d4 d6e5 d4e5,855,105,80,398,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/4gJDv1B0/black#52,
+E2WA5,q2r3k/1p5p/2p1B1p1/p4r2/1b6/1P5P/P3R1PB/2R3K1 b - - 5 28,f5f8 h2e5 f8f6 e5f6,837,79,99,1465,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/6OH5ms91/black#56,
+E7dv9,r2q1r1k/3pn2p/p1b1B1p1/1p6/4p1Q1/P1b1B3/1PP2PPP/3RR1K1 b - - 1 19,c3e1 e3d4 f8f6 d4f6,838,94,83,1704,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/414B39Sw/black#38,Sicilian_Defense Sicilian_Defense_Old_Sicilian
+E8Sxn,8/3pkp1p/4p1p1/8/K7/PPb2b2/4RP1P/3R4 w - - 0 29,d1d2 f3c6,875,80,92,532,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/xiS6o1FV#57,
+EI3VS,3R4/1kp5/ppb2B2/2b2pN1/2P5/5r2/PP5P/7K w - - 2 29,g5f3 c6f3,837,133,86,260,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/u2d6fnCG#57,
+EJsWz,r1bq1bkr/ppp3pp/2n5/3Q4/2Bp4/8/PPP2PPP/RNB2RK1 b - - 0 10,d8d5 c4d5 c8e6 d5e6,842,131,50,47,doubleBishopMate kingsideAttack mate mateIn2 opening short,https://lichess.org/eQFnf4WO/black#20,Italian_Game Italian_Game_Scotch_Gambit
+ELKv9,r4rk1/p1p2ppp/2pp4/2b2b2/2B4q/2P3P1/PP5P/RNBQ3K w - - 0 16,g3h4 f5e4 d1f3 e4f3,862,90,60,137,doubleBishopMate kingsideAttack master mate mateIn2 middlegame short,https://lichess.org/yTXKpzPP#31,Italian_Game Italian_Game_Classical_Variation
+EOBW7,r5k1/p5p1/2p4p/n7/6b1/5r2/PPP2bPP/RNBR3K w - - 0 19,g2f3 g4f3,830,157,86,143,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/rxp1OsUn#37,
+EOyf1,4br2/4P1R1/1k6/1p4p1/3b4/1B6/PP5P/3R3K w - - 0 38,e7f8q e8c6 b3d5 c6d5 f8f3 d5f3,816,93,94,1652,doubleBishopMate endgame long mate mateIn3,https://lichess.org/BfgAOD1w#75,
+EZhUh,r1bqkb1r/pppnp2p/6p1/5pBQ/3Pn3/2N5/PPP1B1PP/R3K1NR b KQkq - 1 8,g6h5 e2h5,832,91,81,466,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/8BHmlYbl/black#16,Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Netherlands_Variation
+EfAx4,r4k1r/5P1p/p1b3p1/2pq1nB1/3b2P1/1PpP1N2/P1P4P/1R2QR1K w - - 1 19,g4f5 d5f3 f1f3 c6f3,842,105,83,917,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/TkJMKMd1#37,Sicilian_Defense Sicilian_Defense_Closed
+EhTRW,2rR3k/r1P4p/pp1B1bp1/3B4/5P2/4K1P1/P6P/8 b - - 2 28,f6d8 d6e5 d8f6 e5f6,872,87,89,831,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/jfLP9XBP/black#56,
+EiPay,rn1qk2r/ppp2p1p/3b1ppP/3p1b2/3P4/2P5/PP1NPPP1/R2QKBNR w KQkq - 3 9,f2f3 d6g3,826,90,78,576,doubleBishopMate master mate mateIn1 oneMove opening,https://lichess.org/emN8jQTG#17,
+Em6nU,2k1r2r/1b1n4/2q1p2p/pRb5/P7/3B1p2/2NBQ1PP/1R5K w - - 0 30,g2f3 c6f3 e2f3 b7f3,884,99,76,1390,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/pS9j7NIZ#59,
+Exq57,3k3r/ppNb1ppp/8/4p3/1b6/P7/1PK1P2P/RNBq1B2 w - - 1 28,c2d1 d7a4 b2b3 a4b3,882,81,96,593,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/2p7fEj4h#55,
+F2ThS,r3kb1r/pppb2pp/2n5/5pB1/3Np3/2P5/P1P2PPP/R2BR1K1 b kq - 3 12,h7h6 d1h5 g7g6 h5g6,856,83,86,2278,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/uDpIxjOI/black#24,Alekhine_Defense Alekhine_Defense_Maroczy_Variation
+F2VXW,5r1k/1b5p/pp1N2p1/8/P1Bb3q/B1nP1P2/1PP4P/R3Q2K w - - 0 26,e1h4 b7f3,857,88,85,318,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/uVLuILeI#51,
+F5aQX,rk3b1r/pp2p1p1/2p4p/3R1B2/8/4B3/PPP2PPP/4K2R b K - 0 20,c6d5 e3f4 e7e5 f4e5 f8d6 e5d6,837,92,96,781,doubleBishopMate endgame long mate mateIn3 queensideAttack,https://lichess.org/ANoE6B3y/black#40,
+F79Z0,3r3k/1b5p/p4pp1/5q2/PpBB4/1P3P2/2Q3PP/2b3K1 b - - 1 35,f5c2 d4f6,864,103,69,492,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/68JnzbJq/black#70,
+F7SnT,3k1bN1/p4p2/4p2p/4B1p1/b2P4/8/4PPPP/1Rr1KB1R w K - 1 27,b1c1 f8b4 c1c3 b4c3,831,130,87,308,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/zSmOnqLX#53,
+F9VVi,r1b1kb1r/ppqn2pp/2p5/5pB1/2PPp3/8/PP1NBPPP/R2Q1RK1 b kq - 0 11,h7h6 e2h5 g7g6 h5g6,862,103,80,358,doubleBishopMate mate mateIn2 opening short,https://lichess.org/TEuBsfkS/black#22,Slav_Defense Slav_Defense_Three_Knights_Variation
+FFN8J,r2r2k1/5pbp/pQ6/1p2Ppp1/4bB2/1P6/P4P1P/K3R1R1 w - - 0 26,f4g5 g7e5 b6d4 e5d4,830,90,90,1359,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/oizlfqXx#51,
+FHt1c,2kr1r2/Bppnq1pp/4b3/3pb1P1/4p2P/2P4N/PPQ1BP2/2KR3R b - - 0 18,b7b6 e2a6,826,123,64,356,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/nA7MONDC/black#36,Kings_Pawn_Game Kings_Pawn_Game_Clam_Variation
+FOzrv,7k/pb5p/2p3p1/2B2p2/8/1B2nP2/PP4PP/2K5 b - - 1 31,e3g2 c5d4,807,79,100,221,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/f58al0LE/black#62,
+FTvBJ,rn5k/p3pB1p/2p3p1/5b2/1B3P2/8/Pb4PP/2R4K b - - 1 23,b2c1 b4c3 e7e5 c3e5,858,85,88,786,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/SD3s3C35/black#46,
+FVPoh,7k/pp5p/4B3/2B1bKp1/8/1P2P3/6r1/8 b - - 3 29,e5b8 c5d4 b8e5 d4e5,802,96,95,1186,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/RlmrXS2U/black#58,
+FYYzJ,4n1kr/r2RB1pp/p3pp2/8/2B1Pb2/2P5/PP3PPP/1K5R b - - 0 20,a7d7 c4e6,809,96,80,1007,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/iVVZCVtJ/black#40,
+FYkqP,5k2/3p4/3Pp2N/1bb1B3/1p2B3/1P4P1/P6P/7K w - - 3 40,e4g6 b5c6 g6e4 c6e4,883,105,63,404,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/c2AO0Sn7#79,
+Fdf28,r2r2k1/pp3ppp/8/2bN4/Q1B2Pbq/6P1/PP5P/R2R3K w - - 1 19,g3h4 g4f3,819,85,96,1022,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/FLBrYkP2#37,
+FpWez,r4rk1/pp3ppp/5nn1/B1b5/8/3P4/bPPN2PP/2KR1BNR w - - 0 13,b2b3 c5a3,891,91,89,111,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/9dXiPPqX#25,Nimzowitsch_Defense Nimzowitsch_Defense_Other_variations
+FrT9G,5r1k/5B1p/p2p4/5RB1/1p2P3/5P2/PKP5/3Q2q1 b - - 0 34,g1d1 g5f6,867,97,77,170,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/B12WUbdz/black#68,
+FtwJx,8/4p1kp/1b1r2p1/P4b2/1P2NP2/3Q2P1/7P/3R1R1K w - - 1 31,d3d6 f5e4 f1f3 e4f3,862,101,78,548,doubleBishopMate endgame hangingPiece mate mateIn2 short,https://lichess.org/KpPpORWI#61,
+FwciP,2kr2nr/Bppb3p/3p1p2/3Pb3/4P3/2N5/PPP1BR2/2KR4 b - - 0 17,b7b6 e2a6,843,108,72,251,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/m6AdoFHK/black#34,Kings_Gambit_Accepted Kings_Gambit_Accepted_Quade_Gambit
+G4jAG,r6k/pp2p2p/1n4p1/2p5/3Rb1P1/1B6/PPP4B/5RK1 b - - 0 23,c5d4 h2e5,888,137,100,76,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/mFtwa34z/black#46,
+G9YGD,2r4k/2q2B1p/3p2p1/4p1Bn/4P3/1Q3P1P/6PK/8 b - - 2 37,h5f4 g5f6,863,100,76,442,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/DeqrtdVk/black#74,
+GBUSe,3k4/1pp4p/2p1B1b1/4BP2/1nP5/4K2P/p7/8 b - - 0 33,g6e8 e5f6,878,91,84,249,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/qbcjnJ6O/black#66,
+GEFqB,r1b4k/ppp3pp/3b1Q2/7q/2B3p1/1P2PN2/PBP2PP1/R4RK1 b - - 0 18,g7f6 b2f6,848,102,66,99,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/37KNjJ64/black#36,Dutch_Defense Dutch_Defense_Other_variations
+GHqwX,r4r1k/1q2n1pp/p3BP2/1p2Q3/7P/P1B5/1PP5/2KR3b b - - 0 22,g7f6 e5f6 f8f6 c3f6,862,106,64,673,doubleBishopMate mate mateIn2 middlegame sacrifice short,https://lichess.org/H5OGL1ZM/black#44,
+GMg0C,r1bqk2r/3nb2p/p1n1pppB/1pppP3/3P3P/2PQ1N2/PPB2PP1/RN3RK1 b kq - 0 12,f6e5 d3g6 h7g6 c2g6,892,79,97,2469,doubleBishopMate mate mateIn2 middlegame sacrifice short,https://lichess.org/Dl7rlxUq/black#24,Sicilian_Defense Sicilian_Defense_Delayed_Alapin_Variation
+GVDQk,2b3k1/5pp1/1bP1p2p/pN2P3/5P2/3P2P1/4B2P/7K w - - 2 40,c6c7 c8b7 e2f3 b7f3,815,96,89,1299,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/GlsWqO47#79,
+GXRzv,2r2r1k/pb2n2p/1p4p1/1P3p2/P4P2/3PB3/B5PP/5R1K b - - 0 25,c8c2 e3d4 f8f6 d4f6,808,84,95,994,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/1yPuav6g/black#50,
+Gh3Wc,2r4k/p4B1p/1p6/8/4p3/3n4/P3pBPK/8 b - - 0 46,e2e1q f2d4 d3e5 d4e5,854,99,87,555,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/jQi7DLgj/black#92,
+GpZaQ,7k/pp5p/6p1/8/1BBb4/1P4PP/8/1r2N2K b - - 0 42,d4f2 b4c3 f2d4 c3d4,801,93,90,497,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/DNQXm4dm/black#84,
+GszbV,1r2R2k/1p3B1p/p5p1/n1B2b2/2P2P2/7P/P5P1/7K b - - 0 30,b8e8 c5d4 e8e5 d4e5,888,80,90,1824,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/nyWuvche/black#60,
+GuSo2,R3rbk1/3B3p/5B2/3p1pp1/3P4/2nKPP2/7P/8 b - - 5 39,e8a8 d7e6,858,93,81,282,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/nVnMhV0R/black#78,
+H2iEn,r2qkb1r/1ppbppp1/p6p/4B3/2PPp3/4P3/PP2BPPP/R2QK2R b KQkq - 0 10,f7f6 e2h5 g7g6 h5g6,800,82,89,431,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/fLAwlq1n/black#20,Rapport-Jobava_System Rapport-Jobava_System_Other_variations
+HAUa8,r4r1k/ppb1nB1p/7p/2B2bN1/P4P2/8/1PP3PP/R2R3K b - - 0 22,h6g5 c5d4 c7e5 d4e5,866,106,74,1359,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/wAY9TxGU/black#44,
+HFMwk,r4rk1/1pp2p1p/p6p/3pP3/3P1p1q/1N1bb1P1/PP5P/R3QR1K w - - 0 20,g3h4 d3e4 f1f3 e4f3,852,86,86,753,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/6LtMC2Hp#39,
+HGFjI,2k4r/pbp2p2/7p/2b1p3/4P3/8/PPP4P/RNBr1R1K w - - 0 18,f1d1 b7e4,893,126,78,300,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/OOE4H3MI#35,Italian_Game Italian_Game_Two_Knights_Defense
+HLdbW,2rr3k/1bbRBB1p/p1p1pp2/1p6/5P2/8/PPP3PP/5RK1 b - - 9 22,d8d7 e7f6,862,99,64,408,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/psXK0OD2/black#44,
+HQGjO,r5k1/pb5p/1pqPp1p1/2p1P3/2Pb4/3B1r2/P2BQ1PP/1R5K w - - 0 22,g2f3 c6f3 e2f3 b7f3,894,85,93,1669,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/ob8dm4kS#43,
+HQfqz,k3b3/pp3p2/4p3/8/5B1p/P3K3/5PrP/1B6 b - - 1 46,b7b5 b1e4 e8c6 e4c6,852,97,86,1046,doubleBishopMate endgame fork mate mateIn2 short,https://lichess.org/d0eqPrJY/black#92,
+HcgWn,2kr3r/Bppb1ppp/2n2n2/1B6/5P2/8/PPP1N2P/R3K2R b KQ - 0 13,b7b6 b5a6,865,104,51,433,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/aIuIDHXf/black#26,Vienna_Game Vienna_Game_Vienna_Gambit
+HfMwK,3Rr2k/2B4p/p5p1/2rBpp2/8/6P1/P3PPKP/8 b - - 2 33,e8d8 c7e5,883,87,88,1265,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/Da6wkHvF/black#66,
+HlkXq,8/1n6/p1b1ppk1/1p4pp/1B1K4/3B2P1/7P/8 b - - 5 57,g6h6 b4f8,832,82,88,827,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/ZZS9sNfl/black#114,
+HrI8g,5r1k/7p/6p1/2BB4/2P5/4p1P1/r2R3P/7K b - - 0 34,e3d2 c5d4 f8f6 d4f6,869,83,91,1736,doubleBishopMate endgame master mate mateIn2 short,https://lichess.org/kkQBg5lk/black#68,
+I28Kv,1n2r2k/4r2p/2p3p1/p5B1/Pp6/1B6/1P2RP1K/3R4 b - - 0 31,e7e2 g5f6,835,90,94,433,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/0Gmw5zun/black#62,
+I8gAF,r3k3/ppp2pr1/3p2qB/2b5/4P3/2PP3P/b1PQ1P2/2KR3R w q - 0 18,h6g7 c5a3,834,84,93,606,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/tsP7xGXU#35,Italian_Game Italian_Game_Giuoco_Pianissimo
+IExl8,r3r2k/pb2b2p/2p3p1/q7/2B1n3/2P1B1Q1/P1P3P1/R4RK1 b - - 5 22,e4g3 e3d4 a5e5 d4e5 e7f6 e5f6,843,97,87,829,doubleBishopMate fork long mate mateIn3 middlegame,https://lichess.org/RCsjPXZP/black#44,
+IG7vr,2kr1b1r/B1pq4/1p1p2pp/2PPp3/4Q3/8/PP3PPP/2K2B1R b - - 0 18,b6c5 f1a6,849,117,60,182,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/axqJ2wfR/black#36,Dutch_Defense Dutch_Defense_Queens_Knight_Variation
+IJHKo,r2qkb1r/1b1np1p1/p6p/1p1p3n/2pP1B2/2P2P2/PPBNN1PP/R2QR1K1 b kq - 1 15,g7g5 c2g6,804,82,100,216,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/vJiu7Am9/black#30,Owen_Defense Owen_Defense_Other_variations
+ILJXK,7k/1p1Q2p1/p5bp/P1b5/2p2B2/2q3P1/1P5P/R4R1K w - - 0 27,b2c3 g6e4 f1f3 e4f3,846,152,74,196,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/DSI4Bj05#53,
+ISBRS,8/1bp1k3/1b3p1p/4p3/2B1r3/5P2/1P5P/1R2B2K w - - 0 29,f3e4 b7e4,816,110,71,228,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/dCZ3xwEU#57,
+IXp67,2r1kb1r/1pqn1pp1/p1n1N1p1/3pP1B1/3p4/2P5/PPB2PPP/R2Q1RK1 b k - 0 15,f7e6 c2g6,800,101,93,879,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/UZ7jvNAs/black#30,Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation
+IbP4C,3r3k/pp5p/8/3B4/8/BPb3P1/P3p2P/4R2K b - - 1 37,c3e1 a3b2 e1c3 b2c3,891,97,100,75,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/6fzRQVAn/black#74,
+Iet2f,r2qr2k/pp5p/1bp1Bn2/4Q1pb/5p2/1P3N1P/PBP3P1/R3K2R b KQ - 4 19,h5f3 e5f6 d8f6 b2f6,837,84,90,1632,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/lIp2atjz/black#38,Vienna_Game Vienna_Game_Anderssen_Defense
+IhAUY,6k1/pb5p/1p4p1/1P1p1p2/8/3P1BP1/3Brb1P/1R5K w - - 0 28,f3e2 d5d4 e2f3 b7f3,829,84,92,1137,discoveredAttack doubleBishopMate endgame mate mateIn2 short,https://lichess.org/pd56zIZ6#55,
+ItAKA,2r4k/7p/p5pb/1pp1p3/6P1/P2P1r1P/BPPQpP1B/1R4K1 b - - 0 30,h6d2 h2e5 f3f6 e5f6,854,87,79,397,doubleBishopMate endgame kingsideAttack mate mateIn2 short,https://lichess.org/kC2ThwX5/black#60,
+J18TY,7k/r6p/8/p1pb1B2/3pNp2/1P1PbP2/2P4P/R6K w - - 4 44,e4c5 d5f3,824,146,90,209,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/tSI79sKQ#87,
+J4N0p,2kr1r2/ppp1qp1Q/3b4/8/3P4/5N1P/bPPN2P1/2KR1B1R w - - 0 16,b2b3 d6a3,806,80,92,280,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/rJdFdrNE#31,Kings_Gambit_Accepted Kings_Gambit_Accepted_Schallopp_Defense
+J4rep,7k/2p3pp/2p2Qn1/1Pq5/2B1PP2/r7/1B4PP/7K b - - 0 26,g7f6 b2f6,861,167,83,221,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/uqFLmo4D/black#52,
+J6wMl,7k/7p/6p1/B1bB1p2/5P2/7n/6PP/5K2 b - - 4 37,h3f4 a5c3 c5d4 c3d4,841,97,77,427,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/Mzm2omhB/black#74,
+JBBSG,k6r/p5pp/1p3p2/2pb1B2/2R2B1P/r4P2/6P1/6K1 b - - 0 34,d5c4 f5e4 c4d5 e4d5,821,133,83,67,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/CnfEgbis/black#68,
+JHJdg,br4k1/4pp1p/R5p1/6B1/8/5q2/1r3bPP/2QR3K w - - 0 27,g2f3 a8f3,887,93,93,398,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/pvSn89Ip#53,
+JIDz4,5k1N/3p2pp/p1n1b3/1pb3B1/5P2/2P5/PP4PP/R3R2K w - - 3 22,g2g4 e6d5 e1e4 d5e4,845,86,82,474,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/eoRCrPm5#43,
+JLYcx,rn1qk2r/ppp2pp1/3b1n2/7p/6b1/3P1N2/PPPNP1PP/R1BQKB1R w KQkq - 2 7,h2h3 d6g3,806,90,93,261,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/lNvCY9zF#13,Bird_Opening Bird_Opening_Froms_Gambit
+JRMLc,2r3k1/5p1p/p1bN2p1/2p5/3b1P2/1P3P2/P6P/2B1R2K w - - 2 30,d6c8 c6f3,851,119,83,257,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/0jDghflI#59,
+JSdPf,r1bk3N/pppp1Bpp/8/4n3/3bQ2q/8/PPP2PPP/RNB2RK1 b - - 0 11,h4e4 c1g5,816,104,78,333,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/faHFVSHL/black#22,Russian_Game Russian_Game_Italian_Variation
+JSk50,r2qr2k/ppp2B1p/3p2n1/4p1Bp/4P3/2PP1P1P/P1P2P1K/R1Q5 b - - 2 18,d8d7 g5f6,852,84,72,214,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/DlvVGDr3/black#36,Four_Knights_Game Four_Knights_Game_Italian_Variation
+JXEzY,r2qkbnr/pppbp2p/2n2pp1/3p4/3P1B2/2PBPN2/PP3PPP/RN1QK2R b KQkq - 1 6,h7h5 d3g6,875,126,63,323,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/3KuQ42kH/black#12,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+Jdy8A,r1b4k/p1pqQ2p/2np1rp1/1p4B1/3P2P1/1BP2P2/PP5P/R3R1K1 b - - 0 21,c6e7 g5f6,810,96,86,1091,doubleBishopMate hangingPiece kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/zhatXS1Q/black#42,
+JfVVZ,7k/p1Pb2p1/7p/1pb5/6N1/1BP4P/PP5P/4Rr1K w - - 1 29,e1f1 d7c6 b3d5 c6d5 f1f3 d5f3,823,90,96,675,doubleBishopMate endgame long mate mateIn3,https://lichess.org/5Cmu3mSe#57,
+Jj7yU,7k/Bp5p/2b3p1/5n2/8/1BP1N1b1/PP2K3/8 b - - 4 34,f5d6 a7d4 g3e5 d4e5,891,156,82,276,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/Zy1kJglN/black#68,
+JmAwW,2q4k/7p/p2p2p1/1p1Bp3/4PbbB/2P2Q2/P1P4P/4R1K1 b - - 0 29,g4f3 h4f6,891,110,71,272,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/mrf693Ke/black#58,
+Jq3rh,r3kbnr/pp1n1pp1/2ppN2p/6B1/4P3/2N5/PPP1BPPP/R3K2R b KQkq - 0 10,f7e6 e2h5 g7g6 h5g6,890,103,100,58,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/byZCpo2r/black#20,Philidor_Defense Philidor_Defense_Exchange_Variation
+KDnG5,2b2k2/p4ppp/1b6/3B4/8/1P1P2P1/PB5P/7K w - - 2 25,d5c4 c8b7 c4d5 b7d5,820,90,95,972,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/E7CZiXxl#49,
+KFauE,5k2/p6B/b4p2/2b3p1/8/6P1/7P/4R2K w - - 0 31,e1c1 a6b7 h7e4 b7e4,860,89,82,486,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/hJhqD0TB#61,
+KKr51,r1b2r1k/ppp1nB1p/6p1/2b1pp1Q/3B4/P1N5/1PP2PPP/2KR3R b - - 0 17,g6h5 d4e5,813,103,85,617,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/ubnU6KJG/black#34,Italian_Game Italian_Game_Two_Knights_Defense
+KL7bY,b6k/7p/p5p1/5pB1/2BNp3/2P4P/1r4PK/8 b - - 2 40,b2b1 g5f6,830,92,89,591,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/4yHIHxAv/black#80,
+KUTvb,2kr1b1r/Bppn4/3p1n2/3P3p/6q1/2NB4/PPP2PPP/R3R1K1 b - - 0 15,b7b6 d3a6,803,101,84,647,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/JSrhBwlr/black#30,Latvian_Gambit_Accepted Latvian_Gambit_Accepted_Main_Line
+KZ4Ba,4r2k/1p1P3p/6p1/1p3p2/5B2/r3p3/BR4PP/6K1 b - - 0 29,e8d8 f4e5,854,92,73,131,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/QdasSO9f/black#58,
+KeQBf,1r3r1k/p6p/1p6/2bB1p1b/4pB2/P6P/1PP2P1K/R4R2 b - - 1 22,b8d8 f4e5 f8f6 e5f6,809,77,98,562,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/IkP4l6Xi/black#44,
+KgIs1,4Rr1k/p6p/3p1pp1/2pB1b1n/2P3qP/1PQ3P1/PB3P2/6K1 b - - 6 24,f8e8 c3f6 h5f6 b2f6,802,97,95,984,doubleBishopMate kingsideAttack mate mateIn2 middlegame sacrifice short,https://lichess.org/8kVFxZyI/black#48,
+Kn5Fs,1r3r1k/pp5p/2np2b1/3Bp1p1/1PP3q1/P1QPP1P1/1B4NP/R3K3 b Q - 2 21,c6e7 c3e5 d6e5 b2e5 f8f6 e5f6,886,87,85,668,doubleBishopMate fork long mate mateIn3 middlegame sacrifice,https://lichess.org/aDH1qHv7/black#42,
+KnAN4,4R2k/2pb3p/1p1p4/3B2p1/1BP2pP1/3PbP1P/6K1/8 b - - 0 32,d7e8 b4c3 e3d4 c3d4,846,88,91,1005,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/hfRU4H3H/black#64,
+Ksmxw,8/pp2kp2/7p/2bbB1p1/8/5PP1/PPP1N1KP/7r w - - 0 24,g2h1 d5f3,805,116,53,44,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/IjJF1iTo#47,
+KvpPt,r2q1r1k/pp2n1bp/6p1/2p1p1Q1/3pP2B/P6P/BPP2PP1/R4RK1 b - - 1 17,g7f6 g5f6 f8f6 h4f6,805,91,89,963,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/F7pw3IoO/black#34,Sicilian_Defense Sicilian_Defense_Closed
+KyLBC,r2k2nr/ppp4p/5pp1/4b3/4P1b1/2N5/PPPB2PP/R3KB1R w KQ - 2 12,h2h3 e5g3,862,86,82,807,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/KSHP3zM6#23,Modern_Defense Modern_Defense_Pseudo-Austrian_Attack
+L2bRq,3r3k/p6p/2pR2pn/4p3/1P4b1/PB4P1/1BP3KP/8 b - - 0 30,d8d6 b2e5 d6f6 e5f6,872,98,85,342,doubleBishopMate endgame fork mate mateIn2 short,https://lichess.org/XGG7kryc/black#60,
+L2qS7,2bk1r2/rp2b1pp/4pn2/PB1pp3/8/2P1B3/5PPP/RN3RK1 b - - 1 20,a7a8 e3b6,869,95,83,360,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/HFEmKHHz/black#40,
+L5xTB,r2qkb2/1p1np1p1/p1p5/7b/3PBB2/4P3/PPPN1P2/R2QK3 b Qq - 1 15,h5d1 e4g6,828,90,85,347,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/IydWzMgO/black#30,Queens_Pawn_Game Queens_Pawn_Game_London_System
+L8SjD,r3k2r/pp1b1ppp/4p3/8/1b1P4/8/PP2BPPP/R1BK3R w kq - 3 13,a2a3 d7a4 b2b3 a4b3,866,108,52,554,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/td9gkCNK#25,Queens_Gambit_Declined Queens_Gambit_Declined_Semi-Tarrasch_Defense
+LAU9C,4kb1r/1pB1pppp/1p6/3p4/3P4/3BP3/PP1K1nPP/n5NR b k - 0 17,f2h1 d3b5,898,132,61,306,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/L6gO7iYj/black#34,Slav_Defense Slav_Defense_Exchange_Variation
+LI3yU,2b4k/6pp/p3q3/1pbB1N1Q/2p2P2/P5P1/1P5P/7K w - - 0 35,d5e6 c8b7 e6d5 b7d5 h5f3 d5f3,865,101,64,1363,doubleBishopMate endgame long mate mateIn3,https://lichess.org/m0Jg5qOq#69,
+LKpuH,r4n1k/pp2BB1p/3p4/3P4/P1p5/4pP1P/1b6/1R2K3 b - - 1 30,c4c3 e7f6,804,91,96,443,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/Z5nWx4vs/black#60,
+LNXbv,6k1/2b2ppp/2P5/8/4bP2/4B1P1/P2r3P/5BK1 w - - 0 32,e3d2 c7b6 d2e3 b6e3,860,87,83,602,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/eVaphbHT#63,
+LRqhD,r3kbnr/pp1n2pp/1qp5/3pp1B1/8/1P2PB2/P1P2PPP/RN1Q1RK1 b kq - 1 10,h7h6 f3h5 g7g6 h5g6,847,78,100,182,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/pRQQNM6E/black#20,Queens_Pawn_Game Queens_Pawn_Game_Other_variations
+LU7BE,r3k2r/pp3ppp/2p2n2/4b3/4P1b1/2N5/PPPB2PP/R3KB1R w KQkq - 0 15,h2h3 e5g3,802,88,95,828,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/3SAH3i1D#29,Czech_Defense Czech_Defense_Other_variations
+LdV8x,N1bk2nr/pp3p2/2n3p1/3pp3/2B1P3/6P1/PPPP1bP1/R1BK1R2 w - - 0 13,c4d5 c8g4,808,78,89,333,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/NpJy2YVQ#25,Vienna_Game Vienna_Game_Stanley_Variation
+Lhwu3,rn2qbkr/pp4pp/2p1Q3/3B4/8/8/PPPP1PPP/RNB1K2R b KQ - 0 11,e8e6 d5e6,874,254,-50,7,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/1vBU5344/black#22,Russian_Game Russian_Game_Damiano_Variation
+LiRyw,rn1q1rk1/2p1bpp1/1p2p2B/p3P3/3P3P/2P2N2/b1PQ2P1/2KR1B1R w - - 0 15,h6g5 e7a3,809,78,87,295,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/KBAFJsKr#29,Alekhine_Defense Alekhine_Defense_Other_variations
+LkQ0C,2kr1b1r/Bppbpppp/8/3n4/8/3B4/PPP2PPP/RN3RK1 b - - 0 12,b7b6 d3a6,860,100,68,252,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/GHONotHf/black#24,Zukertort_Opening Zukertort_Opening_Tennison_Gambit
+Lkrt3,r2qkbnr/pppbp3/2n2p2/3p2pp/3P4/3BPNBP/PPPN1PP1/R2QK2R b KQkq - 2 8,h5h4 d3g6,899,87,85,220,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/uYklcnWt/black#16,Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation
+LpG9z,r7/p1p2kpp/5p2/8/3P1Nb1/2P3P1/PP1Brb1P/RN5K w - - 5 20,f4e2 g4f3,826,85,91,1058,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/FwGd7vWg#39,
+LryXl,rn5k/pppb3p/6p1/3B2B1/4N1q1/3P4/PPP2P2/4RK2 b - - 6 24,b8c6 g5f6,876,100,37,99,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/b8dTYjlf/black#48,
+LuzZt,1r4k1/pb1r1p1p/3P2p1/2p5/2Qb4/1P3qB1/P5PP/3R3K w - - 0 25,g2f3 b7f3,827,111,74,240,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/VUf2TCdL#49,
+M3oZ3,1R4b1/p1B3pk/4P2p/8/P2b2P1/8/7P/7K w - - 1 33,e6e7 g8d5,865,103,70,390,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/k4Damp6V#65,
+M57y6,r1b1k2r/pp3p1p/2p5/4p3/4P3/1P6/1PPP1bPP/R1BK2NR w kq - 0 12,g1h3 c8g4,843,78,89,483,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/Usax3Ccs#23,Vienna_Game Vienna_Game_Anderssen_Defense
+M8BLC,4Q3/p5qk/1p1p1p2/3B4/3pPP2/4b1P1/PP2b2P/5R1K w - - 9 29,f1e1 e2f3,811,84,78,274,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/Eo1Z0v9O#57,
+MEctm,r2qkb1r/1ppbn3/p3p1Qp/3pP1B1/8/3B4/PPP2PPP/RN3RK1 b kq - 0 12,e7g6 d3g6,832,81,90,646,doubleBishopMate master mate mateIn1 oneMove opening,https://lichess.org/xNL40aVU/black#24,French_Defense French_Defense_Advance_Variation
+MH9G7,8/8/8/1k6/pp4rB/8/2K5/5B2 b - - 15 51,b5a5 h4d8,853,89,100,86,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/74UXSUg5/black#102,
+MRaEa,k1q3Q1/p7/2r5/4B3/5P2/5BP1/P7/K7 b - - 3 69,c8g8 f3c6,828,145,76,209,doubleBishopMate endgame hangingPiece mate mateIn1 oneMove,https://lichess.org/XpkWoxFn/black#138,
+MRvaI,2r5/7k/2B1P1pp/1pb1B3/2b5/6P1/7P/1R5K w - - 3 37,c6d7 c4d5,813,175,60,27,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/HhVfKuHh#73,
+MUqz8,1k2r3/p4pp1/2p4p/4p3/4b2B/3rb3/PPP3PP/RK5R w - - 0 20,c2d3 e4d3,829,139,78,244,doubleBishopMate endgame mate mateIn1 oneMove queensideAttack,https://lichess.org/OB4E8JBS#39,
+Mao42,r3rk2/pb2bppB/1p2p2p/3n4/4N3/5P2/PP1B1P1P/R3R1K1 b - - 0 23,g7g6 d2h6,825,82,90,390,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/LmtsHiIc/black#46,
+Metdr,2br2k1/7p/p2pp1p1/8/2P2P2/P2B2P1/1Pp2b1P/R1B4K w - - 0 23,d3c2 c8b7 c2e4 b7e4,821,77,95,249,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/Z6JJhh6W#45,
+MjOsE,6k1/p5pp/1bb5/4B3/4P3/2r3P1/P6P/3R3K w - - 0 25,e5c3 c6e4,863,119,76,319,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/nSYQ5EhY#49,
+MkVQe,7R/1b3p2/6p1/2bP3p/5Bk1/P5P1/3r3P/4R2K w - - 9 41,f4d2 b7d5 e1e4 d5e4,865,100,84,656,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/xPO6T4lc#81,
+Mr71s,3r3r/2k3p1/Pp2pp2/1P1pPbPp/5P2/8/2PB1b1P/R2QR2K w - - 1 25,e1f1 f5e4 d1f3 e4f3,833,102,85,239,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/hURA6Zcd#49,
+MraC6,7k/1q4pp/1bN1Ppb1/pB6/8/1P4P1/PBP4P/3rQ2K w - - 3 32,e1d1 g6e4 d1f3 e4f3,829,76,100,401,doubleBishopMate master mate mateIn2 middlegame short,https://lichess.org/90ub06Ne#63,
+MwCt1,1k5N/1bp5/p1q1B2p/P1b5/1p3Q2/5p2/NPP3PP/R3R2K w - - 1 26,g2f3 c6f3 f4f3 b7f3,861,91,81,639,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/qlXlISxg#51,
+MxEQ1,r2qkbnr/pp1np1p1/2p2p1p/3pPb2/3P3B/3B1N2/PPP2PPP/RN1QK2R b KQkq - 1 7,f5g4 d3g6,847,82,91,615,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/LgqVoM39/black#14,Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation
+N6mCN,r3r2k/6bp/6p1/8/p2R3P/P7/BPq2BP1/3R2K1 b - - 1 31,g7d4 f2d4 e8e5 d4e5,852,85,87,700,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/IUl4yEOE/black#62,
+N6qae,r3kbnr/pp2pppp/1B6/3p4/5P2/3B1b2/PPP3PP/RN3RK1 b kq - 0 10,f3g2 d3b5,838,78,100,284,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/OvUEY0cN/black#20,Caro-Kann_Defense Caro-Kann_Defense_Other_variations
+NHnsc,2r4k/7p/1p1p2p1/p4pB1/5P2/2b4P/B5P1/4Q1K1 b - - 0 39,c3e1 g5f6,802,109,100,53,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/Gw8qS1EW/black#78,
+NKckC,7k/7p/3b2p1/BPn2p2/2B5/1P2N1PP/5P1K/1q6 b - - 0 37,c5b3 a5c3 b3d4 c3d4 d6e5 d4e5,878,83,86,1792,doubleBishopMate endgame long mate mateIn3,https://lichess.org/MXev9ZIh/black#74,
+NQ20F,r6k/pp2p2p/4B1p1/1PP5/3b4/6BP/P2r1PP1/4R1K1 b - - 2 29,d4c5 g3e5,866,95,65,391,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/wBqm5AvD/black#58,
+NRjz3,2kr3r/Bppb1ppp/p2p2n1/8/4P3/P1PB3P/2PR2P1/2K4R b - - 0 18,b7b6 d3a6,804,115,100,73,doubleBishopMate mate mateIn1 middlegame oneMove queensideAttack,https://lichess.org/Pjgh5Fez/black#36,Philidor_Defense Philidor_Defense_Exchange_Variation
+NXesj,2kr1b1r/B1pq1ppp/1p2p3/2PPnb2/8/P7/1P2BPPP/R2QK1NR b KQ - 0 12,f8c5 e2a6,864,152,52,79,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/aZFs8eLQ/black#24,Scandinavian_Defense Scandinavian_Defense_Modern_Variation
+NlbmG,rq1r3k/4nB1p/p2p1bp1/6P1/Rn6/8/3N1B1P/5RK1 b - - 0 26,f6g5 f2d4 g5f6 d4f6,869,129,52,206,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/QM72OZ6B/black#52,
+NvL2h,6k1/3b1r1p/5p2/1pb5/5PpQ/7r/6PP/1R1R3K w - - 6 32,g2h3 d7c6 d1d5 c6d5,860,104,78,1000,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/1qEcgbY2#63,
+NvvRW,rnb2bkr/ppp3pp/8/4p3/8/8/PPPP1P1P/R1BQKBq1 b Q - 1 11,g1h2 f1c4 c8e6 c4e6,816,90,83,259,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/ApUGcXhs/black#22,Elephant_Gambit Elephant_Gambit_Paulsen_Countergambit
+Nx9CO,4r2k/2R2B1p/6p1/1p2b1B1/p7/3r2PP/P6K/8 b - - 0 40,e5c7 g5f6,862,104,63,1142,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/ZPR396EK/black#80,
+Ny5d3,3rr2k/R3n2p/3p2p1/8/2BbP3/1P3P2/P2B2PP/5R1K b - - 8 24,d4a7 d2c3 a7d4 c3d4,819,95,94,1220,doubleBishopMate master mate mateIn2 middlegame short,https://lichess.org/stkHsIvC/black#48,
+OGrvM,2kr2r1/Bppb1p2/4p1p1/3n3p/7P/8/PPP1BPP1/2KR3R b - - 0 21,b7b6 e2a6,860,105,82,626,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/5lAemfQh/black#42,
+OZrg4,2kr1bnr/Bppb1ppp/p7/8/8/5N2/PPP1BPPP/R3K2R b KQ - 0 12,b7b6 e2a6,812,119,88,165,doubleBishopMate mate mateIn1 middlegame oneMove queensideAttack,https://lichess.org/nikFCWoz/black#24,Center_Game Center_Game_Kieseritzky_Variation
+OgKWs,3R3r/p1B1kp1p/1np1p1p1/2b1P3/5P2/6P1/bP2N2P/5R1K w - - 2 23,d8h8 a2d5 f1f3 d5f3,858,98,81,451,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/XnHdfxOF#45,
+Oij4w,1r3r1k/2qbp2p/5Rp1/3B4/3Q4/2B3PP/1P5K/8 b - - 0 29,e7f6 d4f6 f8f6 c3f6,838,129,89,118,doubleBishopMate mate mateIn2 middlegame sacrifice short,https://lichess.org/iVaLZEHG/black#58,
+OjWj5,5r1k/rb5p/pR2B1p1/1p6/4n3/4B3/PbP2PPP/3R2K1 b - - 1 20,e4c3 e3d4 f8f6 d4f6,899,90,76,209,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/VW4038Px/black#40,
+Ook6w,2k5/ppp2ppp/3b1n2/B7/2P5/1P3N2/P1bN1PPP/K3rB1R w - - 3 21,f3e1 d6e5 a5c3 e5c3,847,112,70,845,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/URLTrml0#41,
+OpTM2,rn1qkbnr/ppp1p3/5p2/3p3p/3P2b1/2PBPNB1/PP3PP1/RN1QK2R b KQkq - 1 9,b8d7 d3g6,868,94,95,771,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/hd4OoEuo/black#18,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+Oq86i,6R1/p7/8/8/2P4k/3bbB2/PP6/K7 w - - 5 43,b2b3 e3d4,865,94,71,283,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/ySBVToOb#85,
+OqjH4,rn2k2r/pp2b1pp/8/2p1Pp2/4pPb1/8/PPPN2PP/RNB1KB1R w KQkq f6 0 11,h2h3 e7h4 g2g3 h4g3,855,91,84,731,doubleBishopMate mate mateIn2 opening short,https://lichess.org/m93BoQpk#21,Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit
+P2hwG,1k5B/1pp5/1bn1B3/7p/1P6/2P2P2/P3b2P/R2R3K w - - 3 32,d1e1 e2f3,844,98,87,395,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/SBKuM0wc#63,
+PA63t,2kr1b1r/Qpp2ppp/8/2qn4/8/3P4/PP1Nb1PP/R3NBKR w - - 1 15,a7c5 f8c5 d3d4 c5d4,884,125,76,266,doubleBishopMate mate mateIn2 opening short,https://lichess.org/9l5NjsVm#29,Bird_Opening Bird_Opening_Other_variations
+PDFOc,r1bqkb1r/pp1np1pp/2p1pn2/3p2B1/3P4/2NB1N2/PPP2PPP/R2QK2R b KQkq - 5 8,h7h6 d3g6,806,89,64,392,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/Gx3CixEt/black#16,Caro-Kann_Defense Caro-Kann_Defense_Campomanes_Attack
+PDuMa,3r1br1/p6p/5k2/5p2/3p4/6P1/bPPNNP1P/2KR3R w - - 0 21,b2b3 f8a3,886,158,78,118,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/RsseU8sj#41,
+PH2tL,B4bk1/7p/3p2p1/2pQ1q2/2P1n3/2B3P1/2P2P1P/4N1K1 b - - 1 27,f5d5 a8d5,846,78,80,144,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/DhFwWbRu/black#54,
+PYv0v,5r1k/ppbb3p/8/2p2N1Q/3P2P1/P1P4P/1P6/R4RBK w - - 2 37,f1e1 d7c6 d4d5 c6d5 e1e4 d5e4,818,89,91,692,doubleBishopMate exposedKing kingsideAttack long mate mateIn3 middlegame,https://lichess.org/9rDZ1HT1#73,
+PZhlc,2kr3r/Bppb2pp/5p2/4p3/2B5/2P5/PP1N1PPK/R7 b - - 0 17,b7b6 c4a6,836,90,93,588,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/XZWYIfN5/black#34,Italian_Game Italian_Game_Blackburne-Kostic_Gambit
+PcHpZ,2kr1b1r/pp1n1np1/2p4p/4P3/5B2/3B1N2/bPPNPP2/2KR3R w - - 0 16,b2b3 f8a3,831,83,72,127,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/tIzjq8vw#31,Dutch_Defense Dutch_Defense_Janzen-Korchnoi_Gambit
+PkB7h,r4rk1/ppp2p2/5p1Q/2b2B2/5Pb1/1P4P1/PB1n3P/3RR2K w - - 1 26,b2f6 g4f3,890,80,96,650,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/WMHovXnB#51,
+Pkvjr,r3k1r1/pp2bp2/1np5/8/4PPb1/2N5/PP1P2PP/R1B1KBNR w KQq - 0 17,h2h3 e7h4 g2g3 h4g3,868,84,79,2101,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/zgQS2SCH#33,Scandinavian_Defense Scandinavian_Defense_Other_variations
+PnO9V,r3k3/ppQnp2p/2p3p1/5bB1/2qbP3/P7/3N3P/5R1K w q - 0 21,d2c4 f5e4 f1f3 e4f3,847,118,88,273,doubleBishopMate master mate mateIn2 middlegame short,https://lichess.org/IEVT2aJs#41,
+PqR4R,5Bk1/2p2ppp/1b6/3b4/p3q3/5BP1/1P5P/R1Q2R1K w - - 2 29,f3e4 d5e4 f1f3 e4f3,849,157,85,242,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/wYgUvLSl#57,
+PtaYO,r4rk1/2q2ppp/p1p1b3/2pp2B1/8/2NP3P/PPP1QPPb/R3RK2 w - - 2 16,g2g3 e6h3,883,126,80,131,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/37pTmKhG#31,Sicilian_Defense Sicilian_Defense_Bowdler_Attack
+Pufen,6k1/pB3b1p/6pB/2rqp3/1Q1b4/1P4P1/P6P/5R1K w - - 9 32,b7d5 f7d5 f1f3 d5f3,843,94,87,358,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/b82lJAbR#63,
+Pwf6x,r2q1r1k/pp1bpB1p/5Np1/2p1Q3/P7/1P6/3P1PPP/B4RK1 b - - 0 18,e7f6 e5f6 d8f6 a1f6,846,82,85,539,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/QD3ZSzcZ/black#36,Sicilian_Defense Sicilian_Defense_Old_Sicilian
+PwgLx,6k1/6pp/p1p5/3p2P1/4b3/5r2/PP1B1bPP/R6K w - - 0 27,g2f3 e4f3,864,143,62,216,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/v2uESNLa#53,
+PyzIZ,8/3b1kpp/pb1B4/1p3P2/2p5/2P5/PPB3PP/7K w - - 0 29,g2g4 d7c6 c2e4 c6e4,851,86,76,242,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/EwrLHkjy#57,
+Pz1Pe,2k4B/ppp2p2/7p/6p1/2B3b1/5P2/PP1r1b1P/R3R1K1 w - - 0 19,g1h1 g4f3,827,94,86,503,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/iARO6YgL#37,
+PzEk3,5r1k/5pp1/1R5p/2p4b/2P5/3B1P2/5b1P/1Q5K w - - 0 24,b6b8 h5f3,878,81,93,404,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/NjTDAslE#47,
+Q3TMS,r1b1k1nN/ppp4p/2n5/3pp2p/4P3/8/PPPP1bPP/RNBK3R w q - 0 10,h1f1 c8g4,832,117,89,118,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/0Ph2Dluk#19,Kings_Pawn_Game Kings_Pawn_Game_Wayward_Queen_Attack
+Q4vUv,r1b1qr1k/bpp1n1pp/p6Q/P7/2B1pn2/1N5P/1PPB2P1/R2R3K b - - 1 21,g7h6 d2c3 a7d4 c3d4 f8f6 d4f6,839,84,88,969,doubleBishopMate kingsideAttack long mate mateIn3 middlegame,https://lichess.org/dFWFqATJ/black#42,
+QKUgU,r6r/p3kppp/R1q1p1b1/1Pb1P3/2p2P2/2Q3P1/1Pn1N2P/1N2R2K w - - 0 21,b5c6 g6e4 c3f3 e4f3,872,98,94,280,doubleBishopMate kingsideAttack master mate mateIn2 middlegame short,https://lichess.org/9J9cUf44#41,
+QNFfV,5bk1/pp1q3p/6p1/1Qp1B3/P2pB1b1/1P4P1/2P1P2P/6K1 b - - 1 21,d7b5 e4d5 g4e6 d5e6,897,77,98,578,doubleBishopMate endgame master mate mateIn2 short,https://lichess.org/UHqIvET0/black#42,
+QXBla,rnbk3r/pppp1Bpp/1b6/8/3PP1n1/2N2N2/PPP4R/R1B3K1 b - - 1 14,g4h2 c1g5,890,96,75,670,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/VpPUzYvI/black#28,Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit
+QXeBf,3r3k/p4B1p/1p4p1/2p3B1/3p4/8/PPP3PP/5K2 b - - 2 29,d8f8 g5f6,893,145,72,203,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/WI0fYUlV/black#58,
+QYnnQ,1n3r1k/rpp4p/3p2p1/p2Bp3/2P5/1PQ1P3/PBKN3P/4q3 b - - 6 26,c7c6 c3e5 d6e5 b2e5 f8f6 e5f6,862,85,87,1759,doubleBishopMate kingsideAttack long mate mateIn3 middlegame sacrifice,https://lichess.org/PKqLZJgh/black#52,
+Qhcot,2kr2nQ/pppb1p1p/3p4/n2Np3/2B1P3/8/PPPP1bPP/R1BK3R w - - 1 11,c4b3 d7g4,842,80,86,461,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/wU4QZfjR#21,Vienna_Game Vienna_Game_Stanley_Variation
+Qp3Vq,k2r4/pp3ppr/2Q5/5q2/PPp2B2/2P4P/6B1/5R1K b - - 0 31,b7c6 g2c6,811,101,90,501,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/jvbjSAyx/black#62,
+QpM9P,4r3/5pkp/1p4p1/5b2/8/1BP1b1P1/PP3N1P/3R3K w - - 1 32,f2d3 f5e4,850,98,84,658,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/SNfFa4p0#63,
+QpSeL,6k1/1b2r3/1p1p2qp/p1pP4/P2b1PP1/3B3P/1PP4B/3R1R1K w - - 0 33,d3g6 b7d5 g6e4 d5e4 f1f3 e4f3,848,87,86,885,doubleBishopMate exposedKing kingsideAttack long mate mateIn3 middlegame,https://lichess.org/XarJ79Iv#65,
+QrA11,1rb2k2/p4p1p/2np4/3Np3/2p1P3/8/PPPP1bPP/R1BK2NR w - - 0 13,g1h3 c8g4,832,79,90,544,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/xOVRpfSA#25,Vienna_Game Vienna_Game_Stanley_Variation
+QvoYo,r4rk1/1pp3pp/1p6/1N1P1b2/7q/PQ2p1P1/1P2Bb1P/R4R1K w - - 0 21,g3h4 f5e4 e2f3 e4f3,804,92,91,772,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/4vl4tSYk#41,
+Qzf2e,r4rk1/pp3pp1/1b5p/5b2/5P2/1Q4P1/PP2q2P/R1NR3K w - - 0 25,c1e2 f5e4 b3f3 e4f3,853,88,85,461,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/uFBUwkoC#49,
+R2nUX,3b3k/pp4pp/2b1B3/5p2/4pB2/8/P1P2PPP/6K1 b - - 1 29,g7g6 f4e5 d8f6 e5f6,814,125,79,268,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/WLduT3xV/black#58,
+RAatC,2krr3/ppp2p2/2pq1p2/7p/1b6/2NPB2P/bPPQ1PP1/2KR1B1R w - - 0 15,b2b3 b4a3,802,78,80,264,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/C3jgmC7e#29,Russian_Game Russian_Game_Stafford_Gambit
+RDgZD,6k1/4B3/8/pPP2b2/P4p2/2R1b2p/6PP/5R1K w - - 0 36,g2h3 f5e4 f1f3 e4f3,828,96,89,502,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/XZ73nKG3#71,
+RFQDM,1r6/b1p2p1k/B6p/p3P3/1P3Bb1/2P3P1/7P/RN1R3K w - - 1 32,d1d7 g4f3,838,87,91,1252,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/UpOFS84D#63,
+RHFUE,r3kbnr/pp2pppp/1B1p4/8/4P3/1B3b2/P3QPPP/RN3RK1 b kq - 0 11,f3e2 b3a4 e2b5 a4b5,881,81,88,784,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/0VG3inpS/black#22,Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit
+RP0Mi,7k/5B1p/3b4/p3p3/b4P2/P2PB2P/1rr2P2/R5K1 b - - 0 33,e5f4 e3d4 d6e5 d4e5,864,100,78,355,doubleBishopMate fork mate mateIn2 middlegame short,https://lichess.org/We5F9W0l/black#66,
+RPCGF,4rr1k/6bp/p5p1/1p1Bp1Q1/2P4B/P1R2P1q/1P3P2/6K1 b - - 1 30,g7f6 g5f6 f8f6 h4f6,862,101,64,1376,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/SMPmd2Dj/black#60,
+RWWwO,r2qkbnr/pp1np1p1/2pp1p2/7p/3P3B/2PB1P1P/PP3PP1/RN1QK2R b KQkq - 2 8,g7g5 d3g6,842,94,100,102,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/dkICm1tG/black#16,Queens_Pawn_Game Queens_Pawn_Game_Other_variations
+RZtqR,2rr2k1/6pp/1p3p2/pQ2p3/P1P1B1b1/3qb1P1/7P/BR2R2K w - - 0 28,e4d3 g4f3,862,102,81,338,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/4eZn4e91#55,
+RgAnr,4bk2/1p4pp/2P2p2/1P6/2B2P2/2BK4/6r1/8 b - - 0 43,b7c6 c3b4 c6c5 b4c5,861,91,80,1849,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/qMp9rAeD/black#86,
+RuEsu,r1bQ1r1k/1p2n2p/p3Bnp1/4p1B1/8/P7/1PP2PPP/R4RK1 b - - 0 17,f8d8 g5f6,830,78,95,1322,doubleBishopMate hangingPiece kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/rx0By49o/black#34,Queens_Pawn_Game Queens_Pawn_Game_Modern_Defense
+RxjxR,2r2rk1/1Q3B1p/p5p1/6B1/5n2/P7/1P3qP1/R6K b - - 0 32,g8h8 g5f6,869,87,67,437,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/Lk3mHvww/black#64,
+SFN0w,1r2k2r/3n3p/p1Q3p1/2b2b2/8/2N3P1/PP1P3P/R1B2R1K w k - 1 21,c3d5 f5e4 f1f3 e4f3,872,103,80,837,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/lMrWD7FW#41,
+SFgbm,4nn2/ppp4k/3p3p/5b2/5N2/1BQ3Pq/PP3b1P/R6K w - - 4 27,f4h3 f5e4 c3f3 e4f3,858,85,95,656,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/H0038MB2#53,
+SG5FP,8/p2b3k/7p/1p1B2p1/1Prb1P2/P5P1/4P2P/3R3K w - - 0 46,d5c4 d7c6 c4d5 c6d5 e2e4 d5e4,853,88,58,62,doubleBishopMate endgame long master mate mateIn3,https://lichess.org/ERfOgVb6#91,
+SHR3l,3kr2r/B1pbbnp1/BN1p1p1p/8/4PPP1/7P/PPP5/2K1R2R b - - 0 18,c7b6 a7b6,817,126,61,293,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/1IuOcCz8/black#36,Kings_Pawn_Game Kings_Pawn_Game_McConnell_Defense
+SHvGD,r3kb1r/1bqn2p1/p2ppn1p/1p2P2Q/7B/2N5/PPP1BPPP/2KR3R b kq - 1 13,f6h5 e2h5 g7g6 h5g6,832,92,90,858,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/nt8oel4g/black#26,Sicilian_Defense Sicilian_Defense_Najdorf_Variation
+SKT2v,r1bqkb1r/pp1np1pp/2p2n2/3p2B1/3P4/2NB1P2/PPP3PP/R2QK1NR b KQkq - 1 8,h7h6 d3g6,865,97,77,709,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/DRA5jXZ5/black#16,
+SRZ4N,4kb2/2pb4/2p1p3/N2pP2p/3P3B/2P2B2/P4K1P/R5r1 b - - 0 25,g1a1 f3h5,867,95,40,146,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/HrbOT6CK/black#50,
+ScCEu,2kr1n1R/Bpbqn1p1/2pp1pb1/4p3/1PB1P3/P2P1r2/2PQNP2/2K4R b - - 0 21,b7b6 c4a6,878,101,59,786,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/ppBmpgA8/black#42,
+SjMcT,r3kb1r/p2n2pp/b1p5/4p1B1/Ppp5/4P3/NP2BPPP/R3K2R b KQkq - 1 16,h7h6 e2h5 g7g6 h5g6,840,78,97,468,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/RqoBnbhL/black#32,Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense
+SuY0i,r1bqkbnr/pp1npp2/2p4p/3pB1p1/3P4/3BPN2/PPP2PPP/RN1QK2R b KQkq - 1 6,f7f6 d3g6,823,82,86,276,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/3494LDxD/black#12,
+Svm3b,4r2k/b3B2p/p6r/3Bp3/2P5/6p1/P5K1/7R b - - 1 38,h6h1 e7f6,874,99,60,491,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/E0tfSWxP/black#76,
+TDZT9,r4rk1/pp3ppb/n2p3p/2pP4/2Pb2P1/P4PB1/1P2B2P/R1K3NR w - - 5 22,e2d1 d4e3,834,98,91,1142,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/TG9SHzyE#43,
+TE16b,rn2k2r/ppp3pp/3bp3/3p2q1/6b1/1PN1Q3/P1PP4/R1B1KB1R w KQkq - 0 13,e3g5 d6g3,899,147,74,347,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/8PWFJG0d#25,Zukertort_Opening Zukertort_Opening_Lisitsyn_Gambit
+THpVL,2q1b2k/4B1bp/5Qp1/4p3/p3P3/P1N4P/BPPr1PP1/R5K1 b - - 0 27,g7f6 e7f6,805,106,95,277,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/DPTTUsEd/black#54,
+TJIvF,4N1k1/5p1p/2B3p1/8/p1bb4/6P1/7P/4R2K w - - 0 29,c6a4 c4d5 e1e4 d5e4,834,104,95,1927,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/hEv7lZvS#57,
+TRAhp,2kr2r1/1p5p/1p2b3/2b1B3/8/6P1/PP2B2P/2R1R2K w - - 3 26,b2b4 e6d5 e2f3 d5f3,812,87,96,1067,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/fGYIVVMJ#51,
+TRzwr,6k1/1b4p1/p3pp1p/1pB2n2/3p4/P2QbP2/1P4PP/1B5K w - - 4 38,g2g4 b7f3,863,91,82,528,doubleBishopMate endgame kingsideAttack mate mateIn1 oneMove,https://lichess.org/TAYKDS2e#75,
+TTu4B,6k1/1b5p/2q4p/p2Np3/2Pb4/1P4P1/P6P/R2RQ2K w - - 1 33,a1b1 c6d5 c4d5 b7d5 e1e4 d5e4,866,92,84,1325,doubleBishopMate long mate mateIn3 middlegame sacrifice,https://lichess.org/xF581zEG#65,
+TYXVj,3r1R1k/1p5p/pqb5/2p5/2B5/PPn2N1P/2P2PPB/R6K b - - 0 32,d8f8 h2e5 f8f6 e5f6,848,105,85,792,doubleBishopMate fork mate mateIn2 middlegame short,https://lichess.org/yeZKL5C5/black#64,
+ToXWG,5rk1/5ppp/p1b1p3/8/1pP5/4bPN1/P1B1Q2P/4q2K w - - 0 28,e2e1 c6f3,832,129,92,179,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/BFceaYnz#55,
+Trf01,2r4k/pn4pp/1p3Qb1/7q/PP2P3/1BB2P2/6PP/3R2K1 b - - 0 29,g7f6 c3f6,861,92,81,718,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/ABiVcL08/black#58,
+TtIAd,3R4/p1p3kp/1pb1p1p1/4p3/n3P3/2N1bP2/6PP/4BK2 w - - 0 32,c3a4 c6b5 d8d3 b5d3,870,81,85,1266,doubleBishopMate endgame fork mate mateIn2 short,https://lichess.org/97QC0yd8#63,
+TwKOJ,r2q1rk1/pp1nbppp/2p3b1/3pP3/3N1P2/1P6/PBPNP1PP/R2QKB1R w KQ - 6 11,h2h3 e7h4 g2g3 h4g3,865,92,92,387,doubleBishopMate mate mateIn2 opening short,https://lichess.org/nNSNtAYB#21,Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Indian_Variation
+U1zHy,8/1b6/3kpN2/1P4P1/3b4/3P1p2/6PP/1R5K w - - 0 40,g2f3 b7f3,801,95,70,311,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/OTXDUkFd#79,
+U3n52,8/5pkp/6p1/8/8/3p1P2/PPbB1bPP/K1R5 w - - 7 39,b2b3 f2d4 d2c3 d4c3,800,93,86,544,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/2bzatOrZ#77,
+U6koo,r1b4k/ppp2B1p/2np4/4ppBQ/4P2q/3P4/PPP2b1P/R4KN1 b - - 3 15,h4h5 g5f6,804,84,81,86,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/ypqFliG3/black#30,Italian_Game Italian_Game_Giuoco_Pianissimo
+UL0UM,3b4/4kppp/1pB1pn2/1PP5/5P2/4B1P1/6KP/8 b - - 0 41,b6c5 e3c5,859,165,88,239,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/hngeOqQD/black#82,
+UUfeZ,r1b2bkr/1pp3pp/p7/4p3/4N3/8/PPnPBPPP/R1BK3R b - - 1 13,c2a1 e2c4 c8e6 c4e6,844,83,90,789,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/O6jrQbP5/black#26,Scandinavian_Defense Scandinavian_Defense_Modern_Variation
+UZVh0,r3kbnr/ppB1pppp/6b1/8/2B1P3/2N5/PP1K1PPP/n5NR b kq - 0 10,a8c8 c4b5,896,81,89,601,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/BJlo3W3Y/black#20,
+UaNVW,rkb1qb1r/pp4p1/3QPn1p/3B1p2/4PB2/2N5/PPP2PPP/R3K2R b KQ - 0 15,f8d6 f4d6,890,104,74,198,doubleBishopMate mate mateIn1 middlegame oneMove queensideAttack,https://lichess.org/3oevCIFN/black#30,Italian_Game Italian_Game_Rousseau_Gambit
+UgIEV,r2qk3/ppp1bprp/5P2/3p3b/5P2/2N4P/PPPB2P1/R3KB1R w KQq - 0 14,f6g7 e7h4 g2g3 h4g3,822,77,99,977,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/POp6DKvA#27,Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation
+Umofk,r3r1k1/1b1p1ppp/ppq1p1n1/2b5/P3PP2/2PB2P1/1P2N2P/R1BQ1R1K w - - 1 16,b2b4 c6e4 d3e4 b7e4 f1f3 e4f3,859,94,68,1815,doubleBishopMate kingsideAttack long mate mateIn3 middlegame sacrifice,https://lichess.org/24I4TmdY#31,Sicilian_Defense Sicilian_Defense_Closed
+UnhWt,r3kbnr/pp1n1p2/2p1Q1p1/3p2Bp/7P/2pB1P2/PPP2P2/2KR3R b kq - 0 15,f7e6 d3g6,846,115,81,336,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/cYZwg86z/black#30,Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation
+Uq3kZ,r5k1/pp3p1p/3p2pB/4bb2/5q2/2N5/PP1KB3/R2QR3 w - - 4 22,h6f4 e5f4,807,80,100,627,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/FHMiO5Gv#43,
+UqoUw,r2qkb1r/pp1np3/5p2/3p2pp/3Pb3/3BPNBP/PP3PP1/R2QK2R b KQkq - 0 12,e4f3 d3g6,849,86,85,523,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/AzlO38nz/black#24,Slav_Defense Slav_Defense_Other_variations
+Uxnrq,4r2k/p6p/4B1p1/q1P1b2P/5Q2/2P1B3/P4P1P/5RK1 b - - 1 26,e5f4 e3d4 f4e5 d4e5,866,107,74,399,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/Qc6AW3W4/black#52,
+UznND,r3kbnr/ppB1pppp/8/8/8/2N2N2/PP3PPP/1b2KB1R b Kkq - 0 11,a8c8 f1b5,874,79,98,1216,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/DhTZzDu1/black#22,Scandinavian_Defense Scandinavian_Defense_Main_Line
+V4a0e,1rr4k/6pp/5Qb1/3B4/P7/1q4P1/2p1PP1P/B4RK1 b - - 0 31,g7f6 a1f6,852,108,79,1604,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/Q4kzv87Y/black#62,
+V7bQH,r1bR3k/p6p/2p1Bbp1/2n1pp2/8/4P1B1/PPP2PPP/5RK1 b - - 6 21,f6d8 g3e5 d8f6 e5f6,838,149,70,253,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/LNgmA4Jn/black#42,
+VA6xu,r1bqk2r/1p1nb1Bp/p2pp3/6p1/4PP1P/2N5/PPP1B3/R2QK2R b KQkq - 0 13,h8g8 e2h5,857,79,82,405,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/WiANUlTL/black#26,Sicilian_Defense Sicilian_Defense_Scheveningen_Variation
+VArvH,r3k2r/pp2bppp/8/2pp4/5Pb1/3P4/PPPB2PP/R3KB1R w KQkq - 2 13,h2h3 e7h4 g2g3 h4g3,856,97,83,357,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/HNqPQ4p0#25,Sicilian_Defense Sicilian_Defense_Grand_Prix_Attack
+VXusi,6kr/ppp1B1pp/4b3/4b3/6Q1/2P1q3/PP4PP/RN3B1K b - - 0 20,e6g4 f1c4 g4e6 c4e6,841,142,77,214,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/RAhv6RwQ/black#40,
+Vb0az,8/2R3pp/1k3p2/pbp5/3b2P1/1Br3B1/P6P/3R3K w - - 4 31,c7g7 b5c6 b3d5 c6d5,863,108,77,677,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/bBC9WGiM#61,
+VimCd,r2qkb1r/1b1np2p/p3p1Q1/1ppp4/5B2/2PBP3/PP1N1PPP/R3K2R b KQkq - 0 12,h7g6 d3g6,808,119,73,141,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/wjQnoBvr/black#24,Queens_Pawn_Game Queens_Pawn_Game_London_System
+Vkarl,1r2kb1r/pp1b2p1/2n1p2p/2Pp1p2/N2P1PQB/3B4/P5PP/1R2R1K1 b k - 0 20,f5g4 d3g6,898,92,74,1031,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/ci6RIEdD/black#40,
+VpTZQ,4R1kr/pp1n2pp/2pB1n2/8/8/P1P5/2P3PP/2K2B1R b - - 0 18,f6e8 f1c4,860,102,83,306,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/RV9JdlgI/black#36,Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Lemberger_Countergambit
+VuWqP,r2q3k/1b1p3p/2n3p1/1pPB1p2/1P1Q1B2/8/6PP/4R1K1 b - - 0 29,c6d4 f4e5 d8f6 e5f6,866,98,80,1160,doubleBishopMate fork mate mateIn2 middlegame short,https://lichess.org/km58Kk8I/black#58,
+WB58o,r1b1r2k/ppp4p/8/4npB1/6P1/1B4n1/P1P1R1P1/4K2R b - - 5 25,g3h1 g5f6,839,95,88,1984,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/XOs811EE/black#50,
+WD4ZP,r2qkbn1/pppbp3/7B/3p3p/1n1P4/3QP2P/PPP1BPP1/RN3RK1 b q - 0 11,b4d3 e2h5,885,87,92,340,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/v6SSgGbW/black#22,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+WDQBv,2kr3r/B1pn1ppp/1p6/3npb2/3P4/P7/2PNBPPP/R4RK1 b - - 0 15,e5d4 e2a6,860,98,83,521,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/nkf6apb3/black#30,Scandinavian_Defense Scandinavian_Defense_Main_Line
+WK8dQ,r1bqkb1r/pp1np2p/2p2pN1/3p2Bn/3P1P2/1N1BP3/P1P1Q1PP/R4RK1 b kq - 0 15,h7g6 d3g6,826,85,90,352,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/0ZBN73hp/black#30,Queens_Pawn_Game Queens_Pawn_Game_Other_variations
+WL2or,2r4k/1pp4p/p2B2b1/1P6/P7/1B4P1/5r2/2R3K1 b - - 1 33,f2b2 d6e5,899,150,57,88,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/rFcd0kYB/black#66,
+WLBz1,r3k2r/ppp2Rpb/8/4p1Bp/2qb2P1/8/PPP1Q2P/R6K w kq - 0 22,e2c4 h7e4 f7f3 e4f3,824,88,90,504,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/6fEGVc7i#43,
+WLVx8,r6k/1pp4p/p5p1/6Bb/4rP2/PB4KP/1P1p4/6R1 b - - 1 34,e4e1 g5f6,866,89,94,658,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/Z7e4Qamt/black#68,
+WMXyX,5rk1/5ppp/8/2q2bP1/3B1p1P/1P6/P2b4/K2RR3 w - - 0 39,d4c5 d2c3,851,95,85,544,doubleBishopMate endgame master masterVsMaster mate mateIn1 oneMove,https://lichess.org/KLK2Y020#77,
+WOnNt,b1r3k1/5ppp/Pb2pn2/1N6/2r5/Q1N2q2/1B4PP/R2R3K w - - 0 27,g2f3 a8f3,830,84,92,890,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/bviu5PyT#53,
+WXYZ3,r3kb1r/pppb2pp/3p4/3n2B1/3N4/3P4/PP1KBPPP/n6R b kq - 3 14,h7h6 e2h5 g7g6 h5g6,845,85,100,247,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/9DsdN9ma/black#28,Latvian_Gambit Latvian_Gambit_Other_variations
+WocGX,r3kbnr/ppB1pppp/8/8/8/2N2P2/PPnK1PPP/R4B1R b kq - 2 10,c2a1 f1b5,854,113,100,69,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/TpwLlXey/black#20,Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense
+X2Fkn,5rk1/pB1qQ2p/6p1/2pp4/3b1Bb1/3P2P1/P1P4P/4R2K w - - 4 23,e7d7 g4f3,846,92,91,1531,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/BqZbABZ8#45,
+X7KfK,8/1k5p/1pb2pp1/2b5/2r5/P1R2PP1/7P/1R5K w - - 4 31,c3c4 c6f3,879,134,56,243,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/9HIYWVNH#61,
+XEscI,2R5/6k1/1p4pp/3B1p2/2pb1P2/3b4/P6P/7K w - - 0 41,d5c4 d3e4,816,132,91,166,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/2sOMDkDa#81,
+XGDYX,7k/p6p/5bpn/2B2pN1/1P3P2/1B1P2KP/P1P3P1/1r3r2 b - - 4 25,f6g5 c5d4 g5f6 d4f6,858,105,83,898,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/14orqT0u/black#50,
+XO4WW,k1Rr1b1r/p4pp1/p5p1/8/4pBP1/PB5P/1P3P2/1K6 b - - 0 30,d8c8 b3d5 c8c6 d5c6,870,98,36,242,doubleBishopMate endgame mate mateIn2 queensideAttack short,https://lichess.org/Wr1QPFYB/black#60,
+XPwRM,2kr3r/Bppbqp1p/3pnn1Q/4bR2/2B1P3/8/PPP1N1PP/5R1K b - - 0 17,b7b6 c4a6,860,94,81,260,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/F0S2gVMh/black#34,Kings_Gambit_Accepted Kings_Gambit_Accepted_Blachly_Gambit
+XRwlS,1r2kbnr/pbB1pppp/B7/8/3P4/8/PP3P1P/RN2K1R1 b Qk - 0 12,b8c8 a6b5 b7c6 b5c6,860,108,69,630,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/GZscCIOv/black#24,Nimzowitsch_Defense Nimzowitsch_Defense_Scandinavian_Variation
+XSGXK,rnb1k2r/ppppb1pp/8/8/8/8/PPPP2PP/RNB2BKR w kq - 0 9,b1c3 e7c5 d2d4 c5d4 c1e3 d4e3,804,86,84,419,doubleBishopMate kingsideAttack long mate mateIn3 middlegame,https://lichess.org/aMw6eUM2#17,Russian_Game Russian_Game_Damiano_Variation
+XV4tW,3bk2r/1b3ppp/p3p3/2B5/1p4PP/8/PPP4R/2K2B2 b k - 3 20,a6a5 f1b5 b7c6 b5c6,856,127,69,264,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/DIeHEhsl/black#40,
+XYzNw,5rk1/p6p/2b3p1/1p1q4/P1nb1P2/1Q1B1P2/1P5P/R1B2R1K w - - 1 21,a4b5 d5f3 f1f3 c6f3,845,87,89,841,doubleBishopMate kingsideAttack master mate mateIn2 middlegame sacrifice short,https://lichess.org/XcjLC12r#41,
+XarA3,r6r/1p4pb/1qn1k2p/1p1NP2Q/8/8/PPP2b1P/R1B2R1K w - - 1 20,d5b6 h7e4 h5f3 e4f3,865,100,57,405,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/7v18oENH#39,
+XhCHw,k3r3/pp3Q1p/1qb2p2/8/4p3/1N1BbN2/PP4PP/RK5R w - - 0 24,d3e4 c6e4,870,78,91,969,doubleBishopMate hangingPiece mate mateIn1 middlegame oneMove,https://lichess.org/VdBQ2prr#47,
+Xhz2S,6k1/4nppp/p3b3/2b1Pp2/P1p2P2/1rP4r/2NP2PP/R1BR3K w - - 0 26,g2h3 e6d5,819,77,100,706,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/gR4d7o29#51,
+XlhbI,r4rk1/1p5p/p1bB2p1/3N4/8/3B2P1/PP3b1P/2RQ3K w - - 2 25,d6f8 c6d5 d3e4 d5e4 d1f3 e4f3,882,83,87,735,doubleBishopMate hangingPiece long mate mateIn3 middlegame,https://lichess.org/H9mRYsTT#49,
+Xr2Pv,2Q2r1k/b6p/8/8/2B1n3/BP5P/P5K1/8 b - - 0 41,f8c8 a3b2 e4c3 b2c3 a7d4 c3d4,835,83,90,161,doubleBishopMate endgame long mate mateIn3,https://lichess.org/goAtjmes/black#82,
+XyCGE,r2qk2r/4bppp/p7/1p1pp1Pn/4P2P/PP1BBN2/b1PQ1P2/2KR3R w kq - 0 18,f3e5 e7a3,861,93,84,1443,doubleBishopMate mate mateIn1 middlegame oneMove queensideAttack,https://lichess.org/jdDEwo95#35,Sicilian_Defense Sicilian_Defense_Other_variations
+Y2XAt,2kr1b1r/Bppq2pp/2nppn2/1B6/8/2N5/PPPQ2PP/R4RK1 b - - 0 18,b7b6 b5a6,866,77,98,501,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/0ZZp0NxD/black#36,Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation
+Y9ta4,r6k/pb3Q1p/5p2/2b1pNr1/8/1Bp2qP1/PP5P/R4R1K w - - 0 22,f1f3 b7f3,839,90,89,507,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/RfZT9hos#43,
+YA4ge,r2bk3/pRn2p2/2b1p1p1/3pPnP1/2PP4/B7/4NK2/3B4 b q - 0 31,c6b7 d1a4 c7b5 a4b5 b7c6 b5c6,827,87,90,621,doubleBishopMate long mate mateIn3 middlegame,https://lichess.org/gm5vJ3SA/black#62,
+YE7sZ,8/4ppkp/1Np3p1/p4P2/3bP1P1/3b4/PPR4P/3B3K w - - 3 34,c2c6 d3e4 d1f3 e4f3,850,90,88,1246,doubleBishopMate endgame fork mate mateIn2 short,https://lichess.org/IMJep6rZ#67,
+YEJXR,2b3r1/p1N1kp2/2pp4/4p3/1Pp1P2N/6P1/P1PP1b1P/R1BK3R w - - 0 21,b4b5 c8g4 h4f3 g4f3,859,92,95,1539,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/q2iQ0BwT#41,
+YI9rF,7k/1b3p2/4p2p/2b1Pnp1/8/5r2/P2B2PP/R3R2K w - - 0 29,g2f3 b7f3,866,106,70,671,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/bZrptWDG#57,
+YQ23W,2r1k2r/1b1p1p1p/4p1p1/1p2P3/1P3P2/1QN2q2/P4bPP/R6K w k - 0 24,g2f3 b7f3,871,120,58,78,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/dZNlsuRG#47,
+YQL7X,6k1/5p2/1PR1b1pp/8/3bB3/8/7P/1r5K w - - 0 41,e4b1 e6d5 b1e4 d5e4,848,98,90,785,doubleBishopMate endgame fork mate mateIn2 short,https://lichess.org/miFvYI7G#81,
+YWRuU,6kr/p4ppp/1brNp3/4P3/2P2P2/BP1p2P1/P3b2P/R4R1K w - - 3 24,f1e1 e2f3,825,160,85,190,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/NGVIYuAd#47,
+YYx7T,r4b1k/pp1bR2p/8/3B1p2/5B2/2P5/PP4PP/7K b - - 2 25,f8e7 f4e5 e7f6 e5f6,834,93,89,1569,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/LreEbfwS/black#50,
+YgSbK,r3r1k1/ppp2ppp/2n5/2b1pP1b/6q1/P1PP2P1/1BP1N1BP/R2Q1R1K w - - 1 16,g2f3 g4f3 f1f3 h5f3,827,90,79,1155,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/G6YhvBXk#31,Alekhine_Defense Alekhine_Defense_Scandinavian_Variation
+Yha45,r4r1k/2p1n2p/1p4p1/1N3p1q/2B5/1Pb1B3/P1PR1P2/3R1K2 b - - 6 24,c3d2 e3d4 f8f6 d4f6,860,89,79,2627,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/bURc3809/black#48,
+YlFQT,2kr1b1r/Bppb1ppp/4p3/4n3/8/2P5/PPKN1PPP/R4B1R b - - 0 12,b7b6 f1a6,875,133,73,252,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/7akVatqD/black#24,French_Defense French_Defense_Steinitz_Attack
+YuRhs,r2r3k/ppp1nB1p/3b2p1/5pB1/3P2P1/P1P2R1P/1P6/5RK1 b - - 4 21,d8f8 g5f6,863,125,74,291,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/h6EQwyQO/black#42,
+YwEUJ,4N2k/8/1p2b1P1/p1b4p/4P3/1P4P1/P1P4P/4R2K w - - 1 30,e4e5 e6d5 e1e4 d5e4,824,91,86,571,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/TpEldzwE#59,
+Yy50L,5r1k/ppB1RB1p/2p5/5p2/1n6/5PPK/P1Pq3P/8 b - - 0 24,b4d5 c7e5 d5f6 e5f6,895,95,75,791,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/584Yn6Y2/black#48,
+Z65Mo,7k/7p/p5p1/8/3b4/1B1b1P2/P2B1PnP/3K4 b - - 8 35,d4f2 d2c3 f2d4 c3d4,866,124,76,389,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/Pz4aWN9X/black#70,
+ZDkia,8/1p2kppp/2b1p3/2b1Pn2/P1N2P2/5r2/1B4PP/R6K w - - 0 23,g2f3 c6f3,832,86,76,162,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/WmGhqqwo#45,
+ZEG4F,B7/p3Nppk/2pp3p/4n3/2b5/4b1P1/PP5P/R4R1K w - - 2 23,e7c6 c4d5 f1f3 d5f3,854,87,88,582,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/rGJ6Ay54#45,
+ZTtWM,r4r1k/p6p/1p4p1/1P1B1p2/3p1B2/P5P1/1n5P/R4K2 b - - 1 27,a8d8 f4e5 f8f6 e5f6,864,135,45,238,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/pE0aKc49/black#54,
+ZUJ7R,r3kbnr/2qb2pp/ppn1p3/2ppP1B1/1P1P4/P1P2N2/2B3PP/RN1Q1RK1 b kq - 2 14,h7h6 c2g6,812,79,100,436,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/GILI2klx/black#28,Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation
+ZV0w9,8/1p3pk1/6p1/pNb1P2p/P4P2/1P1b3P/5PP1/3B1K2 w - - 4 27,f1e1 c5b4 b5c3 b4c3,832,87,96,855,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/dulriFfd#53,
+ZYkmR,7k/5B2/Q3P3/1p3Rrp/1p1p4/P2Pb1P1/2P1b2P/7K w - - 3 34,f5g5 e2f3,827,86,91,823,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/fyorV28W#67,
+ZlxLy,5r1k/7p/6p1/8/2BB4/1P6/P1P2Pbb/2K5 b - - 1 27,f8f6 d4f6,836,148,56,64,doubleBishopMate endgame hangingPiece mate mateIn1 oneMove,https://lichess.org/4DZQE5Zm/black#54,
+ZobCO,r5k1/1b5p/3p4/pBbPpp2/PpN1P3/1P6/7P/2R4K w - - 0 28,e4f5 b7d5,874,93,85,146,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/lOTK1qbA#55,
+ZyBxW,rnbk1qQ1/pppp2p1/4p1B1/4P3/2PP4/2P5/P4P2/R1B1K1N1 b Q - 0 15,f8g8 c1g5,814,105,73,839,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/gdgv0oCw/black#30,Dutch_Defense Dutch_Defense_Classical_Variation
+a9gOk,5r1k/7p/6p1/R7/4p1bP/1BP1B3/Pb1K4/8 b - - 0 30,f8c8 e3d4,830,91,92,1161,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/G9PLuzdG/black#60,
+aA8i8,r4rk1/ppp1bppp/2n5/8/5Nb1/3P4/PPPB2PP/R3KBNR w KQ - 2 11,h2h3 e7h4 g2g3 h4g3,856,106,80,1119,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/IRLuaX0U#21,Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit
+aANQ4,r2qk1r1/1b1pb2B/p3p1QB/1p1n4/8/P4NN1/1nP2PPP/R3K2R b KQq - 1 18,g8g6 h7g6,810,77,70,178,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/LsNPH2qt/black#36,French_Defense French_Defense_Knight_Variation
+aH3Ws,r3k2N/p5pp/bbp2n2/n3p3/B2q4/2N5/PPP3PP/R1BQ2KR w q - 0 15,d1d4 b6d4 c1e3 d4e3,828,92,77,515,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/sdItY1sD#29,Italian_Game Italian_Game_Two_Knights_Defense
+aM0XT,r3kb1r/pp1n2pp/2pp4/6B1/8/2N2BPb/PPP2P1P/R3K2R b KQkq - 5 13,h7h6 f3h5 g7g6 h5g6,833,85,96,444,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/ZH5oBYow/black#26,Latvian_Gambit Latvian_Gambit_Other_variations
+aN6np,2k5/ppp2p2/5B2/2br4/6b1/2N3P1/PPP4P/4R2K w - - 0 25,c3d5 g4f3,850,89,78,498,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/HXtMSk6X#49,
+aPIkT,r2qQ2k/ppp4p/2n2bp1/6B1/2B5/2p4P/PPP2PP1/R4RK1 b - - 0 18,d8e8 g5f6,854,127,54,303,doubleBishopMate hangingPiece kingsideAttack master mate mateIn1 middlegame oneMove,https://lichess.org/ARHvN6ew/black#36,Zukertort_Opening Zukertort_Opening_Dutch_Variation
+aQgbf,rnbk3r/pppp1Bpp/8/4P3/3Nq3/8/PPP2K1P/RNB4Q b - - 0 11,e4h1 c1g5,885,76,99,860,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/5QaPwyrP/black#22,Bishops_Opening Bishops_Opening_Berlin_Defense
+aSezw,7k/3b1B1p/6p1/8/3b4/1P6/7P/5R1K w - - 0 33,f1d1 d7c6 f7d5 c6d5,861,134,54,84,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/9uWKmz0Z#65,
+aTWRi,8/3b1rkp/3p2p1/1p1B4/3b1B2/6P1/1P5P/1R5K w - - 0 32,d5f7 d7c6 f7d5 c6d5,891,76,97,362,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/yZi3cVAP#63,
+aUBUM,r3r1k1/ppp1bppp/8/4P3/5Pb1/1P6/P1PN2PP/R3KB1R w KQ - 1 14,h2h3 e7h4 g2g3 h4g3,866,83,83,2007,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/oZDsQkWr#27,Pirc_Defense Pirc_Defense_Other_variations
+aZdxh,2kr2nr/Bppbbppp/4p3/8/8/2NB1R2/PPP3PP/R6K b - - 0 13,b7b6 d3a6,835,88,92,330,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/3Pv62SRu/black#26,French_Defense French_Defense_Rubinstein_Variation
+afVCK,r3kbnr/p1pp2pp/bp6/4q3/3P4/1BP5/PP1N2PP/R2Q2KR w kq - 0 15,d4e5 f8c5,826,130,100,87,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/EvcvvEGK#29,Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit
+agVyl,r5k1/p4p1p/1p3Bp1/2p1n3/3bNPb1/3P2P1/P6P/1R1R3K w - - 1 27,f6e5 g4f3,879,78,97,760,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/ORWpLD8n#53,
+aishZ,r5kr/ppp3bp/8/4pp2/3qn3/BP6/P1PPB1PP/RN3Q1K b - - 8 16,d4a1 e2c4,837,88,90,1070,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/c7zsxCK2/black#32,Bird_Opening Bird_Opening_Other_variations
+ajXmH,6k1/pb4r1/2R2r1p/5Pp1/4P1B1/8/PP3b1P/3R3K w - - 0 32,c6f6 b7e4 g4f3 e4f3,874,157,77,187,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/kgr9b7Uv#63,
+am2KA,k2r3r/p6p/2pB4/2PR4/2B1p3/8/PP6/2K5 b - - 0 27,c6d5 c4d5,850,137,85,233,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/QAOMQAVr/black#54,
+anEbs,rnb4k/pp5p/3pp3/5Q2/2B5/4B3/PpP1K1P1/3R4 b - - 0 21,e6f5 e3d4,822,85,100,303,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/1g8uhyor/black#42,
+asEPP,2kr3r/Bppnq1p1/4p2p/3Pb3/4p3/6P1/PPPQB2P/2KR3R b - - 0 17,b7b6 e2a6,847,105,60,161,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/gWbX4nls/black#34,French_Defense French_Defense_Knight_Variation
+athi5,r3kb1r/pp1b2pp/1q2p3/2ppPnB1/8/2P5/PPQ1BPPP/RN3RK1 b kq - 4 12,h7h6 e2h5 g7g6 h5g6,861,81,85,4308,doubleBishopMate mate mateIn2 opening short,https://lichess.org/BQaQgSz3/black#24,French_Defense French_Defense_Advance_Variation
+b0IXg,3k1b1r/pB4pp/4p3/8/8/8/PP1BbPPP/6KR w - - 0 22,f2f3 f8c5 d2e3 c5e3,801,97,91,712,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/P1gN9LlT#43,
+b1n6E,2q2r1k/p1rp3p/1pn2pp1/3B1n2/2P2P2/1PQ1R3/1B3P1P/1R4K1 b - - 3 28,f5e3 c3f6 f8f6 b2f6,863,86,82,1604,doubleBishopMate kingsideAttack mate mateIn2 middlegame sacrifice short,https://lichess.org/PUc87Dmk/black#56,
+b2QGf,r4k2/ppp4p/1n6/4PP2/2bP4/4b3/PP5P/RN3R1K w - - 0 23,f1e1 c4d5,823,77,100,324,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/iU9f3MDI#45,
+b5HPU,6k1/p4pp1/1b4bp/4P3/1P3B2/P4BP1/7P/3r3K w - - 0 29,f3d1 g6e4 d1f3 e4f3,868,112,48,145,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/TM0KotxB#57,
+bNMzG,2kr3r/ppp1q3/3p1p1p/2b2P2/4PN2/6P1/bPPQ2BP/2KR3R w - - 0 18,b2b3 c5a3,872,83,77,465,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/La8Tc49w#35,Englund_Gambit Englund_Gambit_Other_variations
+bNqtW,rn1qk2r/ppp2pp1/5B1p/3p4/5bbP/1P2P3/P1PP4/RN2KBNR w KQkq - 0 11,f6d8 f4g3,875,80,95,620,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/rqRTOXyP#21,Bird_Opening Bird_Opening_Other_variations
+bSf2P,7k/p2qpB1p/5Q2/n1pNp1B1/2P5/7P/Pr6/5RK1 b - - 2 31,e7f6 g5f6,889,78,97,330,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/Aoz6zjqN/black#62,
+bcbI0,4r1k1/5p1p/2BB2p1/p7/3b4/1b4P1/7P/2R2R1K w - - 1 26,c6e8 b3d5 f1f3 d5f3,846,89,89,706,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/Le7MQkZp#51,
+bi1Z6,3Q4/2p3kp/p5p1/1p6/3P4/P1P1br2/1P2b1PP/R1B4K w - - 0 25,g2f3 e2f3,855,93,86,1257,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/karDSkjQ#49,
+bjXQ7,5r1k/1p2RB1p/p1bB1bp1/P1p5/2P3P1/7P/1P4P1/7K b - - 0 31,f6e7 d6e5 e7f6 e5f6,863,90,80,2060,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/mxgQ0GDy/black#62,
+bmKop,2k3r1/p1ppq1r1/1p5Q/2b1P3/5N2/3B4/bPPB3P/2KR1R2 w - - 0 22,b2b3 c5a3,863,96,79,1244,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/XMvVKqUw#43,
+buPDK,r1Q5/p1B3p1/k1p5/1p1q4/1bpP2Bn/4P3/PP3P2/R2K4 b - - 10 26,a8c8 g4c8,863,95,80,779,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/Afw6PD1r/black#52,
+bzV1P,r1bqkb1r/pp1np1pp/2pp1n2/6B1/3PB3/2N2N2/PPP2PPP/R2QK2R b KQkq - 3 7,h7h6 e4g6,817,87,95,355,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/fh5C1MU3/black#14,Rat_Defense Rat_Defense_Balogh_Defense
+c2aEd,r1b4k/pp2q2p/2p3p1/8/4p2P/1B2P3/P2B1PP1/R5K1 b - - 0 22,e7h4 d2c3 h4f6 c3f6,823,90,91,911,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/ZtxDlrtI/black#44,
+c3l0J,1r5k/p1p4p/1p3rp1/5p2/1PB2P1q/4P3/PB3Q1P/R2R3K b - - 0 23,h4f2 b2f6,865,101,69,354,doubleBishopMate hangingPiece kingsideAttack master mate mateIn1 middlegame oneMove,https://lichess.org/Uw8eMNXy/black#46,
+c3pkw,7k/1p2b2p/pB4p1/1n3p2/2B5/P4bP1/1PP1N2P/4K3 b - - 1 33,b5d6 b6d4 e7f6 d4f6,850,100,93,770,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/jEZVRU5E/black#66,
+cEZfW,2kr3r/Bpbn1ppp/4p3/1B1p4/8/P5PP/1PPR1P2/3R2K1 b - - 0 22,b7b6 b5a6,891,119,82,408,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/ZYN84uGH/black#44,
+cI3E8,3R4/pp3p1k/6pp/1P6/6b1/P2Bb1PN/2r4P/7K w - - 0 28,d3c2 g4f3,844,141,56,153,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/5rHJ4vJh#55,
+cKl5A,r2qkb1r/1b1np1pp/p2p1nQ1/1p1P2B1/8/2N2N2/PPB2PPP/R3K2R b KQkq - 3 13,h7g6 c2g6,872,90,62,179,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/BGygT2yc/black#26,Sicilian_Defense Sicilian_Defense_Alapin_Variation
+cNYIP,r6k/pp4pb/1q3R1p/3B2n1/1P4P1/2Q1P2P/PB6/6K1 b - - 0 25,g7f6 c3f6 b6f6 b2f6,844,77,97,3231,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/vKkgI5Lx/black#50,
+cRGA6,8/pb5p/2p1kp2/6p1/2P1B3/2B3P1/P4b1P/7K w - - 0 35,e4h7 c6c5 h7e4 b7e4,816,101,75,79,bishopEndgame discoveredAttack doubleBishopMate endgame mate mateIn2 short,https://lichess.org/hmvE0cUd#69,
+cSpS7,7k/7p/2q5/5p2/pBB4P/1P6/5K2/8 b - - 0 50,a4b3 b4c3 c6f6 c3f6,862,92,80,1980,doubleBishopMate endgame master mate mateIn2 short,https://lichess.org/lFw2ddFX/black#100,
+cSwXe,N2b4/5ppp/2Pk4/8/2P1b3/1P4P1/P2B4/K7 w - - 1 40,c6c7 d8f6 d2c3 f6c3,851,97,82,508,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/RFKlTl8Z#79,
+cUUGR,3bk3/1R3ppp/2b1p3/2B1p3/p3P3/P2B1P2/K5PP/8 b - - 0 31,c6b7 d3b5 b7c6 b5c6,860,136,68,204,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/wxNyrawE/black#62,
+cV2Wu,8/3kp1bp/1Bp3p1/8/p3b3/P1P3P1/1P2B2P/2K5 w - - 2 29,e2d1 g7h6 b6e3 h6e3,887,79,83,491,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/NG51ZUQ3#57,
+cWChA,7k/1pn2Bpp/1B1b4/8/P1K5/8/8/8 b - - 9 45,g7g5 b6d4 d6e5 d4e5,859,92,83,642,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/AQFMvXbc/black#90,
+cf6ko,4b3/1p2P1k1/1b2P3/1p1P1p2/2B5/P5P1/7P/7K w - - 0 38,d5d6 e8c6 c4d5 c6d5,822,100,86,663,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/ZyjueLRq#75,
+cgpJg,r6k/1p5p/P1p3p1/3p4/4N1P1/3P1r1q/B1PB1P2/R5K1 b - - 0 26,d5e4 d2c3 f3f6 c3f6,860,110,78,1300,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/F4tdIBVk/black#52,
+ch0kA,2b4k/2r4p/p2p2p1/1p1Bn1B1/4P3/8/PPP3PP/5NK1 b - - 0 24,c7c2 g5f6,865,95,44,115,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/NpwHYDdU/black#48,
+ciL8C,rn2kbnr/pb1p2pp/1p6/2pP1pB1/2P5/8/PP2BPPP/RN2K1NR b KQkq - 0 9,h7h6 e2h5 g7g6 h5g6,894,158,100,51,doubleBishopMate mate mateIn2 opening short,https://lichess.org/Q9LuMNiH/black#18,French_Defense French_Defense_Normal_Variation
+cut9T,1Nb4r/p1k2ppp/4pn2/1pb5/2p5/2N3P1/PP2PPBP/R1B3K1 b - - 0 14,c7b8 c1f4 e6e5 f4e5 c5d6 e5d6,847,92,85,613,doubleBishopMate long mate mateIn3 middlegame queensideAttack,https://lichess.org/08lYnQQ7/black#28,Hungarian_Opening Hungarian_Opening_Catalan_Formation
+cw5B0,7k/p6p/6p1/2PB4/P2b1P2/1P1p4/3B2KP/3b4 b - - 0 31,d4c5 d2c3 c5d4 c3d4,883,133,79,133,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/zHb5Y83I/black#62,
+d7tfn,rnb1r2k/ppp4p/3p2p1/3B1pB1/2P3P1/4P2P/8/2R2RK1 b - - 1 29,b8c6 g5f6,836,137,86,231,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/khpQXwZc/black#58,
+d8SD8,1r5k/4B2p/3R2p1/2pBb3/6P1/P6P/3n4/6K1 b - - 0 36,e5d6 e7f6,870,94,77,1210,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/UZFCqzrF/black#72,
+dBUFf,7r/kb1B3p/p7/2ppQ3/Np6/1P1Pb1P1/P1P4P/5R1K w - - 3 30,e5h8 d5d4 d7c6 b7c6 f1f3 c6f3,894,80,86,521,discoveredAttack doubleBishopMate endgame long mate mateIn3,https://lichess.org/Hz7jg3sl#59,
+dFIoH,3r1rnk/1pq4p/p2p1p2/3B1p2/2PQ1P2/1P4P1/PB5P/4R2K b - - 4 29,g8e7 d4f6 f8f6 b2f6,881,84,85,633,doubleBishopMate kingsideAttack mate mateIn2 middlegame sacrifice short,https://lichess.org/PawF936Q/black#58,
+dFdPs,5r1k/1p5p/1p4p1/3B1p2/5B1P/2b2P2/Pr4PK/4R3 b - - 0 32,c3e1 f4e5 f8f6 e5f6,814,80,96,257,doubleBishopMate endgame fork mate mateIn2 short,https://lichess.org/POaAiQ0j/black#64,
+dKZ77,2kr1b1r/Bppb1ppp/8/3pP3/8/2K2P2/PPP4P/R4B1R b - - 0 17,b7b6 f1a6,898,105,92,88,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/mETQhGOu/black#34,Indian_Defense Indian_Defense_Other_variations
+dR2fy,2rqr1k1/5ppp/Nb6/7b/1BP1p3/P2Q2P1/7P/2R1R2K w - - 0 29,d3d8 h5f3,897,90,78,1704,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/RjSVolZ6#57,
+dTUGK,rn2kbnr/pppb2p1/4p2p/5p2/3P3B/2N2q2/PPPQBP1P/2KR3R b kq - 1 12,f3h3 e2h5 g7g6 h5g6,858,89,87,595,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/X98yO3dv/black#24,Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation
+dUZds,1r3r2/1bp2p2/p2p1B1k/1pb1pP2/6P1/1B1P1n2/PPP4P/R4R1K w - - 0 23,f1f3 b7f3,838,143,90,125,doubleBishopMate hangingPiece kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/96ZvIPU2#45,
+dqTlF,2k5/p1p5/1pp3b1/2b5/8/1P4P1/P1NB3P/K7 w - - 1 38,c2e1 c5d4 d2c3 d4c3,847,95,86,496,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/lGFXDZ8c#75,
+e42dO,2kr3r/2p2p2/p1np3p/1pb3p1/4Pp2/2PP1N1P/bPBQ1PP1/2KR3R w - - 0 18,b2b3 c5a3,831,95,95,703,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/S5R2jBAp#35,Bishops_Opening Bishops_Opening_Other_variations
+eEB5J,r2r3k/1p2B2p/p2P2p1/5p2/3b4/1B3P2/P5KP/5R2 b - - 1 27,d4c5 e7f6,879,88,81,750,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/EmSzz1kE/black#54,
+eGnNl,rn1q3k/pp1bp2p/6p1/2pB4/5PP1/2P5/PBPn3P/R4R1K b - - 0 22,d2f1 c3c4 e7e5 b2e5 d8f6 e5f6,874,83,90,1491,discoveredAttack doubleBishopMate kingsideAttack long mate mateIn3 middlegame,https://lichess.org/vxroO888/black#44,
+eKiNM,r4bkr/pp4pp/3q2n1/2P3B1/B2Pp3/5Q2/PP3PPP/R5K1 b - - 0 20,e4f3 a4b3 d6d5 b3d5,864,92,80,1963,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/2PWKlkG8/black#40,
+eLHxQ,3k1b2/pp3Bpp/8/3p2N1/8/3P4/PP2b1PP/RNB3KR w - - 1 22,g5h7 f8c5 d3d4 c5d4 c1e3 d4e3,836,108,85,329,doubleBishopMate long mate mateIn3 middlegame,https://lichess.org/SRa0kMCG#43,
+ePbdu,2kr1b1r/ppp2pp1/4q3/7p/3P4/P1N1P3/bPPQB1PP/2KR3R w - - 1 20,b2b3 f8a3,885,84,78,435,doubleBishopMate mate mateIn1 middlegame oneMove queensideAttack,https://lichess.org/M6QPsCLz#39,
+edp2k,r4rk1/p3nppp/8/q3b3/2NpP1P1/1P4NP/P1b2Q2/K2R3R w - - 4 28,c4a5 d4d3 f2d4 e5d4,873,88,85,1345,discoveredAttack doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/OmcT4ZnV#55,
+emfuF,2rqkb1r/pb1npp2/1p1p3p/6p1/2PQP3/2N3B1/PP2BPPP/3R1RK1 b k - 1 13,f7f6 e2h5,862,77,100,974,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/bJ7vLtpL/black#26,English_Opening English_Opening_Symmetrical_Variation
+epoyF,r4r1k/p6p/1p4pQ/2b2n2/2B5/8/PPP4P/1K2B3 b - - 0 26,f5h6 e1c3 c5d4 c3d4 f8f6 d4f6,803,101,95,1251,doubleBishopMate endgame long mate mateIn3,https://lichess.org/bOYNxJaD/black#52,
+exvQI,r4k2/2RR1p2/1p2ppbp/p3p3/2P5/P7/1P2BbPP/7K w - - 2 25,g2g3 g6e4 e2f3 e4f3,866,114,50,111,doubleBishopMate endgame kingsideAttack mate mateIn2 short,https://lichess.org/t6T78he2#49,
+eyS2Z,8/2B5/5k2/2p3p1/2Pb2P1/1P1b1B2/P3p2P/4R2K w - - 2 36,f3e2 d3e4 e2f3 e4f3,864,108,71,648,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/pAmVor0i#71,
+f1mxe,r2r4/pB3pkp/2n3b1/8/3b2N1/6P1/PP5P/R2Q3K w - - 1 22,b7a8 g6e4 d1f3 e4f3,866,94,77,1992,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/Yl0UxpoI#43,
+f6FfR,7k/p6p/1pp1B1p1/4n2b/2P1p2K/4P3/PBP4P/r4r2 b - - 0 31,a1b1 b2e5 f1f6 e5f6,896,104,74,390,doubleBishopMate endgame hangingPiece mate mateIn2 short,https://lichess.org/v4JvqKrc/black#62,
+f7PUD,5r2/p7/2p4R/5kp1/2PBbb2/1P6/P4P2/K5R1 w - - 1 37,d4a7 f4e5 a7d4 e5d4,814,88,91,703,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/0hIlavXH#73,
+f8NXz,2b4k/p6p/3p2p1/3B1p2/3b1P2/B5PP/P5K1/8 b - - 1 27,d4c5 a3b2 c5d4 b2d4,853,89,84,1446,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/i6FHPdhA/black#54,
+fE5JL,r3r1k1/pb3ppp/5n2/2b5/2Q2B2/1B3q2/P1P3PP/3R3K w - - 0 22,g2f3 b7f3,806,80,90,198,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/iMEllBej#43,
+fEPDI,3r2k1/1b3ppp/p4n2/1pb1pPB1/8/PBN2q2/1PP3PP/4Q2K w - - 0 22,g2f3 b7f3,865,104,63,694,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/iP2EO6PI#43,
+fI9Ek,6k1/1bR4p/p5p1/Pp1q4/1P1b4/5rQ1/6BP/3N3K w - - 0 34,g2f3 d5f3 g3f3 b7f3,851,87,91,511,doubleBishopMate fork master mate mateIn2 middlegame short,https://lichess.org/rSeub47d#67,
+fKTnr,k3r3/p1BB4/2p3bp/1P6/8/2b2P2/P4K1P/8 b - - 1 37,e8e7 d7c6,824,79,100,199,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/IWxNcYAt/black#74,
+fTpct,7Q/p1pb1kpp/8/8/3b1P2/2N4q/PPP3PP/R1B2R1K w - - 3 19,g2h3 d7c6 c3e4 c6e4 f1f3 e4f3,860,90,93,1942,doubleBishopMate long mate mateIn3 middlegame,https://lichess.org/K22suaK4#37,Italian_Game Italian_Game_Two_Knights_Defense
+fUWSL,2kr3r/ppq2pp1/2p2n1p/3P4/B5b1/2N1Bn2/PPP1QPPb/1R2RK2 w - - 0 17,g2f3 g4h3,867,79,86,264,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/egm0A1cS#33,Scandinavian_Defense Scandinavian_Defense_Modern_Variation
+flrWH,rn3r1k/ppp4p/3P1Q2/5b2/2B2P2/2B4q/PP5P/2KR3R b - - 0 25,f8f6 c3f6,866,128,45,192,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/zjkBJcv9/black#50,
+fnd0Y,Q3b1k1/6pp/p1qP4/1pb1Pp2/2p2P2/P5P1/1P1B3P/R4R1K w - - 3 26,a8c6 e8c6 f1f3 c6f3,860,96,75,579,doubleBishopMate endgame kingsideAttack mate mateIn2 short,https://lichess.org/6Td7xF9h#51,
+g2cJ0,r2n3k/1p2B2p/p4pp1/3B1b2/8/5N2/P1R2PPP/6K1 b - - 2 27,f5c2 e7f6,823,95,83,512,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/RGaD4zYu/black#54,
+g8qud,6R1/p4R2/1p1N3k/3P4/2nb4/3b2P1/P6P/7K w - - 3 37,d6c4 d3e4 f7f3 e4f3,871,98,76,778,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/ahpQu9oc#73,
+gCkqY,r4b1k/1p5p/3R2p1/6B1/p1B4P/P4b2/1PP5/1K6 b - - 0 31,f8d6 g5f6,832,131,71,199,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/yvOecjXx/black#62,
+gE1qO,r3kb1r/pp1b2p1/1qn1p2p/5p1B/3Pp2B/4P3/PP1N1PPP/R1Q1K2R b KQkq - 2 13,g7g6 h5g6,836,110,60,244,doubleBishopMate master mate mateIn1 oneMove opening,https://lichess.org/YHH1X5Zi/black#26,Torre_Attack Torre_Attack_Classical_Defense
+gHVKa,3r3k/1b5p/pN4p1/1p4B1/1P1b2P1/PB5K/6P1/5n2 b - - 1 31,d4b6 g5f6,865,101,95,368,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/EupRllS6/black#62,
+gQ2mO,6k1/pB3p1p/3b1n2/1b2r3/3P1pp1/2B5/PP4PP/R5KR w - - 0 23,d4e5 d6c5 c3d4 c5d4,811,96,88,677,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/YO7RU40D#45,
+giqbe,5r1k/pb5p/1p4p1/8/2B2B2/P1P3P1/1P1KR3/R6q b - - 6 32,h1a1 f4e5 f8f6 e5f6,818,94,94,209,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/Q9Mm2IJd/black#64,
+gj5jX,r2qkb1r/pQpbp3/2n2n2/3p2Bp/3P4/2PBPP2/PP4PP/RN2K2R b KQkq - 2 13,a8b8 d3g6,874,78,97,330,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/2BKNqTOE/black#26,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+gmNLM,2R2r1k/1p5p/p5p1/n3p1B1/P3Pn2/2P4P/BP3PP1/6K1 b - - 2 31,f8c8 g5f6,872,101,69,194,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/Suwx0POU/black#62,
+h80eg,r2qkb1r/pp1np1pp/2p2n2/3p2B1/3P2b1/2PB1N2/PP3PPP/RN1QK2R b KQkq - 3 8,h7h6 d3g6,846,77,100,316,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/TxzV8u5e/black#16,Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation
+hL0FI,7k/7p/2n3p1/1pBB4/1P6/r1Nn4/7P/6K1 b - - 1 33,c6b4 c5d4 d3e5 d4e5,863,114,81,1040,doubleBishopMate endgame master masterVsMaster mate mateIn2 short,https://lichess.org/EZPuyywu/black#66,
+hV2RI,4Q2k/3q3p/2p3p1/2B5/P1Bp3n/7P/2PP1PPK/8 b - - 0 35,d7e8 c5d4 e8e5 d4e5,802,91,86,616,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/1UySi3jC/black#70,
+hZuX0,8/2q2kpp/1P2p3/2b5/2Ppb3/6P1/7P/B4BK1 w - - 0 28,b6c7 d4d3 a1d4 c5d4,861,102,71,666,bishopEndgame discoveredAttack doubleBishopMate endgame mate mateIn2 short,https://lichess.org/lV0Rrmi1#55,
+hb7bL,4rNk1/pb6/1pqp2PQ/2pN4/2Pb4/8/PPP4P/R1B2RK1 w - - 1 22,g1h1 c6d5 c4d5 b7d5 f1f3 d5f3,887,86,82,2892,doubleBishopMate kingsideAttack long mate mateIn3 middlegame sacrifice,https://lichess.org/YHzJALcn#43,
+hgPne,r4r1k/p7/1bp3P1/3nPb2/1p6/7P/PPQBN2P/R6K w - - 1 26,c2c6 f5e4,841,96,80,235,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/DaLBschK#51,
+hq689,r4rk1/ppp2ppp/3b4/6B1/8/3P1P1P/bPPN1P2/2KR3R w - - 0 16,b2b3 d6a3,854,135,72,137,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/PGR7OqC5#31,Italian_Game Italian_Game_Two_Knights_Defense
+huRBn,1R2rR2/3b2kp/p2B2p1/2p5/2Pb4/6P1/P6P/7K w - - 5 38,f8e8 d7c6 e8e4 c6e4,859,96,82,748,doubleBishopMate endgame fork master mate mateIn2 short,https://lichess.org/oeUQOhDM#75,
+hutqu,r3r1k1/ppp2ppp/8/2bpP3/7q/2NP2P1/PPP1b2P/R1B1R2K w - - 0 16,g3h4 e2f3,859,84,100,149,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/mBFWqgIH#31,Petrovs_Defense Petrovs_Defense_Italian_Variation
+hyVbN,r6k/2p2Qpp/p1P3q1/1p6/3P2b1/NBP1b1P1/PP5P/R6K w - - 3 23,f7g6 g4f3,894,97,37,342,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/f8X5NWuE#45,
+hzjH5,r3r3/pp4pk/1bp3bp/8/2B2Bq1/2Pp1P2/PP5P/R1Q2R1K w - - 0 28,f3g4 g6e4 f1f3 e4f3,867,104,67,932,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/H87LaOYX#55,
+i8ysS,r2qkb1r/p1pnpp2/1p1pQ2p/8/3P3P/3B2B1/PPP2P2/R3K1NR b KQkq - 0 14,f7e6 d3g6,801,113,79,198,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/GLfA8ixK/black#28,Owen_Defense Owen_Defense_Other_variations
+iCcNO,r7/p2k1ppp/2p5/8/1b1p4/8/bPPN1PPP/2KR3R w - - 0 17,b2b3 b4a3,874,86,93,404,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/qrbpQU8o#33,French_Defense French_Defense_Exchange_Variation
+iE3S7,r3kb1r/pp1b2pp/4p3/4PpB1/P1Pp4/8/4BPPP/R4RK1 b kq - 2 15,h7h6 e2h5 g7g6 h5g6,857,88,77,616,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/AENeh0TI/black#30,Alekhine_Defense Alekhine_Defense_Mokele_Mbembe
+iK28T,rkb2b1r/pp4pp/5p2/3Pp3/2BR4/4B3/PPP2PPP/5RK1 b - - 0 14,e5d4 e3f4 f8d6 f4d6,868,99,41,371,doubleBishopMate mate mateIn2 middlegame queensideAttack short,https://lichess.org/DMFfuWsl/black#28,Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit
+iQViz,4r2k/p2n3p/5Q2/6B1/2Bpp3/8/2PN1KPP/q7 b - - 11 31,d7f6 g5f6,809,141,92,289,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/x57Lzxew/black#62,
+iRmv5,2kr1bnr/Bppb2q1/3p3p/3Pnp2/2B2Q2/2N5/PPP3PP/R4RK1 b - - 0 16,b7b6 c4a6,824,91,91,788,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/Um5pFSXW/black#32,Kings_Gambit_Accepted Kings_Gambit_Accepted_Becker_Defense
+iTLqr,2b4r/3k2pp/p3p3/1p3p2/3b1P2/N5P1/PPPBB2P/R6K w - - 1 24,c2c3 c8b7 e2f3 b7f3,840,105,86,1100,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/oCkiGVk5#47,
+iXYcm,7k/p1p1b1pp/1p6/n2B4/8/6P1/P4P1P/2B3K1 b - - 1 27,g7g6 c1b2 e7f6 b2f6,863,104,66,952,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/JO6WDBRf/black#54,
+iYt7s,7B/p1k2p2/1b2b2p/8/7p/7r/PP4PP/5R1K w - - 0 25,g2h3 e6d5 f1f3 d5f3,844,94,79,636,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/VOPeMHjm#49,
+ibhxI,r2q1bk1/7p/p2p2b1/1p1P2P1/2nBQ3/2P4B/5P2/R3R1K1 b - - 0 35,g6e4 h3e6,859,91,84,428,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/x332SMw5/black#70,
+ihuxv,r5k1/ppn2p1p/3q2p1/3P4/2P3b1/1P3N2/P1B1QPPb/1R2RK2 w - - 2 23,g2g3 g4h3,860,100,82,579,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/aiJEALZl#45,
+iiAjG,8/7R/2k5/8/4P3/3bb1P1/7P/7K w - - 1 45,h7g7 d3e4,857,155,81,159,doubleBishopMate endgame master masterVsMaster mate mateIn1 oneMove,https://lichess.org/1zE03XiD#89,
+ilBlx,r3kbnr/ppB1pppp/8/8/3P4/6N1/PPnK1PPP/3R1B1R b kq - 1 11,a8c8 f1b5,882,124,41,81,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/CJMD4edl/black#22,Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation
+irS0E,3r3k/p1b4p/6p1/8/7K/BB3P1P/P1P2P2/8 b - - 1 28,c7d6 a3b2 d6e5 b2e5,893,87,79,1583,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/e3J4CTfy/black#56,
+irppc,4kb2/3b1p2/2n1pBN1/3pP3/3P4/p1PB1P2/Pr6/3K3R b - - 0 30,f7g6 d3g6,829,87,90,964,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/o5Ky1ivb/black#60,
+iuzfe,rn1qk2r/ppp2ppp/3b1n2/3p4/3P2b1/2P1PN2/PP1NP1PP/R1BQKB1R w KQkq - 5 8,h2h3 d6g3,862,87,92,464,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/iXdGHgzP#15,Saragossa_Opening Saragossa_Opening_Other_variations
+iw0LV,2k4N/ppp3pp/2n5/8/5P2/2Pb2P1/PP1N1b1P/R1B2r1K w - - 0 19,d2f1 d3e4,873,86,95,247,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/ckq779Tt#37,
+ixKxW,rn2k1nr/ppp2ppp/3b4/8/6bq/5N1P/PPPPP1P1/RNBQKB1R w KQkq - 1 6,f3h4 d6g3,827,124,80,283,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/RG5alhBk#11,Bird_Opening Bird_Opening_Froms_Gambit
+iyETI,r1bk2nr/pppp1Bpp/8/4p3/3bP3/3P4/PPP3PP/RNBK1R2 b - - 1 10,g8h6 c1g5,856,76,97,1282,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/os295VGP/black#20,Bishops_Opening Bishops_Opening_Other_variations
+iz6Gp,r3kbnr/pp2pppp/1B6/3pP3/5P2/N2B4/PP2n2P/R3K2R b KQkq - 0 13,e2f4 d3b5,865,119,56,374,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/KG5aFvoi/black#26,Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation
+j0lLH,r2n1rk1/pp4bp/2bp2p1/4P3/5N2/3P4/PP5P/R1BQ1BK1 w - - 2 19,e5d6 g7d4 c1e3 d4e3,885,86,65,174,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/rfvlKJin#37,
+jAMAO,r3k2r/ppp2ppp/2pb4/5b2/3P2P1/2P3q1/PP1NP2P/R1BQKB1R w KQkq - 0 10,h2g3 d6g3,867,103,86,266,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/ExeT4twR#19,Zukertort_Opening Zukertort_Opening_The_Walrus
+jEVmL,k4b1r/pp3p2/Q1p1bP2/7p/5B1N/6PP/PP3PBK/3r4 b - - 0 23,b7a6 g2c6,853,110,84,327,doubleBishopMate master mate mateIn1 middlegame oneMove queensideAttack,https://lichess.org/8WPDBb6b/black#46,
+jLmda,B3k2r/1R3ppp/p3p3/1b1pb3/8/8/2PB1PPP/6KR w k - 0 21,f2f4 e5d4 d2e3 d4e3,863,95,68,633,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/I7C1v59Q#41,
+jShmM,r3kb2/pp1n2p1/2p5/3P2B1/4B3/8/PP3P2/2KR4 b q - 0 23,c6d5 e4g6,855,93,78,465,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/3wLV1EzY/black#46,
+jSvUk,r4r1k/ppp2Bp1/7p/2b1p1NQ/8/3bq3/PPn2PPP/RN4KR w - - 0 16,f2e3 c5e3,879,86,88,143,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/3VuWwcyt#31,Italian_Game Italian_Game_Giuoco_Pianissimo
+jTFGa,8/1p4pp/5k2/8/3b1P2/3b2PB/PP2p2P/4R2K w - - 0 35,h3g4 d3e4 g4f3 e4f3,888,93,94,447,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/kWe2GfK0#69,
+jWUHW,2kr3r/Bppn1pp1/7p/4p3/2B1P3/P1K2P2/P5PP/R7 b - - 0 17,b7b6 c4a6,862,93,80,719,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/qcdggXRp/black#34,
+jYJd9,5r1k/p1p3p1/3p4/3BNb1p/1P6/6P1/r4b1P/3R1R1K w - - 2 26,d5a2 f5e4 e5f3 e4f3,865,184,47,58,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/173rgM0L#51,
+jZwYi,4r2k/p6p/1pb3p1/5p2/1B2p3/P3P3/Bb3PPP/2R3K1 b - - 1 26,b2c1 b4c3 e8e5 c3e5,836,79,100,299,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/Dj1IG8u3/black#52,
+jhlvi,r1bk3r/pppp1BB1/5p2/8/6q1/8/PPn2PPP/R3R1K1 b - - 1 16,c2e1 g7f6,863,106,78,271,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/TXdgDGe4/black#32,Russian_Game Russian_Game_Italian_Variation
+jhxkP,2kr2nr/ppp2ppp/2nb4/7b/3N4/2P1q2P/PP1NPPP1/R2QKB1R w KQ - 0 10,f2e3 d6g3,858,83,100,99,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/AvOJMeOF#19,Englund_Gambit Englund_Gambit_Hartlaub-Charlick_Gambit
+jycau,7k/p5p1/bp2q2p/2bB4/8/6P1/P6P/1R5K w - - 0 30,d5e6 a6b7 e6d5 b7d5,818,81,92,343,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/P7Bek5xz#59,
+kDRCe,N1bk2n1/pp3p2/2n5/3pp2p/2B1P3/8/PPPP1bPP/R1BK3R w - - 0 13,c4d5 c8g4,819,112,74,347,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/ZhVvWXOB#25,Vienna_Game Vienna_Game_Stanley_Variation
+kIFAk,5b2/6p1/p1k4p/Pp1bBP2/2p2P2/8/1P4PP/5BK1 w - - 1 38,g2g4 f8c5 e5d4 c5d4,874,153,50,111,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/tDcFuxXa#75,
+kILlD,r5kr/pp1n2pp/2pB4/2Pp1Pp1/1P1PR3/P7/4B2P/R5K1 b - - 0 28,d5e4 e2c4,838,100,65,219,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/HXfJNHHG/black#56,
+kIX6O,b6k/5B1p/p5p1/1p6/1P5P/P7/1b1B1PP1/6K1 b - - 2 33,b2a3 d2c3,823,78,82,248,bishopEndgame doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/B9VcDTzH/black#66,
+kWsHX,6k1/6p1/1bP1p2p/p3N3/4b2P/2P3P1/P7/K3B3 w - - 1 39,c3c4 b6d4 e1c3 d4c3,889,90,92,1014,doubleBishopMate endgame fork mate mateIn2 short,https://lichess.org/ptyIQYuH#77,
+kb2XI,r1b5/ppkn3R/2p1p3/2Bp3p/7q/3B2N1/PPP3KP/R7 b - - 0 23,c7b8 c5d6,819,94,71,240,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/vpR0uNrr/black#46,
+kddtg,r6k/7p/8/pP4p1/P1B1p3/4P1P1/5K1P/3rB3 b - - 0 40,a8c8 e1c3 d1d4 c3d4,843,100,79,486,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/LiFbHwUl/black#80,
+kfSq8,r7/pR3pkp/1b3Np1/3PP3/2n2PP1/8/P3b2P/3R3K w - - 3 28,d1e1 e2f3,865,154,56,168,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/MF5u6JsS#55,
+kg29W,r1b4k/ppq1nB1p/3p2p1/4Q1B1/8/8/P1P3PP/1R3RK1 b - - 0 18,d6e5 g5f6,812,77,99,741,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/3P6Z3qF8/black#36,Pirc_Defense Pirc_Defense_Austrian_Attack
+km8xR,r4rk1/pb3ppp/1p6/2bqp3/8/P2B1n2/1PPQN1PP/R1B2R1K w - - 0 17,g2f3 d5f3 f1f3 b7f3,858,98,78,1503,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/mbiZcxXN#33,Sicilian_Defense Sicilian_Defense_Open
+kqNXg,r5kr/4B1bp/pP4p1/5n2/1P5P/N1p2B2/5PP1/6K1 b - - 0 34,f5d4 f3d5 d4e6 d5e6,885,100,84,1435,doubleBishopMate fork mate mateIn2 middlegame short,https://lichess.org/yGxvQE4o/black#68,
+ky5nJ,4r1k1/pp1q1ppp/8/3Q1b2/3b1P2/1B4P1/PP5P/2R2R1K w - - 6 26,d5d7 f5e4 f1f3 e4f3,859,95,82,1195,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/vclFIHdV#51,
+l07lc,rnb1r2k/ppq1RB1p/1np4p/6B1/3P4/2N5/PP3PPP/R2Q2K1 b - - 0 15,e8e7 g5f6,894,81,92,558,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/6vCOWS37/black#30,French_Defense French_Defense_Knight_Variation
+l4SZv,r4rk1/ppp2ppp/2B5/3p4/3b3q/6P1/PPP4P/RNBbR2K w - - 0 14,g3h4 d1f3,822,79,100,135,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/4zcGKH6Z#27,Italian_Game Italian_Game_Two_Knights_Defense
+lGxtS,1n1r3k/7p/p5p1/1p4B1/8/1B5P/P1P3PK/R2r4 b - - 2 25,d1a1 g5f6,800,86,90,1089,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/a7jYsi9x/black#50,
+lWZhT,rnb5/p1pp4/p7/6k1/5p2/1P1Q4/5b1P/R1B4K w - - 3 31,d3h7 c8b7 h7e4 b7e4,859,90,84,786,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/iXnAGzoj#61,
+lYUEB,8/p1p2kpp/1np1rp2/5b2/1P3P2/P3p1P1/QBPPRb1P/R6K w - - 0 26,d2e3 f5e4,868,99,59,603,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/YNdx1Oka#51,
+lfQsV,r6k/pp2b1pp/8/5b2/2BPpBp1/2P5/PP5P/4R1K1 b - - 2 21,g7g5 f4e5 e7f6 e5f6,813,99,93,601,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/g21lur0D/black#42,
+lj4ZN,1k1r4/pbp2N1p/2q2n2/2b2Q2/8/5p2/PPPB2PP/RN2R2K w - - 0 18,g2f3 c6f3 f5f3 b7f3,856,85,86,1169,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/XfwQeAGh#35,Italian_Game Italian_Game_Two_Knights_Defense
+llT8F,r1bqkb1r/pp1np2p/2p2p2/3p4/2PPN3/4PBB1/PP3PPP/R2QK2R b KQkq - 0 10,d5e4 f3h5,899,133,78,455,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/2OG6ZpFe/black#20,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+lrBmZ,r2k3r/ppp2ppp/5n2/4b3/4P1b1/2N5/PPPB2PP/R3KB1R w KQ - 2 11,h2h3 e5g3,856,81,87,326,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/oYsbHPzX#21,Lion_Defense Lion_Defense_Anti-Philidor
+lw3sC,rnbk3r/pppp1Bpp/8/8/3PP2q/8/PPP4R/RNBQ1K2 b - - 0 14,h4h2 c1g5,899,126,89,126,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/lzdZ0AUk/black#28,Kings_Gambit_Accepted Kings_Gambit_Accepted_Cunningham_Defense
+m3kI0,6k1/pp3ppp/1b6/4P3/2b2P2/1N3BP1/PP5P/3q3K w - - 0 28,f3d1 c4d5 d1f3 d5f3,854,98,86,335,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/Jr1Hx7GE#55,
+m8kxY,r1bq3k/p6p/3B2p1/2pB1p2/3Q4/1P4P1/P5KP/5R2 b - - 0 27,c5d4 d6e5 d8f6 e5f6,854,86,89,648,doubleBishopMate endgame master masterVsMaster mate mateIn2 short,https://lichess.org/o7cboTeg/black#54,
+mEHGB,r3kbr1/1p1q2p1/p1p2pPp/4pN1P/3pP3/n2P2Q1/bPPBBP2/2KR3R w q - 2 21,b2a3 f8a3,858,93,80,550,doubleBishopMate mate mateIn1 middlegame oneMove queensideAttack,https://lichess.org/xB2kp0xh#41,
+mF07R,r4rk1/p1p2ppp/2Q5/4p2b/3bP3/2NP1q2/PPP4P/R1B2R1K w - - 1 18,f1f3 h5f3,815,131,74,256,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/4VwAjRWR#35,Italian_Game Italian_Game_Two_Knights_Defense
+mFf6O,2kr3r/Bppqbppp/4bn2/3p4/8/P1NB4/1PPQ1PPP/2KR3R b - - 0 12,b7b6 d3a6,820,96,94,823,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/iiLgl3Rv/black#24,Anderssens_Opening Anderssens_Opening_Other_variations
+mKQ2P,7k/p6p/4B1p1/8/2P1p3/3p4/PP1BbK1b/8 b - - 0 32,h2d6 d2c3 d6e5 c3e5,853,88,87,535,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/23GQipPd/black#64,
+mU1ct,2b4k/B3b2p/p2p2p1/1p1Bp3/1P3P2/8/P4KPP/8 b - - 0 28,e5f4 a7d4 e7f6 d4f6,838,88,87,390,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/5t9oCjv1/black#56,
+mXLWp,5r1k/p3RB1b/5b1p/2P5/3P1p2/P3P2P/5P2/B4K2 b - - 0 37,f6e7 d4d5 e7f6 a1f6,805,80,87,297,discoveredAttack doubleBishopMate endgame mate mateIn2 short,https://lichess.org/wHAEDSXj/black#74,
+mbMWs,3r3k/5B1p/6p1/1p6/pP2p3/P2p4/6PP/2B3K1 b - - 0 39,d3d2 c1b2 d8d4 b2d4,846,93,94,583,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/Z3eYDg6H/black#78,
+mcjWo,6rk/p4pr1/2bp1N1p/2p1pP2/1PBbP3/P5P1/2P4P/3R1R1K w - - 1 25,f6g8 c6e4 f1f3 e4f3,817,94,94,622,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/3icIGikm#49,
+mjVFx,7k/p5p1/1n4qp/1b6/3bB3/2B3P1/P6P/1N5K w - - 0 31,e4g6 b5c6 g6e4 c6e4,860,97,77,875,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/xhBKlHVz#61,
+mkZQy,6k1/7p/3pp1p1/3b2P1/3bNP2/1r3Q2/7P/2R4K w - - 3 40,f3b3 d5e4 b3f3 e4f3,859,88,88,1264,doubleBishopMate endgame hangingPiece mate mateIn2 short,https://lichess.org/L5wdABuf#79,
+msag5,4k1r1/p1p4p/5p2/4p3/2P5/BPP3P1/P1br1b1P/R2R3K w - - 0 21,d1d2 c2e4,808,76,100,543,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/e2moIKo8#41,
+mxg8h,1q2r2k/pb1p3p/5Qp1/2p1b1B1/2B1P2P/8/P4PP1/1N3RK1 b - - 4 22,e5f6 g5f6,828,156,77,218,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/NsYSLOIS/black#44,
+mzacN,r3rbk1/pb5p/2qpRBp1/6Q1/3p4/1B3P2/2P3P1/1R4K1 b - - 0 25,e8e6 b3e6,843,90,78,653,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/W0wweXAV/black#50,
+n1wgM,r2q1bkr/pppn2pp/8/3bP3/3P4/5Q2/PPP3PP/R1B1KB1R b KQ - 1 11,d5f3 f1c4 f3d5 c4d5,865,99,75,1524,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/Aiupw2JG/black#22,Russian_Game Russian_Game_Cochrane_Gambit
+n4OWk,2kr4/Bppn1p2/3p2p1/3Pn3/4r3/7P/PP3P2/1K1R1B1R b - - 0 22,b7b6 f1a6,828,117,88,255,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/xQxow0SC/black#44,
+n6njI,2kr3r/Bppbq3/3bpp1p/8/2B3p1/3P4/PP3PPP/R2QR1K1 b - - 0 17,b7b6 c4a6,873,126,73,306,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/vKGR1MOr/black#34,Zukertort_Opening Zukertort_Opening_Tennison_Gambit
+n8BNa,7k/2B1b2p/3nB3/1P4p1/2p2p2/2Pb4/3K1P1P/8 b - - 0 35,d6b5 c7e5 e7f6 e5f6,803,91,81,470,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/SvaucPNF/black#70,
+nFZuB,r6k/pb2Q2p/1p3bpn/2p2p2/2B2B2/2N2P1P/PPP5/6K1 b - - 1 24,f6e7 f4e5 e7f6 e5f6,824,89,89,540,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/ZVviuQDD/black#48,
+nI4zh,r4r1k/p6p/2p3p1/5p2/2BP1B2/6nP/P1P5/5RK1 b - - 1 24,g3f1 f4e5 f8f6 e5f6,829,129,100,75,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/GaUzmvcK/black#48,
+nIeaD,2k3r1/2p5/2p5/2b3p1/6b1/2P3B1/PP5P/R3R2K w - - 1 32,b2b4 g4f3,877,128,74,164,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/p2vGKfaf#63,
+nIosn,1rbk3r/1p2Rppp/2n5/1BBp4/8/1P6/P4PPP/6K1 b - - 2 24,c6e7 c5b6,875,80,84,1886,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/v7YZYQyN/black#48,
+nM8Hg,8/3n4/bp1bkpp1/p2p3p/P2P4/4PB1P/1B3PP1/2N1K3 w - - 4 34,f3d1 d6b4 b2c3 b4c3,862,144,60,157,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/IGOmFZCa#67,
+nPZJV,r7/ppp5/2npbkp1/8/3b1BP1/8/PPP4P/R2QR2K w - - 1 21,c2c3 e6d5 e1e4 d5e4 d1f3 e4f3,814,79,100,456,doubleBishopMate kingsideAttack long mate mateIn3 middlegame,https://lichess.org/ppncZICM#41,
+nVsBJ,2kr3r/ppp3pp/1b6/1N6/P3PBb1/6P1/1P5P/R3R2K w - - 1 21,a4a5 g4f3,860,96,80,724,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/febBCkrb#41,
+nZqsy,5rk1/1bp2p2/1pq4p/p1b3B1/2Q5/5PP1/PP5P/3R1R1K w - - 0 23,g5c1 c6f3 f1f3 b7f3,856,110,80,948,doubleBishopMate kingsideAttack mate mateIn2 middlegame sacrifice short,https://lichess.org/R30t9Q5D#45,
+naoe3,5r1k/1b4pp/2q5/2b5/4NP2/P5P1/B6P/R2QR2K w - - 0 33,a1c1 c6e4 e1e4 b7e4 d1f3 e4f3,840,83,94,1525,doubleBishopMate long mate mateIn3 middlegame,https://lichess.org/TiO6y7a6#65,
+nfiV3,2r3k1/pR3b2/2B5/5pp1/3b4/3N2P1/P2B3P/7K w - - 1 32,c6a4 f7d5,815,89,93,433,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/kyJrKyHv#63,
+nsQGQ,k2q1b1r/pp2p1pp/2Q1bn2/8/5B2/2N3P1/PP2PPBP/R5K1 b - - 0 17,b7c6 g2c6,851,134,89,232,doubleBishopMate mate mateIn1 middlegame oneMove queensideAttack,https://lichess.org/4b3bMXdV/black#34,Kings_Indian_Attack Kings_Indian_Attack_Other_variations
+nywRx,5rk1/1b1p2pp/ppq5/2b5/P5Q1/2N2rB1/1PP3PP/R3R2K w - - 0 21,g2f3 c6f3 g4f3 b7f3,862,93,79,1546,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/FLfYvCcR#41,
+o281r,b7/3pkp1p/2q1p3/1N3p2/1pP2N2/1P2bP2/2Q1r2P/5R1K w - - 0 24,f4e2 c6f3 f1f3 a8f3,883,89,77,429,doubleBishopMate mate mateIn2 middlegame sacrifice short,https://lichess.org/poLo0Xr1#47,
+o9z36,7k/R6p/6p1/8/2Bb1P2/3p2K1/3Bb1P1/8 b - - 0 43,d4a7 d2c3 a7d4 c3d4,823,97,90,886,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/EvMWvVoE/black#86,
+oC7gt,2kr3r/Bppb1ppp/4p3/4b3/2B5/3P4/P1q2PPP/1R2Q1K1 b - - 0 17,b7b6 c4a6,843,114,94,221,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/6nLGX5uL/black#34,Scandinavian_Defense Scandinavian_Defense_Main_Line
+oK2no,5r2/1k3pBp/3b4/3P1b2/8/1P3P2/P5PP/K2R3R w - - 1 30,g7f8 d6e5 d1d4 e5d4,856,97,84,565,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/vbr6twYP#59,
+oKGTc,2kr3r/ppp1qppp/2p2n2/2b5/4P3/3PBP2/bPPNQ1PP/2KR1B1R w - - 0 11,b2b3 c5a3,826,78,99,1485,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/3oth6dZX#21,Russian_Game Russian_Game_Stafford_Gambit
+oNWMK,4r1k1/6pp/5pB1/p1bP4/2P1P3/6P1/P3b2P/4R2K w - - 0 28,g6e8 e2f3,813,91,82,317,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/j2i7czW2#55,
+oOHLA,2kr3r/ppq1bppp/2p5/2npP3/5Pb1/2N1P3/PPQB2PP/2R1KB1R w K - 5 14,h2h3 e7h4 g2g3 h4g3,864,90,79,1131,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/GPqSA8NW#27,Slav_Defense Slav_Defense_Three_Knights_Variation
+oduzC,3k2r1/p1p5/1p5B/2bP4/8/3P2P1/PPP1b2P/RN5K w - - 1 22,h6f4 e2f3,831,104,91,917,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/G5d8v3wI#43,
+ogj9O,2b3r1/2p5/1p4kp/p1bBBp2/5P2/1P6/P1P4P/R3R2K w - - 1 27,d5g8 c8b7 g8d5 b7d5 e1e4 d5e4,896,86,82,2495,doubleBishopMate endgame long mate mateIn3,https://lichess.org/pgaeqPFK#53,
+ok66j,2kr3r/B1pn2pp/1p3n2/6N1/PPB1b3/8/6PP/R4RK1 b - - 1 17,e4g6 c4a6,861,92,88,416,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/RSwJmPl9/black#34,Kings_Gambit Kings_Gambit_Other_variations
+okL6Y,r2q2kr/1b1p2pp/p1nBNn2/1p6/8/P7/BP3PPP/R2Q1RK1 b - - 0 17,d7e6 a2e6,834,93,94,1506,doubleBishopMate kingsideAttack mate mateIn1 oneMove opening,https://lichess.org/uTdEdRW9/black#34,Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit
+omVh6,5k2/1pB3p1/p1p2p2/2b4p/2B3b1/P5P1/1PP4P/4rR1K w - - 1 26,f1e1 g4f3,893,114,33,278,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/MnBqd2Ve#51,
+owDpu,5k2/p4ppp/1p4b1/4P3/2Bb1BP1/8/PPP4P/5R1K w - - 0 25,c2c3 g6e4 f1f3 e4f3,890,154,68,279,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/JWnysgpq#49,
+owp5X,r1q1r2k/4P2p/p1p2bp1/PpB2p2/1P2p3/5P2/B1P1Q1PP/5RK1 b - - 0 24,f6e7 c5d4 e7f6 d4f6,840,87,88,1088,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/U7m0JsAw/black#48,
+p7H74,3r2k1/pB3ppp/8/B1b5/5Pb1/5nP1/PP5P/4R2K w - - 3 24,b7f3 g4f3,836,154,44,43,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/RKcE1o9D#47,
+pK5W1,r2k3r/ppp1n1pp/5p2/4b3/2P1P1b1/2N5/PP1B2PP/R3KB1R w KQ - 2 12,h2h3 e5g3,870,84,90,391,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/89yX8G6o#23,Rat_Defense Rat_Defense_English_Rat
+pM1ps,7k/p1p4p/3p2b1/8/2Pb4/1P3BP1/P2B3P/3q3K w - - 0 35,f3d1 g6e4 d1f3 e4f3,866,99,63,183,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/ZJg9cX0o#69,
+pSNqc,r6r/ppk1bp1p/2p3pn/2n1P3/2P1NPb1/P1N5/1P1B3P/R3KB1R w KQ - 3 16,e4c5 e7h4,883,84,85,2246,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/9YMdgHVp#31,Rat_Defense Rat_Defense_English_Rat
+pdiXM,2br3k/6pp/p4R2/2q2p2/2BBp3/1P2P3/P4PPP/3R2K1 b - - 0 26,g7f6 d4f6,846,92,96,616,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/F1ArNFHx/black#52,
+perYH,2kr3r/Bppb3p/2nq2p1/b4p2/5P2/3B1QPP/P1P1NK2/1R5R b - - 0 18,b7b6 d3a6,885,83,89,569,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/NwgomVzi/black#36,Pirc_Defense Pirc_Defense_Other_variations
+pgZBb,r2r3k/ppp2B1p/3p4/4p1B1/4P3/3P3P/Pb1K2P1/5R2 b - - 2 19,d8d7 g5f6,800,93,91,663,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/KOaG3zHB/black#38,
+phOrp,rnb1Q2k/pp5p/6p1/2B1q3/2B5/8/P1P2PPP/5RK1 b - - 0 19,e5e8 c5d4 e8e5 d4e5,842,95,88,690,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/XowrrnG7/black#38,Sicilian_Defense Sicilian_Defense_Modern_Variations
+pjVP4,1Q6/3bk1pp/p3p3/8/3p2P1/1P1Pb2N/P1P4P/4R2K w - - 2 34,e1f1 d7c6 f1f3 c6f3,826,93,73,324,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/PW27Zxpn#67,
+qCRht,2kr1bnr/pp2pppp/2p5/8/2b1P3/2P2P2/PP4PP/RKB2NNR w - - 1 13,f1g3 c4d3,855,81,92,101,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/YugohoTl#25,Caro-Kann_Defense Caro-Kann_Defense_Breyer_Variation
+qD2N2,8/5k1p/p1P5/4Bp2/1P3P2/P3b3/b6P/5R1K w - - 0 40,c6c7 a2d5 f1f3 d5f3,864,131,77,257,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/AVjEwoFG#79,
+qGCQY,2r4k/1b4pB/p1p5/1p2P3/8/1P4P1/PB3b1P/4R2K w - - 0 26,e1f1 c6c5 h7e4 b7e4,887,92,85,510,discoveredAttack doubleBishopMate endgame mate mateIn2 short,https://lichess.org/Rs5Co7JP#51,
+qOQlq,6k1/3qr2p/2B2ppQ/2p2b2/1pPb1B2/1P4P1/7P/5R1K w - - 2 33,c6d7 f5e4 f1f3 e4f3,828,96,90,1637,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/4ufLIlb9#65,
+qQpFI,r1bk3r/pp2b1pp/3p1p2/1Bp5/4P3/8/PPPB1PPP/2KR3R b - - 1 15,a7a6 d2a5 b7b6 a5b6,860,104,79,576,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/aZO190Z3/black#30,Scotch_Game Scotch_Game_Other_variations
+qSoie,r1b1r1k1/pp2np1B/1q2p3/2npP1B1/2p3P1/2P1P2P/PP3P2/RQ3RK1 b - - 2 18,g8f8 g5h6,850,83,89,392,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/EzjQnjse/black#36,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+qTHAY,r2q1rk1/pp1n1ppp/2p5/2b1P3/5B2/3B1P2/bPPQ2PP/2KR2NR w - - 0 12,b2b3 c5a3,800,92,88,532,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/UwWWRE1N#23,Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation
+qgiqO,8/p5pk/2p4p/8/2bp1q2/4bQP1/P6P/4R2K w - - 0 34,f3f4 c4d5 f4e4 d5e4,858,89,78,1740,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/FxfaBTOe#67,
+qjehg,2rq1rk1/p5pp/4p3/1Q2Pp2/1Pp2P2/2P2NP1/P3bb1P/R1BR3K w - - 1 22,d1d8 e2f3,857,90,84,699,doubleBishopMate hangingPiece kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/5bSytn4J#43,
+qkHlM,5N1k/2pn3p/2np2p1/4p1B1/4P3/2P4P/BP3PP1/5bK1 b - - 0 32,d7f8 g5f6,890,148,84,339,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/EedHjhpm/black#64,
+qksuo,r1b1R1kr/1p1p2pp/2pB1n2/p7/8/P2B4/1PP2PPP/R5K1 b - - 3 19,f6e8 d3c4,873,96,78,761,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/IQt1OwbP/black#38,Scotch_Game Scotch_Game_Other_variations
+qnSNR,2krr3/Bppb2pp/2pb1p2/5n2/2B1P3/2P2P2/PP1N3P/2KR3R b - - 0 16,b7b6 c4a6,852,103,79,247,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/39XUlGBg/black#32,Scotch_Game Scotch_Game_Classical_Variation
+qst0F,2r4k/5B1p/p7/4p1B1/1r1b1nN1/7P/6P1/5R1K b - - 1 30,c8b8 g5f6,826,82,74,200,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/T5Bl2PYS/black#60,
+qwK8N,6k1/1b3ppp/p1p5/1p2P3/5P2/1P2b3/PB4PP/3B3K w - - 1 25,g2g3 c6c5 d1f3 b7f3,850,85,78,563,bishopEndgame discoveredAttack doubleBishopMate endgame mate mateIn2 short,https://lichess.org/EFhI5HMY#49,
+qy80M,8/b2b4/P2P4/3B2k1/2p5/2P5/7B/7K w - - 3 58,d5c4 d7c6 c4d5 c6d5,862,98,56,294,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/zmvL7rRB#115,
+qz5Sm,8/N5k1/2B4p/1pb5/2b2P2/6P1/7P/7K w - - 0 45,c6b5 c4d5,885,80,79,202,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/FVv70kUi#89,
+r73qr,5rk1/pbp3pp/8/2p5/2P1qpP1/PP2b3/6QP/1RB1R2K w - - 0 29,g2e4 b7e4,819,92,91,372,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/VPSvIBoQ#57,
+rIJfl,N7/pp4pk/3p2pp/4p3/2BnP2q/P2P2P1/1PP2b1P/R1Bb3K w - - 0 18,g3h4 d1f3,859,110,80,955,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/k8nEDllB#35,Italian_Game Italian_Game_Anti-Fried_Liver_Defense
+rJfik,rn1qkb1r/pbppn3/1p2p1pp/4P1BQ/8/8/PPP1BPPP/RN2K1NR b KQkq - 1 8,g6h5 e2h5 e7g6 h5g6,865,97,79,909,doubleBishopMate mate mateIn2 opening short,https://lichess.org/7rDTUYge/black#16,French_Defense French_Defense_Normal_Variation
+rMnXo,3r1r1k/p1p4p/b1p1BQ2/7q/2P4P/PP4P1/1BK5/R7 b - - 0 24,f8f6 b2f6,855,137,57,104,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/KdgVKRP0/black#48,
+rPemq,4r1k1/5p2/7p/1B4p1/1p4P1/1Pb2b1P/P7/1KBR4 w - - 4 33,d1f1 f3e4 b5d3 e4d3,821,97,84,991,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/rRwsuPWT#65,
+rQY0Q,4r1k1/bpp3p1/p7/4B2p/1P3Pb1/P1P3P1/3R3P/3R3K w - - 3 37,d2d8 g4f3,848,97,76,912,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/dkvOxbhC#73,
+rQnQo,3r2k1/pbp3p1/2q4p/2b1p3/8/2N2r2/PPP3PP/R1B1QR1K w - - 0 17,g2f3 c6f3 f1f3 b7f3,864,82,90,1337,doubleBishopMate kingsideAttack mate mateIn2 middlegame sacrifice short,https://lichess.org/9PdOBeDz#33,Italian_Game Italian_Game_Two_Knights_Defense
+rSJip,3r3k/7p/2p3p1/5pb1/1B6/1B1p2KP/6P1/8 b - - 1 40,d3d2 b4c3 d8d4 c3d4 g5f6 d4f6,866,88,83,987,doubleBishopMate endgame long mate mateIn3,https://lichess.org/YZkiCyZ3/black#80,
+rVKml,N1bk2nr/pp3p1p/2n3p1/4p3/2p1P3/8/PPPP1bPP/R1BK2NR w - - 0 11,g1h3 c8g4,819,88,92,1013,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/xck6cN94#21,Vienna_Game Vienna_Game_Stanley_Variation
+rW3uY,3k4/p4r1p/4b1p1/8/8/8/PPPP1bPP/R1BK3R w - - 0 22,h1f1 e6g4,848,84,86,406,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/r7atmrR4#43,
+rfJgM,r6k/pp5p/1q1P4/1P2P1B1/P1B3b1/8/2pN2PP/5R1K b - - 0 26,b6d4 g5f6,865,85,82,688,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/Lq0U7XkJ/black#52,
+rhqe2,5r1k/pN2B2p/1n4p1/5p2/3n1P2/1B5P/Pb3KP1/3R4 b - - 2 23,f8b8 e7f6,859,95,81,766,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/WWBGhlKG/black#46,
+rtQ3J,3rrn2/ppq2pk1/2p1bp2/6p1/3P3p/1PPBB2P/P2QNPPb/4RK1R w - - 0 20,g2g3 e6h3,860,89,95,617,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/KfoSe5G0#39,
+rvW6k,r3k2r/1b3pp1/p3p2P/P2pP2Q/2p2P2/2q5/1P3b1P/R1B2R1K w kq - 0 22,b2c3 d5d4 h5f3 b7f3,861,102,81,1530,discoveredAttack doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/65g31PHe#43,
+s0O4H,6k1/p5p1/p3b1Bp/2b1P3/2p5/6P1/7P/2rR3K w - - 0 30,d1c1 e6d5 g6e4 d5e4,806,94,87,475,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/FFSnfTqz#59,
+s8coV,r2q2k1/ppp3p1/2nb3p/8/6P1/3Q1N2/bPPB1P2/2KR3R w - - 0 17,b2b3 d6a3,834,79,90,598,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/nDIfBL3D#33,Philidor_Defense Philidor_Defense_Other_variations
+s8jAV,r6k/1b3B1p/8/2bR4/p6P/6P1/1p1B3K/8 b - - 0 37,b7d5 d2c3 c5d4 c3d4,834,81,88,3062,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/UIDdHDSj/black#74,
+sA9Sm,r3rnk1/3q3p/pp1p2pB/2pP4/2PbP1b1/6P1/PPB1N2P/R2QR2K w - - 6 23,d1d2 g4f3,865,79,96,1292,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/dBf01Tfy#45,
+sDdqj,1r2nbk1/1pp4p/p3b1p1/3N1p2/2P5/1P2PB2/P5PP/B2R2K1 b - - 4 20,e6d5 f3d5,825,140,80,243,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/vS71GCNv/black#40,
+sNlRB,2kr3r/Bppbbqpp/3p1n2/3Pn3/4P3/2PB4/PP3PPP/RN1Q1RK1 b - - 0 11,b7b6 d3a6,812,85,86,707,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/kMLE9WyD/black#22,Russian_Game Russian_Game_Other_variations
+sbMqp,r3r2k/pp2b1pp/8/8/2Bp1B2/P2P4/1PP3PP/5R1K b - - 2 23,g7g5 f4e5 e7f6 e5f6,865,106,78,327,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/MzQDeXMb/black#46,
+sexBb,r2qrbk1/pp3p1p/2npN1p1/3Q4/2B1P3/5P2/P1P3PP/BR2K2R b K - 0 16,f7e6 d5e6 e8e6 c4e6,857,86,83,630,doubleBishopMate kingsideAttack master mate mateIn2 middlegame sacrifice short,https://lichess.org/K5mt0EzE/black#32,Modern_Defense Modern_Defense_Standard_Line
+sogGm,8/B1p1kppp/1p2p3/2b1P3/5P2/P4BP1/bP2r2P/2R4K w - - 0 24,f3e2 a2d5 e2f3 d5f3,833,91,92,622,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/oJGCu6yx#47,
+su2rA,k1r4r/p3pB2/5b2/1p1p2N1/2n4p/5P1P/P1P2PKB/7R b - - 0 29,f6g5 f7d5 c8c6 d5c6,813,100,74,136,doubleBishopMate mate mateIn2 middlegame queensideAttack short,https://lichess.org/DclTxU5d/black#58,
+svqpb,r2r3k/pp2p2p/2n1B1p1/2p5/3N1B2/P6P/1n3PP1/2R2RK1 b - - 0 22,c6d4 f4e5,848,122,82,324,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/M075jJhF/black#44,
+swY7e,1k1r1b1r/1pp2ppp/8/8/3p4/6P1/bPPBPPBP/2KR3R w - - 0 16,b2b3 f8a3,885,105,85,214,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/lLIw19aB#31,Englund_Gambit Englund_Gambit_Main_Line
+t0i2c,1r1q3k/1pn4p/p1bB2p1/4pp2/3QP3/P6P/BP3PP1/3R2K1 b - - 0 26,e5d4 d6e5 d8f6 e5f6,862,103,79,1107,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/ixApagcQ/black#52,
+t1A6L,1r6/8/7k/1PB2Bpp/5p2/2P1p1b1/4RnP1/6K1 b - - 2 43,b8b5 c5f8,855,78,98,451,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/q5QkNSSj/black#86,
+t4oE3,1r1q1bnr/Q1Nn1ppp/4p1k1/3p2B1/3P3P/8/PPb1PPP1/R3KBNR w KQ - 3 12,g5d8 f8b4,856,107,76,824,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/egz5IinY#23,Slav_Defense Slav_Defense_Other_variations
+tElOW,rkb4r/pp3p1p/5bp1/2p1N3/5B2/8/PPP2PPP/2KR1B1R b - - 0 14,f6e5 f4e5,857,109,81,332,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/7F8vnpoQ/black#28,Sicilian_Defense Sicilian_Defense_Modern_Variations
+tTTMo,r3kb1r/ppB1pppp/8/3P4/2B5/2P5/P4PPP/1b2K2R b Kkq - 0 15,a8c8 c4b5,889,104,75,179,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/OsGCVcDv/black#30,Queens_Gambit_Accepted Queens_Gambit_Accepted_Other_variations
+tVbhb,5bk1/2p2p1p/1p2P1p1/3P4/1pNB1P2/4K2B/1P5P/r7 b - - 0 30,f7e6 h3e6,870,88,79,442,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/VsuWNazm/black#60,
+tWnm3,r5k1/p1p2ppp/2p2n2/2bp4/8/1P1B2PN/P1P4P/R1BbrR1K w - - 1 19,f1e1 d1f3,835,124,79,202,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/jJXtJ2oi#37,Four_Knights_Game Four_Knights_Game_Scotch_Variation_Accepted
+tiQDw,r1r4k/p2qnB1p/2bp2p1/1p6/3QPR2/2b1B3/PPP3PP/R5K1 b - - 2 21,c3d4 e3d4,856,154,84,275,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/VEbT0TxM/black#42,
+tkSgw,rn2r1k1/pp1q1p1p/2p2p2/8/1b1P4/2N2N1P/bPPQBPP1/2KR3R w - - 0 13,b2b3 b4a3,817,88,63,72,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/eZCl9AbZ#25,Scandinavian_Defense Scandinavian_Defense_Boehnke_Gambit
+tkpa4,6k1/5p2/1p2p2p/p3P1p1/P2b4/1P1b3P/5PPB/3B1K2 w - - 2 28,f1e1 d4c3,873,90,84,504,bishopEndgame doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/zDdwyLQt#55,
+tt36b,4r1k1/pp4pp/2p1b3/6pB/8/2Q3P1/PP3b1P/R6K w - - 4 25,h5e8 e6d5 c3f3 d5f3,839,97,86,519,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/JapGwUIZ#49,
+tt8RJ,7k/p3P1pp/3B1p2/3B4/b4P2/4b1P1/7P/7K w - - 0 33,d5f7 a4c6 f7d5 c6d5,822,90,92,803,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/GJxQW7IG#65,
+tyIay,r3k2r/ppqnbppp/2p5/2PpP2b/P7/2Q1P2P/1P1N1PP1/R1B1KB1R w KQkq - 1 13,f2f4 e7h4 g2g3 h4g3,873,94,83,606,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/EqwIevOa#25,Slav_Defense Slav_Defense_Quiet_Variation
+u3gdz,3r2k1/5p1p/p1b2Pp1/1pb3B1/5P2/P4NP1/2B4P/4rR1K w - - 0 30,f1e1 c6f3,855,115,84,200,doubleBishopMate hangingPiece mate mateIn1 middlegame oneMove,https://lichess.org/6GzwSQfp#59,
+u7XGC,1r2r2k/pp5p/6p1/3B4/4RP2/BP4P1/P3p2P/7K b - - 1 31,e8e4 a3b2 e4e5 b2e5,871,94,85,2728,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/HSlxWmlQ/black#62,
+u84Fm,5k2/5rp1/b3B3/4Bp2/5P1p/1PRPb1P1/P3P2P/7K w - - 1 33,e6f7 a6b7 c3c6 b7c6 f7d5 c6d5,867,81,89,1897,doubleBishopMate endgame long mate mateIn3,https://lichess.org/qFDZMTDa#65,
+uMyF2,6k1/1p3pp1/1N2p2p/1P6/P2P4/3b1BP1/4pb1P/2R4K w - - 0 30,f3e2 d3e4 e2f3 e4f3,892,95,71,1557,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/cdVW81xi#59,
+uQ8dm,rnbkr3/pppp1Bpp/8/8/3P1B2/2b2N2/P1P3PP/1R3RK1 b - - 0 13,e8f8 f4g5,899,89,79,840,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/qgYUXQ4s/black#26,Kings_Gambit_Accepted Kings_Gambit_Accepted_Schallopp_Defense
+uQCwJ,k6r/p1BB1ppr/3p4/3P4/3Pp3/4b3/PPK3P1/7R b - - 1 31,h7h1 d7c6,866,135,45,164,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/gx4auDvO/black#62,
+uQvBG,4r2k/pp5p/3p2p1/3B1pB1/2P2P2/1P1q4/P4QKP/8 b - - 6 28,e8e2 g5f6,848,92,96,253,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/gkXGSmwd/black#56,
+uROhF,r1bq1bkr/1p4pp/p1n5/2pQp3/2B5/1P6/PBPP1PPP/RN2K2R b KQ - 0 11,d8d5 c4d5 c8e6 d5e6,836,173,85,28,doubleBishopMate kingsideAttack mate mateIn2 opening short,https://lichess.org/pKr5tEGi/black#22,Sicilian_Defense Sicilian_Defense_Old_Sicilian
+uW3hE,r1bqkb1r/p2np1p1/2p4p/1p3p1B/2NPpB2/2P1P3/PP3PPP/R1Q1K2R b KQkq - 1 14,g7g6 h5g6,892,96,60,884,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/j7zgCWzm/black#28,Indian_Defense Indian_Defense_Other_variations
+uYYTE,5rk1/1b3p2/pN1p3Q/P1p1r3/3b4/1B3q2/1PP3PP/R6K w - - 0 29,g2f3 b7f3,850,78,91,473,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/n5gNnTAC#57,
+ufkAh,r6k/ppp4p/6p1/3B4/8/2N4P/Pb3BP1/R5K1 b - - 1 22,b2a1 f2d4,899,184,74,216,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/hBoftwao/black#44,
+ulqFH,7k/p1p3pp/3p1P2/2bB4/2P1P1b1/2B5/P1r5/5R1K b - - 0 30,g7f6 c3f6,879,95,88,411,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/S5KejT0x/black#60,
+uqAA0,7k/p6p/1p2B1p1/2b5/4b3/3p2P1/PPPB3P/5K2 b - - 1 28,d3c2 d2c3 c5d4 c3d4,811,88,85,788,bishopEndgame doubleBishopMate endgame mate mateIn2 short,https://lichess.org/WOw2CT7u/black#56,
+usPAU,2k5/1pp2pp1/p1p2b1p/8/6b1/2NP1N2/PPPK1PPP/4r3 w - - 0 18,f3e1 f6g5 f2f4 g5f4,879,80,90,1622,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/9x6l9sbQ#35,Ruy_Lopez Ruy_Lopez_Exchange_Variation
+usism,6k1/p5pp/1p2p1b1/2b1P3/8/1PB2BP1/P6P/3r3K w - - 0 25,f3d1 g6e4 d1f3 e4f3,855,118,79,338,bishopEndgame doubleBishopMate endgame master mate mateIn2 short,https://lichess.org/psfwStDw#49,
+uttsd,r2q1r1k/pbp1n2p/2ppBR2/2b5/8/1P6/PBP3PP/RN1Q3K b - - 0 17,f8f6 b2f6,802,107,76,341,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/pEHxZfaJ/black#34,Russian_Game Russian_Game_Modern_Attack
+uv8mw,r6k/pp5p/2b3p1/5p2/4p3/PBb1PP1P/R1Pr2P1/4BRK1 b - - 2 21,d2e2 e1c3,877,120,70,62,doubleBishopMate hangingPiece mate mateIn1 middlegame oneMove,https://lichess.org/d0T6lY4U/black#42,
+v2SMr,r2qkb1r/pppbp1p1/5n2/2PpP1p1/8/4B3/PPB3PP/RN1QK2R b KQkq - 0 14,f6g4 c2g6,822,79,89,592,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/wB5P5nGz/black#28,Nimzowitsch_Defense Nimzowitsch_Defense_Declined_Variation
+vAiHA,r1b3k1/p3pp2/1p5p/2p2p2/3b4/3P2PN/PPP4P/R1BQ3K w - - 0 23,c1h6 c8b7 d1f3 b7f3,864,83,91,1442,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/hkkRidk6#45,
+vDjmz,rn2kbnr/p1pp2p1/1p2pB2/7p/3P4/2PB1b2/PP3PPP/RN1Q1RK1 b kq - 0 10,f3d1 d3g6,846,86,95,1140,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/Ld7MxSUh/black#20,French_Defense French_Defense_Other_variations
+vEHyR,3Q3k/7p/4Bbp1/p4p1q/P7/2P1B2P/1P3PP1/6K1 b - - 0 32,f6d8 e3d4 d8f6 d4f6,847,88,87,516,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/NjjTjHRX/black#64,
+vN8cz,2kr3r/B1bn1pp1/2pqpnb1/1p5p/N1B3P1/2QP1N1P/PPP2PK1/3R3R b - - 1 17,b5a4 c4a6,855,106,52,61,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/ZzF50rr0/black#34,Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation
+vQrWx,2kr1b1r/Bppn3p/3p2p1/1B2pp2/P3P3/3P3P/1PP2K2/2R4R b - - 0 18,b7b6 b5a6,887,80,91,1755,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/FGznCh2P/black#36,Vienna_Gambit_with_Max_Lange_Defense Vienna_Gambit_with_Max_Lange_Defense_Other_variations
+vSB9r,rn3r1k/p1p2Bbp/1p1n4/4N3/5B2/8/PP3PPP/3RR1K1 b - - 0 17,g7e5 f4e5,830,83,90,249,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/sPPSA8HJ/black#34,Kings_Indian_Defense Kings_Indian_Defense_Other_variations
+vd1N3,3R1r1k/1p5p/p5p1/1b3pB1/4p3/b3P1P1/B4P1P/6K1 b - - 1 27,f8d8 g5f6,854,89,81,1293,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/M1MEifxK/black#54,
+vi4dv,4Q2k/7p/6p1/8/p2b4/7P/B5P1/4q1BK b - - 0 44,e1e8 g1d4 e8e5 d4e5,812,184,25,32,doubleBishopMate endgame hangingPiece mate mateIn2 short,https://lichess.org/8OyCwEb1/black#88,
+vqRuc,r1b4k/pp2BBpp/nbp2p1N/8/4Nn2/7P/PPP3P1/2KR4 b - - 1 23,g7h6 e7f6,892,89,79,1642,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/oWjXjbRb/black#46,
+vqbxu,r2k1bnr/1p4pp/p1n1p3/3N4/5B2/8/PPb1PPPP/R3KBNR w KQ - 0 10,d5e3 f8b4,813,120,79,122,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/0eW8n6a4#19,Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation
+vw8gI,3qr2k/6bp/p2BB1p1/2ppQ2b/7r/1P2R3/P1P5/2K1R3 b - - 1 29,g7e5 d6e5 d8f6 e5f6,857,89,81,1730,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/qhvJQbCp/black#58,
+vwxzE,8/1R3R2/2pk4/p2p4/P5b1/2P1b1P1/7P/7K w - - 7 44,f7g7 g4f3,854,173,67,167,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/wg34nA1U#87,
+wHKZX,r3k2r/ppp1bppp/2n5/8/5Pb1/8/PPPB2PP/R3KBNR w KQkq - 0 10,h2h3 e7h4 g2g3 h4g3,887,83,80,971,doubleBishopMate master mate mateIn2 middlegame short,https://lichess.org/tR3KoF5B#19,Nimzowitsch_Defense Nimzowitsch_Defense_Other_variations
+wHYRn,r3kb1r/pp1b2pp/1q2p3/2ppPnB1/8/1PP5/P3BPPP/RN1Q1RK1 b kq - 4 12,h7h6 e2h5 g7g6 h5g6,827,76,98,763,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/rGCUPyBG/black#24,French_Defense French_Defense_Advance_Variation
+wJZAR,r2qkbnr/1ppbp2p/p1n2pQ1/3p4/3P3B/3BP3/PPP2PPP/RN2K1NR b KQkq - 0 7,h7g6 d3g6,810,127,100,41,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/OZQlAWRD/black#14,Queens_Pawn_Game Queens_Pawn_Game_Levitsky_Attack
+wRmqF,4q2k/p6p/2p2Qp1/8/1p5B/1Bb2P2/P3r1PP/2R2K2 b - - 1 33,c3f6 h4f6,860,127,81,226,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/fMnMO76m/black#66,
+wUcBQ,Q4b1r/p1pk2p1/bp4p1/4p3/5P1q/5N2/PPP3PP/R1B3KR w - - 0 16,f3h4 f8c5 c1e3 c5e3,839,91,92,1796,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/Iawsttd8#31,Mikenas_Defense Mikenas_Defense_Other_variations
+wUsR3,4bk2/Bpb3p1/2p1Bp1p/4p3/4P1P1/3r1P2/PP5P/2R3K1 b - - 0 23,d3f3 a7c5 c7d6 c5d6,897,134,81,274,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/hqsWNbff/black#46,
+wf9ii,r1bk3r/pppp1Bpp/1n6/4P3/2P5/3P4/P1PB2qP/2KR2R1 b - - 2 16,g2h2 d2g5,893,76,98,477,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/T0s7PePh/black#32,Italian_Game Italian_Game_Blackburne-Kostic_Gambit
+wjpMr,1r3r1k/1b1R4/p2P4/P3p1p1/1P4Bp/5q1P/3QNb1B/2R4K w - - 0 38,g4f3 b7f3,821,95,92,826,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/hkGmvi52#75,
+x47o0,rnbr3k/pp2QB1p/5bp1/q1P5/5B2/5N1P/P4PP1/2R2K1R b - - 0 16,f6e7 f4e5 e7f6 e5f6,808,89,96,255,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/dkVcfluu/black#32,Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense
+x5peP,rkb2bq1/p4p1r/1p6/1n3P1p/P2B4/2Q2B1P/1PP3P1/R4RK1 b - - 0 27,b5c3 d4e5 f8d6 e5d6,850,105,84,1105,doubleBishopMate fork mate mateIn2 middlegame short,https://lichess.org/7srgrXBn/black#54,
+xALaN,5r1k/pp1r1B1p/1qbbp1p1/6BQ/8/P7/1PP3PP/R4R1K b - - 1 25,g6h5 g5f6,867,108,70,631,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/usN0vg9T/black#50,
+xPv4Z,1r2kr2/pPp2p1p/4b3/8/2p5/8/PPPP1bPP/R1BK2NR w - - 0 14,g1h3 e6g4,837,93,90,1404,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/8qmns4GF#27,Vienna_Game Vienna_Game_Stanley_Variation
+xaten,r1b1k2r/1pq2pp1/p1n2n1p/2pp4/P1B5/3P1NPP/1PP1NP1b/R1BQRK2 w kq - 0 14,c4a2 c8h3,856,85,87,999,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/zkRvf6xZ#27,Sicilian_Defense Sicilian_Defense_Old_Sicilian
+xb6dQ,2b5/p3k2p/1p3p2/4p3/8/8/PB1P1b1P/1R5K w - - 0 27,b1f1 c8b7,865,108,70,601,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/53NhD2ZM#53,
+xi1U1,7k/7p/pB1RB3/4bpp1/PP6/6PP/5P1K/2r5 b - - 0 34,e5d6 b6d4 d6e5 d4e5,861,143,67,138,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/5bWZfBeM/black#68,
+xrn3Z,r2qkb1r/1ppbpp2/p6p/4B1p1/3PP3/2P5/P3BPPP/R2Q1RK1 b kq - 0 14,f7f6 e2h5,839,86,79,188,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/vmHmmBGr/black#28,Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense
+xs67m,2kr1bnr/Bppb1pp1/3pn2p/8/4PP2/2NB4/PPP3PP/R4RK1 b - - 0 12,b7b6 d3a6,860,144,47,99,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/uTIlxc29/black#24,Italian_Game Italian_Game_Anti-Fried_Liver_Defense
+xuNHU,r2q2k1/pb3p1p/1p1p2p1/2p5/2P1r3/1P2b1P1/PQ2N1BP/3RR2K w - - 0 22,g2e4 b7e4,841,117,78,354,doubleBishopMate kingsideAttack master mate mateIn1 middlegame oneMove,https://lichess.org/NODZgsX0#43,
+xyHnY,rn1r3k/ppp3bp/5Np1/5b2/2B4B/2p2N2/PP3KPP/R3R3 b - - 0 16,g7f6 h4f6,803,81,94,603,doubleBishopMate kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/HjYoGjrW/black#32,Queens_Pawn_Game Queens_Pawn_Game_Colle_System
+y4ALu,r3rk2/1p1nqppB/p7/3p3b/3P4/5N1P/PP1B1PP1/R2Q2K1 b - - 2 17,g7g6 d2h6,839,88,85,356,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/V98UjZZg/black#34,Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack
+y6dxM,3r1k2/1pp2ppp/4b3/8/3b4/P1NP2P1/7P/1R1R3K w - - 4 29,c3b5 e6d5,850,97,83,478,doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/6MGypjlK#57,
+yHqm9,r4rk1/1p3ppp/p1p1p3/3pP2b/1P2PP2/P5P1/1BP2b1P/RN2R2K w - - 0 21,e1f1 h5f3,857,88,86,395,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/IutFKTsH#41,
+yJzEG,7k/p1p1b3/1p4PP/1b1PP2K/5R2/1P6/P7/8 w - - 1 45,f4f7 b5e2 f7f3 e2f3,806,84,83,117,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/BhNrQO7t#89,
+yKtXD,2rr2k1/1p4pp/p2p4/3N1b1q/2P2P2/1P3B2/PB1R1b1P/2R4K w - - 0 28,f3h5 f5e4 h5f3 e4f3,857,105,96,253,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/abYrE7TA#55,
+yOn1A,1k1r1b1r/1p4pp/p4p2/4p3/2PpP1QN/q7/bPPR1PPP/2KR4 w - - 0 20,b2a3 f8a3,849,106,71,253,doubleBishopMate master mate mateIn1 middlegame oneMove queensideAttack,https://lichess.org/suS3cVhU#39,
+yQCnv,6R1/7k/pb4p1/1b1B2Pp/5P2/8/7P/7K w - - 7 46,d5f7 b5c6 f7d5 c6d5,835,90,91,475,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/ukgrTlGQ#91,
+yVqQu,r2r3k/pp2Q2p/1n3bp1/5p2/P2N4/1BPp3P/1P3PPB/R5K1 b - - 0 25,f6e7 h2e5 e7f6 e5f6,891,107,50,342,doubleBishopMate kingsideAttack master mate mateIn2 middlegame short,https://lichess.org/tb4FiLD0/black#50,
+yVy7v,2kr3r/Bppb1p1p/3bpp2/8/2B5/5P2/PPP2P1P/1K1R3R b - - 0 15,b7b6 c4a6,817,81,98,453,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/RXUC09L8/black#30,Scandinavian_Defense Scandinavian_Defense_Main_Line
+yctGr,rn3r1k/p6p/2p3p1/5b2/8/1Bb3B1/P1PN2PP/5RK1 b - - 9 20,c3d2 g3e5 f8f6 e5f6,844,86,82,545,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/nuYEOpgB/black#40,
+ydhnV,2r4k/R5p1/7p/4P3/2bpB3/1N2b1P1/1PP4P/7K w - - 2 27,e4f5 c4d5 f5e4 d5e4,834,87,90,490,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/I0xZ0o3p#53,
+yfzSw,r4rk1/2pq1p2/p2b1p1p/1p6/4P3/2PP3P/bPBNQ1P1/2KR3R w - - 0 21,b2b3 d6a3,838,90,86,525,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/tzamhPdS#41,
+yj1vw,rnb4k/ppp3pp/3P4/2nN4/4r3/3B2P1/PPPP1b1P/R1BK3R w - - 4 17,d3e4 c8g4 e4f3 g4f3,875,89,80,2185,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/4CDIrpnz#33,Elephant_Gambit Elephant_Gambit_Other_variations
+yjcHo,4kbnr/1BB1pppp/8/rp6/2p5/4P3/1PK2PPP/6NR b k - 4 18,a5a7 b7c6,882,123,70,153,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/L2tbboVT/black#36,Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense
+ysFZM,3r4/1R3p2/1N1k3p/1Pp3pb/2BbP3/1N4P1/7P/3n2K1 w - - 1 34,g1h1 h5f3,876,152,67,324,doubleBishopMate master mate mateIn1 middlegame oneMove,https://lichess.org/oAJ80QOo#67,
+ytdub,r4k1r/ppp2ppp/8/2b2b2/8/6P1/PPP1B2P/RNB1R2K w - - 2 16,c2c3 f5e4 e2f3 e4f3,849,110,45,184,doubleBishopMate kingsideAttack mate mateIn2 middlegame short,https://lichess.org/hIpqqV1N#31,Russian_Game Russian_Game_Stafford_Gambit
+ywnT5,5k2/pp4pp/2p1p1b1/2bpP3/6P1/3q3P/PPP3B1/R3BK1R w - - 2 22,c2d3 g6d3,868,153,74,182,doubleBishopMate endgame master masterVsMaster mate mateIn1 oneMove,https://lichess.org/Hrly7xMQ#43,
+zG9Se,8/8/p1PBb3/P3pk1B/1P1p4/8/r4b1P/2R2R1K w - - 0 43,c6c7 e6d5 h5f3 d5f3,822,82,94,913,doubleBishopMate mate mateIn2 middlegame short,https://lichess.org/3hYsD0xJ#85,
+za0IG,3r2k1/pb3ppp/4p3/8/3b4/1B1N1q2/PPPB2PP/R6K w - - 0 23,g2f3 b7f3,856,128,85,358,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/qL6qMwIR#45,
+zcWbP,2kr2nr/Bppbqppp/3b4/7Q/4p3/3B4/PPP2PPP/RN2R1K1 b - - 0 11,b7b6 d3a6,841,86,95,172,doubleBishopMate mate mateIn1 oneMove opening,https://lichess.org/dYFq4pEe/black#22,Zukertort_Opening Zukertort_Opening_Tennison_Gambit
+zdDIi,4r1k1/pb1q1ppp/1p6/2b5/5B2/2PR1PP1/PP5P/3R3K w - - 0 29,d3d7 b7f3,808,91,95,461,doubleBishopMate endgame master mate mateIn1 oneMove,https://lichess.org/NTgsIKF8#57,
+ziuxj,r1br3k/p3pB1p/2p1P1p1/2b5/5B2/2N5/PPP3PP/R6K b - - 3 18,c8a6 f4e5,850,96,62,73,doubleBishopMate mate mateIn1 middlegame oneMove,https://lichess.org/drxTHr2c/black#36,Sicilian_Defense Sicilian_Defense_Hyperaccelerated_Pterodactyl
+zxqR1,7k/pR4p1/2p4p/8/1PPb4/P4BP1/4r2P/1b5K w - - 0 28,f3e2 b1e4 e2f3 e4f3,838,87,81,374,doubleBishopMate endgame mate mateIn2 short,https://lichess.org/PvtZoq5M#55,
+zz3kt,7k/7p/7p/b1B5/b1B1P3/8/5KP1/8 b - - 1 44,a4d7 c5d4,855,80,100,260,bishopEndgame doubleBishopMate endgame mate mateIn1 oneMove,https://lichess.org/vaPsbzvZ/black#88,

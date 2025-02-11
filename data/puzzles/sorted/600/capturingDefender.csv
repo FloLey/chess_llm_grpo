@@ -1,0 +1,9 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+Mylsy,1r3rk1/1q4p1/p1Q2p1p/4p3/8/1P4P1/P4PKP/2R1R3 b - - 3 29,f8c8 c6b7 b8b7 c1c8,693,100,82,289,capturingDefender crushing discoveredAttack endgame master short,https://lichess.org/2tNxx57F/black#58,
+QpIOg,3Nb3/3r2k1/p1pR1p2/2P2P1p/1P5K/P7/8/8 w - - 5 44,d8c6 d7d6 c5d6 e8c6,629,98,82,363,advantage capturingDefender discoveredAttack endgame short,https://lichess.org/yaUD9B2C#87,
+S3MOd,r1b1r3/pp3pkp/8/3Pq3/1P1Q2p1/1B2n1R1/2P1N1P1/R5K1 w - - 2 27,g3e3 e5d4 e2d4 e8e3,676,101,76,229,advantage capturingDefender discoveredAttack master middlegame pin short,https://lichess.org/RrCvlxjO#53,
+Wob5X,3rr1k1/pp4pp/2p1P3/3q4/4Q1P1/7P/2P1R1K1/4R3 b - - 0 28,e8e6 e4d5 d8d5 e2e6,647,93,65,244,capturingDefender crushing discoveredAttack endgame master pin short,https://lichess.org/4v5HIK5U/black#56,
+dsUjs,r3k2r/p2qbppp/2n1b3/1B1p4/3P4/1Q6/PPP2PPP/2KR2NR b kq - 6 14,a8b8 b5c6 d7c6 b3b8,675,88,95,958,advantage capturingDefender discoveredAttack middlegame pin short,https://lichess.org/xtJiyl44/black#28,French_Defense French_Defense_Queens_Knight
+m4Lqb,r3k2r/pp1n1ppp/2p1pq2/8/6b1/3P1N2/PPP1BPPP/1R1Q1RK1 b kq - 3 13,d7e5 f3e5 f6e5 e2g4,648,99,91,1320,capturingDefender crushing discoveredAttack middlegame short,https://lichess.org/hW6vkegW/black#26,Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation
+vVN1I,1r6/np1R1pkp/4p1p1/pP6/4BP2/P6P/6P1/6K1 w - - 1 28,d7b7 b8b7 e4b7 a7b5,628,101,52,99,capturingDefender crushing endgame short,https://lichess.org/QabW2atH#55,
+yr8Au,8/8/p1k5/2pp1p2/2p1q3/P7/1P1B4/2K1R3 b - - 1 50,f5f4 e1e4 d5e4 d2f4,655,96,82,294,capturingDefender crushing endgame master short,https://lichess.org/3RCwB7dr/black#100,

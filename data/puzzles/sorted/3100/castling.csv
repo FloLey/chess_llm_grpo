@@ -1,0 +1,2 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+cU2q3,r3k3/1pp2p2/p1p2Q1p/2b1P3/4P3/8/PPP1KP2/RN5q w q - 4 19,f6f5 c5e7 e5e6 e8c8 b1d2 h1a1,3168,121,92,373,castling crushing endgame long quietMove,https://lichess.org/WkKsCOWO#37,Ruy_Lopez Ruy_Lopez_Exchange_Variation

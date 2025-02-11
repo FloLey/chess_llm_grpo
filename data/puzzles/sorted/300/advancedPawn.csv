@@ -1,0 +1,10 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+4nrdN,krR5/P7/KP6/8/8/8/8/8 b - - 4 86,b8c8 b6b7,399,105,71,104,advancedPawn endgame mate mateIn1 oneMove rookEndgame,https://lichess.org/9IqGMW97/black#172,
+5v4z4,4k3/1PP1P3/4K3/8/8/8/p7/7B b - - 0 71,a2a1q b7b8q,399,112,95,341,advancedPawn endgame master mate mateIn1 oneMove promotion,https://lichess.org/JCPRjeeQ/black#142,
+Jp7EE,8/8/8/5B1p/5P1P/kp4P1/p7/K7 w - - 0 39,f5g6 b3b2,399,87,100,183,advancedPawn bishopEndgame endgame mate mateIn1 oneMove,https://lichess.org/9EK7p7e9#77,
+bj7og,2r3k1/p2n1ppp/8/6B1/2N5/8/Pr2pPPP/2R3K1 w - - 1 26,c4b2 c8c1 b2d1 e2d1q,399,103,95,629,advancedPawn backRankMate endgame mate mateIn2 promotion short,https://lichess.org/GGk9esmk#51,
+cfwnR,3k4/3P4/3KP3/3n4/1B6/pP3b2/P7/8 b - - 0 47,d5b4 e6e7,399,103,86,259,advancedPawn endgame mate mateIn1 oneMove,https://lichess.org/3ctSpd0P/black#94,
+dpKvH,krR5/P7/KP6/8/8/8/8/8 b - - 4 66,b8c8 b6b7,399,101,85,128,advancedPawn endgame master masterVsMaster mate mateIn1 oneMove rookEndgame,https://lichess.org/Pd5SltMD/black#132,
+kcnOv,8/6pp/8/8/4P2P/1kp3P1/1p6/1KRr4 w - - 6 47,c1d1 c3c2,399,111,96,537,advancedPawn endgame mate mateIn1 oneMove rookEndgame,https://lichess.org/XOI0KrcH#93,
+r7AUK,6k1/6P1/5PK1/8/8/8/1b6/8 b - - 2 74,b2c3 f6f7,399,106,97,1153,advancedPawn bishopEndgame endgame mate mateIn1 oneMove,https://lichess.org/JjmHHZ4T/black#148,
+z3NCM,4rQk1/p2q2Pp/1p5P/2pP4/5R2/2P5/P2p2P1/6K1 b - - 1 34,e8f8 g7f8q,399,101,95,911,advancedPawn endgame mate mateIn1 oneMove promotion,https://lichess.org/BFKWjlOf/black#68,

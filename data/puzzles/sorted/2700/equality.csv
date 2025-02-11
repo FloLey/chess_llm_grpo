@@ -1,0 +1,4 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+ANqJ7,5r2/5pk1/3Q3p/5RpP/2pP4/r1P3P1/1q3PK1/8 b - - 3 35,b2e2 f5e5 e2h5 d6a3,2797,307,90,8,endgame equality short,https://lichess.org/lFNprZIb/black#70,
+WFhDK,r3k2r/pp2bppp/2p4q/2PpQ3/1P2nP2/P3PN2/7P/RNB1K1R1 w Qkq - 5 17,g1g7 e8f8 g7f7 f8f7,2778,319,100,20,equality middlegame short,https://lichess.org/eCfkmh2k#33,
+vtmCt,r3kb1r/pp3pp1/2p2np1/6q1/6P1/3Q1N2/PP3P1P/1K1R3R b kq - 1 18,g5d5 h1e1 f8e7 e1e7 e8e7 d3a3 e7e8 d1d5,2708,214,83,14,attraction equality middlegame sacrifice veryLong,https://lichess.org/c5eAgMlc/black#36,

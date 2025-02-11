@@ -1,0 +1,12 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+0uRvJ,6k1/pp6/4N1p1/2pP4/1PP4p/2Q1B3/1P2K1q1/7r w - - 0 31,e2d3 g2f1 d3c2 f1d1,2551,91,91,4203,dovetailMate endgame mate mateIn2 short,https://lichess.org/XTqrWrHK#61,
+6aGqJ,8/8/3q1k2/6pp/2Pp4/P2Q1K2/5P1P/8 w - - 0 43,f3e4 d6e6 e4d4 e6e5,2547,85,90,915,dovetailMate endgame mate mateIn2 queenEndgame short,https://lichess.org/bMFZMYHJ#85,
+CqO9Y,2r2nkQ/1b4p1/p3p3/3pP3/1p1q1P2/5BK1/P5P1/2q4R b - - 1 33,g8f7 f3h5 g7g6 h5g6 f7e7 h8g7 e7d8 g7f8 d8c7 f8d6,2532,87,94,13961,deflection dovetailMate master mate mateIn5 middlegame veryLong,https://lichess.org/q2aJcPSy/black#66,
+HxNh5,r2k3r/pp4p1/4R1Q1/3p3p/7P/1KP5/PP3q2/7n b - - 4 24,a8c8 g6g5 f2f6 g5d5 d8c7 d5d6,2509,107,91,1332,dovetailMate endgame exposedKing fork long mate mateIn3,https://lichess.org/moCJZGl1/black#48,
+SM2xl,4rk2/5pR1/2p5/2P1rP1Q/1p2q2p/1P2P3/6R1/7K b - - 4 43,e5f5 g7f7 f5f7 h5h6 f8e7 h6d6,2531,93,94,7729,dovetailMate endgame long mate mateIn3 sacrifice,https://lichess.org/dqELDSqJ/black#86,
+XnwFZ,6Q1/2qr4/p3kp2/4rN2/5p2/P1P2R1P/1P4PK/8 b - - 2 46,e6f5 f3f4 f5f4 g8g3 f4f5 g3g4,2510,87,93,2303,attraction dovetailMate endgame long mate mateIn3 sacrifice,https://lichess.org/wrJf8Oiw/black#92,
+YCGmX,4r1k1/2p3p1/p1p5/3p4/2K5/P3qP2/1PP5/R2Q3R w - - 0 34,c4b4 e3b6 b4c3 b6c5 c3d2 c5e3,2538,86,94,7006,dovetailMate endgame long mate mateIn3,https://lichess.org/0kMbbXsU#67,
+YLjqM,2N3r1/3Q4/p3P3/kp1pP1K1/4q3/6P1/8/2R5 w - - 11 46,g5f6 e4f3 f6e7 f3f8,2578,101,91,3361,dovetailMate endgame mate mateIn2 short,https://lichess.org/c4WqBehi#91,
+aYUqj,2k1r3/ppp2p2/8/3p4/1P1Q4/2P2Brq/P2N1K2/R1B2R2 w - - 3 33,d4d5 g3g2 f3g2 h3e3,2507,85,94,11939,clearance dovetailMate mate mateIn2 middlegame sacrifice short,https://lichess.org/Fyl6oYRs#65,
+ltJQ1,2R1Q3/4B1pk/7p/4p3/4n3/7P/5bP1/1q3K2 w - - 2 45,f1e2 e4g3 e2f2 b1f1 f2g3 f1f4,2570,88,94,578,dovetailMate endgame exposedKing long mate mateIn3 sacrifice,https://lichess.org/X2lI4agW#89,
+wUTyK,r3rnk1/3q1p1B/p6Q/2p1p3/3b2P1/4B1P1/PP3PK1/7R b - - 0 31,f8h7 h6h7 g8f8 h7h6 f8e7 e3g5 f7f6 h6f6,2546,87,95,934,dovetailMate mate mateIn4 middlegame veryLong,https://lichess.org/dveP9hUe/black#62,

@@ -1,0 +1,11 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+GtzZG,6k1/p7/1p4PP/2b2K2/r7/8/3pp3/7R b - - 0 43,e2e1q h6h7 g8f8 h7h8q f8e7 h1h7 e7d6 h8d8 d6c6 d8d7,2480,86,92,10285,advancedPawn deflection dovetailMate endgame exposedKing mate mateIn5 promotion veryLong,https://lichess.org/n51TzTIk/black#86,
+It9Ab,6k1/4pp2/6pB/pQ1pq3/P3n3/2r5/6PP/5R1K b - - 1 28,e5h5 b5e8 g8h7 e8f7 h7h6 f7f8 h6g5 f8f4,2490,80,94,7193,deflection dovetailMate endgame mate mateIn4 sacrifice veryLong,https://lichess.org/rmCqXRF6/black#56,
+LJdR8,8/7p/6pk/1QpBp3/4Pq1b/2PP3P/6P1/6K1 w - - 3 34,b5c5 f4c1 g1h2 h4g3 h2g3 c1f4,2467,85,92,5344,attraction dovetailMate endgame long mate mateIn3 sacrifice,https://lichess.org/FetwiYne#67,
+OVUGI,r4k2/1p2r3/p3pqR1/7Q/8/P4P2/1P5P/7K b - - 5 34,f6f5 h5h8 f8f7 g6g7 f7f6 g7g8 e7g7 h8g7,2412,82,96,874,discoveredAttack dovetailMate endgame exposedKing mate mateIn4 veryLong,https://lichess.org/XAwC6ZeC/black#68,
+R60M5,r2q1r2/ppp1k1pp/3p4/2bPp3/3P4/1BP5/PPQ2P1P/R1B1K2b b Q - 0 14,e5d4 c2e2 h1e4 e2e4 e7f7 e4e6,2474,81,92,3661,dovetailMate long mate mateIn3 middlegame,https://lichess.org/vdiPbz98/black#28,Italian_Game Italian_Game_Two_Knights_Defense
+ZVb0a,rnb2k2/pp4b1/4p1B1/2p1P3/3P4/2P2Q1R/P3KP2/q7 b - - 1 24,f8e7 f3f7 e7d8 h3h8 g7h8 f7f8 d8c7 f8d6,2453,85,95,3602,dovetailMate fork master masterVsMaster mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/ra5T5rZF/black#48,
+n0M3M,r1b5/pp1p2k1/6p1/2p3Np/2P2Q2/KP2P3/3q1nPP/8 b - - 1 28,d7d5 f4f7 g7h6 f7f8 h6g5 f8f4,2466,88,93,2092,dovetailMate endgame long mate mateIn3 sacrifice,https://lichess.org/ORcMMY3G/black#56,
+tm0CD,r1b5/ppk1Q3/4p3/3pP3/P2b1P2/6PB/2q5/4R2K b - - 0 28,c7b6 e7b4 b6c7 b4d6,2453,79,92,3609,dovetailMate fork mate mateIn2 middlegame short,https://lichess.org/PCvTLxIB/black#56,
+wXcKI,r3r3/1p3p1Q/2p1bk1p/q1n5/1bP2p1N/pP2B1PP/P5B1/1R1R2K1 b - - 1 27,f4e3 h7h6 f6e7 h4f5 e6f5 h6d6,2421,87,94,9433,dovetailMate exposedKing long mate mateIn3 middlegame sacrifice,https://lichess.org/QPX1rvyh/black#54,
+ztN8T,2b1Q3/1pN2ppk/3p2p1/p6r/5P2/P7/1P3KPq/2RR4 w - - 2 27,e8c8 h2f4 f2e2 h5e5 e2d3 e5e3 d3c2 f4e4 d1d3 e4d3,2422,85,93,502,dovetailMate endgame mate mateIn5 veryLong,https://lichess.org/f5PBVBm7#53,

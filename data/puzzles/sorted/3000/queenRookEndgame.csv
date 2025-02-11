@@ -1,0 +1,7 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+0Dow9,5r1k/pp4p1/7p/2pPP2K/4Q2P/2P1P3/P7/6r1 b - - 4 32,f8f2 e5e6 f2h2 e4f5 g7g6 f5g6 g1g6 h5g6,3036,108,93,288,crushing endgame queenRookEndgame quietMove sacrifice veryLong,https://lichess.org/6cJtu0GI/black#64,
+6fXKB,8/1PR4P/5k2/2K2p2/2p2p2/1q3P2/6P1/8 b - - 7 49,b3a3 c5d5 a3a5 c7c5 a5d2 d5c6 d2d8 c6b5,3089,104,92,1700,crushing defensiveMove endgame master queenRookEndgame veryLong,https://lichess.org/824S0vy1/black#98,
+PRl9U,8/8/2p1P1Q1/P7/1P3r1p/7k/6p1/4K3 w - - 0 60,g6d3 h3h2 d3d2 f4e4 e1f2 e4g4 f2f3 h2h3,3069,120,85,375,crushing defensiveMove endgame exposedKing queenRookEndgame veryLong,https://lichess.org/V0rCGwri#119,
+PeaiB,6k1/4R3/5p2/1PRp3p/7p/1PK5/8/3q4 b - - 2 43,d1c1 c3b4 c1d2 b4a3 d2a5 a3b2 a5d8 e7a7,3004,114,91,231,crushing defensiveMove endgame queenRookEndgame veryLong,https://lichess.org/riCor61v/black#86,
+dLoxy,3r2k1/7p/2p3p1/5p2/8/3p1P2/6P1/1Q4K1 w - - 0 42,g1f2 d3d2 b1b3 d8d5 b3b8 g8f7 b8b7 f7f8,3003,120,94,586,advancedPawn crushing defensiveMove endgame queenRookEndgame veryLong,https://lichess.org/lzVtan3w#83,
+uCpLu,3Q2rk/7r/1p1p4/3Pp2P/p3P2K/3P4/8/8 w - - 2 56,d8b6 h7f7 b6d6 h8h7,3013,103,87,351,crushing defensiveMove endgame queenRookEndgame quietMove short,https://lichess.org/gebPxU6i#111,

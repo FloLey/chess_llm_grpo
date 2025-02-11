@@ -1,0 +1,14 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+4nR33,8/8/8/8/8/5Q1p/6pk/5K2 w - - 0 80,f1e2 g2g1n e2f2 g1f3 f2f3 h2g1,1564,78,99,1093,advancedPawn crushing endgame fork long promotion underPromotion,https://lichess.org/Af7lOCZI#159,
+9e6tW,3r4/1p3P1k/4Q1pp/pB1n4/P1p5/8/1P3qPP/4R2K b - - 2 29,d5f4 f7f8n d8f8 e6e7,1566,80,93,1285,advancedPawn crushing endgame promotion short underPromotion,https://lichess.org/ir2ieYtT/black#58,
+BMZWJ,2k3rr/ppp5/5p1B/2bNp2p/3nP2q/3P2pP/PPP3P1/R1QB1R1K w - - 5 20,c2c3 h4h3 g2h3 g3g2 h1h2 g2f1n,1582,85,80,712,advancedPawn advantage fork long middlegame promotion sacrifice underPromotion,https://lichess.org/fghxKWmO#39,
+HfmsU,4R3/1p1P4/p7/P6p/5k2/4p2K/5rp1/8 w - - 2 52,d7d8q g2g1n h3h4 f2h2,1575,83,95,22968,advancedPawn endgame master mate mateIn2 promotion short underPromotion,https://lichess.org/xWZUbCB2#103,
+LUDef,4Q3/P2r2k1/6p1/7p/6nP/6PK/3r2p1/8 w - - 0 41,a7a8q g2g1n,1529,78,100,452,advancedPawn endgame master mate mateIn1 oneMove promotion underPromotion,https://lichess.org/JmvcMJYo#81,
+OZ6gb,4r3/P1p4p/2p4R/3pk1P1/1P3r1P/2P3Q1/5p1K/8 w - - 0 49,h6f6 f2f1n h2g2 f1g3,1545,78,98,1158,advancedPawn crushing endgame fork promotion short underPromotion,https://lichess.org/XZYixYPa#97,
+QDX2U,rn2k1Q1/5pP1/b1p1p3/p7/8/P7/1p1q1PPP/R5KR b q - 0 23,e8e7 g8f8 e7f6 g7g8n,1554,219,100,13,advancedPawn equality middlegame promotion short underPromotion,https://lichess.org/I2GGEasT/black#46,
+ZrgCo,8/p3P2R/1p1k4/2p2K1p/2P4r/1P6/P6p/8 b - - 0 52,h2h1q e7e8n d6c6 h7c7,1522,74,93,230013,advancedPawn endgame master mate mateIn2 promotion short underPromotion,https://lichess.org/wOOnQcXR/black#104,
+lULDr,2Qr4/kp1Pq3/p1p2b1p/6pP/1RP2n2/8/PP3PP1/2KR4 b - - 6 35,d8c8 d7c8n a7b8 c8e7,1598,79,93,615,advancedPawn crushing endgame fork master promotion short underPromotion,https://lichess.org/s0zFTrKI/black#70,
+lzTxM,8/5RP1/7k/2p2K1P/2r5/5p2/8/8 b - - 0 52,f3f2 g7g8n h6h5 f7h7,1559,85,92,14538,advancedPawn endgame mate mateIn2 promotion short underPromotion,https://lichess.org/MrIIlUKp/black#104,
+v6QEF,2r1k1nr/1b1p1pbp/p3p1P1/1p6/3pP3/P2P4/1PqNB1PP/R1BQ1RK1 b k - 0 14,c2d1 g6f7 e8e7 f7g8n,1578,86,89,3800,advancedPawn advantage attackingF2F7 fork opening promotion short underPromotion,https://lichess.org/tTPDtpA2/black#28,Sicilian_Defense Sicilian_Defense_Bowdler_Attack
+xMjq4,4r1k1/pp3P1p/6p1/2q5/6N1/P7/1P4PP/3r1R1K b - - 0 27,g8g7 f7e8n g7h8 f1d1,1591,188,100,17,advancedPawn endgame equality hangingPiece promotion short underPromotion,https://lichess.org/hfhylh6i/black#54,
+yrJ4f,2Q5/5pkp/4p1p1/3p4/3P1P2/2p1P1P1/1q1bNK1P/3R4 w - - 0 35,d1d2 c3d2 c8c3 d2d1n,1566,83,85,618,advancedPawn crushing endgame hangingPiece promotion short underPromotion,https://lichess.org/JmcGHkOS#69,

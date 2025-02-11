@@ -1,0 +1,8 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+6pNhW,r2q1rk1/1bp2pp1/2pp3p/1p3N2/4P3/PR6/1PPQ1PPP/R5K1 b - - 0 20,d8g5 d2g5 h6g5 f5e7 g8h7 b3h3,2113,81,94,3460,anastasiaMate kingsideAttack long mate mateIn3 middlegame,https://lichess.org/keOlIcVb/black#40,
+AaI3E,5rk1/4pp2/p2q2pQ/8/r2Nb1P1/2P5/P7/K2R1R2 b - - 2 25,d6a3 h6f8 g8f8 d4e6 f8g8 d1d8 g8h7 f1f7 h7h6 d8h8,2186,71,95,176347,anastasiaMate attraction deflection mate mateIn5 middlegame pin sacrifice veryLong,https://lichess.org/O0D0z5fr/black#50,
+kgueb,2k3r1/pp6/3pP3/8/3nPr1N/P7/1P1N1PP1/R4RK1 w - - 1 27,h4f3 d4e2 g1h1 g8h8 f3h2 h8h2 h1h2 f4h4,2180,81,94,186678,anastasiaMate attraction mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/sTREK8aA#53,
+pSACq,2k5/2p4r/1p2Nq1p/pP1P4/P1P3pP/6n1/2QN2P1/6K1 w - - 0 39,c2h7 g3e2 g1h2 f6h4,2136,76,94,927,anastasiaMate endgame mate mateIn2 short,https://lichess.org/Uk63qHS9#77,
+qSb12,qk5r/1p4pp/3Qpp2/3pN3/8/4P3/2P2PPP/6K1 b - - 4 24,b8a7 e5d7 a8d8 d6a3 d8a5 a3a5,2199,83,96,4299,anastasiaMate endgame long mate mateIn3,https://lichess.org/GbNhmGs6/black#48,
+rSoEv,2kq3r/pp3nQ1/2pbb3/4P3/5n2/1P6/PBPN1PPP/R4RK1 w - - 1 21,e5d6 f4e2 g1h1 h8h2 h1h2 d8h4,2158,79,94,10948,anastasiaMate attraction kingsideAttack long mate mateIn3 middlegame sacrifice,https://lichess.org/q43h2G6H#41,
+vqq6Q,r4rk1/pp3ppp/3p3Q/q1pNn3/4P3/6R1/PPP2PPP/2K4R b - - 3 16,e5g6 d5e7 g8h8 h6h7 h8h7 g3h3 g6h4 h3h4,2149,76,93,2846,anastasiaMate attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/LdKL7IaT/black#32,Ruy_Lopez Ruy_Lopez_Steinitz_Defense

@@ -1,0 +1,8 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+6pTyQ,2rq1rk1/p1pp3p/1p2p1P1/8/4B3/8/PPPQ1nP1/2KR3R b - - 0 18,f2d1 g6g7 f8f2 d2h6 g8f7 h6h5,3230,135,91,1232,advancedPawn advantage long middlegame,https://lichess.org/5nvuALXF/black#36,Dutch_Defense Dutch_Defense_Raphael_Variation
+AFuMv,7k/8/1p1pp1p1/p6p/P3PPn1/1B1P1Q1K/1PP4P/4q3 w - - 8 47,f4f5 e1d2 f3g2 d2g5 g2g3 e6f5 e4f5 g6f5,3248,133,92,483,advantage endgame master veryLong,https://lichess.org/CW7u9KRE#93,
+SSEZS,6r1/pp2kp2/3q3p/2bppPr1/6NQ/1P3R2/P1P3PP/4R2K w - - 3 30,e1e5 e7f8 e5e6 f7e6 f5e6 f8e8 g4f6 e8d8 f6g8 d6e5,3238,119,93,638,advantage defensiveMove middlegame veryLong,https://lichess.org/oq3ATlVj#59,
+TsmiO,7k/pp4b1/4Q2p/4P3/3P1PP1/P6P/1P2KR2/2r3q1 w - - 1 31,e6e8 h8h7 f4f5 c1e1 e2d3 g1g3 d3c4 e1c1 c4b4 c1c6,3226,139,90,749,advantage defensiveMove endgame exposedKing fork veryLong,https://lichess.org/rvUHx2ks#61,
+nORPF,6rr/pp1Rqk2/2P2p2/4p3/2P5/1Q3P1p/P4BP1/6K1 b - - 1 35,g8g2 g1h1 e7d7 c6d7 g2f2 b3b7 f2f1 h1h2 h8d8 c4c5 f1f2 h2g1,3255,115,93,1003,advancedPawn advantage capturingDefender endgame pin quietMove veryLong,https://lichess.org/xRiVa57P/black#70,
+vaXKD,r6k/p1p3Rp/1pn5/4P3/3P4/1QPKnP2/P6q/R7 w - - 0 24,g7c7 c6e5 d4e5 a8d8 d3e4 e3d5 b3d5 h2c2,3201,118,93,556,advantage middlegame sacrifice veryLong,https://lichess.org/I6D0w3Jr#47,
+zxNB2,6k1/p1R2pp1/7p/5q2/2QPp3/P3P1P1/5PPK/1r6 w - - 7 30,c4c5 f5f2 c5e5 b1f1 e5e8 g8h7 e8e4 g7g6 c7f7 f2f7,3220,120,93,577,advantage endgame quietMove veryLong,https://lichess.org/CiVZwYmx#59,

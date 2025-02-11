@@ -1,0 +1,4 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+3Lvpf,6rr/1pp2pk1/p3bR2/3pP1q1/3N4/1PPP2nP/1P4P1/R3Q1K1 w - - 10 25,f6e6 h8h3 g2h3 g3e4 g1f1 g7f8 f1e2 g5g2 e2d1 g2b2,3100,101,92,1974,advantage discoveredAttack middlegame sacrifice skewer veryLong,https://lichess.org/enmz0tcZ#49,
+WmZo1,r2q1k1r/ppN1ppbp/4bnp1/4Q3/8/1P6/PBP2PPP/R3KB1R w KQ - 5 13,c7a8 f6e8 a1d1 d8c8 e5e3 g7b2,3102,120,91,1024,advantage long middlegame quietMove skewer,https://lichess.org/bqcF3V81#25,Sicilian_Defense Sicilian_Defense_Open
+tEJoM,rnb1k1nr/pp3p1p/1q2p1p1/3pP3/5P2/2BBbNP1/PPQ4P/RN3K1R b kq - 0 14,g8h6 c3d4 e3d4 c2c8 e8e7 c8h8 h6g4 f1g2 d4e5 f4e5 b8d7 h8h7,3196,128,92,2373,advantage discoveredAttack middlegame skewer veryLong,https://lichess.org/SAxcSbYQ/black#28,French_Defense French_Defense_La_Bourdonnais_Variation

@@ -1,0 +1,12 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+80I4e,3R3k/p3n2p/1p2q1r1/8/5Q1K/5N2/P6P/8 b - - 9 40,h8g7 f4f8,689,95,86,1489,dovetailMate endgame mate mateIn1 oneMove,https://lichess.org/90Cb36WJ/black#80,
+GTzGQ,1k6/1p2R1p1/pNp5/2P2p2/4pq2/1P6/P3QP2/1K5r w - - 1 30,b1b2 f4c1,684,94,91,636,dovetailMate endgame mate mateIn1 oneMove,https://lichess.org/2uvR1QYI#59,
+HkwTQ,r4b1r/pp3kpp/4pq2/3p1nB1/8/5P2/PPP1Q2P/RN2R2K b - - 6 21,f6g5 e2e6,672,88,88,432,dovetailMate mate mateIn1 middlegame oneMove,https://lichess.org/8iM3YUzl/black#42,
+M66JS,rn1q1b1r/pp3kpp/2p1B3/5b2/8/1P4P1/P2PQP1P/R1B1R1K1 b - - 0 14,f5e6 e2e6,643,92,100,251,dovetailMate mate mateIn1 middlegame oneMove,https://lichess.org/3vDqDS1M/black#28,Scandinavian_Defense Scandinavian_Defense_Modern_Variation
+Mva6y,1R6/2pp1kpp/5q2/2p2r2/8/3P1PP1/P1P4P/4Q1K1 b - - 0 25,f5f3 e1e8,692,104,82,348,dovetailMate endgame mate mateIn1 oneMove,https://lichess.org/ex36Euva/black#50,
+ZVCeE,r2q1b1r/p4kpp/2n1p3/1N6/1n6/1Q6/PP1PbPPP/R1B1R1K1 b - - 1 14,e2b5 b3e6,616,92,89,450,dovetailMate mate mateIn1 oneMove opening,https://lichess.org/UVFziREQ/black#28,Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack
+ai6Hf,8/p3q1pk/2p4p/3p4/2p2Q2/2P2P2/PP1R1KPP/r7 w - - 11 33,a2a3 e7e1,687,87,89,897,dovetailMate endgame mate mateIn1 oneMove,https://lichess.org/b0fCtiGt#65,
+dz1za,6k1/4qppp/2Q5/8/2P5/5P2/P2R2PP/1r3K2 w - - 1 29,f1f2 e7e1,687,90,86,977,dovetailMate endgame mate mateIn1 oneMove,https://lichess.org/haWv9r9w#57,
+m10xt,6k1/5p2/1p1p1q1p/3P2p1/1PP1B3/4B1P1/3Q2KP/r7 w - - 1 35,e3d4 f6f1,698,89,89,453,dovetailMate endgame master mate mateIn1 oneMove,https://lichess.org/NQQpSUOZ#69,
+pKf6n,r4Q2/3bk3/p1p1p1pB/q2p4/1b1P4/2N2Q2/PPP1KP2/r7 b - - 0 21,a8f8 f3f8,606,92,97,1062,dovetailMate mate mateIn1 middlegame oneMove,https://lichess.org/vCgOTPU7/black#42,
+rGgHU,2r4r/ppPk2p1/3pb2p/1q2p3/7N/2P4P/PP1Q2P1/2KR3R b - - 2 22,d7c7 d2d6,665,91,79,796,dovetailMate mate mateIn1 middlegame oneMove,https://lichess.org/l2uevIfO/black#44,

@@ -1,0 +1,2 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+zaRBK,r2qk1nr/ppp2ppp/3b4/4n3/6b1/3P1N2/PPPNP1PP/R1BQKB1R w KQkq - 3 7,h2h3 d8h4 f3h4 e5d3 c2d3 d6g3,2500,101,95,14331,clearance doubleBishopMate long mate mateIn3 opening sacrifice,https://lichess.org/vPrHrlv5#13,Bird_Opening Bird_Opening_Schlechter_Gambit

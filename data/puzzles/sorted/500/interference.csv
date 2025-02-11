@@ -1,0 +1,4 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+60cHo,5r1k/7p/p2N4/2p1p1r1/p2p4/5P1P/1PP2KP1/R7 b - - 1 31,f8g8 d6f7 h8g7 f7g5,545,94,86,693,advantage endgame fork interference short,https://lichess.org/teHrmzMp/black#62,
+H82W7,rn1qkb1r/1p1b1p2/p1p1p1Q1/4P1p1/2PP4/3B4/PP3PPP/R1B1K2R b KQkq - 0 12,f7g6 d3g6 e8e7 c1g5,546,91,78,195,interference mate mateIn2 middlegame short,https://lichess.org/8L2CNki5/black#24,Semi-Slav_Defense Semi-Slav_Defense_Marshall_Gambit
+HDOvr,6rk/2p2p1p/p5r1/4N3/8/1P1P4/P1P2P1P/5R1K b - - 2 28,g6g5 e5f7 h8g7 f7g5,559,99,85,638,crushing endgame fork interference short,https://lichess.org/DgnE8t6z/black#56,

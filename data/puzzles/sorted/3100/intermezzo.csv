@@ -1,0 +1,4 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+7pTqD,rn4k1/6pp/p1p1N2r/4Q3/2pP3q/5P2/P3K1P1/R4R2 b - - 8 25,h6g6 e6f4 g6f6 f4d5 c6d5 f1h1 h4f4 e5d5,3101,125,87,1492,advantage intermezzo middlegame sacrifice veryLong,https://lichess.org/kizOZUha/black#50,
+SUC1t,r2q3r/p3npp1/1p2pk1p/3b4/3N2QP/bP1B4/P1P2PP1/4RRK1 b - - 3 17,g7g5 f2f4 g5h4 f4f5 e6e5 g4h4 f6g7 d4e6 d5e6 h4g3 e7g6 f5e6 a3c5 g1h2 f7f5 f1f5 d8h4 g3h4 g6h4 f5f7,3110,114,92,2957,crushing intermezzo middlegame sacrifice veryLong,https://lichess.org/W2CnDFdX/black#34,French_Defense French_Defense_Tarrasch_Variation
+YGk0k,1r3rk1/p1p3pp/4p1b1/8/3PB1pq/B1P1P2P/P4PK1/R2Q1R2 w - - 0 18,e4g6 h4h3 g2g1 h7g6 a1b1 b8b1 d1b1 f8f3 b1g6 g4g3 g6g3 f3g3,3126,138,88,623,crushing intermezzo middlegame veryLong,https://lichess.org/ydFejw6f#35,Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense

@@ -1,0 +1,5 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+7VtXw,Q7/p4R1p/1k1p2p1/1pp2b2/3b4/1B6/PPKBq1PP/R7 w - - 7 29,c2c1 e2f1 b3d1 f1c4 d2c3 d4e3,2348,89,93,190546,deflection doubleBishopMate long mate mateIn3 middlegame,https://lichess.org/Covos1ge#57,
+8DEww,2r1kb1r/2qn1pp1/p1Np3p/1p1Qp3/5P1B/3B4/PPP3PP/2KRR3 b k - 0 16,c7c6 d5e6 f7e6 d3g6,2329,79,93,5367,doubleBishopMate mate mateIn2 middlegame sacrifice short,https://lichess.org/BZeW6PPo/black#32,Sicilian_Defense Sicilian_Defense_Najdorf_Variation
+DUayU,r1b1kb1r/1p1n1pp1/p2pp2p/8/1q1Nn2B/1PN1Q3/P1P1BPPP/R4RK1 b kq - 1 12,e4c3 e3e6 f7e6 e2h5 g7g6 h5g6,2334,80,93,2389,doubleBishopMate long mate mateIn3 middlegame sacrifice,https://lichess.org/uqdKQ3v9/black#24,Sicilian_Defense Sicilian_Defense_Najdorf_Variation
+dVnSi,1r2r1k1/bb1R1p1p/p2Rp1p1/1p6/qBp1PP2/P1P2BP1/1P1Q3P/7K w - - 0 25,f3d1 a4d1 d2d1 b7e4 d1f3 e4f3,2376,102,97,1652,doubleBishopMate kingsideAttack long mate mateIn3 middlegame pin sacrifice,https://lichess.org/I621xjZr#49,

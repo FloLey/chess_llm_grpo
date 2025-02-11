@@ -1,0 +1,3 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+M0gq1,r4rk1/4ppbp/6p1/1B2P3/P1N3n1/1R3Q2/1P3nPP/2B3RK w - - 1 28,f3f2 g4f2,399,105,88,699,hangingPiece kingsideAttack mate mateIn1 middlegame oneMove smotheredMate,https://lichess.org/OTfaCX7v#55,
+gkWn8,8/5rkp/6p1/4p3/PPQ5/2Pn1P2/6PP/R5qK w - - 7 42,a1g1 d3f2,399,105,81,918,endgame mate mateIn1 oneMove smotheredMate,https://lichess.org/FiILkBjX#83,

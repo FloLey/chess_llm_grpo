@@ -1,0 +1,9 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+6FwOa,3r1k2/q4p2/3P4/1p1Q1p2/1P3p2/5R2/6PP/r2R3K w - - 1 44,f3d3 d8e8 g2g3 e8e1 d1e1 a1e1 h1g2 a7g1 g2h3 e1e6,2981,97,91,1138,crushing endgame quietMove veryLong xRayAttack,https://lichess.org/WwKYFmOT#87,
+E6psM,1b2r1k1/1p3pp1/p1p1r2p/2P5/1P1B1q2/P2Q1N2/4nPPP/4RR1K b - - 1 25,g7g5 d4e3 e6e3 f2e3 e8e3 d3d2 e3f3 d2f4 f3f4 f1f4,2949,112,91,958,advantage middlegame veryLong xRayAttack,https://lichess.org/sqSilPeH/black#50,
+Jxldl,1n6/1r4pk/5n2/q3p2P/2Q4P/2RPP3/3KBP2/7R w - - 1 32,d3d4 f6e4 d2c2 b7c7 e2d3 a5c3 c4c3 c7c3,2913,111,91,2615,advantage fork middlegame veryLong xRayAttack,https://lichess.org/dBGT9u7s#63,
+KTOQa,6kN/5rb1/2q5/p1p2p1R/1p5R/3QNnPK/PP6/8 b - - 4 39,f3h4 e3f5 f7f5 d3c4 c6d5 c4d5 f5d5 h5d5,2988,117,88,1196,crushing exposedKing fork master middlegame sacrifice veryLong xRayAttack,https://lichess.org/unvoB2dX/black#78,
+LHJSS,r7/p2bpkbQ/3p2p1/3q1N2/1p4P1/1P2rP2/P1P5/1K1R3R b - - 2 23,d5e5 f5h6 f7f6 f3f4 e5f4 h1f1 g7h6 h7h6 e3f3 h6f4 f3f4 f1f4,2941,115,77,320,advantage master middlegame pin veryLong xRayAttack,https://lichess.org/vvMQg8Ah/black#46,
+iJYcU,4k3/1p2bp2/4p3/3pP3/2pN2Q1/2q1P1P1/r4PP1/3R1K2 b - - 1 21,b7b5 g4g8 e7f8 d4e6 f7e6 g8e6 f8e7 e6g8 e8d7 g8d5 d7c7 d5d7 c7b6 d7e7,2913,105,94,1045,crushing endgame fork veryLong xRayAttack,https://lichess.org/UnV6Yry4/black#42,
+mroln,8/4r1k1/1q1p1p2/p1pP1Qp1/2P2p2/3R4/4rPP1/5RK1 b - - 1 40,e2e1 d3h3 g7g8 h3h6 b6b1 f5b1 e1b1 f1b1,2985,116,88,803,crushing endgame quietMove veryLong xRayAttack,https://lichess.org/QEMEl2eK/black#80,
+zwcNv,1nr2rk1/3qbpp1/p6B/Pp6/1P2R3/3P3P/3Q2PN/5RK1 b - - 0 27,g7h6 h2g4 e7g5 g4h6 g5h6 d2h6 f7f5 e4e6,2970,109,91,1928,crushing kingsideAttack middlegame veryLong xRayAttack,https://lichess.org/o0cQHCyB/black#54,

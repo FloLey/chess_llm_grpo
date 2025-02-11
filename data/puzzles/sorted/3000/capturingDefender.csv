@@ -1,0 +1,7 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+7eQZS,r2qr3/ppp3k1/3p3p/8/4b2P/2BB4/PPP4Q/2K5 b - - 1 24,g7h7 h2g2 e8e5 c3e5 d6e5 g2e4 h7g8 e4g6 g8f8 d3c4,3042,115,87,781,capturingDefender crushing defensiveMove middlegame pin veryLong,https://lichess.org/hSr8V1VF/black#48,
+H4kBO,3qk2r/pQ3ppp/1n2pn2/3pbb2/1B6/1P3NP1/r2PPPBP/2R1K2R b Kk - 1 15,a2a1 c1a1 e5a1 b7a7 a1b2 a7a2 d8c7 a2b2,3057,128,89,1360,advantage capturingDefender middlegame veryLong,https://lichess.org/aoF5ZAKY/black#30,Hungarian_Opening Hungarian_Opening_Other_variations
+NnDsT,2r1k1r1/2q4p/1p2pBpP/p3Pp2/P2n1PP1/bPP1Q3/8/1K1R3R b - - 0 26,c7c3 e3c3 c8c3 d1d4 c3c7 g4g5,3023,113,90,1527,advantage capturingDefender defensiveMove long middlegame,https://lichess.org/7H4CvAR2/black#52,
+bO2IH,r4Rk1/1bqn2p1/1p2p3/p2pP1N1/3P4/8/PP2Q1PP/6BK b - - 0 22,a8f8 e2d3 f8f5 g5e6 c7c8 d3f5,3084,124,91,1359,advantage capturingDefender long middlegame quietMove,https://lichess.org/FqTjHQjo/black#44,
+fJwka,2r2rk1/5ppp/2nbp3/p7/2B1Qn1q/P4PN1/1P1B2PP/R4RK1 b - - 6 22,f7f5 g3f5 f8f5 d2f4 f5f4 e4e6 g8h8 g2g3 h4d8 g3f4,3091,122,84,711,advantage capturingDefender fork middlegame pin veryLong,https://lichess.org/rrrYP6uy/black#44,
+qviNW,4r3/5Nbk/p5pp/5p1P/3p1Qn1/1p1P4/1q2rPP1/1BR2RK1 b - - 1 34,g4e3 h5g6 h7g6 f2e3 g6f7 f4f5 f7g8 f5g6 e2g2 g6g2,3012,110,87,267,advantage capturingDefender middlegame veryLong,https://lichess.org/sHvC2dl7/black#68,

@@ -1,0 +1,2 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+WZyP2,3r3r/pk3p2/8/2b5/B4Bq1/P1N2nPb/1P3P1p/R1QR3K w - - 0 28,d1d8 h3g2 h1g2 f3h4 g2h2 h4f3 h2g2 h8h2 g2f1 h2f2,2662,92,91,5264,attraction doubleCheck exposedKing kingsideAttack mate mateIn5 middlegame pin sacrifice veryLong vukovicMate,https://lichess.org/WSZDjsu1#55,

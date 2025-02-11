@@ -1,0 +1,12 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+4CM9y,7r/p1N1p2p/2BP2pk/8/1pp2RP1/3b3P/Pb6/3K4 b - - 0 29,e7d6 g4g5 h6g5 c7e6 g5h5 c6f3 h5h6 f4h4,2226,83,94,155370,anastasiaMate attraction endgame mate mateIn4 veryLong,https://lichess.org/Hr4FcmKD/black#58,
+ARrdK,4bk1r/1R6/4pPp1/p1Rp2N1/6p1/8/q6P/5K2 b - - 5 41,h8h2 g5e6 f8g8 f6f7 e8f7 c5c8 g8h7 b7f7 h7h6 c8h8,2233,92,96,16257,advancedPawn anastasiaMate deflection endgame exposedKing fork mate mateIn5 veryLong,https://lichess.org/wlwdaDb7/black#82,
+FuepJ,5r1k/R1R3pp/8/8/4n1K1/7P/B5P1/6r1 w - - 7 34,g4h4 f8f4 g2g4 f4g4 h3g4 g1h1,2250,85,96,519,anastasiaMate endgame long mate mateIn3 sacrifice,https://lichess.org/ISY8Phkc#67,
+Qelhu,rq2nr1k/2p1Nppp/3p4/5N2/2n1PP1Q/Pp6/1P4PP/2KR3R b - - 0 26,c4a3 h4h7 h8h7 d1d3 e8f6 d3h3 f6h5 h3h5,2229,81,94,5387,anastasiaMate kingsideAttack mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/0KDnlCxr/black#52,
+S95fD,r4r1k/4b2R/p1n1N1p1/8/qp6/4Qp2/PPP5/1K1R4 b - - 0 24,h8h7 e3h6 h7h6 d1h1 e7h4 h1h4,2278,85,93,148967,anastasiaMate attraction long mate mateIn3 middlegame sacrifice,https://lichess.org/IGe6d0UI/black#48,
+a04VG,5rk1/pb3p2/1p2pQ2/4P1Np/3P2r1/5R1K/q4R2/8 b - - 1 31,a2a1 f6g6 f7g6 f3f8 g8g7 g5e6 g7h7 f2f7 h7h6 f8h8,2246,86,95,10940,anastasiaMate discoveredAttack fork mate mateIn5 middlegame sacrifice veryLong,https://lichess.org/5sRX0QFk/black#62,
+o5oBY,8/1R3Q2/3p2p1/3Ppnk1/3q4/6P1/5RP1/6Kr w - - 9 43,g1h1 f5g3 h1g1 g3e2 g1h2 d4h4,2249,81,94,5997,anastasiaMate endgame long mate mateIn3 pin,https://lichess.org/uQK2fTQo#85,
+rU9Ma,r4r1k/pppqN2p/3p3R/4p1Q1/4P3/3P2P1/PP5P/n5K1 b - - 2 23,f8g8 g5f6 g8g7 h6h7 h8h7 f6h4,2203,91,94,153189,anastasiaMate attraction kingsideAttack long mate mateIn3 middlegame pin sacrifice,https://lichess.org/9zJJ8nLm/black#46,
+tJ462,r6r/pp1k1p2/3q4/2pN2Q1/2PnP3/8/P1P2PPP/3R1RK1 w - - 2 22,g5f4 d4e2 g1h1 h8h2 f4h2 d6h2 h1h2 a8h8,2219,87,92,16292,anastasiaMate attraction fork mate mateIn4 middlegame sacrifice veryLong xRayAttack,https://lichess.org/r3XxmCCJ#43,
+uOAEW,6r1/1b1p3r/p3pk2/1p2q2B/3nP1Q1/P7/1P3PPP/2R2RK1 w - - 0 30,g4g8 d4e2 g1h1 e5h2 h1h2 h7h5,2241,82,93,2980,anastasiaMate attraction kingsideAttack long mate mateIn3 middlegame sacrifice,https://lichess.org/P0NyPL3o#59,
+vkLUv,5k2/pp2rN1p/6p1/2NQn3/8/8/Prq3PP/5R1K b - - 0 29,e7f7 d5d8 f8g7 c5e6 g7h6 d8h4,2273,83,94,160420,anastasiaMate exposedKing long mate mateIn3 middlegame,https://lichess.org/bLiCqYGz/black#58,

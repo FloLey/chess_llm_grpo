@@ -1,0 +1,10 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+5gEVA,8/2Q5/1p4rk/3P1p2/3Nq2p/1P2P1P1/P4P2/6K1 w - - 3 42,d5d6 h4g3 c7c6 e4b1 g1g2 g3f2 g2f2 g6g1 d6d7 h6h7 c6g2 b1e1 f2f3 g1f1 g2f1 e1f1 f3g3 f5f4,3191,114,93,250,advancedPawn clearance crushing discoveredAttack endgame quietMove veryLong,https://lichess.org/fwC5aUZR#83,
+8Rku9,2kr3r/pb4bp/1p4p1/2pPppq1/8/1BP5/PPQN1PPP/3R1RK1 b - - 0 18,b7d5 b3d5 d8d5 c2a4 d5d2 h2h4 g5f4 a4f4 e5f4 d1d2,3185,114,86,474,advantage capturingDefender clearance middlegame sacrifice veryLong,https://lichess.org/SHCIMFEw/black#36,English_Defense English_Defense_Other_variations
+FpUcP,8/4rp1p/3p1pkb/2q2P2/1p2P1P1/8/1B2R1K1/4R3 b - - 0 35,g6g5 g2f3 d6d5 e2h2 d5e4 e1e4 c5f5 g4f5,3106,121,88,287,clearance crushing endgame veryLong,https://lichess.org/h3Fp5dFI/black#70,
+JsF4m,r1bqr2k/pp3pp1/3p1n1p/2pPn3/2P1P2Q/1P1B2RP/P5P1/R1B3K1 b - - 4 20,e5d3 c1h6 c8g4 a1f1 d3e5 h6g5 h8g8 f1f6 d8a5 g1h2 a5e1 f6f4 e5g6 h4g4,3179,145,91,1247,advantage clearance discoveredAttack middlegame veryLong,https://lichess.org/eHIYauqP/black#40,
+OFZYO,3r2k1/p2r1p1p/1q4p1/Rp2P3/1Qp5/5b1P/1P3NP1/R5K1 w - - 0 33,g2f3 d7d2 a1f1 d2f2 f1f2 d8d1 g1g2 b6d8 h3h4 d8h4 a5b5 h4g5,3141,124,89,760,clearance crushing exposedKing middlegame sacrifice veryLong,https://lichess.org/ptJ8jpi0#65,
+ScEuL,r4qk1/p5p1/4R1p1/2NpPrQb/3P4/1P6/2PK4/6R1 w - - 3 30,g5h4 f5f4 h4e7 f4f2 d2c3 f8f4,3199,137,90,2062,advantage clearance long middlegame,https://lichess.org/ues6m0Cu#59,
+dqzVN,2rr3k/pR4pp/4Q3/2q5/5PP1/7P/PPP5/2K4R w - - 1 27,e6b3 c5d4 a2a4 d4e4 h1g1 d8d3 b7e7 e4f4 c1b1 d3b3,3159,127,90,1716,advantage clearance endgame master pin veryLong,https://lichess.org/OhM4nTYv#53,
+faKMd,4kb1r/5ppp/p7/1p1pPP2/1P1BbQP1/P6q/5R1P/6K1 b k - 4 25,h3a3 e5e6 f8e7 f4b8 e7d8 b8c8 e8g8 e6f7 f8f7 c8d8,3168,117,92,741,advancedPawn clearance crushing middlegame veryLong,https://lichess.org/lWEzpnXu/black#50,
+tV3Sg,1Q6/p4pkp/1p4p1/7q/5P2/2P4P/PP2r1P1/5RK1 w - - 3 24,b8a7 h5d5 f1f3 d5d2 f3g3 e2e1 g1h2 d2f2,3109,132,89,458,clearance crushing endgame veryLong,https://lichess.org/6ACEYGJT#47,

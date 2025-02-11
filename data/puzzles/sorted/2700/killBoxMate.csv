@@ -1,0 +1,4 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+OSqye,4r3/ppprBk2/1n6/2p3Q1/4q3/4p3/PP5P/5RK1 b - - 3 36,f7e6 f1f6 e6e7 f6h6 e7f8 g5f6 d7f7 h6h8,2706,107,93,2299,discoveredAttack exposedKing killBoxMate mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/wRuRyLZv/black#72,
+aDMzR,2kr4/Qp3p1p/4p2p/PP1p4/8/2P4q/8/RN3R1K w - - 2 22,h1g1 h3g3 g1h1 g3h4 h1g2 d8g8 g2f3 h4e4 f3f2 g8g2,2727,101,89,2611,endgame exposedKing killBoxMate mate mateIn5 veryLong,https://lichess.org/81BqHYWu#43,
+b3c5w,7k/pp4p1/2p2r2/3P4/4B1nq/2N1P2b/PPQ1R3/6RK w - - 4 24,g1g4 h3g2 h1g2 h4g4 g2h1 g4h3 h1g1 f6f1,2715,97,91,3077,attraction doubleCheck exposedKing intermezzo killBoxMate mate mateIn4 middlegame veryLong,https://lichess.org/XSqkHAFG#47,

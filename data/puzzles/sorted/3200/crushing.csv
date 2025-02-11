@@ -1,0 +1,10 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+3GZDT,8/8/8/2P5/5r2/2K2pk1/8/5R2 w - - 2 48,f1g1 g3h3 c3d3 f3f2 g1d1 f4g4,3203,141,91,327,advancedPawn crushing defensiveMove endgame long rookEndgame,https://lichess.org/QZ5iyC5k#95,
+9bHgx,r7/k7/4Q2p/p3p1p1/1bP1PqP1/3r1N1P/3N1P2/3R2K1 b - - 1 30,b4d2 f3e5 a8d8 c4c5 d8b8 e5c6 a7b7 d1b1 d2b4 c6b4 a5b4 e6b6 b7c8 b6a6 c8c7 a6d3,3205,131,91,511,clearance crushing exposedKing fork middlegame quietMove veryLong,https://lichess.org/GQVvqoug/black#60,
+Cd2s4,r4b2/p1pk1N2/2p1p3/8/2QP4/1P2K2r/1qP2P1P/3R3R w - - 1 24,e3e2 h3c3 f7e5 d7e7 c4b4 e7e8 b4b7 b2c2 e2f1 a8d8 d1e1 f8d6,3249,122,89,770,crushing defensiveMove master middlegame veryLong,https://lichess.org/WKlwv68t#47,
+L5ARp,8/8/1p1bk2p/pP1p2pP/P2P4/1B2PK2/8/8 b - - 1 43,d6c7 e3e4 g5g4 f3e3 e6f6 b3d5 f6g5 e4e5,3219,137,91,1162,bishopEndgame crushing defensiveMove endgame veryLong,https://lichess.org/RptH2xCN/black#86,
+QPRCI,r1b2rk1/pp3pp1/4p3/4P1NQ/1n1qp1K1/8/P5PP/R4R2 b - - 1 20,f7f5 e5f6 e4e3 g4g3 d4d6 g3h3 f8f6 h5h7,3226,147,90,511,crushing enPassant middlegame veryLong,https://lichess.org/HcVxn2GY/black#40,
+QySY1,8/p5p1/2k1pp1p/Pp2P3/3K1P2/P5P1/7P/8 w - - 0 35,f4f5 e6f5 h2h4 g7g6 e5f6 c6d6 f6f7 d6e7 f7f8r e7f8 d4e5 f8f7,3224,130,90,353,crushing defensiveMove endgame pawnEndgame quietMove veryLong,https://lichess.org/e1uZnXLL#69,
+fJIOp,r2r1b2/5Pk1/4N1p1/q3P3/3P1BQ1/2p5/6P1/q4RK1 b - - 2 39,g7f7 f4c1 f7e7 g4f3 a5e5 f3f7,3243,132,91,680,crushing discoveredAttack long middlegame,https://lichess.org/4Oqx6FxT/black#78,
+g7STS,4rr2/pb5R/3p2p1/1qpP1kN1/2p2PP1/2Q5/PP6/2K5 b - - 0 30,f5g4 g5e4 e8e4 c3h3 g4f4 h7h4 f4g5 h4e4,3296,153,89,604,crushing deflection middlegame sacrifice skewer veryLong,https://lichess.org/MHz0Hcxf/black#60,
+syQy9,8/p7/8/1k1P4/5P1p/1p1K3P/8/1B2b3 w - - 2 54,f4f5 b5b4 d5d6 e1c3 d3e4 b4c5,3223,121,92,782,bishopEndgame crushing endgame long quietMove,https://lichess.org/BsxT1Pzt#107,

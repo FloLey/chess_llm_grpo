@@ -1,0 +1,4 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+OD5NZ,rk5r/2pq3p/p2N1p1B/1p2nbp1/3p4/5Q2/PPP1BPPP/R3R1K1 w - - 1 23,d6f5 e5f3 e2f3 d7f5,697,79,99,1194,advantage intermezzo kingsideAttack middlegame short,https://lichess.org/sGnFUGEs#45,
+Ph2oY,r3q2k/p1pp1Npp/1p6/3B4/8/P7/1P3rPP/R3R1K1 b - - 1 22,f2f7 e1e8 a8e8 d5f7,688,80,72,157,advantage endgame intermezzo short,https://lichess.org/Mh1Jyvrn/black#44,
+WLCgH,3q1rk1/1pp2p2/4p1pp/4N3/7P/1P1n4/1B3PP1/1K1R3R b - - 1 25,d3e5 d1d8 f8d8 b2e5,651,87,80,139,advantage endgame intermezzo master short,https://lichess.org/sCXFHAVh/black#50,

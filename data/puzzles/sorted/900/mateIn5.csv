@@ -1,0 +1,11 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+8D3K1,7r/5p2/1N1p1pk1/2n1pN1r/2B1P3/P1P2PP1/1P1R2K1/8 w - - 3 41,d2d6 h5h2 g2f1 h2h1 f1e2 h8h2 e2e3 h1e1 c4e2 e1e2,973,87,91,3078,mate mateIn5 middlegame veryLong,https://lichess.org/dPOXMSLM#81,
+LGpQN,4R3/8/5p2/8/5k2/4r2P/4p3/4K3 w - - 0 43,e8e3 f4e3 h3h4 f6f5 h4h5 f5f4 h5h6 f4f3 h6h7 f3f2,987,86,78,1494,advancedPawn endgame mate mateIn5 quietMove veryLong,https://lichess.org/mcWFzXk6#85,
+TVwox,8/pp4k1/2npqpp1/2p5/2P1P3/3P1pPR/PP3K2/7R b - - 1 27,e6e5 h3h7 g7g8 h7h8 g8f7 h1h7 f7e6 h8e8 c6e7 h7e7,975,89,70,1236,endgame mate mateIn5 veryLong,https://lichess.org/yF3p9nYa/black#54,
+aOVXO,1k6/1P6/1K6/5p1p/8/6P1/8/8 b - - 1 46,f5f4 g3f4 h5h4 f4f5 h4h3 f5f6 h3h2 f6f7 h2h1q f7f8q,946,88,84,1019,advancedPawn endgame mate mateIn5 pawnEndgame promotion quietMove veryLong,https://lichess.org/qwoH47ra/black#92,
+bUP6E,8/8/7p/6p1/6PP/k4P2/p7/K7 w - - 1 59,h4g5 h6g5 f3f4 g5f4 g4g5 f4f3 g5g6 f3f2 g6g7 f2f1q,968,85,88,1767,advancedPawn endgame mate mateIn5 pawnEndgame promotion veryLong,https://lichess.org/9d70RhS0#117,
+fHVWN,7k/1p1r1q1p/2p2Pp1/p7/2bB1Q2/P5KP/2P1r3/8 b - - 4 34,c4d5 f4b8 d7d8 b8d8 e2e8 d8e8 f7e8 f6f7 e8e5 d4e5,945,87,88,1958,advancedPawn discoveredAttack endgame mate mateIn5 veryLong,https://lichess.org/dNLezrhC/black#68,
+kTBMb,6k1/5p1p/2R1p3/5bPP/8/2p3K1/6B1/2r5 b - - 0 35,c3c2 c6c8 g8g7 h5h6 g7g6 c8g8 g6h5 g2f3 f5g4 f3g4,971,85,86,1719,endgame mate mateIn5 veryLong,https://lichess.org/YTOrt2Nq/black#70,
+nHpRU,2r4k/R4npp/4p3/2QbPp1q/1pB2P2/1P5P/2P3P1/R5K1 b - - 0 39,c8c5 a7a8 d5a8 a1a8 c5c8 a8c8 f7d8 c8d8 h5e8 d8e8,919,90,83,2602,backRankMate master masterVsMaster mate mateIn5 middlegame sacrifice superGM veryLong,https://lichess.org/msMqqJ24/black#78,
+qu965,5nrk/5p1p/5Pr1/3pPpBQ/b1pP1P1R/p5R1/P2q2BK/8 b - - 3 48,a4d1 h5h7 f8h7 h4h7 h8h7 g3h3 d1h5 h3h5 g6h6 h5h6,948,89,86,1663,attraction kingsideAttack mate mateIn5 middlegame sacrifice veryLong,https://lichess.org/FZx61A3l/black#96,
+zduKL,1nb5/6k1/2nr2pR/3p2P1/2p2P2/1pP1P3/1P3B2/rNK4R b - - 3 27,c8f5 h6h7 g7g8 h7h8 g8f7 h1h7 f7e6 h8e8 c6e7 h7e7,999,86,84,1360,mate mateIn5 middlegame veryLong,https://lichess.org/VKMgpSue/black#54,

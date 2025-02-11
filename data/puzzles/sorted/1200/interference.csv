@@ -1,0 +1,958 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+01GCT,5r1k/6p1/R3bn1p/8/1P6/P2PqB2/1B2P2P/6RK b - - 0 30,h8h7 f3e4 h7h8 a6e6,1273,77,85,237,advantage interference middlegame short,https://lichess.org/lC8C6VlE/black#60,
+02F4S,8/4n1k1/4P3/3p2PP/rp1P4/3K4/P3R3/8 w - - 0 47,e2f2 a4a3 d3c2 a3a2 c2b3 a2f2,1284,75,94,1582,crushing endgame interference long skewer,https://lichess.org/XkKfgmwN#93,
+03F5s,r3r1k1/ppp1Bpp1/6p1/1P6/3P2n1/1QP5/P2N1PPq/R3RK2 w - - 2 23,d2f3 h2h1 f3g1 g4h2 f1e2 e8e7,1251,77,86,478,advantage interference long middlegame,https://lichess.org/eIe35mlI#45,
+077jh,r6r/3kbp2/p3p1q1/2p1P2p/2Pn1P2/1PNp2P1/P2P1KQP/2R1R3 b - - 1 26,h5h4 g2b7 d7e8 b7a8,1218,76,95,21020,crushing interference middlegame short,https://lichess.org/xWM13X1x/black#52,
+0BuLe,Qnk2R2/1p4r1/3pq3/1Pp5/7b/8/2P2RP1/6K1 b - - 1 31,h4d8 f8d8 c8d8 a8b8 d8d7 b8b7,1228,75,78,228,attraction crushing deflection interference long middlegame,https://lichess.org/B9AIpUTA/black#62,
+0LtqW,rn1qkbnr/p4ppp/2b5/3PP3/8/2p2Q2/5PPP/R1B1KBNR b KQkq - 0 12,c6d5 f1b5 b8d7 f3d5,1242,134,33,13,crushing interference intermezzo opening short,https://lichess.org/Dau3iOHJ/black#24,Slav_Defense Slav_Defense_Other_variations
+0NSOo,r6r/pp1k4/3q1p2/2pp1bp1/6p1/2NP1B2/PPP2PP1/R2QR1K1 w - - 0 20,f3g4 d6h2 g1f1 h2h1 f1e2 f5g4,1283,75,96,348,crushing interference kingsideAttack long middlegame,https://lichess.org/m6QWfHPj#39,
+0T7CP,r4r1k/1p1PR1bp/p5p1/8/PPB2pP1/7q/2PQ1P2/4R1K1 w - - 0 26,d2e2 f4f3 e2f1 h3g4,1298,75,88,359,crushing interference kingsideAttack middlegame short,https://lichess.org/4M49KyFS#51,
+0WW4t,4r2k/ppp3pp/6p1/2n1r3/3p1qPP/3P1P2/PPB3QN/3K1R1R w - - 2 26,f1e1 e5e1 h1e1 e8e1 d1e1 f4c1 e1f2 c1c2,1233,76,91,2160,attraction crushing exposedKing interference middlegame veryLong,https://lichess.org/amhDFFxn#51,
+0WkIU,r2qkb1r/3bnpp1/p1n1p2p/1B1pP2P/3P2P1/N1P2N2/3B1P2/R2QK2R b KQkq - 0 14,a6b5 a3b5 e7c8 a1a8,1246,76,90,540,crushing discoveredAttack interference master middlegame short,https://lichess.org/ZIAaHSqH/black#28,Sicilian_Defense Sicilian_Defense_Wing_Gambit_Deferred
+0ZLJ4,4r3/p1p1r3/7p/1bN1Pk2/5p2/1P3K2/P1P2PP1/3RR3 w - - 1 33,a2a4 b5c6 f3e2 e7e5,1260,77,92,1673,advantage endgame interference short,https://lichess.org/GMWQvLs7#65,
+0a62z,r1b2kr1/pppnq3/8/4PppB/P1N1p2p/2P1P3/1P3PPP/R2Q1RK1 b - - 0 18,d7e5 c4e5 e7e5 d1d8 f8g7 d8g5,1220,80,94,1729,advantage exposedKing interference long middlegame,https://lichess.org/cc7QlkZz/black#36,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+0izZo,2kr3r/p1p4p/2Q2n2/4pp2/8/qP1PP1PP/2P2P2/1K1R3R b - - 0 23,f6d5 c6a8 c8d7 a8d5,1266,76,92,2001,advantage interference middlegame queensideAttack short,https://lichess.org/O6j5s4Z1/black#46,
+0s7AJ,1b4k1/2q1rpp1/1p3n1p/1B3Q2/4p3/1NP1P3/PP3PPP/3R2K1 w - - 0 29,g2g3 e7e5 f5f4 e5b5 f4c7 b8c7,1293,75,94,22865,advantage interference long middlegame,https://lichess.org/MNXVaPGq#57,
+0yR2y,8/3k2p1/6p1/5pP1/r4P1P/5K2/P6R/8 w - - 0 45,h4h5 a4a3 f3f2 a3a2 f2g3 a2h2 g3h2 g6h5,1214,167,70,35,capturingDefender crushing endgame interference rookEndgame veryLong,https://lichess.org/bEhxif4Q#89,
+0yukz,6r1/5p1k/p3bP2/8/1p3R2/6rP/1P4PK/6R1 b - - 1 31,a6a5 f4h4 h7g6 h2g3,1245,76,86,476,advantage endgame interference short,https://lichess.org/d04PVtfn/black#62,
+0zOxc,3r4/pp1r4/4q3/3p2k1/3Rp3/1PQ1P3/P4PK1/7R w - - 2 30,d4d1 e6g4 g2f1 g4d1,1242,96,85,35,crushing endgame interference master short,https://lichess.org/Lzmbx9lm#59,
+18qkm,1k1rR2r/p1p3p1/1p1q4/nP4B1/P7/5Q2/5PPP/4R1K1 w - - 4 30,g5d8 d6h2 g1f1 h2h1 f1e2 h8e8,1235,77,85,474,crushing interference long middlegame,https://lichess.org/EPKfhKkt#59,
+1GLD6,2r1kb1r/5ppp/4p3/p7/3P1B2/1q6/1Pn1QPPP/2R2KNR w k - 2 22,e2a6 c2e3 f2e3 c8c1,1222,74,96,10526,crushing discoveredAttack interference middlegame short,https://lichess.org/tjA4WdvJ#43,
+1GpfZ,4k3/1p4Q1/2b4p/8/6P1/2N3KP/P5q1/8 w - - 1 36,g3f4 g2f3 f4e5 f3c3,1207,77,94,238,crushing endgame interference master short,https://lichess.org/c3DopmNw#71,
+1IUfU,2r3k1/p1r2ppp/1p2p3/3pP1q1/3Pn3/P1PQ1P1P/4N1P1/R1R3K1 b - - 0 22,e4d2 f3f4 g5e7 d3d2,1227,74,90,865,crushing interference master middlegame short,https://lichess.org/i4s1c5ex/black#44,
+1JzSq,3r4/pp1N1pk1/4pnp1/4R2p/7P/2q2P2/P1P2QP1/2KR4 w - - 0 24,f2e3 c3a1 c1d2 d8d7,1217,76,91,1124,crushing interference middlegame short,https://lichess.org/BE9aFNwN#47,
+1LOpx,6r1/2R1k3/p3p3/1p2n3/3R4/P3P2P/1P4r1/5K2 b - - 5 39,e7f6 d4f4 f6g6 f1g2,1250,75,83,211,crushing endgame interference master short,https://lichess.org/PJoMtVUH/black#78,
+1VtmX,rr4k1/1p1q1ppp/4p3/2Pp4/1P6/4P3/5PPP/2RQ1RK1 b - - 0 20,a8a4 c5c6 b7c6 d1a4,1271,76,93,10095,crushing endgame interference short,https://lichess.org/97fD7m2A/black#40,
+1YG01,r6r/2k1b1pp/1Q1pqn2/4n3/P7/4B3/1PP2PPP/3RK2R b K - 0 21,c7d7 b6b7 d7d8 b7a8,1219,77,92,1934,advantage interference middlegame short,https://lichess.org/RE2lhND2/black#42,
+1eGt2,rn1qr1k1/p4ppp/2bp1b2/1Np5/4PP2/P1N3P1/1PP3BP/R2Q1RK1 w - - 0 14,b5d6 f6d4 g1h1 d8d6,1265,75,86,227,advantage interference intermezzo middlegame short,https://lichess.org/9Ztep8O7#27,Philidor_Defense Philidor_Defense_Exchange_Variation
+1i4Sa,r4rk1/ppp2pp1/2n4p/1N1qP3/3p4/8/PP2QPPP/R1B2RK1 w - - 2 16,f2f4 d4d3 e2e3 d5b5,1292,74,91,1943,advantage interference middlegame short,https://lichess.org/D3uUbqy9#31,Ponziani_Opening Ponziani_Opening_Jaenisch_Counterattack
+1iZJl,8/4kpp1/1p2pb2/pPr5/1r2pP2/1Q5P/4B1PK/3R4 w - - 2 41,b3a2 b4b2 a2a4 b2e2,1228,75,100,792,advantage endgame interference short,https://lichess.org/NmWG6n4j#81,
+1mKEa,8/p4r2/5kpp/R7/5PK1/8/P4P2/8 b - - 1 40,f7g7 a5a6 f6f7 a6a7 f7g8 a7g7,1257,75,100,146,crushing endgame interference long rookEndgame,https://lichess.org/nSx8m5U0/black#80,
+1yP27,6r1/Rp5q/1p6/1k1p4/3P2QP/2P3P1/8/5RK1 w - - 1 35,g4f5 g8g3 g1f2 h7f5 f2g3 f5f1,1280,78,87,153,crushing endgame exposedKing interference long skewer,https://lichess.org/lgY2YyD2#69,
+23qwd,rn2r1k1/ppq2ppp/2pb4/6N1/3P2b1/3QP1P1/PP3P1P/R1B2RK1 b - - 3 16,f7f6 d3h7 g8f8 h7h8 f8e7 h8g7,1273,75,76,131,crushing deflection interference kingsideAttack long opening,https://lichess.org/02EGyHS7/black#32,Slav_Defense Slav_Defense_Other_variations
+24DFT,r5nR/pp1rkpp1/3p4/3Bb3/4PN2/2P2R2/PP4P1/1K6 b - - 0 26,a8d8 f4g6 f7g6 f3f7 e7e8 h8g8,1224,75,97,5160,clearance interference long master mate mateIn3 middlegame sacrifice,https://lichess.org/NjsU1RQl/black#52,
+2DD1P,2k4r/pp6/2p5/2P3p1/3r4/4p3/PP4KN/4R2R w - - 0 31,h2f3 d4g4 g2f1 h8h1,1280,75,86,335,crushing deflection endgame interference short,https://lichess.org/njwQeL7I#61,
+2FQNG,r4r1k/pb2n1pp/n1p2p2/8/2BPP2P/q1PKBN2/4QPP1/3R3R w - - 7 21,d1a1 a6b4 d3d2 a3b2 d2d1 b2a1,1246,75,98,376,advantage interference long middlegame pin,https://lichess.org/RatnP9bH#41,
+2MZhP,4rrk1/6pp/p3p3/1p1pPpq1/4n3/P1P2P2/1PB3PP/1R1Q1RK1 b - - 0 19,e4d2 f3f4 g5e7 d1d2,1242,76,86,371,crushing interference middlegame short,https://lichess.org/qU0rarYN/black#38,Caro-Kann_Defense Caro-Kann_Defense_Other_variations
+2MlKw,6k1/p4pp1/7p/3r4/4Q3/3p1PB1/PPq1b1P1/4R1K1 b - - 1 31,d5b5 e4e8 g8h7 e8b5 d3d2 b5e2 d2e1r e2e1,1268,89,33,48,advantage endgame fork interference veryLong,https://lichess.org/IbfJfxLl/black#62,
+2OVzL,3r1rk1/pb1nbppp/1p2pn2/3qN1B1/3P4/3B2N1/PP2QPPP/2RR2K1 w - - 7 16,f2f3 d5d4 g5e3 d4e5,1279,74,92,481,advantage interference middlegame short,https://lichess.org/LSgqFANe#31,French_Defense French_Defense_Rubinstein_Variation
+2SGka,5rk1/1pq1bpp1/p3p2p/P2nP3/3P4/2r3P1/4QPBP/R1B2RK1 w - - 3 21,c1b2 c3c2 e2d3 c2b2 g2d5 e6d5,1252,74,89,773,crushing interference long middlegame,https://lichess.org/0rnhU2wY#41,
+2VBs3,r1b1k1nr/pp2ppbp/6p1/q3N3/4Q3/2N5/PPP3PP/R1B1KB1R b KQkq - 2 10,g7e5 f1b5 e8f8 e4e5,1225,75,99,1760,advantage interference intermezzo opening short,https://lichess.org/7ZwmYYPG/black#20,Modern_Defense Modern_Defense_Three_Pawns_Attack
+2VtFO,5rk1/5p2/8/7R/4R3/5P1p/7r/5K2 b - - 1 42,f7f5 h5g5 g8f7 g5f5 f7g6 f5f8,1222,75,99,1458,crushing deflection endgame exposedKing interference long rookEndgame skewer,https://lichess.org/Ro73qu03/black#84,
+2WG7J,r4rk1/1ppq1ppp/1p2p3/1P1nP3/3P3n/P3BP1P/3QBP2/R4RK1 b - - 4 20,d7e7 e3g5 e7e8 g5h4,1285,79,73,98,advantage interference middlegame short,https://lichess.org/8b2mAAxY/black#40,
+2YSpO,r1b1k2r/pp1p1ppp/1qn1p3/8/1PPB4/P1N5/5PPP/R2QKB1R b KQkq - 0 11,c6d4 c4c5 b6d8 d1d4,1202,74,94,3460,advantage interference intermezzo middlegame short,https://lichess.org/jOnT5Qww/black#22,Horwitz_Defense Horwitz_Defense_Other_variations
+2ahef,8/p4k1p/r7/5KP1/PR5p/8/8/8 w - - 0 55,b4h4 a6a5 f5g4 a5a4 g4g3 a4h4,1218,80,90,3252,crushing endgame interference long rookEndgame,https://lichess.org/UvnhFfrX#109,
+2hhCf,r5k1/p4pp1/2p2q1p/3p4/4bB2/5PP1/Pr5P/R3RQK1 b - - 0 27,e4g6 f4e5 f6d8 e5b2,1284,73,93,10257,advantage fork interference middlegame short,https://lichess.org/nnpIRPM7/black#54,
+2mLEG,8/8/r6P/1p1pk3/1P6/3K4/P6R/8 w - - 2 36,h6h7 a6a3 d3c2 a3a2 c2c1 a2h2 h7h8q h2h8,1210,76,95,6396,crushing endgame exposedKing interference rookEndgame skewer veryLong,https://lichess.org/0T096AMG#71,
+2qu0q,3rq1k1/1p4p1/p3b2p/P3Pp2/3P4/1Q3NP1/5P1P/2R3K1 w - - 0 29,b3b7 e6d5 b7b1 d5f3,1234,74,93,6307,advantage endgame interference short,https://lichess.org/8mCk2tUL#57,
+2yb1Z,4rrk1/ppq2ppp/2p5/8/1PQP2n1/P1N5/2P1RPPP/4R1K1 w - - 3 19,e2e8 c7h2 g1f1 h2h1 f1e2 f8e8,1259,75,66,81,crushing interference kingsideAttack long middlegame,https://lichess.org/x3wfXtUy#37,French_Defense French_Defense_Exchange_Variation
+30eFr,rnb2rk1/p1q2ppp/1p2pn2/8/2BP1P2/P1P2N2/6PP/R1BQK2R w KQ - 1 12,c4d3 c7c3 c1d2 c3d3,1211,77,82,164,crushing fork interference middlegame short,https://lichess.org/5Sy7h5Sh#23,Caro-Kann_Defense Caro-Kann_Defense_Other_variations
+33dR6,r1b2rk1/p5pp/1p6/2pqp3/3nNp2/P1PPbPP1/1P4BP/R2QBR1K b - - 0 20,d4b3 c3c4 d5e6 d1b3,1238,77,75,254,advantage interference middlegame short,https://lichess.org/rKjdK53T/black#40,
+3ABBv,r6r/p4kp1/3qp3/PQp2p2/2Pp1n2/5P1p/1P1N1P2/R5RK b - - 1 29,f4d3 b5b7 f7e8 b7a8,1202,114,71,37,crushing interference middlegame short,https://lichess.org/veRjj43M/black#58,
+3CICN,4rrk1/1p3pp1/p2q3p/3p4/6n1/1PP1R2P/P2Q1PP1/4R1K1 w - - 0 24,e3e8 d6h2 g1f1 h2h1 f1e2 f8e8,1206,74,97,5126,crushing endgame interference kingsideAttack long,https://lichess.org/B1RP1jRl#47,
+3Dc1E,2r3bQ/4k3/3p4/2pBpq1P/1p6/3R4/1P3PP1/6K1 b - - 0 41,f5d3 h8g7 e7d8 g7g8,1234,77,90,223,advantage endgame interference short,https://lichess.org/GNhaCeYJ/black#82,
+3PX3q,7r/4q1k1/p2p2pp/1ppQ1b2/3n4/P2P4/1PP4P/R1B2RK1 w - - 6 23,c1f4 d4e2 g1f2 e2f4,1297,77,80,70,crushing interference kingsideAttack middlegame short,https://lichess.org/tE0t5kvb#45,
+3PpGx,8/5R1p/8/p7/4KPk1/8/7r/8 b - - 1 51,a5a4 f7g7 g4h4 g7h7 h4g3 h7h2,1295,81,94,12224,crushing endgame interference long rookEndgame,https://lichess.org/9RiJapEn/black#102,
+3YDY0,r2qkb1r/ppp2ppp/2N5/3n1b2/Q3p3/2N4P/PP3PP1/R1B1KB1R b KQkq - 0 11,b7c6 a4c6 f5d7 c6d5,1205,76,96,5430,crushing interference opening short,https://lichess.org/Lai8tLKp/black#22,Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation
+3gq9d,5k2/p1p2ppp/8/5q2/1P6/P7/R4K1Q/8 w - - 0 36,f2e1 f5b1 e1f2 b1a2,1253,80,94,20381,crushing endgame interference short,https://lichess.org/oEBIg16o#71,
+3iqtA,5r1k/p6p/5r2/3P3q/4Q3/4P1P1/P4PK1/3R1R2 w - - 2 29,f1h1 f6f2 g2g1 h5d1,1279,76,97,16394,endgame interference master mate mateIn2 short,https://lichess.org/ofIy0Etk#57,
+3mcba,r4r2/pppb2bk/3p2pp/3Pp3/2P4q/1P2B1Pn/P2QNPKN/4RR2 b - - 1 21,h4e4 f2f3 e4f5 g3g4 f5f7 g2h3,1269,103,65,28,crushing interference long middlegame,https://lichess.org/SQEMi1oL/black#42,
+3ux08,r1bqk2r/pp2pp1p/6pB/3p4/8/3B4/PbPQ1PPP/3R1RK1 b kq - 1 15,b2f6 d3b5 c8d7 d2d5,1266,75,82,179,crushing discoveredAttack interference middlegame short,https://lichess.org/F1e0ZIMn/black#30,Modern_Defense Modern_Defense_Other_variations
+42WpI,4kb2/5q2/p1n2p2/Pp2p1p1/1P1pP3/3P2P1/3B1P2/2Q3K1 b - - 5 47,c6b4 c1c8 e8e7 d2b4,1232,79,85,436,endgame interference intermezzo mate mateIn2 short,https://lichess.org/6EkVmvVi/black#94,
+45KLi,8/1p3r1k/1pp3p1/3p2q1/2n4p/PPP4P/4NPP1/4QRK1 b - - 0 33,c4d2 f2f4 g5f5 e1d2,1289,74,89,1285,crushing endgame interference short,https://lichess.org/FRG7kbNy/black#66,
+47jnc,r1r5/2q5/1bp1kpPQ/2np4/p3pP2/1P6/P1P3PP/R1B2R1K b - - 2 28,c8h8 f4f5 e6d7 h6g7 d7c8 g7h8,1273,75,96,14003,crushing interference long master middlegame,https://lichess.org/jFXCoMyx/black#56,
+4EOlS,r3k2r/ppp2pp1/4q3/3pP2p/8/4PP2/P5Q1/R1B2RK1 w kq - 2 18,g1h2 e6e5 f3f4 e5a1 c1b2 a1a2,1226,74,98,13914,crushing fork interference long middlegame,https://lichess.org/CCF2diQb#35,Queens_Pawn_Game Queens_Pawn_Game_Symmetrical_Variation
+4HLO0,r6r/pppq1p2/1b1p1nk1/n2Pp1B1/4PPbP/2PB2Q1/PP4P1/RN3R1K b - - 0 17,f6h5 f4f5 g6g7 g3g4,1219,74,97,7588,advantage interference middlegame short,https://lichess.org/dPRvZQXR/black#34,Italian_Game Italian_Game_Classical_Variation
+4HNZD,rn1q1k1r/1b1p1p1p/p2PpNp1/4NnQ1/1pP5/1P6/P4PPP/1R2KB1R b K - 6 18,f8g7 f6h5 g7g8 g5d8,1256,76,90,2367,discoveredAttack interference mate mateIn2 middlegame pin short,https://lichess.org/ivSZj2fa/black#36,St_George_Defense St_George_Defense_Other_variations
+4IQWa,3r4/5p1p/p3p1p1/3k4/3P4/1P2K2P/5PP1/R7 b - - 8 30,d8d6 a1a5 d5c6 a5a6,1288,207,33,15,crushing endgame interference rookEndgame short,https://lichess.org/dHWNPwCL/black#60,
+4K4Oi,3r3r/ppbq2k1/5p1p/4pP2/1PP3QR/2pP2B1/2K2PP1/5B2 b - - 5 33,g7f7 g4g6 f7e7 g6g7 e7e8 g7h8,1208,77,93,14081,crushing interference long middlegame,https://lichess.org/Bl5gqIFb/black#66,
+4O71x,Q2rr3/p1pk3q/3p1p2/6b1/4P1p1/6B1/PP3PP1/3RRK2 w - - 3 26,a8a7 h7h1 f1e2 e8e4,1226,77,92,6606,crushing interference middlegame short,https://lichess.org/pPINw6BE#51,
+4UIVO,1k5r/1p3p1p/p7/3Q4/1b3p2/8/P1B2P1P/qNKR2R1 w - - 0 27,d5d4 b4a3 c1d2 a1d4,1283,75,94,11026,crushing interference middlegame pin queensideAttack short,https://lichess.org/mxQgSzIZ#53,
+4ZvXD,q6r/3pk2p/2n1pp1Q/8/1p2P3/5P2/rP4PP/3R1KNR b - - 3 18,a2a1 h6g7 e7e8 g7h8,1229,77,94,618,crushing interference middlegame short,https://lichess.org/gcLmVeXJ/black#36,Benko_Gambit Benko_Gambit_Other_variations
+4ce3D,4r2r/pp4pk/1q1p4/3Q4/6b1/2P4P/P5P1/R1B2R1K b - - 0 23,g4e6 d5h5 h7g8 h5e8,1277,75,85,258,crushing interference middlegame short,https://lichess.org/75g3VVwF/black#46,
+4qPQS,r2q1rk1/p1p2ppp/2Q1b3/5n2/3P4/2P5/P2N1PPP/R1B2RK1 w - - 1 16,d2e4 e6d5 c6c5 d5e4,1228,77,93,3916,advantage interference middlegame short,https://lichess.org/Gq0HJiKD#31,Four_Knights_Game Four_Knights_Game_Italian_Variation
+4rvJS,8/2rk1pp1/3p3p/1p1PpPb1/2P1Pq2/1P3P2/P3KQ2/3R3R w - - 0 26,d1c1 f4d2 e2f1 d2c1,1284,77,78,323,crushing endgame interference short,https://lichess.org/MZTZ70Tf#51,
+4y1mT,r6k/6bp/p3P1p1/6q1/1pp3P1/8/PPP1BQ2/4KR2 w - - 5 27,e2c4 g5c1 e1e2 c1c2,1264,76,90,1908,crushing endgame interference short,https://lichess.org/0tq0CiNm#53,
+4zr0P,r1b1k1B1/3n1p2/p1p1p3/2pp2q1/5p1b/1P2P3/PBPPK2P/RN1Q3R w q - 3 16,h1g1 g5h5 e2f1 h5d1,1246,75,94,5117,crushing deflection interference middlegame short skewer,https://lichess.org/mE1cha7l#31,Bird_Opening Bird_Opening_Dutch_Variation
+51cJe,k4r2/1p3B2/p1p1PQ2/3p4/7p/1KP3q1/PP4P1/8 b - - 0 36,g3d6 e6e7 d6f6 e7f8q,1227,77,86,546,advancedPawn advantage endgame interference promotion short,https://lichess.org/HQhwen2W/black#72,
+51ssO,2bk1r2/8/4p3/Q1NpP3/3P4/2P1P1Pq/7P/6K1 b - - 2 32,d8e7 a5c7 e7e8 c7c8,1232,76,63,98,crushing endgame interference master short,https://lichess.org/ETuVwpUe/black#64,
+56qEN,4rqk1/ppp3p1/2n4p/3pPb2/8/2P2Q2/PP4PP/3RR1K1 b - - 0 22,e8e5 e1e5 c6e5 f3d5 e5f7 d5f5,1271,77,77,531,advantage capturingDefender fork interference long middlegame,https://lichess.org/grFvh3wA/black#44,
+576hg,r5k1/5pp1/p2B2rp/8/PP3P2/8/4KP1n/2RR4 w - - 0 26,f4f5 a8e8 e2d2 g6d6,1278,74,91,998,crushing endgame interference short,https://lichess.org/d7u7HSKr#51,
+58FMJ,3r2k1/p4pp1/1p2r1qp/8/2P1p3/1PB1Q1PP/P1N2P2/4R1K1 w - - 5 31,g1g2 d8d3 e3f4 d3c3,1269,74,95,21542,advantage interference middlegame short,https://lichess.org/39l5Xib3#61,
+59krY,1k2r2r/ppqn1p2/2p5/5Q2/2NP4/5Pp1/PP3PK1/2R4R w - - 0 23,f2g3 e8e2 g2f1 h8h1 f1e2 h1c1,1296,74,97,2242,advantage deflection interference long middlegame skewer,https://lichess.org/rvIN3UmO#45,
+5AcKP,r2q1rk1/3pbppp/p3p3/1p6/5B2/PnR2N2/1P3PPP/4QRK1 b - - 1 17,b3a5 f4c7 d8e8 c7a5,1294,75,83,1060,advantage interference middlegame short,https://lichess.org/hwSH3pMx/black#34,Sicilian_Defense Sicilian_Defense_Four_Knights_Variation
+5Eq3L,8/pq3p1k/2p1pbpp/1p6/2P5/P2R1N1P/1P1R1PP1/6K1 b - - 1 26,b5c4 d3d7 b7c8 d7f7,1252,77,93,3329,crushing endgame interference short,https://lichess.org/ezYfU79w/black#52,
+5GVxY,2r3k1/p2nqpp1/2P1p2p/8/pr2P3/3BB1P1/2Q2P1P/3R2K1 b - - 0 26,d7e5 e3c5 e7e8 c5b4,1260,75,94,1455,advantage fork interference master middlegame short,https://lichess.org/zaj61h2o/black#52,
+5H50w,1r4k1/pb4pp/p3pp2/2q5/Q1N1p3/1PP1P3/P4PPP/3R2K1 w - - 1 20,d1d7 b7c6 a4a6 c6d7,1218,80,86,94,crushing endgame fork interference short,https://lichess.org/h0o8jz2O#39,
+5Sv9m,5rk1/3q2r1/p1ppb3/2p2p1Q/4P1n1/P2P2NR/1PP3P1/5RK1 b - - 8 33,f5f4 h5h8 g8f7 f1f4,1203,75,100,187,crushing interference kingsideAttack middlegame short,https://lichess.org/5pB8LQ3r/black#66,
+5UkTW,5rkb/1r1b1p2/pqpR1Ppp/8/2B2Q2/2N5/PPP2PPP/2KR4 w - - 3 18,d6d7 b6b2 c1d2 b7d7,1284,75,94,8180,crushing fork interference intermezzo middlegame short,https://lichess.org/GQDWfQIL#35,Sicilian_Defense Sicilian_Defense_Najdorf_Variation
+5VuUQ,rnb2rk1/pp2ppbp/3p1np1/6P1/3NP3/2N1B3/PqP1BP1P/R2QK2R w KQ - 0 10,g5f6 b2c3 e3d2 c3d4,1249,76,93,3880,advantage deflection hangingPiece interference middlegame short,https://lichess.org/rGHrb2Vf#19,Sicilian_Defense Sicilian_Defense_Dragon_Variation
+5WKMo,r1q2k1r/pR2bpp1/2p1p2p/3pP3/5QPP/2P5/P4P2/1R4K1 b - - 0 21,g7g6 b7e7 f8e7 f4f6 e7e8 f6h8,1234,77,68,144,advantage attraction interference long middlegame sacrifice,https://lichess.org/1baipc9z/black#42,
+5qTjv,r1bqk2r/p3bp2/p3p3/7p/2QP1N2/4P3/P4PPP/R4RK1 b kq - 0 16,e7d6 c4c6 c8d7 c6d6,1276,75,100,1305,advantage fork interference middlegame short,https://lichess.org/fxU9J59y/black#32,Rapport-Jobava_System Rapport-Jobava_System_Other_variations
+5rXka,6Q1/5p1p/5p1k/7r/4P3/6Pq/5P1P/4R1K1 w - - 10 37,g8f7 h3h2 g1f1 h2h1 f1e2 h1e4,1220,122,20,29,advantage endgame interference long,https://lichess.org/Toa4KnQt#73,
+5tTPC,r1b1k1nr/pp1p1ppp/8/4q3/1b2P3/2N5/PP3PPP/R1BQKB1R w KQkq - 0 9,f1d3 b4c3 b2c3 e5c3 c1d2 c3d3,1229,81,93,3965,advantage fork interference long opening,https://lichess.org/7KjbbSUI#17,Sicilian_Defense Sicilian_Defense_Old_Sicilian
+5uIv7,5rk1/2p1q2p/1p2p1pb/1Bn1p3/7P/2N2Q2/PPP3P1/3R2KR w - - 0 22,f3c6 h6e3 g1h2 e7h4,1209,79,68,157,interference kingsideAttack mate mateIn2 middlegame short,https://lichess.org/kz9gwpPK#43,
+5xez7,2kr3r/npq1npp1/p2bp1p1/3p4/1P1P2P1/2PB1N1P/P4P2/R1BQK2R w KQ - 1 16,a2a4 c7c3 c1d2 c3d3,1208,79,93,7121,crushing fork interference middlegame short,https://lichess.org/bVdqfmjn#31,Caro-Kann_Defense Caro-Kann_Defense_Other_variations
+62Hx2,r5k1/q4rpp/3p4/3PnPN1/1pp4Q/p5P1/PPP3B1/3R3K b - - 0 30,f7f6 h4h7 g8f8 h7h8 f8e7 h8g7 e7e8 g7f6,1296,76,91,823,crushing deflection interference kingsideAttack middlegame veryLong,https://lichess.org/oM9OHtNc/black#60,
+63u0R,r4rk1/pp1b2pp/1b1Nq3/4Pp2/P2p1B2/5Q2/1P3PPP/R2R2K1 w - - 1 19,d6b7 d7c6 f3g3 c6b7,1260,75,84,639,advantage interference middlegame short,https://lichess.org/guOXaMlU#37,
+68BnO,1k6/R5R1/2p5/2PbK3/6P1/2P5/4r3/8 w - - 5 49,e5d6 e2e6 d6d7 b8a7,1227,244,33,2,advantage endgame interference short,https://lichess.org/awO2xTaO#97,
+6Begy,2krr3/pp2R3/2N4p/2pb4/3b1B2/8/P4PPP/1R4K1 b - - 3 25,e8e7 c6e7 c8d7 e7d5,1227,84,100,64,advantage interference middlegame short,https://lichess.org/smFscV3M/black#50,
+6Cpye,3r2k1/6R1/1p3p1p/p1q1pP1P/6Q1/8/P1P3PK/3r4 b - - 0 27,g8f8 g7g8 f8e7 g4g7 e7d6 g8d8,1289,78,84,95,crushing deflection endgame exposedKing interference long,https://lichess.org/H3TE3XnW/black#54,
+6Cw4N,3rr1k1/p3ppbp/1p3qp1/3Pn2n/4Q3/2N2PB1/PP2BPKP/3R1R2 w - - 2 22,g3h4 h5f4 g2h1 f6h4,1268,74,88,371,crushing interference middlegame short,https://lichess.org/2slRiJ51#43,
+6DqEz,4rk2/pp3ppQ/2p3B1/3p2q1/1P1P4/4r1N1/P6P/5RK1 b - - 7 26,e3e1 h7h8 f8e7 f1e1,1257,76,89,676,crushing interference middlegame pin short,https://lichess.org/EmOlyaLT/black#52,
+6E8ga,3r1rk1/ppp4p/5p2/5Q1P/3P4/2q5/2P2PP1/2KR3R w - - 1 24,h5h6 c3a1 c1d2 d8d4,1291,80,94,18718,crushing endgame interference queensideAttack short,https://lichess.org/66OJ8HSn#47,
+6HfEh,3rkbnr/ppp2p1p/4b1p1/8/1nP5/2N1P3/PP3PPP/1RB1KBNR w Kk - 0 9,g1f3 b4c2 e1e2 e6c4,1244,75,100,629,interference mate mateIn2 opening short,https://lichess.org/Rvjjdog5#17,Queens_Gambit_Declined Queens_Gambit_Declined_Albin_Countergambit
+6MISB,6r1/1p2k1r1/5p2/1b2p3/p2pP1PP/1PqN1P2/2P1KQ2/2R3R1 w - - 0 34,b3a4 b5d3 c2d3 c3b2 e2f1 b2c1,1296,75,100,858,advantage interference long middlegame,https://lichess.org/8Ded8FKx#67,
+6OoWx,r4k1r/p1p1npb1/3p2pp/8/1R2qP2/8/P1PBB1PP/3QK2R b K - 1 18,e4g2 e2f3 g2h3 f3a8,1233,75,92,1175,advantage fork interference middlegame short,https://lichess.org/KOxdWU8t/black#36,Philidor_Defense Philidor_Defense_Exchange_Variation
+6X47l,1k1r3r/pp3ppp/8/8/3p4/1P2PBb1/P2BK1Pq/2RQ1R2 w - - 2 22,f1h1 d4d3 e2f1 h2h1,1265,75,77,386,interference mate mateIn2 middlegame short,https://lichess.org/TcdQ4VAp#43,
+6dx1x,7k/7p/P5p1/8/2P5/r4r2/3RR3/3K4 w - - 1 48,d2a2 f3f1 d1c2 a3a2,1211,79,70,139,crushing endgame interference rookEndgame short,https://lichess.org/9ZD96ek8#95,
+6hEnA,rnb1qrk1/pp4pp/2p5/2bNN3/8/1B2P2P/PPP5/R1BQ1RK1 b - - 0 13,e8e5 d5e7 g8h8 f1f8,1293,162,67,20,backRankMate deflection doubleCheck interference mate mateIn2 middlegame short,https://lichess.org/HX0UuXKC/black#26,Englund_Gambit Englund_Gambit_Other_variations
+6kga4,rnb3k1/p4p1p/3p2p1/2pP4/4QB2/2q2N2/P4PPP/R3K2R w KQ - 0 16,e1e2 c8a6 e2d1 c3a1,1284,76,92,735,advantage interference middlegame short,https://lichess.org/YjGrcn2v#31,Benoni_Defense Benoni_Defense_Classical_Variation
+6nnJ5,5r2/8/p1PR1pk1/3p1p2/B4R2/P5q1/6P1/Q6K w - - 0 34,a1f1 f8h8 h1g1 g3h2 g1f2 h2f4,1240,76,97,1588,crushing endgame interference long,https://lichess.org/LyLTIigw#67,
+6sdK5,6k1/1p2rpbp/6p1/p1N5/P2n4/1N6/5RPP/5RK1 w - - 1 26,f2f4 d4e2 g1f2 e2f4,1259,95,71,47,advantage fork interference middlegame short,https://lichess.org/t4bphi71#51,
+6tNog,r4b2/pp3k2/2pp2rp/8/2P2R2/1P3P2/P4P2/2K4R b - - 0 28,f7e6 h1e1 e6d7 f4f7 d7d8 f7f8,1227,76,91,319,crushing endgame interference long,https://lichess.org/cbj3rMhb/black#56,
+6tr0n,6k1/B2P1p1p/5bp1/1p6/8/1P6/P4PKP/3n4 b - - 0 30,d1c3 a7d4 f6e7 d4c3,1259,78,93,1051,advantage endgame interference master short,https://lichess.org/2XJSFdKy/black#60,
+7J9YY,5rk1/1bQ3p1/p3p2p/1p6/1Pn5/8/P1P1Kb1P/R7 b - - 4 33,b7a8 a1f1 a8f3 e2f2 f3g2 f2g2,1260,76,87,633,advantage endgame interference long,https://lichess.org/v36SZopG/black#66,
+7Jy4r,3r2k1/1bq3p1/p3p1P1/1p2Pp1Q/4pP2/2PrB1P1/PP4K1/R7 b - - 0 25,g8f8 h5h8 f8e7 h8g7 e7e8 g7c7,1257,75,97,3648,crushing deflection interference long middlegame skewer,https://lichess.org/f5oYNcp5/black#50,
+7L9vY,8/2R4p/8/5p2/6k1/4K3/2Pr3P/8 b - - 7 37,d2h2 c7g7 g4h3 g7h7 h3g2 h7h2,1248,76,96,6928,crushing endgame interference long rookEndgame,https://lichess.org/qvCfvqkv/black#74,
+7SSb8,r6r/pbkp3p/1p3q2/3p3B/2PN2Q1/KP6/P7/R7 b - - 2 26,h8g8 d4b5 c7c8 g4g8,1223,79,78,249,crushing interference middlegame short,https://lichess.org/CI6fCd89/black#52,
+7STIX,rq1NQbkr/p3p1pp/1p1pPp2/8/2P3n1/8/P2B1PPP/4RRK1 b - - 0 20,h7h5 e8f7 g8h7 f7h5,1228,77,85,638,crushing interference kingsideAttack middlegame short,https://lichess.org/C7qSCw0m/black#40,
+7cw0z,8/b5r1/p7/5k2/3p1P2/R4K2/1B6/8 b - - 6 47,g7g6 a3a5 f5f6 a5a6,1291,77,99,1187,crushing endgame interference master short,https://lichess.org/05Nzh14w/black#94,
+7iCWT,rn2k2r/ppqbnppp/4p3/3pP3/1P1p1P2/P4N2/2P3PP/R1BQKB1R w KQkq - 0 11,f3d4 c7c3 c1d2 c3d4,1244,75,95,12596,advantage fork interference master opening short superGM,https://lichess.org/JGp8Bxwc#21,French_Defense French_Defense_Winawer_Variation
+7tGPS,r3k2r/pp1Bqppp/8/8/1b1PQ3/7P/PPK2PP1/R6R b kq - 0 16,e8d7 e4b7 d7d6 b7b4,1202,75,87,337,advantage interference middlegame short,https://lichess.org/cy0ICAiJ/black#32,Caro-Kann_Defense Caro-Kann_Defense_Other_variations
+83Jsz,8/8/8/R5p1/4k3/7K/p5r1/8 b - - 3 48,e4f3 a5a3 f3f2 a3a2,1277,76,74,259,crushing endgame interference rookEndgame short,https://lichess.org/J7Sa26Ta/black#96,
+88Hrv,r1bqk1nr/p5pp/2Bb4/4pp2/1n2Q3/P1N5/1PP3PP/R1B1K1NR b KQkq - 0 11,b4c6 e4c6 c8d7 c6d6,1216,82,79,80,advantage fork interference opening short,https://lichess.org/SbRvCKls/black#22,Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Gedult_Gambit
+8ASy4,r1bq3r/1p4b1/p3knpp/2p1N3/2P5/8/PPP3PP/RNBQ1RK1 w - - 1 15,d1e2 d8d4 c1e3 d4e5,1220,79,43,179,advantage interference opening short,https://lichess.org/ZaPPs1Ra#29,Sicilian_Defense Sicilian_Defense_Modern_Variations
+8MFdH,3q3r/5kpp/p7/2p5/5Q2/7P/PP1r1PP1/R4K2 b - - 2 26,f7e6 a1e1 e6d7 f4d2,1236,75,79,312,advantage endgame interference short,https://lichess.org/soWQBySA/black#52,
+8MfCz,2kr3r/pp2pp2/2p3p1/4P1Pp/1Q1P3P/8/bPP2P2/qNKR3R w - - 6 21,b4a3 a1b1 c1d2 d8d4 d2e3 d4d1,1298,77,87,727,crushing deflection interference long middlegame queensideAttack,https://lichess.org/1YlYhnIb#41,
+8PWtE,r2qk2r/pppb1ppp/2nb4/8/3Q4/2P3P1/P3PPBP/R1B1K1NR w KQkq - 1 10,d4g7 d6e5 g7h6 e5c3 e1f1 c3a1,1295,74,94,20843,advantage fork interference long opening,https://lichess.org/Pj5tsG8T#19,English_Opening English_Opening_Kings_English_Variation
+8eedq,1Rkr4/6pp/2p2p2/p3p3/P1P5/6P1/3r1PKP/1R6 b - - 1 26,c8c7 b1b7 c7d6 b8d8,1205,76,96,12836,crushing deflection endgame interference rookEndgame short,https://lichess.org/sGCpI0AR/black#52,
+8jbgt,1k1r4/pp6/2p5/2Pp2p1/3P2Q1/2N5/PP1qP3/6RK w - - 5 28,g4g5 d8h8 h1g2 d2g5,1249,274,60,6,crushing endgame interference intermezzo short,https://lichess.org/e1qo09dw#55,
+8n2HH,3r2k1/Q6p/2q1ppp1/1p2b3/4P2R/PBp3PP/3r4/2R3K1 b - - 0 34,e5g3 a7h7 g8f8 h7h8 f8e7 h4h7 e7d6 h8d8,1208,77,93,13459,advantage deflection interference middlegame veryLong,https://lichess.org/0C6C994w/black#68,
+8rsJx,6k1/6p1/7p/1p6/3P3r/1Nr5/P4R2/5RK1 w - - 0 49,f2f4 c3g3 g1f2 h4f4 f2g3 f4f1,1267,101,80,41,crushing endgame exposedKing interference long skewer,https://lichess.org/GZykRSxL#97,
+8yJT3,r2r2k1/1p2nppp/1pp5/4P3/5PP1/2P1p2P/PP6/R3BRK1 w - - 1 26,f1f3 e3e2 a1c1 d8d1 c1c2 d1e1,1245,102,82,35,advancedPawn crushing endgame interference kingsideAttack long,https://lichess.org/34Esan4R#51,
+8yn8G,2r3k1/1p1q1rp1/p2p3p/B3p1b1/4P3/2P4P/PP1Q1PP1/R3R1K1 w - - 1 22,d2d5 c8c5 d5b3 c5a5,1257,73,95,26138,advantage interference middlegame short,https://lichess.org/PiW4ZQyz#43,
+96lC6,r6r/2N1nk1p/6pP/2b3B1/p1N5/8/3R1PP1/5K2 b - - 4 30,a8d8 c4e5 f7g8 d2d8,1294,75,94,13290,interference mate mateIn2 middlegame short,https://lichess.org/0iuD7lKH/black#60,
+99VjZ,2kr1bnr/pbppqpp1/1pn1p3/8/2P1P2P/P2P1N2/1P3PBP/RNBQ1RK1 b - - 0 9,h8h4 c1g5 f7f6 g5h4,1289,74,95,25034,advantage fork interference master opening short,https://lichess.org/benYXRpo/black#18,French_Defense French_Defense_Knight_Variation
+9AA6j,r6r/p1p2k1P/1p2p1p1/3pPbQ1/5P2/2P1PK2/Pq4P1/R6R b - - 1 29,b2c2 g5f6 f7e8 f6h8,1214,77,76,145,crushing interference middlegame short,https://lichess.org/f35bM8rw/black#58,
+9EJRt,4r1k1/pp3pp1/3p3p/2b4Q/4q3/1P3NP1/P2R1PKP/8 b - - 16 29,c5b4 d2d4 e4c6 d4b4,1289,76,77,203,advantage endgame interference short,https://lichess.org/ix7wNBZG/black#58,
+9GYsZ,5rk1/1p4p1/3p1qp1/p2N4/P1r1P3/4QP2/1PP5/2K4R b - - 3 24,f6f3 d5e7 g8f7 e3f3,1288,75,87,299,crushing endgame interference intermezzo short,https://lichess.org/b9laP9hY/black#48,
+9Iqca,5rk1/5pb1/6p1/pp4Bp/2b1PN1P/2p2P2/2Q2KPq/1R1R4 w - - 0 32,d1h1 g7d4 f2e1 h2h1,1256,213,82,14,interference mate mateIn2 middlegame short,https://lichess.org/aVabPu4c#63,
+9UUvz,r2k3r/ppp5/2npbNpq/3P4/4PRp1/1N6/PPP3PP/R4QK1 w - - 1 18,d5e6 h6h2 g1f2 h2f4,1255,76,100,774,advantage interference kingsideAttack middlegame short,https://lichess.org/Zh9MVnJC#35,Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit
+9Vivc,4r2k/pp1q1r1p/1bp2p1B/3pp3/3N4/3Q2R1/PP3PPP/2R3K1 w - - 4 22,d4f5 e5e4 d3b3 d7f5,1292,74,96,8618,advantage interference middlegame short,https://lichess.org/y4pamWDk#43,
+9Z77l,3r1r2/p4pk1/1p3qp1/6R1/3P1P2/1Q2P3/P4P1K/6R1 w - - 0 31,f4f5 f8h8 h2g2 f6g5,1281,76,72,83,crushing endgame interference short,https://lichess.org/sk8VEHAi#61,
+9ZvVY,3r2k1/2q2pp1/1R1p3p/8/4P3/1P1P2QP/5PPK/8 w - - 3 42,g3e3 d6d5 e4e5 d5d4 e3f4 c7b6,1238,74,96,14491,crushing discoveredAttack endgame interference long,https://lichess.org/B1Yp20Mc#83,
+9depp,2rr2k1/pb2bppp/8/q1p5/4p3/PP2P3/1B2BPPP/2RQ1RK1 w - - 3 19,d1c2 d8d2 c2b1 d2e2,1282,75,98,7364,crushing interference master middlegame short,https://lichess.org/rPEfEWE5#37,
+9g3rX,r1bq3r/ppbk1ppB/2p1p3/4PP2/2pP4/Q1P3P1/PP4P1/R3K2R b KQ - 0 19,e6f5 h7f5 d7e8 h1h8,1280,76,70,313,discoveredAttack interference mate mateIn2 middlegame short,https://lichess.org/O5amgpxN/black#38,Queens_Pawn_Game Queens_Pawn_Game_Mason_Variation
+9gmAG,7r/8/5p2/2Pk2p1/6P1/2K5/R6P/8 w - - 6 44,c3d3 h8h3 d3c2 h3h2 c2b3 h2a2,1283,76,90,2749,crushing endgame exposedKing interference long rookEndgame,https://lichess.org/SNfOzKlP#87,
+9jFsG,rn1qr3/ppp2pkQ/8/3ppB2/8/2P5/PPP2PPP/R5K1 b - - 0 17,g7f8 h7h8 f8e7 h8e5 e7f8 e5h8,1266,75,99,741,crushing interference long middlegame,https://lichess.org/lJ2uiGqw/black#34,Zukertort_Opening Zukertort_Opening_Lemberger_Gambit
+9kepf,4r1k1/p1p2ppp/2p4q/8/2PP1n1P/2B2B2/PPQ2PP1/4r1KR w - - 1 22,c3e1 e8e1 g1h2 h6h4,1220,75,95,9615,interference kingsideAttack mate mateIn2 middlegame short,https://lichess.org/V99iyI4U#43,
+9r7xz,5rk1/5pp1/3Qp1p1/q2pP3/4nPP1/7P/PP6/1KR4R w - - 7 27,d6c7 e4d2 b1c2 a5c7,1238,78,77,83,crushing endgame interference short,https://lichess.org/8USFBZNb#53,
+9yMdu,1k6/pq4b1/1p5p/2p5/2P1b2N/1P5P/P2Q1N2/2K5 b - - 1 33,b7e7 d2f4 g7e5 f4e4,1237,76,85,724,crushing endgame interference short,https://lichess.org/ad1qIhdP/black#66,
+A3wIC,8/8/1p1r3r/pR1Pk3/5p1p/1P3P1K/8/7R b - - 3 54,d6d5 h1e1 e5d6 b5b6 d6c5 b6h6,1242,76,87,471,advantage endgame interference long rookEndgame skewer,https://lichess.org/qyNxyoen/black#108,
+A468K,r2q1rk1/pp3ppp/2n5/2bN4/2Bp1Q1N/6Pb/PPP2P1P/R3R1K1 b - - 6 18,g7g5 d5f6 g8h8 f4g5,1273,75,88,400,crushing interference kingsideAttack middlegame short,https://lichess.org/6qv6Lq1y/black#36,Sicilian_Defense Sicilian_Defense_Marshall_Counterattack
+A7Wwj,r2qr1k1/1p3ppp/p2p1b2/1Np5/4PP2/3Q4/PPP3PP/R3R1K1 w - - 0 15,b5d6 f6d4 g1h1 d8d6,1292,75,85,482,crushing interference intermezzo middlegame short,https://lichess.org/9B4kgOlZ#29,Ruy_Lopez Ruy_Lopez_Steinitz_Defense
+ACJIy,rn3r2/pp1k4/2p2q2/5P1p/3P2pP/2N3b1/PP2Q1P1/R1B3KR w - - 1 19,c3e4 f6d4 c1e3 d4e4,1264,77,80,245,crushing interference kingsideAttack middlegame short,https://lichess.org/NF1EgPYR#37,Slav_Defense Slav_Defense_Other_variations
+AMKZX,r6r/2p2k2/1p5p/p1p1P2P/4Np1Q/P2qnP2/1Pn5/2K3R1 b - - 3 22,e3f5 h4f6 f7e8 f6h8,1279,76,93,924,advantage fork interference middlegame short,https://lichess.org/0CuLmrPQ/black#44,
+ARoAq,5r2/pp1r1k1p/2p2p2/2P4R/8/8/PP4RP/6K1 b - - 3 33,f7e6 g2e2 e6f7 h5h7 f7g6 h7d7,1242,322,38,6,crushing endgame interference long master rookEndgame skewer,https://lichess.org/F2NWGVWf/black#66,
+ARs1c,4r1k1/3Q1p2/6Np/1p1p2qB/2pPn3/1n2P2P/r1N2PP1/5RK1 b - - 2 26,e8d8 g6e7 g8g7 d7d8,1271,75,91,372,crushing interference middlegame short,https://lichess.org/zOVA1ZHb/black#52,
+AYEsm,6k1/1bR2pb1/6p1/1p5p/nP2p2Q/PB2P2P/3q1PP1/6K1 w - - 0 34,c7b7 d2e1 g1h2 g7e5 g2g3 e1f2,1225,75,93,1368,advantage endgame interference long,https://lichess.org/sZfrAdur#67,
+AcL2q,r2qkbnr/2pb1ppp/npP1p3/3p4/QB1P4/8/P3PPPP/RN2KBNR b KQkq - 0 8,a6b4 c6d7 e8e7 a4b4,1261,94,85,38,advancedPawn advantage interference intermezzo opening short,https://lichess.org/c3c7V4g1/black#16,Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations
+Akdf9,2kr3r/B1p2pp1/1pp1b3/7p/3q1P2/7P/2PNB1PK/3Q1R2 b - - 1 20,d4d2 e2a6 c8d7 d1d2,1246,82,85,132,crushing interference intermezzo middlegame short,https://lichess.org/0F5b65G2/black#40,
+AngL3,8/6p1/5p1p/pK1BbP2/6P1/1P5P/k7/8 b - - 1 77,e5c3 b3b4 a2b2 b4a5,1290,78,94,1102,bishopEndgame crushing discoveredAttack endgame interference short,https://lichess.org/RZhI7Ekx/black#154,
+AqwPa,3q3k/pp2R1pp/3p2b1/8/5PP1/P6P/1P1n2Q1/6K1 w - - 1 26,e7b7 g6e4 g2d2 e4b7,1201,81,82,85,advantage endgame fork interference short,https://lichess.org/JjFeNRBa#51,
+AtVQS,rn1q1r2/pp2bpkp/2p1p1pn/3pPPN1/3P4/7Q/PPP3PP/RNB2RK1 b - - 0 12,e7g5 f5f6 g7h8 c1g5,1231,75,86,626,crushing interference intermezzo opening short,https://lichess.org/cF6QMlmA/black#24,Caro-Kann_Defense Caro-Kann_Defense_Other_variations
+Au24W,r6r/p3kq1p/3p1p2/1pp2P2/3n4/3QN3/5PPP/2R1K2R b K - 1 21,h8g8 d3e4 e7f8 e4a8,1285,76,92,13452,advantage interference middlegame short,https://lichess.org/mom1OYlv/black#42,
+Av1lh,r3k2r/ppp2ppp/2n1p3/3p4/1B1PnP1q/P7/1PP1QPPP/2KR1B1R b kq - 6 11,e4f2 g2g3 h4d8 e2f2 c6b4 a3b4,1265,76,90,386,advantage interference intermezzo long middlegame,https://lichess.org/9c4SAukH/black#22,Queens_Pawn_Game Queens_Pawn_Game_Anti-Torre
+AzTk1,r1b2rk1/pp2pp1p/6p1/8/3Nq3/1P2P3/P2Q2PP/R4RK1 b - - 2 23,c8g4 f1f4 e4d5 f4g4,1278,76,83,231,advantage interference middlegame short,https://lichess.org/dKcoD6cl/black#46,
+B0dj1,2r1k2r/1pqb1pp1/p3pn2/5P2/P2N3p/2PQ3P/1PN3Pb/R1B2R1K b k - 2 19,f6h5 f5e6 h5g3 h1h2 g3f1 h2g1,1277,77,90,2654,crushing interference long middlegame,https://lichess.org/k66mpvza/black#38,Sicilian_Defense Sicilian_Defense_Kan_Variation
+B4VlG,2kr3r/ppp1q2p/3ppbpQ/8/P2pP3/3P4/1PPN1PPP/R4RK1 w - - 1 15,b2b4 f6g5 h6h3 g5d2,1206,75,97,11704,crushing interference middlegame short,https://lichess.org/5BQlqpm5#29,Italian_Game Italian_Game_Blackburne-Kostic_Gambit
+B7lBv,r3k2r/pp5p/2b3pQ/2bp1pB1/2q5/2N5/PPP3PP/4R2K b kq - 1 19,e8d7 h6g7 d7c8 g7h8 c8c7 h8a8,1283,76,85,661,crushing exposedKing interference long middlegame skewer,https://lichess.org/46uQQgfx/black#38,French_Defense French_Defense_Classical_Variation
+B9jy1,1r5r/4kppp/3bpq2/8/P7/B1P1QP2/5P1P/R3K2R b KQ - 4 19,d6a3 e3a7 e7e8 a7b8,1279,77,91,4068,crushing interference master middlegame short,https://lichess.org/HVZZlr0F/black#38,Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack
+BCW4A,2r3rk/8/p1b1p2b/P1p1pP1p/1pPq1p1p/1P1P1P1N/2BKQ1PB/R5R1 w - - 1 33,f5e6 d4c3 d2d1 c3a1,1234,78,54,75,crushing interference middlegame short,https://lichess.org/DwefPfZD#65,
+BCYde,r2qk2r/1p1n1pp1/pN2p1p1/3p4/1P1PnB2/P3PN2/5PPP/2RQK2R b Kkq - 0 15,d7b6 f4c7 d8f6 c7b6,1287,75,97,1904,crushing interference middlegame short,https://lichess.org/7REtrtWj/black#30,Queens_Gambit_Declined Queens_Gambit_Declined_Baltic_Defense
+BFVQP,4r1k1/pb3ppp/1pq5/2p1r3/3p4/2nQ1P1P/PPB3P1/3RRNK1 b - - 1 21,e5e1 d3h7 g8f8 h7h8 f8e7 d1e1,1203,76,84,240,advantage interference kingsideAttack long middlegame,https://lichess.org/b1pYIazq/black#42,
+BFdi3,8/1k6/1p3p1p/1r4p1/8/p6P/2R2BPK/8 w - - 0 32,c2a2 b5b2 a2a3 b2f2,1295,75,86,322,crushing endgame interference short,https://lichess.org/9ZnILE6v#63,
+BHQJ2,r1b5/ppp2kpp/2nb4/8/3PNB1n/8/PPP3PP/R3K2R w KQ - 0 14,h1f1 h4g2 e1f2 g2f4,1274,76,92,2241,crushing interference middlegame short,https://lichess.org/zcWhOxvm#27,Kings_Gambit_Accepted Kings_Gambit_Accepted_Bonsch-Osmolovsky_Variation
+BJASd,r5k1/pp2bq1r/2p1pn1p/3p2p1/3P1N2/1P2P2Q/PB3PPP/R4RK1 w - - 0 20,f4e6 g5g4 h3g3 f7e6,1278,74,85,1174,crushing interference intermezzo middlegame short,https://lichess.org/Mxwg9g4f#39,
+BPTGM,rn1qkbnr/pp1b1ppp/3pp3/2p5/2P5/1QN3P1/PP1PPP1P/R1B1KBNR w KQkq - 0 5,b3b7 d7c6 b7b3 c6h1,1283,75,93,1687,advantage fork interference opening short trappedPiece,https://lichess.org/9YQbbK8L#9,English_Opening English_Opening_Agincourt_Defense
+BfTGX,r6r/4q3/1kb1pN2/p2pPpR1/P1pP3P/1pP1P2K/1P6/R5Q1 w - - 5 36,g5g7 h8h4 h3h4 a8h8 h4g3 e7g7,1291,74,93,1254,advantage attraction interference long middlegame sacrifice,https://lichess.org/ijavR8sd#71,
+BgcxT,r4qk1/pb1p2r1/2p3pp/2pn1p2/2N5/1P3NQ1/P1PP1PPP/R3R1K1 w - - 12 22,c4d6 f5f4 g3h3 f8d6,1283,75,92,3926,advantage interference middlegame short,https://lichess.org/MrPyU510#43,
+BlqqX,r6r/p2nnkb1/3qp2p/6p1/1RpPQp2/2P2N1P/P2BN1P1/5RK1 b - - 5 23,d7f6 f3e5 f7g8 e4a8,1270,75,96,24692,crushing interference middlegame short,https://lichess.org/cFXnLnX7/black#46,
+BpdFG,r2q1rk1/3nbpp1/p3p2p/1p1p4/3P4/P3P2P/1P1NQPPB/2R2RK1 b - - 1 18,d7b6 h2c7 d8d7 c7b6,1279,74,90,1387,advantage fork interference middlegame short,https://lichess.org/aH949OLE/black#36,Horwitz_Defense Horwitz_Defense_Other_variations
+C4IqG,5r2/3b2pk/p1p2q1p/3pb3/1P3p2/1NPP2P1/2Q2PBP/4R1K1 b - - 5 24,e5c3 d3d4 h7g8 c2c3,1248,75,96,286,advantage discoveredAttack interference intermezzo master middlegame short,https://lichess.org/Qt9yYKOe/black#48,
+C6VsX,4r1k1/p5pp/8/2pBr3/3R4/5PP1/Pn3K1P/4R3 b - - 1 27,g8f8 d4f4 f8e7 e1e5,1251,76,94,25662,crushing endgame interference short,https://lichess.org/ANtUkZlh/black#54,
+C9pmE,2kr4/pp3pp1/1b4b1/6Pp/4pp1P/1PP2P2/1P2Q3/2K4R w - - 0 27,f3e4 b6e3 c1b1 g6e4 b1a2 e4h1,1282,75,97,10014,crushing endgame fork interference intermezzo long master,https://lichess.org/jHWXM28I#53,
+CD8HO,r4r1k/ppp2q2/2nb4/4p1BN/5p1P/6P1/PPP2P2/R2QR1K1 w - - 0 19,g1g2 f4f3 g2g1 f7h5,1216,75,90,2688,advantage interference middlegame short,https://lichess.org/r9ARKooI#37,Kings_Pawn_Game Kings_Pawn_Game_Other_variations
+CDcLz,2k1r3/ppp5/2n2p1n/3p3N/P2P2p1/2P1r3/1P1N1KPP/R6R w - - 2 22,a1e1 g4g3 h5g3 h6g4 f2g1 e3e1,1298,76,91,989,crushing deflection interference long middlegame,https://lichess.org/4bdM1auG#43,
+CFeBs,r2qkb1r/n4pp1/1pn1p2p/pNppP2P/3P3R/2PQ1N2/PP3PP1/R1B1K3 w Qkq - 5 14,h4g4 c5c4 d3d1 a7b5,1292,78,93,2509,advantage interference master masterVsMaster middlegame short,https://lichess.org/ytp288S6#27,French_Defense French_Defense_Knight_Variation
+CGbAz,r6k/pp1r2p1/2n1Q2p/5B2/1q6/4PN2/1B3PPP/R3K2R w KQ - 0 20,e1e2 b4b2 e2f1 b2a1,1234,79,95,15320,crushing hangingPiece interference middlegame short,https://lichess.org/7zzNvTuO#39,
+CIERD,2b5/7k/1q2P1pp/pp6/2pR4/P6P/1PP2PP1/3R2K1 b - - 0 30,c8e6 d4d6 b6c7 d6e6,1271,76,94,622,advantage endgame interference short,https://lichess.org/vDP9yCUn/black#60,
+CIcFM,3r1rk1/1p1b2pp/pq2pp2/3p4/5B2/1P4Q1/P4PPP/3R1RK1 b - - 1 26,f8f7 f4c7 b6b4 c7d8,1289,122,87,36,advantage fork interference middlegame short,https://lichess.org/K6Wx1xn4/black#52,
+CQeRm,r1b1qrk1/pp4pp/5nn1/2pp4/8/2P1P1B1/PPB2PPP/R2QR1K1 b - - 3 16,f6e4 d1d5 c8e6 d5e4,1261,76,67,181,advantage interference opening short,https://lichess.org/sn0nYGn3/black#32,Indian_Defense Indian_Defense_London_System
+CREz8,8/p5bk/6p1/4q2p/1P6/P7/3Q1R2/1K6 w - - 1 44,d2a2 e5e1 b1c2 e1f2,1285,80,100,170,crushing endgame interference short,https://lichess.org/whPZHC3X#87,
+CSya6,r5kr/1p2b2p/p2qbn1Q/8/8/3P2R1/PPP3PP/5RK1 b - - 4 27,g8f7 h6g7 f7e8 g7h8 e8d7 h8a8,1205,79,91,1117,advantage exposedKing interference long middlegame skewer,https://lichess.org/jjmlQj24/black#54,
+CcjLr,8/2R3p1/3Nbk1p/K3p3/4Pp2/5P1P/1r4P1/8 b - - 10 48,b2g2 d6e8 f6g5 c7g7 g5h4 g7g2,1278,74,98,433,crushing deflection endgame interference long skewer,https://lichess.org/A3qGu5PZ/black#96,
+CcpY5,8/7k/3Np2p/6PQ/1PPP4/1P4PK/5rqP/8 w - - 0 51,h3g4 g2f3 g4h4 f2h2,1254,74,93,1885,discoveredAttack endgame interference mate mateIn2 short,https://lichess.org/Lv6sM7VR#101,
+CmMxa,5b1r/Q4ppp/1p2p3/5k1q/4N1n1/6P1/PPPP1P1P/R1B2RK1 w - - 5 18,f1e1 h5h2 g1f1 h2h1 f1e2 h1e4,1293,76,97,8530,crushing interference kingsideAttack long middlegame,https://lichess.org/GdbrCVOo#35,Owen_Defense Owen_Defense_Other_variations
+Cp2Mz,r5r1/pp1k2p1/3p4/3q2R1/1Q4P1/2P1R3/P4P2/2K5 b - - 0 25,d5g5 b4b7 d7d8 b7a8,1237,77,85,243,crushing endgame interference short,https://lichess.org/sg3M6o9t/black#50,
+CvNLZ,6k1/6pp/4N3/4np2/8/r2pP2P/3K1PP1/1R5R w - - 6 31,b1a1 e5c4 d2c1 a3a1,1289,74,72,421,endgame interference master mate mateIn2 short,https://lichess.org/HfmtcBYa#61,
+CxoCE,r4k2/1Qp3qp/3p2p1/8/5P2/pPP1R1P1/P7/2K5 b - - 0 31,a8e8 e3e8 f8e8 b7c8 e8e7 c8c7,1295,76,73,449,attraction crushing endgame exposedKing interference long,https://lichess.org/KVkgcph6/black#62,
+D1kTz,4kb2/2Kb4/p4p2/1p4pp/3p4/3B4/P2B1PPP/8 b - - 3 44,b5b4 d3g6 e8e7 d2b4 e7e6 b4f8,1248,75,96,2883,advantage bishopEndgame deflection endgame exposedKing interference long skewer,https://lichess.org/pJbxUawr/black#88,
+D8c40,r2qk1nr/4bppp/p7/1pppQ3/8/1P2P3/P1PP1PPP/RN2K1NR w KQkq - 1 11,e5g7 e7f6 g7g3 f6a1,1228,77,93,2517,advantage fork interference middlegame short trappedPiece,https://lichess.org/yZG7YdoO#21,Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Classical_Variation
+DMz66,7k/7p/p3P3/2p1p3/4q3/8/PP3Q1P/1R2K3 w - - 8 44,e1d1 e4b1 d1d2 b1b2,1218,76,62,74,crushing endgame hangingPiece interference short,https://lichess.org/iEHvOkgV#87,
+DNDhb,r2q4/p2pk3/1p2p2p/b2PQppB/8/2P5/P4PPP/3R2K1 b - - 0 22,d8h8 d5d6 e7f8 e5h8,1231,76,84,353,endgame interference mate mateIn2 short,https://lichess.org/U3yPwv4g/black#44,
+DNEfN,3r3r/pp6/5n2/3p4/3P1k2/2PB4/PP3PK1/R6R w - - 7 37,a1e1 d8g8 g2f1 h8h1,1297,74,98,288,crushing deflection endgame interference short,https://lichess.org/1EV9YyRG#73,
+DRdJR,rn2nr1k/1pp2pp1/7p/p1pPp3/2P1P3/P1N2B1q/1P3P1P/R2Q2RK b - - 5 16,b8d7 f3g4 h3h4 g4d7,1287,76,65,319,advantage interference middlegame short,https://lichess.org/psJIsJak/black#32,Indian_Defense Indian_Defense_Budapest_Defense
+DS8Nv,8/ppp3R1/2k4R/3rp3/8/2Pp2P1/Pr5P/6K1 b - - 5 34,c6c5 g7c7 c5b5 c7b7,1221,78,88,79,advantage endgame interference rookEndgame short,https://lichess.org/HXLZV5Ab/black#68,
+DZPO3,2r3k1/1q3pp1/pb2p2p/3pPb2/1P1P4/P3B2P/4BPP1/2Q2RK1 w - - 0 25,c1b2 c8c2 b2b3 c2e2,1240,74,95,11896,advantage interference middlegame short,https://lichess.org/3sYCjI42#49,
+DeAwc,r3k2r/ppp3pp/4p1p1/2bpq3/6P1/3BP3/PPP1K3/RNBQ2R1 w kq - 0 15,b1c3 e5h2 e2e1 h2g1,1213,75,86,265,advantage interference middlegame short,https://lichess.org/8QaD6XcT#29,Queens_Pawn_Game Queens_Pawn_Game_Anti-Torre
+DgjZs,r1k4r/p1p1qppp/3p4/1Q1P4/5B2/2b4P/P5P1/1R5K b - - 1 21,a7a6 b5b7 c8d7 b7c6 d7d8 c6a8,1243,76,100,877,crushing fork interference long middlegame,https://lichess.org/3D9vE2Ko/black#42,
+Dh2hA,r2qkb1r/3bnppp/p1n1p3/1B1pP3/3P4/N1P1BN2/5PPP/R2QK2R b KQkq - 0 11,a6b5 a3b5 e7c8 a1a8,1287,77,94,1001,advantage discoveredAttack interference middlegame short,https://lichess.org/lcHgZuTx/black#22,French_Defense French_Defense_Wing_Gambit
+DpZ93,r1bq2k1/1pp2rp1/p1n1p3/b2pP1pQ/8/2PB4/PP3P1P/R1B2RK1 b - - 1 15,c6e5 h5h7 g8f8 h7h8 f8e7 c1g5,1293,76,100,2176,advantage interference kingsideAttack long opening,https://lichess.org/S2QS79bV/black#30,French_Defense French_Defense_Winawer_Variation
+DqJax,r5k1/ppp4R/3p2p1/4p1N1/3nP3/3P4/PP3r2/2K4R b - - 1 22,a8f8 h7h8 g8g7 h1h7 g7f6 h8f8 f6g5 f8f2,1231,75,94,1486,crushing deflection endgame exposedKing interference skewer veryLong,https://lichess.org/PI9r8BDb/black#44,
+DuWV1,2r1k3/1r3p2/2p1pQ2/1p2P2P/1P1P4/2q3R1/5PK1/8 b - - 8 46,c3d4 g3g8 e8d7 f6f7,1292,75,82,253,deflection endgame interference mate mateIn2 short,https://lichess.org/NV43xiko/black#92,
+DwOYo,r4rk1/ppp1b1p1/2p4p/4p3/4Nq2/3P1PRP/PPP2PK1/R2Q4 b - - 2 18,e7h4 g3g4 f4f5 g4h4,1294,77,85,101,advantage interference middlegame short,https://lichess.org/HqI0Rxhe/black#36,Ruy_Lopez Ruy_Lopez_Berlin_Defense
+E32jy,Q5nr/1ppk2pp/4pp2/4P3/4P1P1/P3q3/1P2B2P/3K3R b - - 0 24,e3e4 e2b5 c7c6 a8b7,1213,76,93,654,crushing endgame interference short,https://lichess.org/D322omAf/black#48,
+E5GRX,1r4r1/1q2kp1p/5p2/2p1p3/1PQbP3/p2P1P1P/B1R5/2K4R b - - 0 27,c5b4 c4f7 e7d8 f7g8,1257,75,100,431,crushing interference middlegame short,https://lichess.org/Tw0qGVs8/black#54,
+E75C6,1kB5/pb5p/1p4PQ/4p1P1/n2p3P/1P1P4/4NR2/1q1K1R2 w - - 2 31,e2c1 a4c3 d1d2 b1b2 d2e1 b2c1,1290,75,92,1060,deflection exposedKing interference long mate mateIn3 middlegame,https://lichess.org/84HAv2qq#61,
+E7JhH,2r2rk1/pp1q2pp/2n5/2p1p1B1/3pQ3/3P3P/PPP2PP1/R4RK1 w - - 1 17,g5h4 f8f4 e4e2 f4h4,1233,94,86,51,advantage interference middlegame short,https://lichess.org/72kb842o#33,Sicilian_Defense Sicilian_Defense_Bowdler_Attack
+E7L8i,8/8/p2p1k1R/1p4p1/5NP1/6K1/P2q4/8 b - - 1 43,f6e5 h6e6 e5d4 e6d6 d4c4 d6d2,1291,83,88,112,crushing deflection endgame interference long skewer,https://lichess.org/e3EvU87S/black#86,
+EHINT,1r2k2r/3bqp2/Q3p3/3pP1Pp/1p1R1P2/5N2/PPP5/2K2nR1 w k - 0 23,g1f1 d7b5 a6a5 b5f1,1221,75,87,401,crushing fork interference master middlegame short,https://lichess.org/g5lsWpdE#45,
+EN1zz,2r3k1/5p2/p1p4p/3p2p1/Bq1r4/6B1/5KPP/2RQ3R w - - 0 24,d1b3 b4d2 f2f1 d2c1,1287,75,100,183,crushing interference middlegame short,https://lichess.org/xA921Of1#47,
+EYkdj,2b5/1p2k1Q1/4p3/2qp1p2/8/2P1P3/rpBN1PP1/3K4 b - - 4 29,e7d6 g7f8 d6c6 f8c8,1297,77,97,7967,advantage endgame interference master short,https://lichess.org/ja0xUAet/black#58,
+Ebbl3,r1b3k1/3nqrpp/1pp1p3/p3Pp2/2PP4/P3QN1P/1P4P1/R3KB1R w KQ - 0 18,f3g5 f5f4 e3e4 e7g5,1284,75,85,298,advantage interference middlegame short,https://lichess.org/gNdmsAIH#35,Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation
+EoJgW,1r6/p1k5/3pp3/6p1/2r1p2p/P1b1P3/4KPPP/1NR4R w - - 2 33,c1c3 b8b2 e2d1 b2b1,1226,79,95,22936,advantage endgame interference short,https://lichess.org/R9vahwEy#65,
+Evd2c,r1b3k1/pp4p1/1qn1pr2/3p2NQ/1b1P4/1P2P3/P2N2PP/R3K2R b KQ - 3 16,b6c7 h5h7 g8f8 h7h8 f8e7 h8g7 e7d6 g7f6,1251,76,97,21242,crushing deflection interference kingsideAttack middlegame veryLong,https://lichess.org/7PiGnpQp/black#32,French_Defense French_Defense_Advance_Variation
+F2AQA,3rk3/1b3p1p/p3pQ2/1p6/1P6/P2B2q1/2PK4/5R2 b - - 3 25,g3c7 f6h8 e8d7 f1f7 d7c8 f7c7,1256,75,96,8607,crushing deflection discoveredAttack endgame interference long skewer,https://lichess.org/Lpa95u3S/black#50,
+F4Mju,r2qnrk1/pb2b2p/1p2p1p1/3pPp1Q/3P4/PP1B4/1BPN2PP/R4RK1 w - - 0 15,h5h6 e7g5 h6h3 g5d2,1213,77,83,283,advantage interference middlegame short,https://lichess.org/ToOLB5Ci#29,Rubinstein_Opening Rubinstein_Opening_Classical_Defense
+F9AK5,q5r1/1p1k1p1Q/n1r1bB2/p2pPN2/P2P2pP/2P3P1/5P2/5RK1 b - - 0 29,e6f5 h7f7 d7c8 f7g8,1238,75,99,1888,crushing interference master middlegame short,https://lichess.org/TPz1TeFp/black#58,
+F9g0x,8/7k/6R1/P4K1p/8/5P2/r7/8 w - - 1 48,a5a6 a2a5 f5f6 a5a6,1204,79,87,1779,crushing endgame interference rookEndgame short,https://lichess.org/hdTIz5kA#95,
+FDUVQ,3r4/k4p2/1p2pP1p/2q1n1p1/2P1Q1P1/3r4/R5KP/8 b - - 1 38,a7b8 e4a8 b8c7 a2a7 c7d6 a8d8,1228,75,90,330,crushing deflection endgame exposedKing interference long master masterVsMaster,https://lichess.org/kN90gsLx/black#76,
+FHLw8,r1b3k1/ppp2p2/4pq1p/6p1/2Pr4/P5B1/4QPPP/R4RK1 b - - 1 21,c8d7 g3e5 f6f5 e5d4,1220,74,96,17838,advantage fork interference middlegame short,https://lichess.org/IlCx852B/black#42,
+FHsov,8/6p1/2R1p2k/8/8/4PK1q/8/2R5 w - - 0 46,f3e4 h3f5 e4d4 f5d5 d4c3 d5c6,1268,75,97,2365,crushing endgame interference long queenRookEndgame,https://lichess.org/FCJlkgaC#91,
+FOLnM,6rk/p7/1p1p3p/2pPn1rq/P1P1Bp1P/1P2pP2/4Q1K1/2R4R w - - 0 32,h4g5 g8g5 g2f1 h5h1,1273,76,100,860,deflection interference mate mateIn2 middlegame short,https://lichess.org/mm4EJCsM#63,
+FOdH8,1Q6/K7/5p2/8/8/1P6/5q2/7k w - - 3 64,a7a6 f2a2 a6b7 a2b3,1266,76,97,4983,crushing endgame interference master queenEndgame short,https://lichess.org/rcNO67WS#127,
+FPesx,rnbq3r/pp2pkbp/2p3p1/4P3/6n1/3B1Q2/PPP2PPP/RNB1K2R b KQ - 1 9,f7g8 d3c4 e7e6 f3g4,1278,76,93,1886,advantage interference opening short,https://lichess.org/0awYQKUn/black#18,Pirc_Defense Pirc_Defense_Other_variations
+FTGoG,r3kn2/1q2p1Q1/p2pPppB/2pP4/2p5/5P2/P1P1KP2/8 b - - 4 30,e8d8 g7f8 d8c7 f8e7 c7b6 e7d6,1215,75,94,10156,crushing deflection endgame hangingPiece interference long master masterVsMaster,https://lichess.org/XNy9TB2R/black#60,
+FWKRo,r4rk1/pp4pp/2pppn2/6P1/1b2P3/2NQB2P/1qPKBP2/3R3R w - - 0 21,d1b1 b4c3 d2d1 b2b1,1245,79,85,140,crushing interference middlegame short,https://lichess.org/5ndM655j#41,
+FZppk,8/5pk1/1R6/1p2p1b1/2q5/4PQ2/5PKP/8 w - - 6 42,b6c6 e5e4 f3g3 c4c6,1207,79,93,1818,crushing endgame interference master short,https://lichess.org/CraFat61#83,
+FaDM0,2bq3r/3n1pk1/p2p1np1/4p1QP/3PP1P1/P2P4/4NN2/1R4K1 b - - 1 26,f6h7 h5h6 g7g8 g5d8,1295,73,95,28974,crushing interference middlegame short,https://lichess.org/pno1IdpY/black#52,
+Fb9E3,r4rk1/1b1n1pb1/p1pp3N/1p4p1/4P3/3B2PP/PqQN2P1/R3R2K b - - 0 20,g8h7 e4e5 h7h6 c2b2,1282,115,57,39,crushing discoveredAttack interference middlegame short,https://lichess.org/B2ek2Obs/black#40,
+FdJLO,3r4/1p3ppk/p6p/P3pPb1/1P6/2Pq1B2/6PP/4QRK1 w - - 0 27,f3e4 g5e3 g1h1 d3e4,1256,76,39,781,crushing endgame interference kingsideAttack short,https://lichess.org/jLvRIhYc#53,
+Fhh5A,r3k2r/1ppnqpp1/p1n1p2p/4P3/3P1BPP/b1N4N/1PP1Q3/2KR3R w kq - 0 17,b2a3 e7a3 c1d2 c6d4,1227,76,85,265,advantage fork interference middlegame short,https://lichess.org/KKEW1Cty#33,Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation
+FmEmu,r2r2k1/ppp1qppp/4bn2/4N3/1bP5/1P6/PB2NPPP/R2Q1RK1 w - - 1 15,d1c2 d8d2 c2c1 d2e2,1282,76,93,7586,advantage interference middlegame short,https://lichess.org/V7dghwiD#29,Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation
+FnFvv,8/p4k2/1p1p1q1p/2pP2p1/2P3P1/1P5P/P3Q3/1K6 w - - 3 29,b1c1 f6a1 c1c2 a1a2,1254,76,95,13588,crushing endgame interference queenEndgame short,https://lichess.org/y9sSJF9D#57,
+FtqFe,rn2rbk1/ppqb1pp1/5n1p/1PN1p3/4P3/P1NBB2P/5PP1/R2QK2R w KQ - 1 19,c5d7 c7c3 e3d2 c3d3 d7f6 g7f6,1271,75,94,15230,advantage hangingPiece interference long opening,https://lichess.org/Vw2P2d5e#37,Nimzo-Indian_Defense Nimzo-Indian_Defense_Other_variations
+FvBI5,1rR3k1/1r5p/4pBpQ/p2pPp2/5P2/4q3/P5PP/2R4K b - - 1 33,b8c8 c1c8 g8f7 h6h7,1232,76,69,138,endgame interference mate mateIn2 short,https://lichess.org/vy0NvszH/black#66,
+Fxfbx,2kr2r1/Rp1nqp1p/2p2b2/3p4/5BQ1/1P1P1P2/1PP2P1P/1N3K1R b - - 2 16,g8g4 a7a8 d7b8 a8b8 c8d7 b8b7,1295,75,98,2346,crushing deflection interference long middlegame queensideAttack,https://lichess.org/jLezGWWW/black#32,Russian_Game Russian_Game_Italian_Variation
+G9JIc,r1bq1rk1/1p3ppn/p1np3p/3Np1b1/4P3/2N1BPP1/PPPQB2P/R3K2R w KQ - 1 14,d5b6 g5e3 d2e3 c6d4 e1c1 d8b6,1233,328,-100,3,advantage interference long middlegame,https://lichess.org/gM1HEaOx#27,Sicilian_Defense Sicilian_Defense_Lowenthal_Variation
+G9zj4,1r4k1/5ppp/b7/p1p1P3/3q4/1P1P2P1/P2Q3P/2KR3R w - - 3 25,h1e1 d4a1 c1c2 a1a2,1290,89,63,45,crushing endgame interference queensideAttack short,https://lichess.org/KXi9sY4S#49,
+GAXQx,3rb3/pk3pp1/1p2pq1p/1Pp5/2P1p1PP/R2r2P1/1PK5/Q6R b - - 6 29,f6d4 a3a7 b7b8 a7a8 b8c7 a1a7 c7d6 a8d8,1221,75,100,709,crushing deflection interference middlegame veryLong,https://lichess.org/Kg7BzXNl/black#58,
+GBJEJ,3r2k1/pp3ppp/2p2n2/q7/2P1p1P1/4P2P/PPQ1BPK1/2R5 w - - 4 22,a2a3 d8d2 c2b3 d2e2,1213,79,81,162,advantage endgame interference short,https://lichess.org/OksIjp0T#43,
+GDAib,r2qkbnr/ppp1pppp/2n5/4P3/3P2b1/5N2/PP1P1PPP/RNBQKB1R b KQkq - 0 5,c6d4 d1a4 g4d7 a4d4,1202,74,83,279,crushing interference opening short,https://lichess.org/pw5ggKeq/black#10,Scandinavian_Defense Scandinavian_Defense_Other_variations
+GHiq7,rn2k1nr/1bqp1ppp/p3p3/8/1b1NP3/1BN5/1PP2PPP/R1BQK2R w KQkq - 0 10,f2f3 b4c3 b2c3 c7c3 c1d2 c3d4,1206,76,96,2859,crushing exposedKing fork interference long opening,https://lichess.org/aKPJksQs#19,Sicilian_Defense Sicilian_Defense_Kan_Variation
+GIUOV,r4rk1/p1p2pp1/3bqn1p/3p4/1P1PpP2/2P1B1NN/P3Q1PP/R5K1 b - - 2 18,f6g4 f4f5 e6d7 e2g4,1244,78,87,880,advantage interference middlegame short,https://lichess.org/UrvLFBZH/black#36,Horwitz_Defense Horwitz_Defense_Other_variations
+GIYiJ,r2qk2r/5p1p/5bpB/pN2p3/4p1Q1/8/PP3PPP/1R1K3R w kq - 0 19,d1e2 d8d3 e2e1 d3b1,1263,76,92,1046,advantage fork interference middlegame short,https://lichess.org/YRhmuvfA#37,Bishops_Opening Bishops_Opening_Other_variations
+GOTcd,2R5/6pk/p5r1/3pK3/2b5/5Rn1/P7/8 b - - 1 48,h7h6 c8h8 h6g5 f3g3,1222,125,75,56,endgame interference mate mateIn2 short,https://lichess.org/IX4XAvMU/black#96,
+GTv4H,4b3/7B/5p2/5P1p/5K1P/3k4/8/8 b - - 5 55,d3e2 h7g6 e8c6 g6h5,1220,76,98,2155,bishopEndgame crushing endgame interference short,https://lichess.org/EjugRCBj/black#110,
+GYqEM,r2q1rk1/2p2ppp/pbQ1pnb1/8/3P2P1/P1N1PN1P/1P1B1P2/2R2RK1 w - - 3 17,c3a4 g6e4 c6c4 e4f3,1250,75,89,3400,crushing interference middlegame short,https://lichess.org/XN1ekBS3#33,Queens_Gambit_Accepted Queens_Gambit_Accepted_Old_Variation
+GbU39,r5k1/1p4pp/2p5/2Pp4/p2Bp2q/P3P2r/1P3P1K/R3Q2R w - - 0 30,h2g2 h4g4 g2f1 h3h1,1221,76,94,2304,deflection interference mate mateIn2 middlegame short,https://lichess.org/P4SmH7x2#59,
+Gm7Fg,r4r2/p3bkpp/1p2R3/n7/3P4/8/B2R1PPP/6K1 b - - 0 24,a8c8 e6c6 f7e8 c6c8,1228,78,90,1520,advantage discoveredAttack interference middlegame short,https://lichess.org/8kihFUZx/black#48,
+GmTZF,r5k1/p1p2pp1/1p5p/8/2BPqb2/2P4Q/PP4PP/R5K1 w - - 0 21,c4d3 f4e3 g1h1 e4d3,1241,76,95,10148,crushing endgame interference short,https://lichess.org/z5GITPC3#41,
+GnPE4,2kr2nr/Bpp2ppp/6n1/1N2P3/1q1p1P2/6P1/PPP1Q2P/R3K2R w KQ - 2 16,e1f2 d4d3 c2d3 b4b5,1293,75,93,1357,advantage interference middlegame short,https://lichess.org/H0Ce9DXu#31,Scotch_Game Scotch_Game_Other_variations
+H567L,6r1/p3b2p/1pk5/3p1p2/4pP2/2P1K3/PP1R1R1P/8 w - - 0 28,f2g2 e7c5 e3e2 g8g2,1293,81,23,60,crushing endgame interference short,https://lichess.org/YMcxaFF0#55,
+H6eEs,r1b1kb1r/p3pppp/2p2n2/2pq4/8/2P5/PP1PBPPP/RNBQK2R b KQkq - 1 8,d5g2 e2f3 g2g6 f3c6 f6d7 c6a8,1280,74,92,12471,crushing fork interference long opening,https://lichess.org/zGUckopr/black#16,Sicilian_Defense Sicilian_Defense_Delayed_Alapin
+HD5MK,3r1rk1/pp3pp1/2pbp1P1/8/3P2Pq/2PBQ3/PP3PK1/3RR3 w - - 1 27,e1h1 h4g4 g2f1 g4d1 f1g2 d1g4,1235,76,81,920,advantage interference long middlegame,https://lichess.org/gtAnKD06#53,
+HFEx5,r6r/1p3kp1/1p2p1q1/5pB1/3p1PP1/5Q2/P5P1/5RK1 b - - 0 31,f5g4 f3b7 f7g8 b7a8,1234,91,27,41,advantage endgame interference short,https://lichess.org/ahppENdo/black#62,
+HIpC7,rn2nrk1/ppp2qb1/3p2p1/3Np3/2PPP3/4BB2/PP3P2/R2QK2R b KQ - 0 15,f7f3 d5e7 g8f7 d1f3,1268,76,93,2681,crushing interference intermezzo master middlegame short,https://lichess.org/sH3twnLn/black#30,Kings_Indian_Defense Kings_Indian_Defense_Normal_Variation
+HScxh,8/r2q3k/p2pR2P/1pp1p3/4Pp2/2PP1P2/PPQ1K3/8 w - - 3 32,c2b3 c5c4 d3c4 d7e6,1206,205,-14,6,crushing endgame interference short,https://lichess.org/JnWMNbwm#63,
+HXc3y,2r3k1/2q2p2/7Q/p4Pp1/6P1/4N3/4KP2/8 b - - 0 49,c7e7 f5f6 e7f8 h6g5,1299,77,87,534,crushing endgame interference short,https://lichess.org/neVBMfJz/black#98,
+HcGoj,r1bq3r/ppp1nNpk/1b1p3p/nP5Q/3pP3/2P5/PB3PPP/RN3RK1 b - - 1 13,d8e8 f7g5 h7g8 h5e8,1271,76,96,1445,discoveredAttack interference mate mateIn2 opening pin short,https://lichess.org/S0dx9vZd/black#26,Italian_Game Italian_Game_Anti-Fried_Liver_Defense
+HocGO,r4rk1/q2nppbp/3p2p1/2pP4/4PP2/P1NQ1b2/1P4PP/1RB2RK1 w - - 0 18,f1f3 c5c4 c1e3 c4d3,1247,79,62,407,advantage discoveredAttack interference middlegame short,https://lichess.org/49SNWLFz#35,Modern_Defense Modern_Defense_Averbakh_System
+HwVOe,3r2k1/8/pq3p1p/1p1p2p1/1Pn2B2/2P2PQP/6P1/4R2K b - - 3 32,g8f7 f4c7 b6c6 c7d8,1261,74,90,196,crushing endgame fork interference short,https://lichess.org/sOIjZsAW/black#64,
+HzrIv,r5k1/p3n1pp/2pq4/4pr2/4Q3/3P1N2/PP3PPP/2R2RK1 w - - 1 19,f3h4 f5f4 e4e2 f4h4,1286,75,92,7526,crushing interference middlegame short,https://lichess.org/LdOcbUqP#37,Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack
+I4JgI,r3r1k1/5p1p/2q3pQ/p3p3/3p3R/7P/2P2PP1/5RK1 b - - 1 26,a5a4 h6h7 g8f8 h7h8 f8e7 h8e5,1282,209,67,15,crushing endgame interference long,https://lichess.org/m3CoYFBh/black#52,
+I5rS8,r1b2rk1/pp3pp1/2pB3p/3p4/3P3q/P7/2Q2PPP/R3R2K b - - 3 17,f8d8 d6e7 h4d4 e7d8,1231,146,88,27,advantage fork interference middlegame short,https://lichess.org/iybSJc8W/black#34,Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations
+IDM0y,rnb1kb1r/pp3ppp/4p3/q3P3/2BN4/2P5/P4PPP/R1BQK2R w KQkq - 1 10,c1f4 a5c3 f4d2 c3d4,1232,128,70,25,crushing fork interference master masterVsMaster opening short,https://lichess.org/fXRQxQoW#19,Queens_Gambit_Declined Queens_Gambit_Declined_Vienna_Variation
+IILHB,1k1r4/1pp5/8/7p/1P6/2QB1r2/qPPK1P1P/3R3R w - - 0 26,d1a1 f3f2 d2e1 a2a1,1246,75,78,298,crushing interference middlegame short,https://lichess.org/YXeDXtDk#51,
+IK4jz,r2B2k1/1p1b1ppp/p3p3/8/1P2Q3/2q2P2/P1P1KP1P/R5R1 w - - 1 20,d8b6 d7b5 e2d1 c3a1,1220,76,91,2677,crushing interference middlegame short,https://lichess.org/WteWxlTT#39,
+IQsgz,8/8/1k2K3/2R5/4P3/pP6/P1P2r2/8 w - - 1 49,e6d5 f2d2 d5c4 d2c2 c4b4 c2c5,1275,78,86,281,crushing endgame interference long rookEndgame,https://lichess.org/aLDn6K8L#97,
+IZtfh,r2r4/1p2Nkpp/p4n2/2p1pb2/1nP5/4PN2/PP1RBPPP/2KR4 w - - 1 17,d2d8 b4a2 c1d2 a8d8,1267,76,97,1701,advantage interference intermezzo middlegame queensideAttack short,https://lichess.org/kFfz1UbX#33,Benoni_Defense Benoni_Defense_Modern_Variation
+Ibm9Z,r7/1p1bk1p1/4p3/3pP1N1/3q2P1/8/p1Q1KPP1/R6R w - - 0 28,g5f3 d7b5 e2e1 d4a1 e1d2 a1h1,1282,75,95,4697,crushing interference long middlegame skewer,https://lichess.org/ZqHtOkqF#55,
+IfpYu,2r3n1/pb2k1q1/1p2p3/3pN3/3P1P2/2P5/PP6/2K3RR b - - 4 26,g7f6 h1h7 e7e8 g1g8,1299,83,100,115,crushing interference master middlegame short,https://lichess.org/UsIFUihX/black#52,
+J0807,6k1/1q4pp/8/pp6/8/1P4P1/P3Q2P/5rK1 w - - 0 38,g1f1 b7h1 f1f2 h1h2,1217,76,76,226,crushing endgame interference queenEndgame short,https://lichess.org/y97S1Qlv#75,
+J1izl,6rk/5p2/p3p3/1pq3r1/4BRnp/P7/1PPQ2P1/7K b - - 7 44,g4e5 f4h4 h8g7 d2g5,1248,77,85,636,advantage discoveredAttack interference middlegame short,https://lichess.org/JMpHf95i/black#88,
+J4pUR,3qkb1r/p1pn4/1r2pp2/6pp/Q2P4/3B1PPP/P1P5/RN2K2R b KQk - 0 18,b6b4 d3g6 e8e7 a4b4,1255,77,91,4489,crushing interference middlegame short,https://lichess.org/RZCuztjr/black#36,Trompowsky_Attack Trompowsky_Attack_Other_variations
+JKQi3,6rk/pp3p2/3p4/4ppr1/1PR5/P2P1PPB/3b3K/5R2 b - - 1 30,g5g3 c4h4 h8g7 h2g3,1210,78,94,1131,advantage endgame interference short,https://lichess.org/RTzF7an0/black#60,
+JYBrN,r1bqk2r/3p1ppp/p1pbN3/8/1p2Q3/1B6/PPPP1PPP/R1B1K2R b KQkq - 0 13,d7e6 e4c6 c8d7 c6d6,1228,76,97,8503,crushing fork interference middlegame short,https://lichess.org/0WWRs3Eu/black#26,Ruy_Lopez Ruy_Lopez_Morphy_Defense
+JbMTP,r4r2/1pqbk1p1/p1npp1P1/3p1p1Q/P2P1P2/2PB2P1/1P3P2/R3K2R b KQ - 0 19,f8h8 h5g5 e7f8 h1h8,1203,87,85,53,discoveredAttack interference mate mateIn2 middlegame short,https://lichess.org/XqsY9KWM/black#38,Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation
+Jbq8o,8/7p/6p1/3k4/1r1p4/3K1P2/1P2R1PP/8 w - - 10 37,f3f4 b4b3 d3d2 b3b2,1237,187,70,13,crushing endgame interference master rookEndgame short,https://lichess.org/l8qVs1GF#73,
+Jcr4P,r1bq1r2/pp2bp2/2pp4/4n1pk/4PP2/2P1Q3/PP4PP/RNB1R1K1 b - - 0 16,e5g4 e3h3 h5g6 f4f5 g6g7 h3g4,1294,74,93,1086,advantage interference long opening,https://lichess.org/xkZUgOIt/black#32,Philidor_Defense Philidor_Defense_Other_variations
+JeDBl,2r2rk1/5ppp/p2p1q2/1p1B4/2pnPP2/8/PP1Q2PP/R4RK1 b - - 1 18,f8e8 e4e5 f6e7 d2d4,1279,76,89,521,advantage interference middlegame short,https://lichess.org/h44bKh5O/black#36,Scotch_Game Scotch_Game_Benima_Defense
+Jn2FG,2r5/8/8/p5p1/P1pk4/6RP/3K4/8 b - - 3 47,c8c5 g3g4 d4e5 g4g5 e5d6 g5c5,1254,75,97,1087,crushing endgame interference long rookEndgame,https://lichess.org/zQ4PMkoE/black#94,
+JnGq1,3k4/2q2r2/8/8/1Q3p2/1P3P2/P1B5/2K5 b - - 0 56,f7g7 b4f8 d8d7 f8g7,1256,76,96,13203,crushing endgame interference short,https://lichess.org/WIooSXrq/black#112,
+JqhN9,Q5r1/2pkqp1p/p7/2p5/3n4/1P6/P3BP1P/3R1K1R w - - 1 22,a8g8 e7e2 f1g2 e2f3 g2g1 f3d1 g1g2 d1f3,1249,75,92,4978,crushing endgame fork interference veryLong,https://lichess.org/7F25rjlo#43,
+JuCt0,r2qr1k1/1p1n1ppn/p3p2p/4B3/3PpPP1/P3P2P/1P2B3/2R1QRK1 b - - 1 22,d7b6 e5c7 d8d7 c7b6,1232,75,95,24192,advantage interference middlegame short,https://lichess.org/BwD6CAL9/black#44,
+JxnLM,8/5pk1/4p2p/4q3/5pP1/5B2/6QK/8 w - - 4 46,f3e4 f4f3 g2g3 e5e4,1265,77,100,1054,crushing discoveredAttack endgame interference short,https://lichess.org/391oxCTe#91,
+JzflU,4k2r/p2nPpb1/B3b2p/6p1/4P3/P4PB1/1r2NKPP/3R3R w k - 2 23,d1b1 g7d4 f2e1 b2b1,1250,109,73,28,crushing interference master middlegame pin short,https://lichess.org/f94D5Z7u#45,
+K4soW,8/1p2k1p1/1p1p1p2/6rr/2PqP3/P2P1Q2/1P3RP1/4R1K1 w - - 9 28,g1f1 h5h1 f1e2 d4b2 e2e3 h1e1,1271,75,93,5885,crushing deflection endgame interference long,https://lichess.org/5iclH2Nn#55,
+K8epZ,r5k1/p7/2pp2PR/1pb1p3/3nB3/3P4/PPP2r2/2K4R b - - 1 27,a8f8 h6h8 g8g7 h1h7 g7f6 h8f8,1278,76,69,167,crushing deflection exposedKing interference long middlegame,https://lichess.org/4LjIW5Yc/black#54,
+KFZQC,r2q3r/2p2kp1/3p1pb1/p2P2N1/1p2Pp2/1B5Q/PPP2P2/1K5R b - - 0 25,f6g5 h3e6 f7f8 h1h8,1257,75,84,226,discoveredAttack interference mate mateIn2 middlegame short,https://lichess.org/ursD1Jju/black#50,
+KFv2T,r1b2k1r/ppN1npbp/2n1p1p1/8/3N1P2/2P1B3/Pq4PP/R2QKB1R w KQ - 2 13,c7a8 b2c3 e3d2 c3d4,1254,75,96,9986,advantage deflection fork interference middlegame short,https://lichess.org/ukWWLaMW#25,Sicilian_Defense Sicilian_Defense_Accelerated_Dragon
+KTWA5,rn3rk1/ppp2p1p/8/3q1b2/3P1B2/2P3QP/P1P3P1/R4RK1 b - - 2 15,g8h8 f4e5 f7f6 f1f5,1257,76,94,2181,crushing discoveredAttack interference kingsideAttack middlegame short,https://lichess.org/bn7yQSFd/black#30,Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit
+KZLs0,4r1k1/5ppp/pq1b4/2pp2N1/4rPb1/2P5/PPQ3PP/R1B2R1K b - - 1 21,e4e1 c2h7 g8f8 h7h8 f8e7 f1e1,1290,80,94,719,crushing interference kingsideAttack long middlegame,https://lichess.org/5FbqMrXU/black#42,
+KbwcX,r4r2/p2k1p2/1p2pQp1/4P2p/4p3/2q3P1/P1P2PP1/3R2K1 b - - 1 21,d7c7 f6e7 c7b8 e7f8,1273,77,95,10554,crushing endgame interference short,https://lichess.org/7p4R1NjI/black#42,
+KcX8M,8/4q1kp/p5p1/1p6/3Q4/8/P1P3PP/7K b - - 0 38,g7f8 d4h8 f8f7 h8h7 f7f6 h7e7,1265,78,90,463,crushing endgame exposedKing interference long queenEndgame,https://lichess.org/BSiALUYw/black#76,
+Kf6qz,r1b2rk1/1pp2ppp/p1p5/2q5/2N1R3/3P2P1/PPP2P1P/R2Q2K1 b - - 0 17,c8f5 e4e5 c5d4 e5f5,1246,76,93,10197,advantage interference middlegame short,https://lichess.org/rPp1Y8Yd/black#34,Ruy_Lopez Ruy_Lopez_Exchange_Variation
+KfTJ0,2n2r2/p3k1p1/2P1p2p/1P1p4/2n2PP1/1R2KN1P/8/R7 w - - 9 39,e3d4 f8f4 d4c3 f4f3,1273,87,87,54,crushing endgame interference short,https://lichess.org/RhoEPKi8#77,
+KnOoZ,r2qnrk1/1p1bbp1p/4p1p1/p2pP2Q/8/PP1B4/1BPN1PPP/R4RK1 w - - 0 14,h5h6 e7g5 h6h3 g5d2,1236,78,89,692,advantage interference middlegame short,https://lichess.org/rC6ycl6l#27,Queens_Pawn_Game Queens_Pawn_Game_Colle_System
+KvZjZ,4r3/8/2k1K3/1p1p4/1P1R1P2/8/8/8 w - - 3 40,e6f7 e8e4 d4d1 e4f4,1264,75,91,798,crushing endgame interference rookEndgame short,https://lichess.org/zqtdJaD2#79,
+KzXgM,2k5/1pp4r/2p5/p4Ppq/3Q1p2/1P4P1/P1P2PK1/1R3R1q w - - 0 28,f1h1 f4f3 g2f1 h5h1,1219,74,94,8890,deflection endgame interference mate mateIn2 short,https://lichess.org/ejEzXfW6#55,
+L3Yvf,r3kr2/pq5p/1b2pB2/2p3Q1/3P4/5P2/PP5P/4R1K1 b - - 0 28,e8d7 g5g7 d7c8 g7f8,1224,214,86,22,crushing interference middlegame short,https://lichess.org/1b9hhhGV/black#56,
+L6orQ,r3kb1r/pp3pp1/1n1p3p/1PqPp3/2p1P1n1/5N2/PPKB2PP/R1Q2B1R b kq - 3 18,g4f2 d2e3 c5b5 e3f2,1268,76,95,5566,advantage interference middlegame short,https://lichess.org/NKtryrhU/black#36,Benoni_Defense Benoni_Defense_Old_Benoni
+L874N,8/6p1/1p4r1/4pk2/1R5P/1R4P1/P1r5/6K1 b - - 3 41,c2a2 b3f3 f5e6 b4b6 e6d5 b6g6,1282,76,99,3304,advantage endgame interference long rookEndgame skewer,https://lichess.org/tuqfz4cC/black#82,
+L9XhG,5rk1/1r3p2/p2Ppqp1/2p3Np/2P2PnP/1P4P1/P2Q4/2KR3R w - - 0 22,g5e4 f6a1 c1c2 a1a2,1272,79,76,318,crushing interference middlegame queensideAttack short,https://lichess.org/OxrEpiJK#43,
+LG9Jm,r1bq3r/4ppkp/p2p2p1/1ppn2QP/8/1P1P1N2/P1P1BPP1/2KR3R b - - 2 15,e7e6 h5h6 g7g8 g5d8,1270,74,93,10538,interference mate mateIn2 middlegame short,https://lichess.org/pVZ9kJfd/black#30,Pirc_Defense Pirc_Defense_Other_variations
+LHK8N,r5k1/1b3pb1/2q3p1/1pp1p1Pp/p3n2P/P1P1BP2/1P1QB1K1/3R3R w - - 0 28,f3e4 c6e4 g2f2 e4g2 f2e1 g2h1,1253,81,87,513,crushing exposedKing interference long middlegame,https://lichess.org/MxBKvCNn#55,
+LI5dX,8/4r1k1/1pn1Pp2/p4K2/P2P3N/8/1P6/4R3 w - - 5 44,h4g6 c6d4 f5e4 e7e6 e4d4 e6e1,1264,76,85,1318,crushing deflection endgame interference long skewer,https://lichess.org/iKJBHddK#87,
+LUnfb,2r3k1/p3pp2/1p2b1pB/2p4r/5P2/P2Pb1P1/1P2P1K1/2QR3R w - - 4 27,c1c3 e6d5 g2f1 h5h1,1291,75,100,701,deflection interference mate mateIn2 middlegame short,https://lichess.org/E46E6CFx#53,
+LXFzq,q5r1/p4p1Q/3pk3/1p6/8/P4b2/1PP3PP/4R1K1 b - - 1 24,e6d7 h7f7 d7c6 f7f3,1288,84,91,7139,crushing endgame interference short,https://lichess.org/9lj6yZlM/black#48,
+LaNGK,q7/4Bpk1/7p/3b2p1/3P2n1/1BQ2PPK/7P/8 b - - 2 41,d5f3 d4d5 g7g8 c3f3,1255,76,82,545,crushing discoveredAttack endgame interference intermezzo short,https://lichess.org/oFoR1m6q/black#82,
+LfEZV,5r2/p5k1/2p2rp1/2P3Q1/3p1P1R/1Bq5/P3p1KP/8 b - - 5 37,f6f5 g5h6 g7f6 h6f8,1204,79,85,192,deflection endgame interference mate mateIn2 short,https://lichess.org/mLHJGtGh/black#74,
+LmmgQ,r2r4/ppq1bkpQ/2p1p3/2P1P3/3P4/4B3/PP4PP/R5K1 b - - 0 20,d8h8 a1f1 f7e8 h7h8,1298,75,94,690,crushing interference middlegame short,https://lichess.org/zS6s9ebG/black#40,
+LnMFo,r2qkr2/pp1nbpQp/4p3/1N4B1/8/5P2/PPP2P1P/3RK2R b Kq - 2 14,e7g5 b5d6 e8e7 g7g5,1208,74,96,10421,crushing interference intermezzo middlegame short,https://lichess.org/lzqFmdRi/black#28,Sicilian_Defense Sicilian_Defense_Chekhover_Variation
+LsV9E,4brk1/5ppp/Q3pq2/2P1N3/8/8/Pr3PPP/2R1R1K1 w - - 0 20,e5d3 e8b5 a6a7 b5d3,1269,74,93,4476,advantage interference middlegame short,https://lichess.org/ep5Wh6Hn#39,
+Ltu9N,6k1/1pp2q1n/p2p3p/3P1r2/2P2b2/P5P1/1PQ3K1/4RR2 w - - 0 38,g3f4 f7g6 g2f2 f5f4 f2e3 g6c2,1270,79,100,136,advantage discoveredAttack endgame exposedKing interference intermezzo long,https://lichess.org/QCU3PT1o#75,
+Lx3fd,7r/7P/1p2k1P1/8/8/8/8/6RK w - - 1 56,g6g7 h8h7 h1g2 h7g7 g2f1 g7g1,1222,138,72,34,crushing endgame exposedKing interference long rookEndgame,https://lichess.org/ARLJSYUR#111,
+M2Lmj,8/6p1/3k4/6r1/2K5/1R4P1/8/8 w - - 3 57,c4d4 g5g4 d4d3 g4g3 d3c2 g3b3,1299,75,98,1785,crushing endgame interference long rookEndgame,https://lichess.org/QjZ9xL4z#113,
+MCzXv,2k4r/p1p1q2p/2Q3p1/3rp3/7P/1P6/P3K1P1/1N2R3 b - - 1 21,h8d8 c6a8 c8d7 a8d5,1243,75,97,4318,crushing endgame interference short,https://lichess.org/jTyu1E5Y/black#42,
+MMwn8,r4rk1/5pb1/p3p1p1/3qP2p/2Np1P2/6P1/PP2Q1K1/R1B2R2 w - - 2 25,g2h2 d4d3 e2f3 d5c4,1264,74,96,13183,advantage interference middlegame short,https://lichess.org/PYx7Dhna#49,
+MNOL1,4r1k1/1b3pp1/p2br3/1p1p2P1/2pP2q1/P1P1B3/1PQ2PP1/1B2R1K1 b - - 4 28,e6e3 c2h7 g8f8 h7h8 f8e7 e1e3 e7d7 h8e8,1280,76,100,211,advantage interference kingsideAttack middlegame veryLong,https://lichess.org/G24dDxGq/black#56,
+MO5eq,rn2k1nr/ppq2ppp/4p3/3pP3/bP1p1P2/P4N2/2P3PP/R1BQKB1R w KQkq - 2 11,f3d4 c7c3 c1d2 c3d4,1224,73,96,21605,advantage fork interference middlegame short,https://lichess.org/5swjBF7X#21,French_Defense French_Defense_Winawer_Variation
+MUj2g,Qn1qkbnr/p3pppp/8/1b6/8/2p5/PPPP1PPP/R1B1K1NR w KQk - 0 8,b2c3 b5c6 a8a7 c6g2,1221,75,90,1607,crushing interference opening short,https://lichess.org/3U4YjNGJ#15,Scandinavian_Defense Scandinavian_Defense_Blackburne-Kloosterboer_Gambit
+MbNO7,r4bk1/1p1q2r1/p2p4/3Pp3/1P2PpN1/N4P1p/P4QP1/R5K1 b - - 1 31,h3g2 g4f6 g8f7 f6d7,1247,105,31,22,crushing fork interference middlegame short,https://lichess.org/KXjo8w7n/black#62,
+MbpUM,r1bqk1nr/p4ppp/2n1p3/3p4/Q1pP1B2/b1P1PN2/P4PPP/R3KB1R b KQkq - 1 9,a3d6 a4c6 c8d7 c6d6,1247,75,78,206,advantage fork hangingPiece interference opening short,https://lichess.org/wo3FIXgS/black#18,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+MmeHa,7r/p4kpp/4pb2/1B6/8/2qKPQ2/P4P1P/1R5R w - - 0 29,d3e2 c3c2 e2f1 c2b1 f1g2 b1b5,1255,78,99,1407,advantage fork interference long middlegame,https://lichess.org/0nxbrV2c#57,
+MzM9j,r3k2r/p2q1ppp/1p2p3/1Q1n4/1b1P2b1/4P1B1/PP3PPP/R2K1BNR w kq - 4 14,f2f3 d5e3 d1e2 d7b5,1219,77,92,5980,crushing interference middlegame short,https://lichess.org/cAE43gwd#27,Indian_Defense Indian_Defense_Other_variations
+N2whM,4kr2/1p2nqpp/p1nR4/3N4/8/PP6/K3Q3/8 b - - 0 36,f7f2 d5c7 e8f7 e2f2,1248,75,99,971,advantage interference middlegame short,https://lichess.org/J7NzARmI/black#72,
+N4I1h,5R2/1br5/1p2p1P1/1P6/3P4/5Pk1/4K3/8 b - - 0 51,c7g7 f8f7 g7g6 f7b7,1220,75,88,257,advantage endgame interference short,https://lichess.org/jq0mJv5M/black#102,
+N4q5b,2kr1b1r/pp3pp1/8/1N1pB3/4n3/P4KPq/1PP1P2P/R2Q1R2 b - - 2 18,h3h2 b5a7 c8d7 d1d5,1249,78,94,19786,crushing interference middlegame queensideAttack short,https://lichess.org/NIH5AvDi/black#36,Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation
+NAtLo,6rk/p3R1n1/1p5p/3r4/5P2/1P6/P5QK/8 w - - 0 53,e7g7 d5h5 h2g3 g8g7 g3f2 g7g2,1296,75,100,349,crushing endgame exposedKing interference intermezzo long queenRookEndgame skewer,https://lichess.org/GZXhlhw6#105,
+NFVrd,r1b1k1nr/pp3ppp/2n5/q3P3/1b1p1B2/2N5/PPP1NPPP/R2QKB1R w KQkq - 0 10,e2d4 b4c3 b2c3 a5c3 f4d2 c3d4,1277,75,93,9170,advantage interference long opening,https://lichess.org/du4Au6OA#19,Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation
+NHAaL,6k1/pp4pp/2p5/3p4/3Pp2q/4P2r/PPQ2P1K/2R4R w - - 0 23,h2g2 h4g4 g2f1 h3h1,1263,78,100,56,deflection endgame interference mate mateIn2 short,https://lichess.org/mkID5QI7#45,
+NLD3J,r1bqk2r/p4ppp/2p2n2/3p4/Q1P5/B1P5/P5PP/R3KB1R b KQkq - 1 12,f6e4 a4c6 c8d7 c6d5,1292,76,78,70,advantage fork interference middlegame short,https://lichess.org/uuGZ11dq/black#24,Queens_Gambit_Declined Queens_Gambit_Declined_Albin_Countergambit
+NVIz3,r3r1k1/1pq1b2p/p4ppB/5p2/1nPQp3/1B6/P4PPP/R4RK1 b - - 1 21,a8d8 c4c5 g8h8 d4b4,1269,75,79,478,advantage discoveredAttack interference middlegame short,https://lichess.org/MRnwMX8R/black#42,
+NttcA,1r4r1/3qk1p1/3bpp2/p7/2pPQP1B/4P3/R6P/R5K1 b - - 0 31,g7g5 e4h7 e7e8 h7g8,1280,77,83,197,crushing interference middlegame short,https://lichess.org/m84vNAtm/black#62,
+NvqEv,8/7p/1r1k4/p1pp1KP1/8/1P5R/8/8 b - - 1 46,b6b7 h3h6 d6c7 h6h7 c7b6 h7b7 b6b7 g5g6,1279,75,91,372,crushing endgame interference rookEndgame veryLong,https://lichess.org/WvUB3nA8/black#92,
+O3R3Z,r2q1rk1/5pbp/p1ppb3/1p2n1PQ/4P3/2PB4/PP2N1PP/R1B2R1K w - - 1 21,d3c2 e6g4 h5h4 g4e2,1282,76,83,143,advantage interference middlegame short,https://lichess.org/jYb19FNk#41,
+O4I3F,r1bqkb1r/5ppp/p1nNp3/2npP3/Q7/5N2/PPP1BPPP/R1B1K2R b KQkq - 2 11,f8d6 a4c6 c8d7 c6d6,1246,77,88,1517,crushing fork hangingPiece interference opening short,https://lichess.org/Zt33QjKC/black#22,French_Defense French_Defense_Two_Knights_Variation
+O7Rrh,r3k1r1/p4p1p/2pbpB2/3p3Q/3P4/2P5/q4PPP/1N2R1K1 b q - 1 16,a8b8 e1e6 e8d7 h5f7 d7c8 f7g8,1236,279,82,14,crushing deflection interference long middlegame pin,https://lichess.org/0lWFfRgj/black#32,Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation
+OMMBc,1r1k2r1/2q2p1p/4pp2/3p4/2bP4/Q5P1/2P2P1P/R1K1R1N1 b - - 6 32,g8g4 a3f8 d8d7 f8f7,1206,80,93,3135,crushing interference middlegame short,https://lichess.org/yTGW76ym/black#64,
+OPtMm,1r4r1/4kp2/6p1/1q2Pp2/3Qn3/PR6/1PP5/1K1R4 b - - 6 34,b5c5 d4d7 e7f8 b3b8,1217,75,98,507,crushing interference middlegame short,https://lichess.org/0FldL5Do/black#68,
+OSoHP,7k/2p2pp1/6np/p2Pp2q/K3P1RP/2N5/P7/6R1 b - - 4 33,g6h4 g4g7 h4g6 g7f7,1283,97,52,24,crushing endgame interference short,https://lichess.org/4ykB6qzP/black#66,
+OXGaf,r4rk1/ppp3p1/7p/3qpp2/3n4/P1PP3P/1P3PP1/R1BQ1R1K b - - 2 18,d4b3 c3c4 d5e6 d1b3,1277,84,31,80,advantage interference middlegame short,https://lichess.org/sKbC2XGV/black#36,Vienna_Game Vienna_Game_Stanley_Variation
+OY2IZ,4r1k1/5Bpp/8/6P1/1p2r2P/pP6/P7/1K3R2 b - - 0 32,g8f8 f7d5 f8e7 d5e4,1281,75,94,1119,advantage discoveredAttack endgame interference master short,https://lichess.org/1bQTAC56/black#64,
+OZPdd,r1b2rk1/ppqn1ppp/1n1p4/4P3/1P2P3/P2B1N2/5PPP/R1BQK2R w KQ - 1 13,e5d6 c7c3 c1d2 c3d3,1212,76,88,191,advantage fork interference opening short,https://lichess.org/eeLKIuPc#25,Queens_Gambit_Declined Queens_Gambit_Declined_Exchange_Variation
+Oa6fM,4r1k1/pbq3b1/4p1p1/1p1P1p2/2p3n1/2P2N2/PP2QPP1/1B1RR1K1 w - - 0 31,d5e6 b7f3 e2f3 c7h2 g1f1 h2h1 f1e2 e8e6,1299,75,93,3081,crushing interference kingsideAttack master middlegame veryLong,https://lichess.org/3bmXK1P4#61,
+OeBop,4rk2/3q2pQ/p1p3Bp/1p1p4/3P4/2P4P/PP4P1/6K1 b - - 6 35,e8d8 h7h8 f8e7 h8g7 e7d6 g7e5,1280,76,98,4802,deflection endgame interference long mate mateIn3,https://lichess.org/B51VunWl/black#70,
+OiWvP,6k1/pp4pp/2p1p3/2Pp4/1P1Pp2q/P3P2r/R4P1K/4Q2R w - - 0 26,h2g2 h4g4 g2f1 h3h1,1210,77,77,108,deflection endgame interference mate mateIn2 short,https://lichess.org/T9sC2Odd#51,
+OkhEz,8/1p1r1pk1/p5p1/P2qb2p/1P6/4P2P/5QP1/2R2N1K b - - 2 36,d5b5 c1c5 b5b4 c5e5,1243,91,71,35,advantage endgame interference short,https://lichess.org/SszLRePY/black#72,
+Om3ry,rnbq3r/ppp3b1/3ppk1p/5p2/3P3Q/2N5/PPP1BPPP/R3K1NR b KQ - 3 10,f6f7 e2h5 f7g8 h4d8,1241,75,99,1315,crushing interference opening short,https://lichess.org/1W0FpCFS/black#20,Rat_Defense Rat_Defense_Balogh_Defense
+P8tXY,r5k1/BN4bp/2P3r1/3Pp2n/4Pp2/3B1P1b/4NK1P/R6R w - - 5 34,a7c5 g6g2 f2e1 a8a1 e1d2 a1h1,1227,78,66,191,advantage interference long middlegame skewer,https://lichess.org/K3KIUqxu#67,
+PArhZ,r6r/1Rpkqp2/p1p1p3/2Pp4/P2P3p/2P1P3/3K1PP1/1Q5R b - - 3 23,f7f5 b7c7 d7c7 b1b6 c7d7 b6b7 d7e8 b7a8,1249,78,95,15018,attraction crushing endgame interference sacrifice veryLong,https://lichess.org/HhHv2mTZ/black#46,
+PBKiI,4k1r1/1p1n1q2/1n1Bp2p/3pPpp1/3P4/1pP3Q1/4NPPP/R5K1 b - - 0 34,b6c4 a1a8 d7b8 a8b8 e8d7 b8b7,1203,76,91,1124,advantage exposedKing interference long middlegame,https://lichess.org/RXTs9oo8/black#68,
+PBuC6,k4rr1/1p3p2/p1nR3p/5q2/3p1Bn1/2P5/PP2B2P/R4Q1K w - - 1 29,c3d4 f5e4 e2f3 e4f4,1293,76,95,21803,crushing interference kingsideAttack middlegame short,https://lichess.org/HPe8GRc5#57,
+PCg4U,r3k1nr/ppp2ppp/2np1q2/2b5/2P1P3/8/PP1BNPPP/RN1Q1RK1 b kq - 2 9,f6b2 d2c3 b2b6 c3g7,1290,76,80,238,crushing interference opening short,https://lichess.org/tzlcOjpj/black#18,English_Opening English_Opening_The_Whale
+PHs2Q,1kr5/2r2ppp/pp6/R1P5/PR3p2/5P2/6P1/6K1 b - - 0 29,c7c5 b4b6 b8c7 a5c5 c7b6 c5c8,1220,76,100,815,crushing endgame exposedKing interference intermezzo long rookEndgame skewer,https://lichess.org/LZxBfALE/black#58,
+PNSqx,2r3k1/5p2/2q3p1/p3B2p/3P1Q2/7P/P4PPK/8 b - - 10 42,c6e6 f4h6 f7f6 h6g6,1250,77,88,1890,advantage endgame interference master short,https://lichess.org/eOrBKzKh/black#84,
+POUuK,r5k1/p1p2ppq/2P1p3/8/2QP4/2P1P1B1/P4PK1/1r3B2 b - - 5 29,h7g6 f1d3 g6g4 d3b1,1268,76,91,296,advantage endgame fork interference master short,https://lichess.org/Hbu6ahNG/black#58,
+PZ9CW,r4bk1/1r3ppp/q7/3p4/1P1B1PP1/1Q5P/1PR5/1KR5 w - - 1 35,c2c8 a6a1 b1c2 a8c8,1222,76,92,334,crushing interference master middlegame short,https://lichess.org/gUaGdOnm#69,
+Pao8R,5k2/2q2nb1/4Q1p1/6P1/2B1P3/1P6/P5K1/8 b - - 2 46,f7g5 e6g8 f8e7 g8g7,1219,79,80,93,crushing deflection endgame interference short,https://lichess.org/cg3CMkg9/black#92,
+PcXY9,r4r2/2p1q2k/2n3pP/pp6/4p1P1/2P1B3/PPP4Q/2KR3R w - - 0 26,h2h3 f8f3 h3h2 f3e3,1250,75,90,3179,advantage interference middlegame short,https://lichess.org/5whmwrVf#51,
+PnVXh,7r/6k1/pp1r3p/3pKPpR/1P6/8/P7/5R2 b - - 2 39,h8d8 f5f6 g7f7 h5h6 d6e6 e5f5 d8d6 h6h7,1248,79,85,461,advantage deflection endgame interference rookEndgame veryLong,https://lichess.org/aIfr4sD9/black#78,
+Ponf1,r1b2rk1/5ppp/1qpp4/pp2n2Q/4P3/P1NP4/BPP3PP/R4R1K w - - 0 17,c3e2 c8g4 h5g5 g4e2,1296,76,88,61,advantage interference middlegame short,https://lichess.org/XVvbdc9N#33,Four_Knights_Game Four_Knights_Game_Italian_Variation
+PrGb5,r6k/2Q3pp/8/pBK2p2/2PPq2P/8/P7/R2n4 b - - 2 28,d1b2 b5c6 e4d3 c6a8,1201,76,85,1030,crushing endgame fork interference short,https://lichess.org/CSOR9MEf/black#56,
+QKH1L,r3r3/pp1qkp2/3p2p1/2p1n1P1/2PpP3/PP1P2P1/4B1K1/R1B2Q2 b - - 7 34,e8h8 f1f6 e7e8 f6h8,1298,103,85,35,crushing interference middlegame short,https://lichess.org/MLvfFEsC/black#68,
+QKmo8,r1bqr1k1/pp2bp1p/4p1pQ/3pP3/8/2PB4/PP1N1PPP/R3K2R w KQ - 1 15,e1g1 e7g5 h6h3 g5d2,1204,75,98,1347,advantage interference middlegame short,https://lichess.org/uikAOIOp#29,Horwitz_Defense Horwitz_Defense_Other_variations
+QR8Vv,r3k2r/4bppp/p1pqb1n1/4N3/3P4/8/PPP3PP/RNB1QRK1 w kq - 2 14,b1c3 d6d4 c1e3 d4e5,1214,76,100,676,advantage interference master middlegame short,https://lichess.org/AKyL7S7J#27,Bird_Opening Bird_Opening_Froms_Gambit
+QT6qm,4r2k/5r2/3p1p2/2p5/Pp2PR2/1P2P1K1/2P5/5R2 w - - 0 31,f4f6 e8g8 g3f2 f7f6,1269,76,87,1159,crushing endgame interference intermezzo rookEndgame short,https://lichess.org/bWOYljF3#61,
+QbVKM,r2k3r/4ppbp/nq2b3/p2pN1p1/Bp1P1B2/P5P1/1PP1Q1PP/R4RK1 w - - 0 18,f4g5 b6d4 g5e3 d4e5,1294,76,84,148,advantage interference middlegame short,https://lichess.org/Rhz5IUy2#35,Czech_Defense Czech_Defense_Other_variations
+Qk04c,2r4k/p5pp/Bp1p4/2pPb3/1P1pP1b1/P5P1/3B1q1P/1KQ4R b - - 1 22,c8f8 h1f1 g4f3 f1f2,1222,75,91,354,advantage interference middlegame short,https://lichess.org/jJu8Hn9W/black#44,
+QofgH,r6r/p1p1k3/b1p1p1Qp/2qp1pp1/3N4/4P3/2PK1PPP/7R b - - 1 20,c5d6 g6g7 e7e8 g7h8 e8d7 h8a8,1209,89,84,43,advantage interference long middlegame skewer,https://lichess.org/PqEAZmpD/black#40,
+Qpsuk,8/1R1R1pr1/4pk1p/8/4PPP1/5K2/8/6r1 b - - 0 47,g1g4 e4e5 f6g6 f3g4,1258,75,96,23066,crushing endgame interference rookEndgame short,https://lichess.org/rmy0u7Vh/black#94,
+QqIyx,8/p6k/1p6/3q4/6p1/6P1/P3Q1KP/8 w - - 5 40,g2f1 d5h1 f1f2 h1h2,1270,79,79,98,crushing endgame interference queenEndgame short,https://lichess.org/mzrgJ39U#79,
+Qy3ea,1r1r2k1/1bqn2bn/p2pp1pp/P1p5/N1N1PP2/6BP/1P2B1P1/R2Q1RK1 w - - 0 22,c4d6 g7d4 g1h2 c7d6,1288,244,-57,4,advantage interference intermezzo middlegame short,https://lichess.org/Ii7KovMG#43,
+Qy5sN,2Q5/1p1p1ppk/6rp/p6r/3NP3/2P4q/P1B2RPP/4R1K1 w - - 3 23,e4e5 h3h2 g1f1 h2h1 f1e2 h5e5 e2d3 h1e1,1268,78,71,114,advantage deflection interference kingsideAttack middlegame veryLong,https://lichess.org/wMCEvTXN#45,
+R10WI,r4rk1/pb2qpp1/1p5p/2np4/8/2R1PN2/PPQ2PPP/1B3RK1 b - - 1 16,c5e4 c3c7 e7d6 c7b7,1261,74,96,5248,advantage interference middlegame short,https://lichess.org/y41ioIgb/black#32,Queens_Gambit_Declined Queens_Gambit_Declined_Tartakower_Defense
+R16t2,r3k2r/1pp2pp1/p2qpn1p/3p4/PnPP4/2Q1PN2/1P1N1PPP/R3R1K1 b kq - 2 14,e8g8 c4c5 d6e7 c3b4,1248,75,92,1233,crushing interference middlegame short,https://lichess.org/trOFMvSL/black#28,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+R8SMs,rn2k2r/pp3pbp/2ppbqp1/8/2PP2P1/2N1PP2/PP5P/R1BQKB1R w KQkq - 0 11,c1d2 f6h4 e1e2 e6c4,1248,83,92,712,interference mate mateIn2 opening short,https://lichess.org/LSTnl0zx#21,Modern_Defense Modern_Defense_Other_variations
+RAkW8,2kr3r/ppp2pp1/2bqp2p/3nR3/2PP4/3B1N1P/P2Q1PP1/4R1K1 b - - 0 19,d5b4 c4c5 d6d7 d2b4 c6f3 g2f3,1269,74,94,6839,advantage interference long middlegame,https://lichess.org/XLGw9pOi/black#38,French_Defense French_Defense_Rubinstein_Variation
+REhH7,3rkb1r/1Bp1pp1p/p4np1/8/8/6PN/PqbNQP1P/2R2RK1 b k - 0 16,c2d3 b7c6 f6d7 e2d3,1220,80,91,1180,crushing interference middlegame short,https://lichess.org/S6tF4Ewa/black#32,Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Zeller_Defense
+RHNz2,3rr3/5pk1/6p1/p1pP4/1p4q1/8/PP5Q/K6R b - - 3 33,e8h8 h2e5 f7f6 e5e7 g7g8 e7d8,1291,76,93,1490,crushing endgame interference long,https://lichess.org/KO65Ch1N/black#66,
+RRAqV,2kr3r/Qp2qpp1/2p1pn1p/2n1B2P/2PP4/8/PP3PP1/1K1R3R b - - 0 20,c5a6 a7a8 c8d7 a8b7,1265,77,92,1705,advantage deflection interference middlegame queensideAttack short,https://lichess.org/vqo4fpFM/black#40,
+RcD1u,5r1k/5p1P/6p1/2pP1P2/p3q3/8/2P1NK2/2Q4R w - - 1 34,f5g6 f7g6 f2e1 e4h1,1234,75,73,172,crushing discoveredAttack endgame interference short,https://lichess.org/iU2qnHBd#67,
+RejCF,r4rk1/ppB2pbp/2n2np1/2q5/8/2P1PN1P/PP3PP1/R2QK2R b KQ - 4 14,c6e7 c7d6 c5c6 d6e7,1290,76,100,1714,advantage interference middlegame short,https://lichess.org/0PGJnvkg/black#28,Mikenas_Defense Mikenas_Defense_Other_variations
+RkNTB,r4r2/1p1k1p1R/p2bp3/1q6/4Q3/6PP/P4P2/5RK1 b - - 9 30,b5f5 e4b7 d7e8 b7a8,1202,78,94,12129,crushing interference middlegame short,https://lichess.org/QmsuILU6/black#60,
+RrO2M,r4q2/ppp3k1/2nn1r1p/3Q3B/5p2/2P2PBP/PP4PK/R3R3 w - - 0 24,g3f2 f6f5 d5d2 f5h5,1235,98,57,55,advantage interference middlegame short,https://lichess.org/gM9iu5mb#47,
+RtdAV,2r3k1/5ppp/1R3n2/1N1pN2q/1b1PP3/1P2P3/4K1PP/3Q3R w - - 1 23,e2f2 f6e4 f2g1 h5d1,1206,75,91,499,interference mate mateIn2 middlegame short,https://lichess.org/hVXQpQZl#45,
+S1ZyA,8/4R3/p4Kpk/3p4/2pP4/P1P1R2P/1q6/8 w - - 2 37,e7e8 b2f2 f6e7 f2e3,1221,79,93,911,crushing endgame interference master queenRookEndgame short,https://lichess.org/uC8hfQdv#73,
+SGh9p,r6r/p7/b1p1pPk1/8/6RQ/Pn3qP1/1P3P1P/5RK1 b - - 2 28,g6f7 g4g7 f7f8 h4h8,1258,115,100,16,interference mate mateIn2 middlegame short,https://lichess.org/KY79wpzo/black#56,
+SJ3Ma,3r1nk1/6p1/Bpq4p/8/3pb3/P5P1/1PP1Q1P1/3R1NK1 b - - 3 27,e4c2 a6c4 g8h8 e2c2,1262,75,94,3879,crushing interference intermezzo middlegame short,https://lichess.org/D0JqBrkw/black#54,
+SJeHN,4R3/1pp2k2/3p4/3P4/2P2PK1/8/4R3/6rr w - - 1 41,g4f5 h1h5 f5e4 f7e8,1278,75,100,307,crushing endgame interference rookEndgame short,https://lichess.org/B0VAsLrn#81,
+SKFGU,8/8/3k2p1/2pr4/2R2PPK/8/8/8 w - - 1 42,g4g5 d5d4 c4c2 d4f4,1292,75,91,254,crushing endgame interference master rookEndgame short,https://lichess.org/iPTasLZd#83,
+SMzvF,r1bq1rk1/pp4bp/2p5/4pp1n/8/1PNP1N2/1PP3PP/R1B1QRK1 w - - 0 15,f3e5 d8d4 c1e3 d4e5,1207,77,89,1336,advantage interference opening short,https://lichess.org/WnoVu2c3#29,Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack
+SNGh1,3r1rk1/1b3pbp/p1npB1p1/1q5P/4P3/2PPBP2/3KN1P1/R5QR w - - 1 21,e6c4 b5b2 d2e1 b2a1 e1f2 a1g1,1211,86,60,45,crushing interference long master middlegame,https://lichess.org/GzjBaBdo#41,
+SPhB3,r2qk2r/1b2npb1/pp4pp/2p1N3/5P2/2NP4/PPP3PP/R1B1QRK1 w kq - 4 15,f4f5 d8d4 c1e3 d4e5,1272,74,95,12068,advantage interference opening short,https://lichess.org/dz7KGdRX#29,Sicilian_Defense Sicilian_Defense_Closed
+SQyYm,8/3Q4/6pp/1p3kq1/5p2/P7/1PP3PK/8 b - - 9 47,f5e4 d7d3 e4e5 d3b5,1294,75,97,2108,crushing endgame interference master queenEndgame short,https://lichess.org/0jLCNNGV/black#94,
+Sb4yZ,1r6/3k4/6pp/1PP2p2/1PK1b2P/R7/8/8 b - - 1 37,b8a8 c5c6 d7d6 a3a8,1241,76,95,8129,crushing endgame interference short,https://lichess.org/8E4DORRB/black#74,
+SbhCK,r1b2rk1/1pp3pp/p3p3/3n1pq1/3Pp3/P3PPP1/1PPNQ1BP/R4RK1 b - - 0 14,d5e3 f3f4 g5e7 e2e3,1269,75,87,1990,advantage interference intermezzo middlegame short,https://lichess.org/CQ4UelSG/black#28,Queens_Pawn_Game Queens_Pawn_Game_Veresov_Attack
+ShlED,5rk1/3rbpp1/p1ppq2p/1p2n3/4PP2/P1N3P1/1PP1QB1P/1R1R2K1 b - - 0 26,e5g4 f4f5 e6f6 e2g4,1207,77,92,231,crushing interference middlegame short,https://lichess.org/2zYYFPd7/black#52,
+SsppQ,r4n2/1ppk2Q1/p3b3/3p4/5B2/2P1PP2/Pq6/3K4 b - - 7 29,d7c6 g7c7 c6b5 c7b7,1239,76,100,118,crushing deflection endgame interference short,https://lichess.org/pt7VwVL8/black#58,
+Swh2f,rn1qkbnr/1p3ppp/2p5/p4b2/2Pp1N2/5N2/PP2PPPP/R1BQKB1R w KQkq - 0 7,f3d4 f8b4 c1d2 d8d4,1281,84,82,97,advantage interference intermezzo opening short,https://lichess.org/HKE88lUK#13,Queens_Gambit_Declined Queens_Gambit_Declined_Albin_Countergambit
+SwuAj,2rr2k1/1p3ppp/4p3/1N3q2/8/P6P/1B2QPP1/4R1K1 w - - 7 26,a3a4 c8c2 e2e3 c2b2,1248,73,95,24129,advantage interference middlegame short,https://lichess.org/YcVgaOV5#51,
+SxeES,1r5r/3qkp2/p1p5/3p2p1/8/2PQP3/PP1N1PK1/1R3R2 w - - 0 25,f1h1 d7g4 g2f1 h8h1,1247,76,85,277,deflection interference mate mateIn2 middlegame short,https://lichess.org/BwMKiFAL#49,
+T60rq,r1bq1k2/pp2b2B/2p3Q1/3p2P1/3P2n1/P1N1P3/1P3rP1/R3K2R b KQ - 2 17,e7g5 g6g8 f8e7 g8g5,1246,75,97,2819,advantage interference middlegame short,https://lichess.org/21hnAOsE/black#34,Queens_Gambit_Declined Queens_Gambit_Declined_Exchange_Variation
+T8tSj,1q2r1k1/p2Q1pp1/5b2/1pp4p/4p3/2P1P1P1/PP2NPP1/3R2K1 w - - 0 30,e2f4 e8d8 f4d5 d8d7,1224,74,94,3356,crushing endgame interference short,https://lichess.org/7AWuUKVT#59,
+TAFvR,5rk1/3bq2p/p1pb2r1/5p2/P3p2p/1PQ1P1P1/1B4PP/R4RK1 b - - 1 24,h4g3 c3h8 g8f7 h8h7 f7e8 h7g6,1222,75,93,2067,advantage deflection interference kingsideAttack long middlegame,https://lichess.org/ej3k6T53/black#48,
+TDHqP,1r1q1rk1/p1p1n1pp/1p2pp2/4N3/QP1P4/2P3P1/P4PKP/R3R3 w - - 0 21,e5d7 b6b5 a4b3 d8d7 b3e6 d7e6,1262,75,92,1311,crushing interference long middlegame,https://lichess.org/AF1vmGyb#41,
+TDaCC,r4rk1/1b1nqppp/p3p3/1p1PP3/2pQ4/2N2N2/PP3PPP/2R2RK1 b - - 1 17,d7c5 d5d6 e7e8 d4c5,1221,77,90,4054,crushing interference middlegame short,https://lichess.org/x8b8Awkc/black#34,Queens_Gambit_Accepted Queens_Gambit_Accepted_Other_variations
+TEGkt,2kr3r/pp1n1pp1/2p1pbp1/8/1PBP4/P1N1BP2/5KPq/R2Q1R2 w - - 0 17,f1h1 f6h4 f2f1 h2h1,1215,110,65,54,advantage interference middlegame short,https://lichess.org/GdkgJuc3#33,Queens_Gambit_Accepted Queens_Gambit_Accepted_Other_variations
+TP7Cm,r4rk1/p2p2p1/1p2pp2/2b2q2/2P5/2NnP1R1/PP2K1Q1/7R b - - 3 20,g8f7 g3g7 f7e8 g2a8,1282,75,96,10232,interference mate mateIn2 middlegame short,https://lichess.org/bWtMXZeP/black#40,
+TPNmA,8/2r5/7p/4k3/2p1P3/4K3/6P1/7R b - - 5 46,c7c6 h1h5 e5d6 h5h6 d6d7 h6c6,1265,79,100,115,crushing endgame interference long rookEndgame,https://lichess.org/YFbnm0Vn/black#92,
+TRKzj,2rq1r2/2pn1p1k/1p4pp/4pN2/1Q1pPn2/R2P1N1P/1PP2PPK/R7 w - - 0 24,f5e7 c7c5 b4b5 d8e7,1273,74,95,12391,advantage interference middlegame short,https://lichess.org/Hbu2MMXe#47,
+TVcEB,2R5/1p1r1ppp/p1bkp3/6R1/2P5/6P1/P6P/6K1 b - - 2 32,f7f6 c4c5 d6e7 g5g7,1274,73,95,11437,endgame interference mate mateIn2 short,https://lichess.org/pGNd24Jo/black#64,
+TckEH,r4r1k/pbq1n1b1/1pp1B2p/3pN1p1/3P4/2P1P2P/PPQN1P2/R3K2R w KQ - 3 18,e5g6 e7g6 c2g6 f8f6 g6h5 f6e6,1224,77,93,10974,advantage interference long middlegame,https://lichess.org/2ExPmAbw#35,Modern_Defense Modern_Defense_Other_variations
+Tj349,r2k3r/4b2p/p2p4/3b1NP1/1B1QPn2/8/qPP4P/2KR3R w - - 0 24,f5e7 f4e2 c1d2 e2d4,1247,74,84,159,advantage fork interference middlegame short,https://lichess.org/foSEJy0e#47,
+TjPqZ,5rk1/7p/1p4p1/1Pq1p3/2Pp4/3Q1PPP/2R3K1/8 w - - 5 44,g2f2 e5e4 d3e4 d4d3 f2g2 d3c2,1228,76,97,1385,advancedPawn advantage discoveredAttack endgame interference long pin,https://lichess.org/xCO5o50B#87,
+Tja7x,rn1qnrk1/1p4pB/p2p4/2pPP1b1/2P3P1/2N2p2/PP1Q1PP1/2KR3R b - - 0 17,g8f7 e5e6 f7e7 d2g5,1235,77,86,390,crushing interference middlegame short,https://lichess.org/Mh72kkHT/black#34,Benoni_Defense Benoni_Defense_Modern_Variation
+TkCpc,3r2r1/p4pkp/2Q5/5K2/4P3/8/P6n/8 b - - 1 34,h2f3 c6f6 g7f8 f6d8,1279,77,93,13261,advantage endgame interference short,https://lichess.org/yXONtQve/black#68,
+U2KFW,r4rk1/ppp2pp1/7p/2bqp3/3n4/P1PP3P/1P3PPN/R1BQ1RK1 b - - 0 15,d4b3 c3c4 d5d7 d1b3,1237,99,67,49,crushing interference middlegame short,https://lichess.org/zwmS1nR9/black#30,Four_Knights_Game Four_Knights_Game_Italian_Variation
+U8e4N,8/p7/4p1r1/3pP2k/P2P4/1P2Q2p/1KP3r1/8 b - - 9 53,h3h2 e3h3 h5g5 h3g2,1253,76,94,570,crushing endgame interference queenRookEndgame short,https://lichess.org/7IHXg3Ly/black#106,
+UDoUv,r3kb1r/ppp1p1pp/5q2/3pp3/4nPB1/2P1P3/PP5P/RNBQK2R w KQkq - 2 13,b1d2 f6h4 e1e2 h4g4,1293,78,65,111,crushing interference opening short,https://lichess.org/0CpBYgHH#25,Queens_Pawn_Game Queens_Pawn_Game_Other_variations
+UGiMT,8/2r4p/3pk3/4p1PR/2P1Pp2/5P2/1n2K3/8 b - - 0 39,b2c4 h5h6 e6f7 h6h7 f7f8 h7c7,1273,80,92,5930,crushing endgame interference long skewer,https://lichess.org/ZXupXUxL/black#78,
+UHA7x,3r4/pb3ppk/2n1p2p/2pr4/7P/P1Q1PNP1/1P3P2/5RK1 w - - 1 21,e3e4 d5d3 c3c5 d3f3,1272,74,94,566,advantage interference middlegame short,https://lichess.org/ILCNU5ki#41,
+UHkrR,4r1k1/R4pp1/6bp/1p1pP3/2pB1QP1/3q4/7P/5R1K w - - 2 32,e5e6 g6e4 h1g1 d3d4 f4f2 d4f2,1221,75,90,356,advantage fork interference long middlegame,https://lichess.org/PzH0bUcb#63,
+UIwR4,r4rk1/2p2ppp/p1Q1b3/4q3/4N3/7P/PPP2PP1/R4RK1 w - - 3 17,b2b3 e6d5 c6c5 e5e4,1236,79,93,5639,advantage interference middlegame short,https://lichess.org/FEztwAR8#33,Four_Knights_Game Four_Knights_Game_Italian_Variation
+UJFOO,7k/2p5/p6p/1pqp4/3bKP2/P1P3PP/R2Q4/8 w - - 0 39,e4d3 c5c4 d3c2 c4a2,1250,75,82,628,crushing endgame interference short,https://lichess.org/uCK96wwX#77,
+UR6wg,2r1r1k1/Q1P1b1pp/3B2q1/1P1p4/3P2p1/7P/P1P5/4RRK1 w - - 2 30,d6e7 g4h3 g1f2 g6g2 f2e3 e8e7,1277,76,92,5037,crushing discoveredAttack exposedKing interference long middlegame,https://lichess.org/wHYhFtJW#59,
+URIH4,3r2k1/3q2p1/2p1pnQ1/p5Np/7P/2PP4/3K4/5R2 b - - 4 33,d8f8 f1f6 f8f6 g6h7 g8f8 h7h8 f8e7 h8g7,1280,75,93,1313,crushing deflection endgame interference pin sacrifice veryLong,https://lichess.org/ZlDdrMed/black#66,
+USiHY,r1q4r/4kp2/pp5p/3Q2p1/3Pn1b1/P1P1P1P1/1P4PP/RN3RK1 b - - 0 19,c8e6 d5b7 e7f8 b7a8,1231,75,91,936,crushing interference middlegame short,https://lichess.org/PYvk4ba8/black#38,Zukertort_Opening Zukertort_Opening_Slav_Invitation
+UXMmJ,2kr4/p3qpp1/N1p5/4p3/4P1r1/3P2P1/PPP2Q2/R4RK1 w - - 2 22,f2f7 g4g3 g1f2 e7f7,1297,76,96,7671,crushing interference intermezzo middlegame short,https://lichess.org/fEBdseWD#43,
+UfIZm,r3k2r/pppb1ppp/4p3/8/1bPP4/3QBN2/qPK1BPPP/3R3R w kq - 0 17,d1a1 d7a4 c2c1 a2a1 d3b1 a1b1,1291,76,85,318,advantage interference long middlegame,https://lichess.org/v2zLbMZ1#33,Scandinavian_Defense Scandinavian_Defense_Valencian_Variation
+Uk2YQ,rn4k1/pppq2pp/3p1r2/3Pp1N1/2P2pb1/2NQb3/PPK1P2P/R4BR1 b - - 1 13,e3g1 d3h7 g8f8 h7h8 f8e7 h8g7 e7e8 g7f6,1200,75,98,4209,crushing deflection interference kingsideAttack middlegame veryLong,https://lichess.org/hOhEmwbY/black#26,Englund_Gambit_Complex_Declined Englund_Gambit_Complex_Declined_Other_variations
+UnGRF,r4rk1/2p2ppp/pp2p3/8/1QPPP2q/P5nP/1P3RP1/R1B3K1 b - - 0 20,g3e4 f2f4 h4h5 f4e4,1253,123,62,57,crushing interference middlegame short,https://lichess.org/Q6Pu6Psl/black#40,
+Urn0C,r1bqk2r/5pp1/2pbp3/1p6/3P4/2nB1N2/P1Q2PPP/R1B1K2R b KQkq - 1 18,c3d5 c2c6 c8d7 c6d6,1283,76,91,3070,crushing fork interference opening short,https://lichess.org/oEUoyMyk/black#36,Scandinavian_Defense Scandinavian_Defense_Other_variations
+Us1A0,2k1r3/ppp5/4P3/2b2N1p/5P1P/3R1KP1/7r/5R2 w - - 1 30,f1e1 h2f2 f3e4 e8e6 e4d5 e6e1,1281,74,95,11856,crushing endgame interference long skewer,https://lichess.org/ywTWPhHD#59,
+UuBE8,2kr1b1r/pp2npp1/1qn1p3/2ppP1B1/3P3P/N1PQ1N2/PP3P2/2KR3R w - - 5 14,a3b5 c5c4 d3d2 b6b5,1296,75,89,356,advantage interference middlegame short,https://lichess.org/ObA9FEIf#27,Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation
+UupUt,r1b1k2r/pp2ppbp/2np1np1/6P1/3NP3/2N1B3/PqP1BP1P/R2QK2R w KQkq - 0 10,g5f6 b2c3 e3d2 c3d4,1234,74,95,18352,advantage deflection hangingPiece interference opening short,https://lichess.org/w7ivsHMY#19,Sicilian_Defense Sicilian_Defense_Dragon_Variation
+UwUJb,r6r/pp2qkb1/6pp/3QP3/8/8/PPP2PPP/R3R1K1 b - - 0 20,e7e6 d5b7 f7g8 b7a8,1247,75,91,1968,crushing interference middlegame short,https://lichess.org/RVBlBAYb/black#40,
+UwwOd,6k1/1br2ppp/p3p1n1/q2pP1N1/1b1P1B2/7P/1P2BPP1/1QR3K1 w - - 2 26,f4g3 c7c1 b1c1 b4d2 c1f1 d2g5,1240,75,89,2442,crushing interference long middlegame,https://lichess.org/hapsFMRo#51,
+UyRjE,3r1rk1/pb3p1p/1p2p1p1/6q1/1PP5/N5B1/P1B1QPPP/1R4K1 w - - 5 25,a3b5 d8d2 e2e1 d2c2,1263,130,69,20,advantage interference master middlegame short,https://lichess.org/C4BWBWdU#49,
+V123k,7k/5Q2/3p3p/4p1bP/2P1P3/5K2/3q4/5R2 w - - 8 47,f3g4 d2g2 g4f5 g2f1 f5g6 f1f7,1289,203,65,9,crushing endgame interference long master,https://lichess.org/BvwgkUIj#93,
+V4jrv,6r1/p1p1qp1k/4bR1p/3pN1r1/3P4/2N3P1/PPP1Q2K/6R1 w - - 5 23,e2f2 g5h5 h2g2 e6h3 g2f3 e7f6,1252,76,93,5136,crushing interference long middlegame,https://lichess.org/Fh0YWRwE#45,
+V51H2,3r3r/1pp5/p2bpk2/4np2/1P6/2P1Q1RP/P4K2/8 b - - 2 36,a6a5 e3g5 f6f7 g5g7 f7e8 g7h8,1247,76,85,445,crushing endgame interference long,https://lichess.org/jMs0FtBB/black#72,
+V9AFx,8/2p1r1k1/1pQp4/p3b3/2P2q2/1P6/P4PK1/2R4R w - - 0 33,c6f3 f4g5 g2f1 g5c1,1279,75,98,702,advantage endgame interference short,https://lichess.org/63ANz0Ge#65,
+VBFNl,r1b1r1k1/p5p1/2p5/q1PpN1p1/3P4/2N1KP2/P1Q5/7R b - - 1 28,a5c7 c2h7 g8f8 h7h8 f8e7 h8g7,1265,75,91,1072,crushing deflection interference long middlegame,https://lichess.org/h621MG0Z/black#56,
+VEIrp,2kr1r2/1pp5/P6p/2P5/1pBn4/6Pb/1Q3P2/6K1 b - - 0 31,b7a6 c4a6 c8d7 b2d4,1267,74,88,1403,advantage endgame interference short,https://lichess.org/LC4vWuTM/black#62,
+VGxDD,r3k2r/1bq5/p1nbpnQ1/1p1p4/3P4/P1N1PN2/1P3PPP/R4RK1 b kq - 0 15,e8e7 g6g7 e7e8 g7h8,1254,78,94,2237,advantage interference middlegame short,https://lichess.org/hrTD3HOm/black#30,Zukertort_Opening Zukertort_Opening_Queens_Gambit_Invitation
+VLpOn,1r5r/p5kp/2B1b1p1/2q1p3/6P1/1Pp5/P3QP1R/2K4R b - - 0 31,c5c6 e2e5 g7g8 e5b8,1244,77,100,786,advantage interference middlegame short,https://lichess.org/06i1RGvK/black#62,
+VSMsl,3rkq2/n2r4/p1p1p3/1p6/3P3Q/1B3P1P/PP3P1K/4R3 b - - 1 32,d7d4 e1e6 e8d7 h4d4,1240,77,85,878,crushing interference intermezzo middlegame short,https://lichess.org/zb3YaK87/black#64,
+VWrdo,8/4kp1R/pb3r2/8/4QP1K/6P1/PP4P1/3q4 b - - 10 52,f6e6 e4b7 e7d6 b7b6,1206,75,94,927,crushing endgame interference short,https://lichess.org/qyhOHaXL/black#104,
+VYPaw,4rk2/5ppQ/p4q1p/1p1p4/3P4/P7/1P2rPPP/3B1RK1 b - - 1 25,e2e1 h7h8 f8e7 f1e1,1286,134,63,27,crushing endgame interference short,https://lichess.org/o75yvaxp/black#50,
+VcnOx,2q2b2/Q4pk1/4nnpp/1p2p3/p1p1P3/P1P2P1P/1PB3P1/3R1N1K w - - 4 31,f1e3 f8c5 a7a5 c5e3,1200,75,86,1027,advantage interference middlegame short,https://lichess.org/rp4X1uUE#61,
+Vk2FV,r1b1k1nr/pp1p1pbp/2n1p1p1/q1P5/2P1P3/3B1N2/PP3PPP/RNBQK2R w KQkq - 3 7,b1c3 g7c3 b2c3 a5c3 c1d2 c3d3,1211,77,92,2126,crushing fork interference long opening,https://lichess.org/eVhiuPvo#13,Modern_Defense Modern_Defense_Other_variations
+VkRQe,1Bb3k1/5r2/4pb1q/p2p2pp/2pP4/2P1P2P/P1B2PP1/3Q1RK1 w - - 1 23,d1b1 f7b7 b1c1 b7b8,1246,76,99,1188,advantage interference middlegame short,https://lichess.org/j5rDvDJh#45,
+VkY78,6qk/1Q4p1/3N1p2/3Pp2P/3r2P1/5P2/6K1/8 b - - 0 59,d4d5 d6f7 h8h7 b7d5,1243,79,82,276,crushing endgame interference intermezzo short,https://lichess.org/5vSvxiqq/black#118,
+VqFZ6,4r1k1/1bp1rpp1/p4q2/1p6/3Pp2p/P1P3R1/1P1Q1PPP/1B2R1K1 w - - 0 28,g3g5 e4e3 f2e3 f6g5,1220,74,91,649,crushing interference middlegame short,https://lichess.org/XXA6RXCl#55,
+Vtdm2,2kr3r/Qp1nRBpp/2p2q2/5p2/5B2/3P2P1/P1P5/7K b - - 0 22,f6e7 a7a8 d7b8 a8b8 c8d7 b8b7,1204,76,94,5911,deflection interference long mate mateIn3 middlegame queensideAttack,https://lichess.org/HD7Sb4IG/black#44,
+Vttu4,r3kbnr/pp3ppp/1nq1p3/1N1pP3/3p4/PP3P1P/2P1BP2/R1BQK2R w KQkq - 0 12,b5d4 c6c3 c1d2 c3d4,1231,77,86,1311,advantage fork interference middlegame short,https://lichess.org/r1hzUjcx#23,Caro-Kann_Defense Caro-Kann_Defense_Other_variations
+W6Qtr,r4rk1/5pp1/p3p2p/1p1q4/3P1n1P/5N2/P2Q1PP1/4RRK1 b - - 3 26,f4h5 e1e5 d5d7 e5h5,1220,76,94,18039,advantage interference middlegame short,https://lichess.org/GswbJQvF/black#52,
+W7nuh,5rk1/1q6/8/4bBB1/1Pp1p3/2PbN1P1/1P1R1P2/4R1K1 w - - 5 42,g1g2 f8f5 e3f5 e4e3 f2f3 e3d2,1253,75,92,1376,advancedPawn advantage discoveredAttack interference long middlegame sacrifice,https://lichess.org/lGOg4OkT#83,
+WEAHa,7r/2pk2p1/R1p1p2p/3p4/3Pn3/8/5qPP/2Q2N1K b - - 5 26,h8f8 c1c6 d7d8 a6a8 d8e7 c6c7 e7f6 a8f8,1290,77,86,635,crushing deflection endgame interference veryLong,https://lichess.org/jYKlm29A/black#52,
+WF38f,2k1r3/p1p5/PpQp4/1P1Pq1p1/4PbP1/8/5PK1/1R2R3 w - - 1 34,e1h1 e5e4 g2g1 e4b1 g1g2 b1e4,1278,75,96,26188,crushing endgame interference long,https://lichess.org/5FmpmM0H#67,
+WFYaJ,1r3r2/4n2k/3q3P/p2p1P2/2pP2K1/PpP5/1P1Q2B1/4RR2 w - - 1 34,e1e6 f8g8 g4f3 d6g3 f3e2 g3g2,1226,76,93,6957,advantage deflection interference long middlegame,https://lichess.org/32Veja4M#67,
+WFhqD,1rb4r/qp3npk/1N3p2/p2pp2P/P3P2P/1P2QP2/5K2/2R2B1R w - - 0 32,h1g1 d5d4 e3d2 a7b6,1230,80,92,927,advantage interference middlegame short,https://lichess.org/jnjlwNvG#63,
+WNoXq,8/8/4Kp2/2pB4/3bP3/1P2k1R1/5r2/8 b - - 5 51,f2f3 g3f3 e3f3 e4e5 f3g4 e5f6,1205,75,93,2415,crushing discoveredAttack endgame interference long,https://lichess.org/zHTiXCiU/black#102,
+WSkb0,6k1/7p/6p1/1Bb5/P3R1q1/8/6PP/4R1K1 w - - 2 33,g1f1 g4f5 f1e2 f5e4,1231,75,100,1364,crushing endgame interference short,https://lichess.org/J7lnxzkZ#65,
+WSz6v,r1b1k2r/ppp2pp1/2p2q2/7p/1b2P3/2NP4/PPP1BPPP/R2QK2R w KQkq - 0 10,e2h5 b4c3 b2c3 f6c3 e1e2 h8h5,1296,75,91,9074,advantage interference long middlegame,https://lichess.org/2lAmNHcP#19,Russian_Game Russian_Game_Stafford_Gambit
+WehDD,rn2k2r/ppp2ppp/4b3/8/2P1q3/8/PP1QBPPP/R3K1NR b KQkq - 0 10,e4g2 e2f3 g2g6 f3b7,1219,77,94,3560,advantage interference middlegame short,https://lichess.org/YFZPoLXg/black#20,Scandinavian_Defense Scandinavian_Defense_Icelandic-Palme_Gambit
+WmhEm,8/2r1k3/2P2pR1/4pPnp/N2pr3/P7/1P1K3P/2R5 w - - 12 46,a4b6 g5f3 d2c2 c7c6,1265,77,87,184,advantage endgame interference master short,https://lichess.org/A2hhZBr1#91,
+Wy1sr,7r/p2b2bk/2p2q1n/2p2P1Q/2PpP3/PP1P1N2/1B6/2K4R b - - 2 31,d7e8 f3g5 h7g8 h5e8,1258,75,94,636,crushing interference middlegame short,https://lichess.org/20C3sna3/black#62,
+Wznvl,3rr3/pp3pQ1/2p1k3/8/2Pq4/1P1n3P/P4PP1/R3R1K1 b - - 1 24,d3e1 a1e1 e6d6 g7d4,1245,75,88,4044,crushing endgame interference short,https://lichess.org/uVJeHgZX/black#48,
+X1Dwv,r2k3r/pp1q2b1/7p/2p5/2QpP2p/3P4/PPP3PP/R4RK1 b - - 3 23,b7b6 f1f7 d7c6 f7g7,1269,87,85,41,crushing interference master middlegame short,https://lichess.org/YDxO46Yp/black#46,
+X1WRZ,r1bqk2r/ppbp2pp/2n1p3/2P2p2/1PP5/P1Q1P3/4NPPP/R1B1KB1R w KQkq - 1 11,c3g7 c7e5 g7h6 e5a1,1217,78,90,65,advantage fork interference middlegame short,https://lichess.org/KXqpD8L7#21,Nimzo-Indian_Defense Nimzo-Indian_Defense_Hubner_Variation
+X86XG,4r3/pk3pp1/7p/8/2q2B2/2N3PP/PP5K/R6R w - - 0 28,a1d1 e8e2 c3e2 c4e2 h2g1 e2d1,1281,82,92,77,crushing endgame interference long sacrifice,https://lichess.org/VXKL1MjM#55,
+XAGmF,2krr3/Q1p2ppp/5n2/3q4/2b1p3/B6N/P1P2PPP/3RR1K1 b - - 3 18,d5d1 a7a8 c8d7 e1d1,1257,74,94,23118,crushing interference intermezzo middlegame short,https://lichess.org/78rqJlBu/black#36,Italian_Game Italian_Game_Two_Knights_Defense
+XAXOx,k1r5/p3P1pp/5r2/1p6/3K4/8/1N2R2P/8 w - - 19 43,e7e8q f6d6 d4e5 c8e8 e5d6 e8e2,1294,75,97,3195,crushing endgame interference long skewer,https://lichess.org/De6Pbjxf#85,
+XHobA,8/N4pk1/1p2p1p1/1P1p3p/Q2P4/3K4/P5Pq/8 w - - 0 40,a4c2 h2g3 d3d2 g3g2,1248,82,68,58,crushing endgame interference short,https://lichess.org/jFfzqWJI#79,
+XO7wo,r1b1k2r/ppp2pp1/2p5/4q3/6p1/2PP4/PP2BRP1/RNBQ2K1 w kq - 0 13,e2g4 e5h2 g1f1 h2h1 f1e2 c8g4,1299,77,93,8993,crushing interference kingsideAttack long middlegame,https://lichess.org/slH6jz9Y#25,Russian_Game Russian_Game_Stafford_Gambit
+XQ5ny,r4rk1/pppq1p1p/3p2p1/4p1Bn/2B1P3/2nP3P/PR3PQP/4R2K b - - 1 18,c3a4 c4b5 c7c6 b5a4,1215,250,-100,3,advantage interference middlegame short,https://lichess.org/CB6HF4C1/black#36,Four_Knights_Game Four_Knights_Game_Italian_Variation
+XSvQo,3qr1k1/1r3p2/6pQ/2pp2N1/8/3nP3/P3NPPP/R5K1 b - - 0 28,d3e5 h6h7 g8f8 h7h8 f8e7 h8e5,1296,76,96,4212,advantage interference long middlegame,https://lichess.org/dxVJKFOl/black#56,
+XYKLi,r5r1/pkpQ1N2/1p2p3/3p2p1/3P1B2/P1P4q/2PK4/6R1 b - - 1 29,g5f4 f7d6 b7b8 g1g8,1208,76,93,2377,endgame interference mate mateIn2 pin short,https://lichess.org/oVqiaXzv/black#58,
+Xj56o,7r/1pq1kp2/p2R1p2/4pB2/1P2P3/P4QP1/2P2b1r/3R1K2 b - - 1 25,c7c2 d6d7 e7f8 d7d8 f8g7 f3g4 g7h6 d8h8,1239,76,92,1234,deflection interference master mate mateIn4 middlegame veryLong,https://lichess.org/1GiAL1pt/black#50,
+XjZzZ,r3kb1r/1p2np1p/p1N1p1p1/3p4/8/4BB2/PqP2PPP/R2Q1RK1 b kq - 0 17,b7c6 e3d4 b2a3 d4h8,1294,95,87,42,advantage fork interference middlegame short,https://lichess.org/9zXAdLEx/black#34,French_Defense French_Defense_Paulsen_Variation
+Xjm0d,r1b1kb1r/p3pppp/2p2n2/2pq4/8/P7/1PPPBPPP/RNBQK2R b KQkq - 1 8,d5g2 e2f3 g2h3 f3c6 c8d7 c6a8,1243,80,91,1102,advantage fork interference long opening,https://lichess.org/I23A0Hxu/black#16,Sicilian_Defense Sicilian_Defense_Modern_Variations
+XqrFB,r6r/kp5p/2p5/3bR3/1Q3p2/5P2/PPq3PP/R5K1 b - - 4 32,h8e8 b4a5 a7b8 e5e8,1282,77,72,82,interference mate mateIn2 middlegame short,https://lichess.org/p7GxaFOb/black#64,
+Xrvux,3rk3/8/2p2K1p/1pP1P1p1/p4p2/P2r1P2/1P1p1P1P/1B1R4 b - - 9 34,d3f3 b1g6 e8d7 d1d2 d7c7 d2d8,1286,77,65,146,crushing endgame exposedKing interference long,https://lichess.org/Sa7V7adn/black#68,
+XwIin,rn4rk/5p2/2pp3p/p7/4PpPq/3P1Q2/PP2KP2/7R b - - 3 24,h4g4 h1h6 h8g7 f3g4 g7h6 g4g8,1255,77,80,373,crushing endgame exposedKing interference intermezzo long skewer,https://lichess.org/vxhtB90b/black#48,
+XyOGe,r3k3/p2b3p/2p1p3/3pB1qn/2pP4/2P1K3/PPQ2PP1/R6R w q - 0 24,f2f4 g5g3 e3d2 g3g2 d2c1 g2h1,1208,78,93,5874,crushing interference long middlegame,https://lichess.org/EDFBDfHq#47,
+Y03Vk,r4r2/pp1b1kpQ/1q2p2p/3pP3/3P4/bP6/P3B1PP/3R2K1 b - - 3 21,f8h8 e2h5 f7e7 h7g7 e7d8 g7h8 d8c7 h8a8,1200,77,96,11531,advantage deflection interference middlegame skewer veryLong,https://lichess.org/Im9ZXXWf/black#42,
+Y3Yua,5k2/r4pp1/2r5/1p1pPp2/1P1P1P2/7K/1P4R1/6R1 w - - 0 39,g2g7 c6h6 h3g2 f8g7,1270,74,97,3851,crushing endgame interference rookEndgame short,https://lichess.org/nVauER6j#77,
+Y55O1,2r1q1k1/p1nRb1p1/4pp1p/2pb4/2N1N3/2P5/PP2QPPP/3R2K1 w - - 2 24,d7d5 e6d5 c4e3 d5e4,1208,77,73,145,advantage fork interference middlegame short,https://lichess.org/Y1dBT1Ey#47,
+YCpVf,8/3r4/6p1/5p1k/2R1pP1P/2p1P1K1/8/8 w - - 0 43,c4c3 d7d3 c3c6 d3e3,1279,76,94,4097,crushing endgame interference master rookEndgame short,https://lichess.org/lFd815mN#85,
+YE96e,8/4q1kp/6p1/8/3Q4/7P/6PK/8 b - - 3 50,g7f8 d4h8 f8f7 h8h7 f7f6 h7e7,1277,75,93,1154,crushing endgame exposedKing interference long queenEndgame,https://lichess.org/jnlEEpsh/black#100,
+YJMqX,2r4k/p1q1n1pp/1p4r1/1B3p2/PPN1p3/1Q2P3/3R1PPP/6K1 b - - 2 28,g6f6 d2d7 c7b8 d7e7,1298,75,89,1159,crushing interference middlegame short,https://lichess.org/0ZQJM6Fp/black#56,
+YMUMJ,r1b1k2r/pp3ppp/2ppq3/6Q1/4PPn1/2N5/PPP3PP/R4RK1 b kq - 1 16,e8g8 f4f5 e6f6 g5g4,1296,150,100,34,equality interference middlegame short,https://lichess.org/lc2jxkUD/black#32,
+YR22Y,4r1k1/p1p1qppb/8/3p2Bp/3Pp3/P1P3PP/1P1Q2P1/4RrK1 w - - 0 30,e1f1 e4e3 g5e7 e3d2,1204,78,91,437,advancedPawn advantage endgame interference short,https://lichess.org/xYe3kLPv#59,
+YTZcb,8/p1rknppp/1q1pp3/5b2/3P4/1P2PN2/PQ2BPPP/4K2R w K - 0 20,e1g1 c7c2 b2a3 c2e2,1203,75,91,1715,advantage interference middlegame short,https://lichess.org/3JHNhee4#39,
+YUevp,2r5/2r4p/3k2p1/1p6/1n1p4/1P3RPB/5P1P/4R1K1 b - - 1 32,c7c1 f3f6 d6c5 e1c1,1297,75,86,373,crushing endgame interference short,https://lichess.org/A0GjtNbt/black#64,
+YZ61N,3rr3/1Qpkqppb/4p2p/2P5/3P2P1/4nPB1/1K2N2P/3R1R2 b - - 0 32,d8b8 c5c6 d7d8 b7b8,1261,76,96,4006,interference mate mateIn2 middlegame short,https://lichess.org/kOAAdGnX/black#64,
+YgOxr,r3kbnr/pp3ppp/1qn1p3/2ppP3/3P4/N1PQ1N2/PP3PPP/R1B1K2R w KQkq - 4 9,a3b5 c5c4 d3e2 b6b5,1239,77,80,165,advantage interference middlegame short,https://lichess.org/5BzQyxYt#17,Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation
+Ypi4v,2kr1bnr/pp2p1pp/2p1b3/4Pp2/1nP5/2N2N2/PP3PPP/R1B1KB1R w KQ - 5 10,a1b1 b4c2 e1e2 e6c4,1214,75,96,8244,interference mate mateIn2 opening short,https://lichess.org/GM5LtxtF#19,Queens_Pawn_Game Queens_Pawn_Game_Other_variations
+Yr5Ju,3kr2r/pp1nnR2/1q4pp/2p1p1P1/2B1P3/3Q3P/PPPP4/R1B3K1 w - - 0 22,c4b5 c5c4 d3e3 b6b5,1289,77,92,6896,advantage discoveredAttack interference middlegame short,https://lichess.org/HczvyMcj#43,
+YtMZc,2kr4/2p2p2/5q2/Q2n1b1p/P2P4/7p/1P3PP1/R3R1K1 b - - 0 27,h3g2 a5a8 c8d7 a8d5,1262,78,86,132,crushing interference middlegame short,https://lichess.org/45hQpNvL/black#54,
+Z7rTJ,5rk1/6pb/2R1pp1p/pQ6/P2q4/5P1P/1P4P1/5RK1 w - - 0 25,g1h1 h7d3 b5b3 d3f1,1268,76,86,461,advantage endgame fork interference short,https://lichess.org/NSHUYgxn#49,
+ZbQ0G,8/8/4k2p/pr2P3/5KP1/1P2R3/8/8 w - - 0 43,e3h3 b5b4 f4g3 b4b3 g3h2 b3h3,1241,77,93,2076,crushing endgame interference long rookEndgame,https://lichess.org/uFInA1F1#85,
+Zh79b,r5kn/p3p1b1/2Nqb2r/2pp1pN1/P7/3P1Q2/1PP2PPP/R3R1K1 w - - 1 19,g5e6 d6h2 g1f1 h2h1 f1e2 h6e6,1254,104,86,42,advantage interference kingsideAttack long master masterVsMaster middlegame,https://lichess.org/gpVYda6B#37,
+Zs4o2,2r1kb1r/p1qbnppp/1p2p3/nP1pP3/P2P4/3B1N2/5PPP/RNBQK2R w KQk - 3 12,b1a3 c7c3 c1d2 c3d3,1224,78,78,156,advantage fork interference opening short,https://lichess.org/R3dJBlnk#23,French_Defense French_Defense_Wing_Gambit
+ZsPXo,2b1r1k1/4qpbp/2p3p1/1p1nB3/1RpPN3/4P2P/2B2PP1/3Q1RK1 b - - 0 25,d5b4 e5d6 e7d8 d6b4,1277,126,9,14,advantage interference middlegame short,https://lichess.org/ZRPM59wJ/black#50,
+a7tXx,2rq1rk1/pp2bp1p/2b1p1p1/3pP2Q/3P4/P2BP1B1/1P4PP/2R2RK1 w - - 0 20,h5h6 e7g5 h6h3 g5e3,1202,74,97,4894,advantage interference kingsideAttack middlegame short,https://lichess.org/7Cqhl6Qa#39,
+aDrwE,2r2r1k/6pp/4b1p1/1pQ5/4P3/1p3P2/6PP/1B3R1K w - - 1 29,c5b5 e6c4 b5e5 c4f1,1264,79,94,23989,advantage endgame fork interference short,https://lichess.org/fAe0cPaq#57,
+aGCGB,r1b2r2/pp1kq1p1/2p1p2p/3pQ2B/3P4/2P1P3/PP3PPP/2KR3R w - - 3 20,f2f3 f8f5 e5g3 f5h5,1241,74,82,244,advantage interference middlegame short,https://lichess.org/UFrP1sEG#39,
+aImg2,rn1qkbnr/p1p1pppp/1p6/1b1Q4/8/4P3/PPPP1PPP/RNB1K1NR w KQkq - 0 5,d5a8 b5c6 a8a7 c6g2,1292,76,94,5058,advantage interference opening short,https://lichess.org/pAFzwI9V#9,Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations
+aWR9J,7r/1b1nk3/1pp2qn1/p6p/3PBP2/P1P1N2P/1P1B4/2KR2R1 b - - 0 36,g6f4 e3f5 e7d8 d2f4,1268,79,94,23636,advantage discoveredAttack interference middlegame short,https://lichess.org/EnnUnPmu/black#72,
+aX3oN,r2qk2r/b1pb2pp/3p4/1B3p2/1P1pn3/2P5/3PQPPP/RNB2RK1 w kq - 0 15,f2f3 d4d3 a1a7 d3e2,1230,79,89,1033,advancedPawn crushing discoveredAttack interference kingsideAttack opening short,https://lichess.org/Pq2IY3re#29,Ruy_Lopez Ruy_Lopez_Bird_Variation
+aZrNN,r4rk1/6pp/p1n2q2/1pp2p2/6b1/1QPP1N2/P2N1PPP/R3R1K1 b - - 4 19,g8h8 e1e6 f6d8 e6c6,1275,75,93,1502,advantage interference middlegame short,https://lichess.org/xMuE5mzL/black#38,Sicilian_Defense Sicilian_Defense_French_Variation
+achjs,r6r/pp2k1Q1/2b2p1p/b3pP2/P7/3P2N1/q1P3PP/2B2R1K b - - 5 21,a2f7 c1a3 e7e8 g7h8,1264,77,83,345,advantage interference middlegame short,https://lichess.org/AFO89XxI/black#42,
+adDmM,5r2/p3Npbk/1r1pb2p/2p3p1/4P3/P2B1PP1/1PPR2P1/1R5K b - - 0 21,b6b2 e4e5 h7h8 b1b2,1290,75,93,13135,crushing discoveredAttack interference intermezzo middlegame short,https://lichess.org/CI6N9mHt/black#42,
+agPN8,5k2/p2q3p/6p1/4Q1P1/5P1K/6P1/8/8 b - - 9 46,d7e7 e5h8 f8f7 h8h7,1245,75,100,527,crushing endgame interference master queenEndgame short,https://lichess.org/ruKmGWs7/black#92,
+aguje,3rkr2/ppp5/5pQ1/5P2/8/1P6/P2P1qPP/2R4K b - - 2 26,f8f7 g6g8 e8e7 c1c7 e7d6 g8d8,1287,78,86,712,advantage deflection endgame exposedKing interference long,https://lichess.org/4WcsrbUs/black#52,
+ah3E8,r3k2r/2pq1ppp/ppb1pn2/3pN3/Q2P4/2P1P1P1/PP4PP/RN2K2R w KQkq - 0 12,e5c6 b6b5 a4c2 d7c6,1266,359,100,4,equality interference intermezzo middlegame short,https://lichess.org/HjiCEFGh#23,
+alDnj,8/5pk1/4n1p1/2q1Pp2/3p1P2/p2R2Q1/8/3R2K1 w - - 0 48,d3a3 d4d3 g3f2 c5a3,1244,76,94,10121,advantage discoveredAttack endgame interference intermezzo master short,https://lichess.org/AKhy5dg1#95,
+aobmM,b1r3k1/5pp1/P3p2p/4P3/3p2PP/2p2P2/2B3K1/1R6 b - - 1 33,g7g6 a6a7 g8g7 b1b8 c8c7 b8a8,1294,80,71,67,advancedPawn crushing endgame interference long,https://lichess.org/Wcb0dnXT/black#66,
+aqaLW,r1b1k2r/3p1ppp/2pBp3/p7/8/1Bq5/P1P1KPPP/R2Q3R w kq - 0 14,d1d2 c8a6 e2d1 c3a1,1202,76,92,3666,crushing interference middlegame short,https://lichess.org/73dcRpYu#27,Sicilian_Defense Sicilian_Defense_Taimanov_Variation
+atGsR,5rk1/2q3p1/1b2pn1p/4p3/1P2P3/2r2B2/3N1PPP/R1Q2RK1 w - - 0 28,c1b2 c3c2 b2b3 c2d2,1286,77,83,602,advantage interference middlegame short,https://lichess.org/1JXIff3F#55,
+b0qNQ,r3k2r/p2q1ppp/b2p4/2pN4/6n1/5N2/PPP2PPP/R2QK2R w KQkq - 0 14,h2h3 d7e6 e1d2 e6d5,1270,78,92,1007,crushing interference middlegame short,https://lichess.org/jAWNIHBc#27,Ruy_Lopez Ruy_Lopez_Steinitz_Defense
+b2PuQ,r4rk1/ppp2ppp/4b3/4b3/4B3/2P5/PP3PPq/RNBQRK2 w - - 2 14,b2b3 h2h1 f1e2 e6g4 f2f3 h1g2,1204,77,83,368,advantage interference long middlegame,https://lichess.org/SgCfYVdN#27,Ponziani_Opening Ponziani_Opening_Neumann_Gambit
+b4QCV,r1q4r/2p1kppp/pbQ1p1n1/1p1pP3/5P2/4P3/PPPB2PP/RN3RK1 b - - 6 15,c8d7 d2b4 e7d8 c6a8,1200,75,98,1896,crushing interference middlegame short,https://lichess.org/pFYgY6U6/black#30,Queens_Pawn_Game Queens_Pawn_Game_Other_variations
+b5s4B,5b2/5p1k/q5pp/PR2p3/2P1P3/6P1/5P1P/R5K1 b - - 2 42,f8d6 b5b6 a6c4 b6d6,1209,105,78,63,crushing endgame interference master short,https://lichess.org/a28PYkr9/black#84,
+bGDur,5rk1/2q1R1b1/8/3p3B/1ppn2QP/6N1/1PP2r2/4R1K1 b - - 1 31,c7e7 e1e7 d4f3 g1f2,1263,188,11,11,crushing hangingPiece interference middlegame pin short,https://lichess.org/jCEFNhQk/black#62,
+bIc1s,8/R1p5/1p1kP2r/1P3Pp1/3K4/7P/8/8 w - - 0 41,a7a3 h6h4 d4c3 h4h3 c3b2 h3a3,1206,76,87,289,crushing endgame interference long rookEndgame,https://lichess.org/gUxY3jrW#81,
+bIm1g,8/pp6/4P1k1/3q1ppp/8/6P1/PP2Q2P/5K2 w - - 0 39,e6e7 d5h1 f1f2 h1h2,1234,77,86,179,crushing endgame interference master masterVsMaster queenEndgame short,https://lichess.org/PcJBQBip#77,
+bNEJ5,3kr2r/ppp5/3bB2p/8/3P1q2/1QP5/P4PPP/R3R1K1 w - - 1 20,b3b7 f4h2 g1f1 h2h1 f1e2 e8e6 e2d3 e6e1 a1e1 h1e1,1275,76,89,2443,advantage deflection interference middlegame veryLong,https://lichess.org/glhTBPWu#39,
+bVcET,1r1qnrk1/1p1bbp1p/p3p1p1/3pP2Q/8/PP1B4/1BPN1PPP/R3R1K1 w - - 0 15,h5h6 e7g5 h6h3 g5d2,1296,75,96,4551,advantage interference middlegame short,https://lichess.org/9vq9IrXp#29,Rubinstein_Opening Rubinstein_Opening_Other_variations
+bVsvi,2r3k1/3N1p1p/Q3p1p1/8/1P1q4/8/2R3PP/3K4 w - - 7 37,c2d2 d4g1 d1e2 g1g2,1274,76,93,4716,crushing endgame interference short,https://lichess.org/Jhw7vQnr#73,
+bXCP9,r2r2k1/pp3ppq/4p3/4N1P1/PP2nP1p/4P3/7P/RQ3RK1 b - - 4 26,h4h3 g5g6 f7g6 b1e4,1271,75,87,721,advantage interference middlegame short,https://lichess.org/1VwrfMFF/black#52,
+bXQjT,8/5R2/p4pp1/4Bk2/3PbP2/7K/1n4r1/8 b - - 1 59,e4d5 f7f6 f5e4 h3g2,1284,75,93,11869,advantage endgame interference short,https://lichess.org/9LWvxy56/black#118,
+bZeNb,6rr/1Rpkb3/4p2p/p2nP3/3P4/P2Q1N2/q2B1PPP/6K1 b - - 0 28,g8b8 d3b5 d7d8 b7b8,1224,105,68,76,interference master mate mateIn2 middlegame short,https://lichess.org/WVqmFlJJ/black#56,
+biMPe,2k2bnr/1ppr1ppp/p3b3/8/1nP1P3/2N2N2/PP3PPP/R1B1KB1R w KQ - 0 11,a1b1 b4c2 e1e2 e6c4,1265,80,92,3300,interference mate mateIn2 opening short,https://lichess.org/1q1YRPGE#21,Queens_Gambit_Declined Queens_Gambit_Declined_Albin_Countergambit
+btVvf,r2r4/8/4R3/1k1p4/2pB4/1p5P/pP3PP1/3R2K1 b - - 3 42,a2a1q e6b6 b5a4 d1a1,1237,205,44,21,endgame interference mate mateIn2 short,https://lichess.org/5OAHqIjr/black#84,
+bu1us,3r2k1/2p1qppp/p3p3/1p2P3/5P2/PpPrP3/4Q1PP/R1B2RK1 w - - 0 22,c1b2 d3d2 e2f3 d2b2,1210,73,94,9884,crushing interference middlegame short,https://lichess.org/Lcr1DK0J#43,
+buDpY,r2r2k1/1q2Bppp/2n5/p2p4/1p6/1Q2P1PB/PPR2P1P/2R3K1 b - - 0 20,c6e7 c2c7 b7b6 c7e7,1252,78,45,104,crushing interference middlegame short,https://lichess.org/m6TEX1Rd/black#40,
+bwYKY,r5k1/5pp1/2p1p2p/1p1p4/r2Pn3/4BN1P/1KP2PP1/3R3R w - - 4 22,d1a1 a4b4 b2c1 a8a1,1294,75,87,320,deflection discoveredAttack interference mate mateIn2 middlegame short,https://lichess.org/t81aYStr#43,
+c7JN0,8/8/5p1p/1Q4p1/6P1/P6K/r3kq1P/8 b - - 6 47,e2e1 b5b1 e1d2 b1a2,1279,76,88,919,crushing endgame interference short,https://lichess.org/LNkgbzIV/black#94,
+c7Ynx,4k3/p1q2p1Q/1p2pPp1/3p4/3P3P/1P6/5PP1/2r2BK1 b - - 0 30,e8d8 h7g8 d8d7 g8f7,1283,75,82,817,crushing endgame interference master short,https://lichess.org/NWaiRf0k/black#60,
+cASij,r4r2/1pk1Rppp/p2p2q1/2bQ1b2/2B5/8/PP3PPP/R5K1 b - - 5 18,f5d7 e7d7 c7d7 d5b7 d7d8 b7a8,1263,76,95,19548,attraction crushing deflection interference long middlegame,https://lichess.org/oUcqEE92/black#36,Scotch_Game Scotch_Game_Haxo_Gambit
+cI1xl,2kr3r/Qpp5/3q3p/6p1/2P5/6P1/P3n1PP/3R1R1K b - - 4 23,d6d1 a7a8 c8d7 f1d1,1240,75,91,1225,crushing endgame interference intermezzo short,https://lichess.org/DnX0NZZH/black#46,
+cKZEu,r1bqr1k1/6pp/p4n2/1p1p4/3p1P2/PB1P2P1/1P1B2P1/R2Q1RK1 w - - 2 20,d1f3 c8g4 f3f2 e8e2 f2d4 e2d2,1200,74,91,418,crushing interference long master middlegame,https://lichess.org/ZCYhjsmc#39,
+cNMlz,r2q3r/pp2bkp1/3pb2p/2p5/4PPn1/2N2Q2/PPP3PP/R1B2RK1 b - - 3 14,c5c4 f4f5 e6d7 f3g4,1209,77,91,1603,crushing interference middlegame short,https://lichess.org/XcE6oqTG/black#28,Italian_Game Italian_Game_Scotch_Gambit
+cPZkt,8/5ppk/5b1p/3q3P/3pp1P1/8/4QP2/1R4K1 w - - 2 32,b1b5 d4d3 e2f3 d5b5,1256,77,91,2888,crushing endgame interference short,https://lichess.org/0TO7967Z#63,
+cR3Od,r1bq1rk1/1pp2pp1/p1n2n1p/4p3/2B2B2/3P1N2/PPP3PP/R2QR1K1 w - - 0 14,f3e5 d8d4 f4e3 d4e5,1281,74,98,20315,crushing deflection fork interference opening short,https://lichess.org/iSZuspjL#27,Vienna_Game Vienna_Game_Other_variations
+cT8y6,2r4r/1p1pkpb1/p3p2p/3nP1p1/B7/5N1P/PPR2PP1/3R2K1 b - - 1 21,d5b4 d1d7 e7f8 c2c8,1288,75,84,805,interference mate mateIn2 middlegame short,https://lichess.org/0gnIwGPG/black#42,
+cTxL4,r1b2rk1/4npbp/4p1p1/1p1pP3/p1pP3q/P1P1BPN1/BP1Q1P1P/1R2R1K1 b - - 4 18,g8h8 e3g5 h4h3 g5e7,1285,86,53,58,crushing interference middlegame short,https://lichess.org/G8B4n0M3/black#36,Sicilian_Defense Sicilian_Defense_Bowdler_Attack
+cXzA2,rn1q1knr/pbppb2p/1p2p3/7Q/3P1B2/4P3/PPP2PPP/RN2KB1R b KQ - 2 10,g8f6 f4h6 f8g8 h5g5 g8f7 g5g7 f7e8 g7h8,1287,75,95,1666,advantage exposedKing interference opening veryLong,https://lichess.org/kCehsY41/black#20,English_Defense English_Defense_Other_variations
+cjVAI,r1b3k1/pp3p1p/2np1qp1/3Q4/2P2P2/1P4P1/P3B2P/1K1RR3 w - - 0 22,d5d6 c8f5 e2d3 f6d6,1245,77,95,10340,crushing interference intermezzo middlegame short,https://lichess.org/SyZeb4dz#43,
+cmzh5,r7/pppb2k1/6p1/3Qpp2/6n1/2P1PNP1/Pq2KPP1/R6R w - - 0 23,d5d2 d7b5 c3c4 b5c4 e2e1 b2a1,1233,76,95,6098,crushing interference long middlegame,https://lichess.org/7jUM6Bdc#45,
+cossV,r1b1k2r/pp1nq1pp/2n2p2/4P3/3p1P2/5N2/PP4PP/R1BQKB1R w KQkq - 0 12,f3d4 e7b4 c1d2 b4d4,1250,75,89,1390,advantage interference opening short,https://lichess.org/ijpOAsAL#23,Sicilian_Defense Sicilian_Defense_Staunton-Cochrane_Variation
+cqqGZ,2k2n2/2b5/q7/1R6/4p3/6pP/P5K1/5Q2 b - - 1 37,f8e6 b5b8 c8b8 f1a6 e6f4 g2g3,1205,78,71,271,crushing discoveredAttack endgame interference long,https://lichess.org/yA8zV0ly/black#74,
+cqypP,r1bqkb1r/ppp1p3/8/3pP2p/4n2N/3BPPp1/PPP3P1/RN1QK2R b KQkq - 0 13,e4f2 d3g6 e8d7 d1d5,1247,74,96,11355,discoveredAttack interference mate mateIn2 opening short,https://lichess.org/bhv6GS6B/black#26,Queens_Pawn_Game Queens_Pawn_Game_Levitsky_Attack
+cx4Cp,4r1k1/2p2p1p/6p1/1p1q4/pP6/P1Q1p3/2K4P/4R3 b - - 0 30,g8f8 c3h8 f8e7 e1e3,1256,76,90,764,advantage endgame interference short,https://lichess.org/SQZTNmP0/black#60,
+d0yOg,r1b2rk1/1pq3p1/p1n1pNP1/8/1b6/2P1p2Q/PP5P/R3K2R b KQ - 0 20,f8f6 h3h7 g8f8 h7h8 f8e7 h8g7,1230,75,86,192,advantage deflection interference kingsideAttack long middlegame,https://lichess.org/wu8cjQ27/black#40,
+d3QEI,2q1k2r/3R1ppp/8/1QB1p3/4P3/1n6/2r2PPP/1R4K1 b k - 0 23,c2c5 d7c7 c5b5 c7c8 e8e7 c8h8,1261,77,75,582,advantage discoveredAttack interference long master middlegame skewer,https://lichess.org/rhPJerpF/black#46,
+d6Sry,6k1/p6p/6p1/3p4/2pBb2q/2P1RB2/1P1K1R2/8 w - - 0 48,f3e4 h4f2 e3e2 f2f4 d4e3 f4e4,1202,76,92,955,advantage endgame hangingPiece interference long,https://lichess.org/5aopiI9e#95,
+dHcXZ,rnb1k2r/p4ppp/2p1pb2/q7/1p1P4/2NBPN2/PPQ2PPP/R3K2R w KQkq - 0 11,c3a4 b4b3 c2c3 a5a4,1297,75,94,8552,advantage discoveredAttack interference middlegame short,https://lichess.org/hnyefaBw#21,Semi-Slav_Defense Semi-Slav_Defense_Other_variations
+dKMWo,8/2pQ3p/p3B1pk/4p2q/3bP3/5r2/PP3P1P/5R1K b - - 7 35,d4f2 e6g4 h5h4 g4f3,1274,77,90,481,advantage endgame fork interference master short,https://lichess.org/L5N1Ok9n/black#70,
+dLNpY,2k4r/p2qp1b1/1p4pr/2pQ1p2/2P4P/P2PP1P1/5NK1/1R5R b - - 0 22,e7e6 d5a8 c8c7 a8a7,1275,75,93,3139,crushing interference master masterVsMaster middlegame queensideAttack short,https://lichess.org/Jb4yFbk6/black#44,
+dPlDV,rn2k2r/ppq2ppp/2p1p3/2Pp1b2/3Pn3/2NBPN2/PP3PPP/R2QK2R w KQkq - 3 10,c3e4 d5e4 f3d2 e4d3,1251,117,43,33,advantage fork interference opening short,https://lichess.org/HocFhB7I#19,Queens_Gambit_Declined Queens_Gambit_Declined_Baltic_Defense
+dRJmw,r5k1/pp3p1p/4q1p1/3p2Q1/2p5/2B3P1/P4PP1/7K b - - 0 32,h7h5 g5h6 f7f6 h6g6,1216,75,93,257,crushing endgame interference short,https://lichess.org/C7voIClx/black#64,
+dTlBf,r5k1/1p6/p1p3pp/3p4/P3p2q/1N2P2r/1PQ2P1K/2R4R w - - 0 25,h2g2 h4g4 g2f1 h3h1,1216,75,84,410,deflection interference mate mateIn2 middlegame short,https://lichess.org/W5t5NfZv#49,
+dXmMw,rn3rk1/3pq1pp/2p1p1n1/p3Pp2/PpPP4/1P2QN2/2BR1PPP/5RK1 w - - 1 22,f3g5 f5f4 e3h3 e7g5,1212,76,83,980,advantage interference middlegame short,https://lichess.org/LIu4Tgvl#43,
+daDHU,2rqk2r/1n1bbpp1/p2pp2p/1p1P4/1PpQP3/P1N1PN1P/B1P3P1/2KR3R w k - 4 17,d4g7 e7f6 g7g3 f6c3,1282,86,85,77,crushing interference middlegame short,https://lichess.org/iq8Pnc47#33,Nimzowitsch_Defense Nimzowitsch_Defense_Mikenas_Variation
+dfbrx,r1bq3r/4ppkp/p2p2p1/2pP2QP/1p6/3P1B2/PPP2PP1/R3K2R b KQ - 2 16,e7e5 h5h6 g7g8 g5d8,1240,91,86,43,interference mate mateIn2 middlegame short,https://lichess.org/OSp1uhwt/black#32,Sicilian_Defense Sicilian_Defense_Hyperaccelerated_Dragon
+dgqtN,r1b2rk1/p3b1p1/2q1p2p/1NppP3/8/P2B4/2P1QPPP/R4RK1 w - - 2 18,c2c3 c5c4 d3b1 c6b5,1217,81,91,1381,advantage interference middlegame short,https://lichess.org/g9jFmKCz#35,Caro-Kann_Defense Caro-Kann_Defense_Gurgenidze_Counterattack
+dp7Ni,2k5/ppp2prp/7r/3PPR2/B3P1pq/P7/1P4PP/R4QK1 w - - 1 25,f5f7 h4h2 g1f2 g7f7,1291,137,-71,10,crushing interference intermezzo kingsideAttack middlegame short,https://lichess.org/41oSFLvc#49,
+dsMlX,1r1qnrk1/3bnppp/3p4/pp2p1P1/4P3/1NQ1BP2/PPP4P/1K1R1B1R w - - 0 17,b3a5 b5b4 c3d3 d8a5,1278,74,94,19562,advantage interference intermezzo middlegame short,https://lichess.org/KDfjwOda#33,Sicilian_Defense Sicilian_Defense_OKelly_Variation
+dwFoL,3rr3/ppq3k1/1np3p1/5pBp/3P3P/1QP5/PP3KP1/4R2R w - - 3 23,g5d8 c7f4 f2g1 e8e1,1297,154,53,14,deflection interference mate mateIn2 middlegame short,https://lichess.org/18ry0pO2#45,
+dyO5W,r3kb1r/pp3pp1/5nbp/q1p1p3/2PpP1P1/3P2NP/PPnBQPB1/RN1K3R b kq - 5 14,a5a4 b2b3 a4c6 d1c2,1239,98,86,33,crushing interference middlegame short,https://lichess.org/d4sB0MOl/black#28,Russian_Game Russian_Game_Other_variations
+e3Jku,r4r2/pb2bkpQ/1p2q3/3p4/3PpP2/4P3/PP2B1PP/2R2RK1 b - - 1 20,f8h8 e2h5 f7f8 h7h8 e6g8 h8g8,1278,75,93,3484,crushing interference long middlegame,https://lichess.org/naSlY2BR/black#40,
+e6unl,r3kr2/pp1b1pQp/2q1pB2/8/2n1R3/8/P4PPP/4R1K1 b q - 1 21,c4d6 e4e6 d7e6 e1e6 e8d7 e6e7 d7c8 g7f8,1297,74,100,548,crushing interference middlegame veryLong,https://lichess.org/ujdEBgLL/black#42,
+eCXpi,5r1k/3b2p1/7p/2q5/1p1pB3/1R1Q1P2/2PN2PP/6K1 w - - 0 32,d3a6 d4d3 g1h1 d3c2 e4c2 c5c2,1253,75,93,1206,advancedPawn advantage discoveredAttack interference long middlegame,https://lichess.org/ujJYZhSq#63,
+eFL3X,r7/pppqnpk1/2nb2p1/3p2B1/3P4/2PB1N1r/PP1N1PK1/R2Q1R2 w - - 2 16,f1h1 d7g4 g2f1 h3h1,1241,75,89,1213,advantage deflection interference middlegame short,https://lichess.org/4qa0BHQQ#31,French_Defense French_Defense_Exchange_Variation
+eIxJi,8/6pp/r1pk4/8/3K4/P1R4P/6P1/8 w - - 7 41,c3g3 a6a4 d4e3 a4a3 e3e2 a3g3,1239,76,94,149,crushing endgame interference long rookEndgame skewer,https://lichess.org/SjsEbL5G#81,
+eLQXO,3k4/1p1q3p/p3p1pP/3pQ3/1P1Pp3/4P1P1/5PK1/8 b - - 7 38,d8e8 e5h8 e8e7 h8h7,1219,83,82,93,crushing endgame interference queenEndgame short,https://lichess.org/zAlgqNKH/black#76,
+eLZ8u,6k1/3r3N/Q3p1pq/3n1p2/8/3P4/6PP/5R1K b - - 8 39,h6h7 a6c8 g8g7 c8d7,1262,76,85,650,crushing endgame interference short,https://lichess.org/LaUWMXaB/black#78,
+eaQiv,3rr3/1kp2ppp/p5n1/8/1bPN4/1P2BP2/P3KP1P/3R3R w - - 2 23,d4f5 g6f4 e2f1 d8d1,1264,76,99,923,deflection interference mate mateIn2 middlegame pin short,https://lichess.org/etONhW0h#45,
+edOr9,2r3k1/pb2q1pp/1p1b4/3PP3/3B4/PQ6/1P4PP/5RK1 b - - 0 25,d6c5 d5d6 g8h8 d6e7 c5d4 g1h1,1263,79,71,127,advancedPawn crushing defensiveMove discoveredAttack interference long middlegame,https://lichess.org/tcIvFJQ6/black#50,
+edyfO,3r1rk1/1p3ppp/p1np4/4q3/4P1b1/1N1B4/PPPQ2PP/1R3RK1 b - - 1 16,g4h5 f1f5 e5e7 f5h5,1257,74,94,20906,advantage interference middlegame short,https://lichess.org/5ZwZ6nxb/black#32,Sicilian_Defense Sicilian_Defense_French_Variation
+egCuO,2k5/3q4/p7/7p/1pPrP1p1/1Pb1N1P1/2Q1R3/7K b - - 7 34,d4d3 e3d5 d7f7 c2d3,1240,280,-57,3,advantage endgame interference short,https://lichess.org/6qXmmeEK/black#68,
+eiTLW,r1b2k2/ppq3pQ/2n1p2N/3p3n/3P4/1PP1Pr2/2B2P1P/R3K2R b KQ - 0 20,h5f6 h7h8 f8e7 h8g7,1247,75,94,12922,crushing deflection interference middlegame short,https://lichess.org/dnFzJ7mE/black#40,
+ejyj6,3r2k1/2Q3p1/5qNp/5P2/p7/1p1n3P/6P1/5R1K b - - 1 43,a4a3 g6e7 g8f8 c7d8,1259,75,72,174,crushing endgame interference short,https://lichess.org/6WldxhmU/black#86,
+elTkW,2r2rk1/4qpp1/p3p2p/1pP4n/8/2P2N1P/PPQ2PP1/R3R1K1 b - - 0 19,e7c5 e1e5 c5e7 e5h5,1289,74,94,17273,advantage interference middlegame short,https://lichess.org/85mZ6lvU/black#38,Queens_Pawn_Game Queens_Pawn_Game_Colle_System
+eliwn,5r2/2p4R/1p6/p2Pb1k1/2P1Bp2/5K1P/P7/8 b - - 0 38,f8h8 h3h4 g5f6 h7h8,1296,77,96,7764,crushing endgame interference short,https://lichess.org/fclb02x3/black#76,
+evOlJ,2b2r1k/8/2p2q2/3p1pp1/4r3/P2NP1P1/2Q2P1P/R4RK1 w - - 0 28,d3c5 e4c4 c2d2 c4c5,1267,102,47,28,advantage interference middlegame short,https://lichess.org/3gDxfwxb#55,
+ewAu9,r1bqk3/8/pp3p1r/3p1p2/Pb1PpN1p/1N2P2P/2Q3P1/2R2RK1 b q - 1 26,b4d6 c2c6 c8d7 c6d6,1206,77,93,4718,crushing fork interference middlegame short,https://lichess.org/Unm5fMKx/black#52,
+f5VJp,r4r1k/bpp3p1/3pqp1p/8/P1nPPB2/2P4P/2QN2P1/R4R1K b - - 6 24,a8e8 d4d5 e6e7 d2c4,1292,74,94,524,advantage interference middlegame short,https://lichess.org/cZEYnVFw/black#48,
+f8dPR,2r2k2/pp1q2pQ/5p1p/7P/6R1/6PK/P4P2/8 b - - 10 35,c8c4 h7h8 f8e7 h8g7,1217,86,76,489,crushing deflection endgame interference master short,https://lichess.org/j7lEYZel/black#70,
+fArqb,1knr4/1pp3R1/p1p5/4N2p/4PP1K/4P3/PPPr2R1/8 w - - 3 27,h4h5 d8h8 h5g6 d2g2,1254,79,100,50,advantage endgame interference master short,https://lichess.org/py6OiVkE#53,
+fBxuG,1n3rk1/r1p1qppp/pp2b3/3BP3/P7/6Q1/1P3PPP/3RK1NR w K - 3 16,g1f3 e7b4 f3d2 e6d5,1255,77,66,113,advantage interference middlegame short,https://lichess.org/mG95Qw9Z#31,Queens_Gambit_Accepted Queens_Gambit_Accepted_Saduleto_Variation
+fDrQm,7Q/2p2p2/1k1p4/pP1r4/5PK1/6P1/2p5/8 b - - 0 49,c2c1q h8b8 b6c5 b8c7 c5b5 c7c1,1203,76,84,227,crushing deflection endgame interference long skewer,https://lichess.org/4x48Nj8n/black#98,
+fFvN1,2rk3r/pp1b4/2pBp2p/2N3pP/1q6/n4N1P/PKP2PQ1/3RR3 w - - 1 30,b2c1 b4b1 c1d2 b1c2 d2e3 a3c4 e3d4 c4d6 c5b7 d6b7,1245,268,100,17,advantage interference middlegame queensideAttack veryLong,https://lichess.org/fYorrf0r#59,
+fLVeT,2r3k1/5ppp/2r1pq2/pN6/4Q3/4P3/PPK2P1P/R4R2 w - - 0 24,b5c3 c6c3 b2c3 f6c3 c2d1 c3a1,1207,76,91,830,advantage interference long middlegame,https://lichess.org/UbNEVmva#47,
+fOXn4,r2qk2r/pb2b1pp/1p2p3/4P3/3Pp3/3B4/PP2Q1PP/R1B2RK1 w kq - 0 16,d3e4 d8d4 c1e3 d4e4,1278,76,87,790,advantage interference kingsideAttack middlegame short,https://lichess.org/tKOgCwvO#31,French_Defense French_Defense_Normal_Variation
+fRjYF,r4rk1/1q1nbppp/p3p3/Bp1b4/3P4/P4N1P/1P2BPP1/2RQ1RK1 b - - 5 17,e7f6 c1c7 b7b8 c7d7,1289,75,93,949,advantage interference middlegame short,https://lichess.org/YUgivfHe/black#34,Queens_Gambit_Declined Queens_Gambit_Declined_Vienna_Variation
+fbcOT,1r4k1/p1pq2b1/5p1p/n1Ppp2P/3P3N/P1NQP2p/1r3P1B/R4RK1 w - - 0 24,h4f5 e5e4 d3d1 d7f5,1289,76,90,2463,advantage interference middlegame short,https://lichess.org/SfwTYuSn#47,
+ftqwk,r6r/pp1bkppp/2qpp3/8/6Q1/2P4P/PP3PP1/R3R1K1 b - - 0 17,f7f6 g4g7 e7d8 g7h8,1295,195,33,8,crushing interference middlegame short,https://lichess.org/qAs3La1o/black#34,Sicilian_Defense Sicilian_Defense_Modern_Variations
+fzIv3,3r1rk1/pbq3p1/1p2p3/2n2pN1/5P2/7Q/PPP3PP/3R1R1K b - - 1 21,f8f6 h3h7 g8f8 h7h8 f8e7 h8g7,1222,145,43,7,crushing deflection interference kingsideAttack long middlegame,https://lichess.org/uxUawM1b/black#42,
+fzsbZ,2k5/pp5p/2p3p1/5p2/P2P1n2/1P3P2/2Q2K1P/7r w - - 0 31,f2e3 f4d5 e3d2 h1h2,1270,74,100,675,crushing endgame interference short,https://lichess.org/0Ne0dEQA#61,
+g045r,r2k1r2/pb3p2/7R/3p1Qp1/2pq4/6P1/P4PP1/RB3K2 b - - 1 31,f8e8 h6d6 d8c7 f5d7 c7b8 d7e8,1292,75,97,1265,crushing exposedKing interference long middlegame,https://lichess.org/lHiYp9Tc/black#62,
+g7gnU,2b4r/2P5/2R1k3/5pK1/4pB2/7p/8/8 b - - 11 66,e6d5 c6d6 d5c5 d6d8 h8h7 d8c8,1216,101,56,19,crushing endgame interference long master,https://lichess.org/MnMMGKkJ/black#132,
+gARQF,2r3k1/1p3ppp/p3pN2/3q2P1/3P1P2/P5QP/1P3P2/2rR2K1 b - - 10 25,g7f6 g5f6 g8f8 g3g7 f8e8 g7g8 e8d7 g8f7 d7c6 d1c1,1287,77,78,323,crushing deflection discoveredAttack endgame interference kingsideAttack veryLong,https://lichess.org/8eTizb6o/black#50,
+gCMpB,5rk1/1bp4p/p4qp1/np2p3/6Q1/2PP3P/PPB2P2/R3R1K1 w - - 2 24,e1e2 b7f3 g4g3 f3e2,1226,85,73,94,advantage fork interference middlegame short,https://lichess.org/bxjNtDWv#47,
+gD6hw,r1b1nrk1/5p1p/p1p1p1p1/3p4/5P2/4B3/PqP1B1PP/R2Q1RK1 b - - 1 16,e8f6 e3d4 b2b4 d4f6,1202,77,93,1736,advantage interference middlegame short,https://lichess.org/v0pTUJuP/black#32,Sicilian_Defense Sicilian_Defense_Accelerated_Dragon
+gE4iI,1R3r1r/p3kpb1/qp2p1pp/3pP3/1P6/3P1N2/2Q2PPP/5RK1 b - - 4 22,f8b8 c2c7 e7e8 c7b8 e8d7 b8d6,1213,76,100,2462,crushing interference long middlegame,https://lichess.org/DPeJUKDC/black#44,
+gEJRY,r1b1r2k/ppp1q1bB/3p3p/3Pp1p1/2P5/3QPN1P/PP4P1/R4RK1 w - - 1 21,f3h2 e5e4 d3e2 h8h7,1212,83,83,72,advantage interference middlegame short,https://lichess.org/j9CFhiUW#41,
+gKfWX,r1b2rk1/pp2bpnp/3p1npB/q1PPp3/2P1P2P/P1NB1N2/5PP1/R2QK2R w KQ - 1 13,c5d6 a5c3 h6d2 c3d3,1265,79,93,984,advantage hangingPiece interference master middlegame short,https://lichess.org/HmkLGxYt#25,Benoni_Defense Benoni_Defense_Czech_Benoni_Defense
+gNbNJ,2rqr1k1/3b1p2/p3p1Np/1p1p4/1PpP1P1b/P1P1P3/2QK3P/RB5R b - - 0 26,f7g6 c2g6 g8f8 g6h6 f8e7 h6h4,1241,78,84,796,crushing exposedKing interference kingsideAttack long middlegame,https://lichess.org/Niu7GIp5/black#52,
+gW5d4,5kr1/1p3p2/p7/3p1B2/6pP/PPB2nP1/4rPK1/5R2 b - - 6 32,d5d4 c3b4 f8g7 f5g4,1238,76,95,11144,advantage endgame interference short,https://lichess.org/sFX3r4bj/black#64,
+gcH9o,r1b2rk1/pp4p1/2p4p/2Ppp1q1/PP1Pp3/4PP2/2Q3PP/1BR2RK1 b - - 0 21,e4f3 c2h7 g8f7 f1f3,1289,74,89,2763,crushing interference intermezzo middlegame short,https://lichess.org/9yo0Twvn/black#42,
+gkNLL,4k3/p3q1p1/1p3p1p/3Qp3/2P5/P6P/1P3PP1/5K2 b - - 2 32,e7d7 d5g8 e8e7 g8g7,1232,75,99,395,crushing endgame interference queenEndgame short,https://lichess.org/tjlimoTT/black#64,
+gvZeP,r4rk1/2p3b1/2bpN3/p4P1p/2P4P/2qp2B1/P2Q2P1/3RKR2 w - - 0 32,d2c3 g7c3 e1f2 f8f5,1264,80,94,1440,advantage interference middlegame short,https://lichess.org/drcCb15W#63,
+gvh3w,r6r/1pp2k2/p2Pb1p1/4Bp1B/P4P2/1Q2P1q1/6P1/R4K1R w - - 1 26,b3b7 e6c4 f1g1 g3e3 g1h2 h8h5,1228,76,94,6770,interference long mate mateIn3 middlegame,https://lichess.org/adEYEWF2#51,
+gxjgE,r3qr1k/p5p1/1bpp1p1p/5B2/1Pn2P1Q/P6P/6P1/R1B1R2K b - - 1 24,e8f7 f5e6 f7c7 e6c4,1234,76,91,1857,advantage interference middlegame short,https://lichess.org/uhWRWtCV/black#48,
+gy8mj,r2q1rk1/ppp2pbp/4p1p1/4Pb2/3nBP2/5N2/PPP1Q1PP/R1B2RK1 w - - 0 12,f3d4 d8d4 c1e3 d4e4,1276,76,100,416,advantage interference kingsideAttack opening short,https://lichess.org/zFgfwAqC#23,Modern_Defense Modern_Defense_Three_Pawns_Attack
+gzUgQ,r3k2r/pq2bppp/1p6/2p1p3/6P1/P2PBnNP/1PP2P2/R2Q1K1R b kq - 3 15,e7h4 g3e4 e8g8 d1f3,1231,229,-100,3,advantage interference middlegame short,https://lichess.org/NHnX53Ct/black#30,Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations
+h6rcv,2k5/p1p1b3/3p4/1q3p2/3BP1pN/2P1K1Pr/PP4Q1/R7 w - - 0 31,h4f5 e7g5 e3f2 b5b2 f2g1 b2a1,1255,75,94,1765,crushing fork interference long middlegame,https://lichess.org/HAuNNuRK#61,
+h8BVO,r5k1/pp1b1p1p/2p3p1/2PpPq2/3Q1P2/1P4P1/PB5P/2R3K1 b - - 2 22,a8f8 e5e6 f7f6 e6d7,1209,77,79,139,advancedPawn advantage endgame interference short,https://lichess.org/v1CgwkfQ/black#44,
+h8U1R,2r2rk1/pb1n1ppp/1pp5/3pP3/1b3P1q/1P2P1P1/PB2B2P/1NRQ1RK1 b - - 0 16,h4h3 e2g4 h3h6 g4d7,1256,77,87,567,advantage interference middlegame short,https://lichess.org/9eA7vQsS/black#32,Semi-Slav_Defense Semi-Slav_Defense_Normal_Variation
+h8emw,r6k/1pp2p1p/p6q/3b4/6R1/1P1P3P/2P1QNP1/7K b - - 3 34,d5e6 e2e5 f7f6 e5e6,1256,74,89,3482,crushing deflection endgame interference short,https://lichess.org/3Oz5jm5N/black#68,
+h9p5O,1r3rk1/p2qp1bp/2p1b1p1/N1p1P3/3p4/1P1P4/P1PBQ1PP/R3R1K1 b - - 0 19,e6g4 e5e6 g4e2 e6d7,1259,79,63,107,advancedPawn crushing interference middlegame short,https://lichess.org/RM6Fjnvs/black#38,Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack
+h9zaK,r1bk1b1r/pppp1Bp1/5N1p/8/4P3/2N5/PPPPKPqn/R1BQ1R2 w - - 0 11,f1h1 g2f3 e2e1 f3h1,1280,83,73,77,crushing fork interference opening short,https://lichess.org/nrxkxh4d#21,Italian_Game Italian_Game_Anti-Fried_Liver_Defense
+hJ2xc,2r4r/pp2pk1p/1q1ppbpB/8/2P3B1/1P6/P2Q1PPP/4R1K1 b - - 3 18,e6e5 d2d5 f7e8 g4c8,1272,76,93,1923,crushing interference master middlegame short,https://lichess.org/07b7D972/black#36,Sicilian_Defense Sicilian_Defense_Accelerated_Dragon
+hLthm,r3k2r/ppp2pp1/4p3/8/3P2Pq/P2QP3/1P3PK1/2R1R3 w kq - 1 20,e1h1 h4g4 g2f1 h8h1,1267,154,100,11,deflection discoveredAttack endgame interference mate mateIn2 short,https://lichess.org/T4Fs6b9m#39,
+hQfo1,r6r/pp6/2p1k3/2R1pp2/P4n2/1P1P1PP1/4BPK1/3Q3R w - - 1 28,g3f4 a8g8 g2f1 h8h1,1244,78,69,100,deflection endgame interference mate mateIn2 short,https://lichess.org/5lIpBeD5#55,
+hRw4X,r4rk1/2p1qpbp/p5p1/1p1P3n/1n2p3/1Q2P2P/PP2BPPB/R3NRK1 b - - 1 17,h5f6 d5d6 c7d6 b3b4,1251,77,64,245,crushing interference middlegame short,https://lichess.org/6NsAR088/black#34,Kings_Indian_Defense Kings_Indian_Defense_Other_variations
+hSipy,1rq2rk1/1p2ppbp/3p2p1/3P1b2/Q7/6P1/PP2PPBP/R1BR2K1 w - - 1 15,a4b3 f5c2 b3b6 c2d1,1239,77,75,157,crushing fork interference middlegame short,https://lichess.org/ZRSjPFQ3#29,English_Opening English_Opening_Symmetrical_Variation
+hUojv,6k1/5pp1/p6r/1pp5/2PpNPqN/PP1Pn1B1/7K/1R5Q w - - 1 35,b1e1 h6h4 g3h4 g4h4 h2g1 h4e1,1227,75,89,300,crushing exposedKing interference long middlegame,https://lichess.org/yxDIPJEe#69,
+hfKyP,3r1rk1/p2Qppbp/6p1/2B1P3/5P2/8/qPP3PP/2KR1B1R w - - 1 17,d7d8 a2a1 c1d2 f8d8,1263,76,93,7821,advantage interference intermezzo master middlegame short,https://lichess.org/3nJbqMDz#33,Sicilian_Defense Sicilian_Defense_Hyperaccelerated_Fianchetto
+hjnJJ,5r1k/1p5r/p1p1Rpp1/8/5q2/1BQ5/P4PPP/4R1K1 w - - 8 29,e6e8 f4h2 g1f1 h2h1 f1e2 f8e8,1286,77,94,1703,crushing interference long middlegame,https://lichess.org/L3PViCB8#57,
+hq4Vy,1r1q1rk1/2pbnpp1/R7/3BP2p/1b1P1P2/3QBN1P/1P4P1/5RK1 w - - 1 19,d5e4 d7b5 d3d1 b5a6,1292,75,97,2686,advantage fork interference middlegame short,https://lichess.org/yHRaNdLa#37,
+hqccb,2R5/1p1k1p2/pb2p3/3pq3/7Q/7P/5PP1/6K1 w - - 6 35,c8f8 e5e1 g1h2 b6c7 g2g3 e1f2,1248,76,94,10349,crushing endgame interference long,https://lichess.org/JwvPVPtw#69,
+hqt2D,r1r1k3/pp6/1q2p1Q1/3p4/3P1B2/P3PP2/1P2BKP1/2n5 b - - 4 30,e8d7 g6f7 d7c6 f7e6,1229,73,96,19415,deflection interference mate mateIn2 middlegame short,https://lichess.org/qRs0ST3U/black#60,
+htP69,r6k/pp4p1/2p1B2r/5ppQ/3P4/2P3q1/PP3RP1/4R1K1 w - - 1 25,h5f3 g3h2 g1f1 h2h1 f1e2 h6e6,1255,76,78,76,advantage interference kingsideAttack long middlegame,https://lichess.org/Hg0lxaqt#49,
+htkkD,8/8/p3r3/5kp1/R7/1P3K2/P7/8 b - - 6 45,e6h6 a4a5 f5g6 a5a6 g6h5 a6h6,1221,77,85,284,crushing endgame interference long master masterVsMaster rookEndgame,https://lichess.org/siGbNGe8/black#90,
+hwQdx,r6r/b1pk3p/p2p1q2/3Q2B1/p2n4/7P/PP4P1/R3R2K b - - 1 24,f6f5 e1e7 d7c8 d5a8,1271,76,93,2688,crushing interference middlegame short,https://lichess.org/0PDCCrj3/black#48,
+hyQZM,1rb1kb2/3n1pp1/p5n1/3Np1PQ/4q3/2P1B3/1P2NP2/2KR4 b - - 1 24,d7c5 d5c7 e8e7 e3c5,1259,77,84,392,interference master mate mateIn2 middlegame short,https://lichess.org/f96kKaxo/black#48,
+hzubB,2k5/1b1r1Npp/pp2n3/6p1/4P3/2PPR2P/P5K1/7R w - - 3 28,h1f1 e6f4 g2h2 d7f7,1274,77,93,16471,advantage endgame interference short,https://lichess.org/N4JTYKbQ#55,
+i1358,6n1/p2pqk1r/np2p3/5p2/2PPNQ2/P7/1P2BP1p/R6K b - - 1 24,h7h4 e4g5 f7g6 f4h4,1248,75,94,4261,advantage interference middlegame short,https://lichess.org/1UtNFCjD/black#48,
+i4nNS,1r3rk1/3R1p1p/p1p1p1pn/8/2P1P3/4P3/PP1Q3R/2KN2q1 b - - 5 23,h6g4 h2g2 g1f1 g2g4,1262,76,80,144,advantage interference middlegame short,https://lichess.org/79IuTbSi/black#46,
+iDEbt,2k3r1/p2rb3/3qp3/1p3pp1/1nPP1P1p/1BQ4P/6P1/R1B2RK1 b - - 1 24,d7c7 c4c5 d6c6 c3b4,1258,80,92,5486,advantage interference middlegame short,https://lichess.org/P10BXWWk/black#48,
+iE4Gu,r3k1nB/p1p2p1p/2pb4/3p4/4p3/1P2P3/P1PP1PqP/RN1QK2R w KQq - 0 11,e1e2 g2f3 e2e1 f3h1,1211,101,83,48,crushing interference middlegame short,https://lichess.org/1Q46U2ld#21,Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation
+iWzWe,r4r2/2qn1ppk/p1pppb1p/2p5/2N1P3/1P1PB1QP/P1P2PP1/3R1RK1 w - - 12 17,c4d6 f6e5 f2f4 e5d6,1271,77,93,3457,advantage interference middlegame short,https://lichess.org/eSThqKlv#33,Sicilian_Defense Sicilian_Defense_Modern_Variations
+ib6rR,r1b2rk1/pp4bp/3B1qp1/3pp2n/1Q6/2PB4/PP1N1PPP/R4RK1 b - - 1 15,f8d8 d6e7 f6f4 e7d8,1298,75,74,154,crushing fork interference middlegame short,https://lichess.org/zpynX0pN/black#30,Benoni_Defense Benoni_Defense_Old_Benoni
+icVxb,5k2/1p3p1p/p3b1p1/8/3R2n1/2q4P/P1P1Q1P1/2K4R w - - 0 20,h1d1 c3a1 c1d2 a1d4,1294,79,94,10387,crushing endgame interference master short,https://lichess.org/FzlsKZ6y#39,
+iemLQ,r2q1rk1/1p4pp/p3p2n/3pB3/8/3PP2P/PP3PP1/R2Q1RK1 w - - 1 16,d1h5 f8f5 h5d1 f5e5,1228,75,84,325,advantage interference middlegame short,https://lichess.org/gTyTahV0#31,Queens_Pawn_Game Queens_Pawn_Game_Other_variations
+inRhL,r7/5k2/2p3R1/3pP3/1p1P1P1P/3K1P2/P7/8 w - - 4 38,g6g2 a8a3 d3c2 a3a2 c2b3 a2g2,1279,77,83,308,crushing endgame interference long rookEndgame skewer,https://lichess.org/XqFrN7Mv#75,
+ir41l,8/2pb3k/p4q1n/1p2p2Q/4P3/2P5/PP3PP1/4R1K1 w - - 3 34,e1d1 d7g4 h5e8 g4d1,1287,77,55,112,advantage endgame fork interference short,https://lichess.org/e7BrPZgB#67,
+iv7yj,r1b1k2r/pppp1ppp/2n5/4P1B1/2P3n1/q1P2N2/P3PPPP/R2QKB1R w KQkq - 3 9,f3d4 a3c3 g5d2 c3d4,1220,79,92,4374,advantage interference opening short,https://lichess.org/lRQI0Qgn#17,Indian_Defense Indian_Defense_Budapest_Defense
+ivFV1,5rk1/3p2p1/5q2/1N5p/P3p3/4B3/1P1r1PPP/R4RK1 b - - 2 23,d2b2 e3d4 f6e6 d4b2,1241,77,71,176,advantage fork interference middlegame short,https://lichess.org/9h3W0ESS/black#46,
+j0HJa,r1n4r/ppp2pk1/3q1pp1/3P4/2PPR3/3B1Q2/P4PPP/4R1K1 w - - 8 23,e4e8 d6h2 g1f1 h2h1 f1e2 h8e8,1266,75,99,420,crushing interference kingsideAttack long middlegame,https://lichess.org/s7B67sP8#45,
+j33L8,2k4r/ppq2pp1/4pn1p/2n5/2P2B2/P6N/1P2BPPK/3RR3 b - - 2 24,c7e7 f4d6 e7e8 d6c5,1239,75,92,3533,advantage interference middlegame short,https://lichess.org/AGnig30a/black#48,
+j7d6s,r1bq3r/pp3kbp/2p2n2/3p1pp1/3P1N2/4BQ2/PPP2PPP/R3RBK1 w - - 0 17,f4h5 g5g4 f3d1 f6h5,1272,75,97,3082,crushing interference opening short,https://lichess.org/sTKX9G9f#33,Alekhine_Defense Alekhine_Defense_Modern_Variation
+jU7M9,2r2rk1/pp1b1pp1/3p1q1p/3P4/4P3/1BP5/P2Q1PPP/R3R2K b - - 0 19,c8c3 e4e5 d6e5 d2c3,1259,214,-100,4,crushing interference intermezzo middlegame short,https://lichess.org/hYLEOjZ3/black#38,Sicilian_Defense Sicilian_Defense_Alapin_Variation
+jVvoE,1r3r1k/1bq3pp/3b4/1Bp2p2/2Q1pP2/2N3P1/PP5P/2KRR3 b - - 6 27,d6e7 d1d7 c7b6 d7e7,1292,75,93,1858,advantage interference master middlegame short,https://lichess.org/z2LrF7RC/black#54,
+jewJz,8/p4ppk/4b2p/5p2/8/R3Q2P/6PK/3q4 b - - 3 36,e6d5 a3d3 d1a1 d3d5,1286,73,94,21938,advantage endgame interference short,https://lichess.org/GnUXy6te/black#72,
+jgY2d,1r6/4R3/4P1k1/4r2p/1P6/4P3/8/KR6 w - - 0 49,b4b5 b8a8 a1b2 e5b5,1297,107,0,25,crushing endgame interference rookEndgame short,https://lichess.org/S6QOCqh4#97,
+jhWhP,rn1q2rn/pbpp1k1Q/1p2p2p/7P/3P1p2/P4N2/1PP2PP1/2KR1B1R b - - 1 19,g8g7 f3e5 f7f8 h7h8,1255,76,90,7049,crushing interference opening short,https://lichess.org/vIRIZhCr/black#38,Horwitz_Defense Horwitz_Defense_Other_variations
+ji5Wu,1r5k/p3rpp1/4q1bp/3p4/3B1PNQ/1P2P3/P4KPP/4R3 b - - 2 25,h8g8 g4h6 g7h6 h4h6 f7f6 h6g6,1249,76,94,3648,advantage interference kingsideAttack long middlegame,https://lichess.org/a0apDKKh/black#50,
+jiS3w,8/4b2p/8/1K3k1P/p7/8/P2B4/8 b - - 3 47,a4a3 d2b4 e7d8 b4a3,1246,86,79,46,advantage bishopEndgame endgame interference master short,https://lichess.org/Bh8nUBav/black#94,
+jmHpO,3r1k2/ppp1q1p1/2nr1pB1/4p2Q/4P3/2P4P/PP3P2/R3K2R b KQ - 13 24,e7d7 h5h8 f8e7 h8g7 e7e6 g6f5,1274,75,85,213,deflection interference long mate mateIn3 middlegame,https://lichess.org/JbpwqT0C/black#48,
+jmxQR,r2q3r/pb2kpnp/1n1p2p1/1B4P1/3QP3/5P2/PPP5/2KR2NR b - - 2 16,g7e6 d4f6 e7f8 f6h8,1236,75,95,5439,advantage interference middlegame short,https://lichess.org/umKNqIqW/black#32,Pirc_Defense Pirc_Defense_Other_variations
+js0lg,r6r/2q2kpp/pn1b1p2/Q2B4/2pP2P1/2P4P/1P3K2/4R2R b - - 0 27,b6d5 a5d5 f7f8 d5a8,1210,83,85,40,advantage interference middlegame short,https://lichess.org/JbS8KBtH/black#54,
+k0BgM,5r1k/pp4pp/7r/2pp4/3pP3/5P2/PPPQ1KBq/R3R3 w - - 6 24,e1h1 f8f3 f2f3 h6f6 f3e2 h2g2,1274,77,88,1762,attraction crushing deflection interference long middlegame pin sacrifice,https://lichess.org/AcElZss8#47,
+k28xh,3r4/p4Rp1/2p4p/8/3rk3/7P/PPP5/5R1K b - - 1 33,d4d1 f7e7 e4d5 f1d1,1282,75,96,20350,crushing endgame interference master rookEndgame short,https://lichess.org/M9ceuxjX/black#66,
+k5NNm,2k2b2/1ppn2p1/p2p3p/8/1PR5/8/3BNqPP/4R2K b - - 2 25,d7e5 c4f4 f2a7 f4f8,1224,76,86,206,advantage interference middlegame short,https://lichess.org/iX1RmFtY/black#50,
+k65l9,1k5r/1p1r1p2/pp1p3p/3Q2p1/3PBqP1/2P5/PP3PP1/R5K1 b - - 7 25,f4g4 e4f5 g4e2 f5d7,1238,78,90,2862,advantage endgame fork interference short,https://lichess.org/WAGMoZiu/black#50,
+kIV8Q,2r4r/3qkp2/p2pB1pP/8/1p1QR3/8/PPP5/2K5 b - - 0 28,f7e6 d4g7 e7d8 g7h8,1218,77,82,84,crushing endgame interference short,https://lichess.org/4xt4WZvA/black#56,
+kLaeO,3r3r/6k1/1p4q1/p1b1Q3/P5N1/7P/1P3PP1/5RK1 b - - 4 38,g7f7 e5c7 f7g8 c7d8,1204,238,57,3,advantage interference middlegame short,https://lichess.org/Q4vVWRsN/black#76,
+kQEaD,8/2qk2rp/p1pp4/5Q2/8/3P4/PPP4P/7K b - - 0 30,d7d8 f5f8 d8d7 f8g7 d7c8 g7c7,1277,79,93,17786,crushing endgame exposedKing interference long,https://lichess.org/wJDgRMxa/black#60,
+kZwcd,2k4r/p1p1qppp/2Q5/3r4/8/4B3/1P3PPP/2K4R b - - 0 18,h8d8 c6a8 c8d7 a8d5,1252,78,85,1180,crushing endgame interference short,https://lichess.org/Up843AHX/black#36,Scandinavian_Defense Scandinavian_Defense_Icelandic-Palme_Gambit
+kdd7V,r4rk1/ppB1b2p/4b3/1Q2Np2/P2P2p1/4P3/4BKPq/2RR4 w - - 0 23,d1h1 e7h4 f2f1 h2h1,1256,78,96,18698,interference mate mateIn2 middlegame short,https://lichess.org/Kgid2Pa3#45,
+kftLs,r3k3/1bqp1pp1/p3p3/2P1b3/1P4p1/P1N5/1B2QPPr/R3RKN1 w q - 1 20,e2e5 b7g2 f1e2 c7e5,1255,76,85,431,crushing interference intermezzo middlegame short,https://lichess.org/WOI36Q6w#39,
+ki65b,r2r4/2q2kp1/b1p1pbp1/2P2n2/p4P2/P6R/QP1B2PP/4R1K1 b - - 8 27,d8h8 a2e6 f7f8 h3h8,1264,80,79,64,interference mate mateIn2 middlegame short,https://lichess.org/vIGeYNST/black#54,
+km1AS,4r1k1/pp3ppp/2pb4/7q/3P4/2PQ1PP1/PPB1b2P/4R1K1 b - - 0 20,h5g5 d3h7 g8f8 h7h8 f8e7 e1e2,1203,75,94,445,advantage interference kingsideAttack long middlegame,https://lichess.org/wI2KyVzM/black#40,
+kmLhx,r7/p1k2ppp/2p5/2Bb4/3Pr3/8/PR3PPP/1R4K1 b - - 6 23,a8e8 b2b7 c7d8 b7b8 d8d7 b1b7 d7e6 b8e8,1293,74,76,278,crushing deflection endgame interference veryLong,https://lichess.org/uFEWX8ku/black#46,
+ktLeA,r1b2rk1/1p4pp/1q1p3n/2p1p3/1pP1N1P1/3PPN1P/1PKQB3/3R3R w - - 2 17,d1a1 b4b3 c2d1 a8a1,1275,74,82,237,crushing interference middlegame short,https://lichess.org/KX6KAoEe#33,English_Opening English_Opening_Kings_English_Variation
+kuNgY,5r2/6p1/2pk3p/3p4/4p1P1/Q1P5/PP2Brq1/1K2R3 b - - 1 33,d6e5 a3e7 e5f4 e7f8,1287,75,79,299,advantage endgame interference short,https://lichess.org/ViXl9TPY/black#66,
+l5QlX,r4rk1/4q1p1/p3p1p1/n2pPpn1/P1pP4/2P1QN1P/5PP1/R3R1K1 w - - 0 24,f3g5 f5f4 e3f3 e7g5,1293,79,66,61,crushing interference intermezzo middlegame short,https://lichess.org/oIVSAiwS#47,
+lDxJL,1r2r1k1/p4ppp/3R1b2/q1p5/2R2Q2/1P2P2P/P3BPP1/6K1 w - - 1 22,c4a4 a5e1 e2f1 f6e5 f4f3 e5d6,1287,75,98,709,advantage fork interference long middlegame,https://lichess.org/gaxU6RJY#43,
+lF4uu,7R/8/5r2/pR4k1/8/r6p/5P1K/8 b - - 15 51,g5f4 h8h4 f4f3 h4h3 f3e4 h3a3,1294,77,78,312,crushing endgame interference long rookEndgame skewer,https://lichess.org/Ke7nwSJC/black#102,
+lILrG,3r2k1/pp3pp1/2p4p/2B1r3/7q/PB1P1P2/1P2P1K1/R2Q1R2 w - - 2 24,f1h1 e5g5 g2f1 h4h1,1247,79,76,96,crushing deflection fork interference middlegame short,https://lichess.org/AtThVUQR#47,
+lJrle,r2q3r/pp1k2Q1/3p2Bp/3p4/2P5/1P6/P4PPP/R5K1 b - - 0 20,d8e7 g6f5 d7d8 g7h8,1285,78,85,418,crushing endgame interference short,https://lichess.org/MBiNDA69/black#40,
+lYB8y,1r3bk1/1r3pp1/8/4N3/p4P2/2P3PP/1PKR4/3R4 w - - 2 39,d2d8 b7b2 c2d3 b8d8,1267,153,80,34,crushing endgame interference master short,https://lichess.org/UsZWI4SK#77,
+laV7T,r5k1/1p4pp/2p2p2/q2p4/3Pn3/1P1QP1P1/2N1R2P/5K2 b - - 0 29,e4c3 b3b4 a5d8 d3c3,1286,75,84,106,advantage endgame interference short,https://lichess.org/IWMw1H7M/black#58,
+lfXno,r6r/p2qk1pp/3pp3/5p2/3Q1P2/7P/PPP5/1K5R b - - 1 22,a7a5 d4g7 e7d8 g7h8,1257,211,-100,4,advantage endgame interference short,https://lichess.org/kbXowEmV/black#44,
+liSAX,8/6b1/K2p4/3P1Q1k/1p2P2P/p5q1/P7/8 b - - 3 54,h5h4 f5h7 h4g5 h7g7,1218,103,55,60,endgame equality interference short,https://lichess.org/dsyeAPJx/black#108,
+lk6ZR,1r3rk1/2q1bpp1/7p/pp1Rp3/4P3/4BP2/1PP1Q1PP/3R2K1 b - - 0 22,b5b4 d5d7 c7c8 d7e7,1269,74,94,20872,advantage interference middlegame short,https://lichess.org/TF8L8fqW/black#44,
+lpOcc,8/8/R7/3p4/p2k3P/4r3/5K2/8 b - - 1 50,a4a3 a6a4 d4d3 a4a3 d3e4 a3e3,1221,75,100,152,crushing endgame interference long rookEndgame,https://lichess.org/CBez2rGs/black#100,
+lphmE,4r1k1/p4ppp/1p6/3p4/3nrPP1/2P3P1/P4K2/3RB2R w - - 0 22,d1d4 e4e2 f2g1 e2e1,1268,87,52,46,advantage deflection endgame interference short,https://lichess.org/fFKpd9Yl#43,
+lqHgg,rn1q1rk1/p4p2/1p2pbp1/3p1b2/3P1P2/P1N1P3/1P1B2P1/R2QKB1R w KQ - 0 16,g2g4 f6h4 e1e2 f5g4,1298,78,66,176,crushing interference middlegame short,https://lichess.org/eMSt6Cwq#31,Queens_Pawn_Game Queens_Pawn_Game_Mason_Attack
+lyV3H,3r2r1/pp1q1k1p/1np1p3/4P1R1/3P4/P4Q2/1P3PPP/3R2K1 b - - 2 27,f7e7 f3f6 e7e8 g5g8,1280,88,89,43,interference mate mateIn2 middlegame short,https://lichess.org/x6eKCes8/black#54,
+m6Ovu,r3k1nr/p4ppp/bq2p3/3pP3/1b1P4/5N2/3B1PPP/RN1QK2R b KQkq - 1 12,a6c4 d1a4 c4b5 a4b4,1221,76,95,4041,crushing interference master opening short,https://lichess.org/W5Tkoedd/black#24,French_Defense French_Defense_Advance_Variation
+m6igr,5rrk/pnp4p/1p1p2qP/3Pp1pR/5p2/2PP4/PP1NQPP1/2KR4 w - - 10 23,d2e4 f4f3 g2f3 g6h5,1271,76,88,2509,crushing interference middlegame short,https://lichess.org/l02BtHta#45,
+m8UlT,1r3r1k/ppp3pp/2npB3/5P2/4P3/2P1B1bP/PP1Q1KPq/3R1R2 w - - 5 20,f2f3 c6e5 f3e2 h2g2,1204,78,76,314,crushing deflection interference middlegame short,https://lichess.org/sNa0wFie#39,
+mTbtG,N4k1r/pp2pp1p/2p3p1/8/3qPPb1/3Bn3/P1P1K1PP/R3Q2R w - - 11 18,e2d2 e3c4 d2c1 d4a1,1265,76,95,23938,interference mate mateIn2 middlegame short,https://lichess.org/PGh2p5nz#35,Modern_Defense Modern_Defense_Three_Pawns_Attack
+mad60,r6k/6pp/2q5/5p2/1QpP4/2P1P1Pb/1PK2P2/3R2R1 w - - 2 28,d1a1 c6e4 c2d2 e4d3 d2c1 a8a1,1276,78,87,616,endgame interference long mate mateIn3,https://lichess.org/EBqqTv5O#55,
+masQP,rn2r1k1/pp2q1pp/2p2p2/3p1b2/3P4/1QN1PNP1/PP2BnP1/2R1K2R w K - 0 15,e1f2 e7e3 f2f1 e3c1,1204,77,100,143,advantage interference master middlegame short,https://lichess.org/M1Xf1iJX#29,Slav_Defense Slav_Defense_Other_variations
+mbMcK,3r2k1/p4p2/1r3b2/q2p2p1/1p4P1/P2BP3/1PQ2P2/1K1R3R w - - 2 28,a3a4 b4b3 c2c7 a5a4,1209,75,88,276,crushing interference middlegame short,https://lichess.org/Pv1ezR7W#55,
+mbNxc,1r4k1/p3b1pp/6q1/2pPRp1n/2P5/P2P2P1/3B1P1P/5Q1K b - - 0 23,e7d6 e5e6 g6g4 e6d6,1291,107,25,60,advantage interference middlegame short,https://lichess.org/B9E80xZk/black#46,
+mcLOP,8/p7/1p4r1/4pQ1k/1P3p1P/P4P2/7K/6r1 b - - 2 53,h5h4 f5h3 h4g5 h2g1,1209,76,94,2610,advantage endgame interference queenRookEndgame short,https://lichess.org/0OLGxGhj/black#106,
+mfLgl,2rq1r2/pp3k2/2p2ppR/3p2n1/3Pp1Q1/1P2P1P1/P1P2P2/R4K2 b - - 3 25,f8h8 h6h8 d8h8 g4d7 f7g8 d7c8,1229,75,94,8047,crushing interference long middlegame,https://lichess.org/dj5SnRKw/black#50,
+miNSF,1r3r2/p1p1k1p1/3n1p1p/2N1p3/2P5/5P2/P5PP/1R1R2K1 b - - 0 30,d6c4 d1d7 e7e8 b1b8,1289,76,69,143,endgame interference mate mateIn2 short,https://lichess.org/FWCE0iCt/black#60,
+mij8V,5rk1/1p2r1b1/1q1p4/pBpP1P1n/P6p/1P1QB1pP/6P1/1R3RK1 w - - 1 30,e3g5 c5c4 g1h1 c4d3,1255,77,86,76,advantage discoveredAttack interference master middlegame short,https://lichess.org/Osj9kvx5#59,
+miz0x,6Rr/kp5P/2qp4/8/3p4/3P1PP1/2P5/2NK3R w - - 4 38,d1e2 c6c2 e2f1 c2c1,1294,74,84,249,crushing endgame interference master masterVsMaster short,https://lichess.org/Yb6h3Oqw#75,
+mkYVf,rn3rk1/p4p2/2pp1qp1/8/1p2PB2/2b3N1/P1P1Q1PP/1R1R2K1 w - - 4 21,f4d6 c3d4 g1h1 f6d6,1289,76,92,4411,advantage interference intermezzo middlegame short,https://lichess.org/CKgw4hMu#41,
+ml6P7,r1b3rk/1p1qbp1p/p3p2Q/3p1p2/3P1N2/3B4/PPP2PPP/R4RK1 w - - 8 19,a1e1 e7g5 h6h5 g5f4,1235,75,98,7738,crushing interference middlegame short,https://lichess.org/LWTZGPcP#37,Caro-Kann_Defense Caro-Kann_Defense_Other_variations
+monFm,r3k2r/pp1b1pp1/4p2p/2qpPn2/5P2/2PB1NPP/P3Q2R/R1B1K3 w Qkq - 0 18,h2g2 c5c3 e1f2 c3a1 c1b2 a1a2,1272,86,90,34,advantage fork interference long middlegame,https://lichess.org/xGrGDeUE#35,Caro-Kann_Defense Caro-Kann_Defense_Modern_Variation
+mooRQ,1r4k1/p2N1p1p/6p1/3P1r2/8/P4K2/1bP2PPP/3R1B1R w - - 2 28,f3e4 b8e8 e4d3 f5d5 d3c4 d5d1,1290,73,95,28159,crushing deflection fork interference long middlegame skewer,https://lichess.org/ZLcyVezR#55,
+mpOsS,2r5/8/2Pp1qk1/p2Qp2R/1p3rP1/1P3pK1/P4P2/2R5 w - - 6 40,c1h1 f4g4 g3g4 f6f4 g4h3 g6h5,1227,75,94,4076,attraction crushing deflection endgame interference long sacrifice,https://lichess.org/jWrKpiIG#79,
+mpenr,8/p1r5/3k4/RP1p3p/3Pp1p1/4P1P1/3K3P/8 b - - 0 44,c7f7 a5a6 d6c7 a6a7 c7b6 a7f7,1248,76,95,794,crushing endgame interference long master rookEndgame skewer,https://lichess.org/h3h8zT6h/black#88,
+n4wlT,r1b3k1/pp3rpp/2p1p3/q3B3/3P3P/2nBP1Q1/PP6/R3K2R w KQ - 0 20,b2c3 a5c3 e1e2 c3b2 e2d1 b2a1,1238,76,95,1973,crushing exposedKing fork interference long middlegame,https://lichess.org/CfF6u1fS#39,
+n5xpc,3r2k1/p4pp1/2p2p2/1p4p1/3PRB2/2P2q2/PPQ5/4K3 w - - 0 28,f4h2 f3h1 e1d2 h1h2,1272,78,84,201,crushing endgame interference master short,https://lichess.org/3jQHMDSC#55,
+n7jmJ,3r2k1/pp4R1/5p1p/5P1P/5b2/PKP5/1P1r4/6R1 b - - 0 28,g8f8 g7g8 f8e7 g1g7 e7d6 g8d8,1284,147,83,26,crushing deflection endgame exposedKing interference long,https://lichess.org/iOUKmtkw/black#56,
+nNmu9,3br1k1/8/1pq5/pR3PN1/P1Ppp1Pp/3P3P/2PQ4/6K1 w - - 0 35,b5d5 e4e3 d2e2 d8g5,1232,75,98,679,advantage endgame interference master short,https://lichess.org/cOLJixf8#69,
+nP9Uz,4r3/pp2rkp1/2p4p/3p4/2P1nPP1/5N1P/PP4K1/4RR2 b - - 0 27,d5c4 f3e5 f7g8 e1e4,1268,75,96,30374,advantage endgame interference master short,https://lichess.org/MEybBJ6g/black#54,
+nPUiE,6k1/p5bp/1p1p1r2/2p1p1q1/4PpP1/P1PP1Q2/1P1N1PK1/7R w - - 2 30,f3e2 f4f3 d2f3 g5g4,1269,297,54,25,advantage endgame fork interference short,https://lichess.org/DDc11O6n#59,
+nRvOM,3r1rk1/1pq2ppp/p3p3/2P2b2/1P6/2N5/P4PPP/R2Q1RK1 w - - 2 18,d1f3 d8d3 f3e2 d3c3,1267,75,90,736,advantage interference middlegame short,https://lichess.org/3RVrHBWx#35,Sicilian_Defense Sicilian_Defense_Delayed_Alapin
+nWX2D,5rk1/pQ6/2p3pp/4pp2/2q5/8/PP3P1P/3N1KR1 w - - 0 27,f1g2 c4g4 g2f1 g4d1,1260,244,33,10,advantage endgame interference short,https://lichess.org/lYq0h4ZD#53,
+nZbyh,6k1/4q2p/6pQ/3Npp2/1p1n3R/3P2P1/1r5P/5K2 b - - 1 39,e7b7 d5f6 g8f7 h6h7 f7f6 h7b7,1211,77,96,1044,crushing deflection endgame interference long skewer,https://lichess.org/HuD2NTmC/black#78,
+nj0pY,2kr4/p1p2p1r/P1p1p2p/8/6q1/1Q6/3p1P1P/R2R1K2 b - - 1 28,h7g7 b3b7 c8d7 d1d2 d7e7 b7c7 e7f6 c7d8,1211,80,91,866,crushing deflection endgame interference queensideAttack veryLong,https://lichess.org/74OOVf8r/black#56,
+nj1aQ,2rk3r/1b3pp1/4Q2p/3RP2B/2n2P2/P7/1P3qPP/K6R b - - 0 24,b7d5 e6d5 d8c7 d5c4,1222,77,94,2931,crushing interference master middlegame short,https://lichess.org/A2zUXlfJ/black#48,
+njyXF,r2q1rk1/3b1ppp/n3p3/pp6/2pPP3/2Q2NP1/1P3PBP/R4RK1 w - - 0 16,a1a5 b5b4 c3c4 d8a5,1299,75,80,2675,crushing interference intermezzo middlegame short,https://lichess.org/ZVvjSAKL#31,Slav_Defense Slav_Defense_Modern_Line
+nnkVl,1b2r1k1/1p3pp1/p1p4p/3p3P/3Prq2/P2Q1P2/1PB3P1/3R1NK1 b - - 0 28,e4e1 d3h7 g8f8 h7h8 f8e7 d1e1 b8e5 e1e5,1273,74,97,4337,advantage interference kingsideAttack master middlegame veryLong,https://lichess.org/jaO9Eeqh/black#56,
+npYvH,1r1k2r1/2p5/pp1pR3/3P2n1/2P5/5B2/PP3K1P/4R3 w - - 0 30,e6e7 g5h3 f2e3 d8e7,1263,78,95,16266,crushing endgame interference short,https://lichess.org/22MsBKex#59,
+ntzy6,r6r/2pq1p2/pbnp1nk1/1p2p1B1/4PPbP/1BPP2Q1/PP1N2P1/R4R1K b - - 0 18,f6h5 f4f5 g6g7 g3g4,1248,75,93,5884,advantage interference master middlegame short,https://lichess.org/e094HNoa/black#36,Ruy_Lopez Ruy_Lopez_Morphy_Defense
+nvFpE,8/R4k2/2r1p1p1/1p1q1p1p/1PpP4/2Q1PP1P/5KP1/8 b - - 6 30,f7f6 e3e4 f5e4 f3e4 d5e4 d4d5 e6e5 d5c6,1296,75,92,2032,crushing discoveredAttack endgame interference veryLong,https://lichess.org/8xCWVVWO/black#60,
+oEv7T,4n2k/1r4n1/1q6/b2P4/4PpP1/2Q2P2/2R3B1/R1K5 w - - 0 51,c3a5 b6g1 c1d2 g1g2,1276,78,93,15220,advantage interference middlegame short,https://lichess.org/FEJ2TSTe#101,
+oFkoP,2kr2nr/ppp3pp/2nq1p2/3p4/8/1P1Pb2P/PBPNB1P1/R2Q1R1K b - - 4 14,d6g3 e2g4 c8b8 f1f3 g3d6 f3e3,1286,77,95,20129,advantage interference long opening,https://lichess.org/dBwVEcNA/black#28,Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation
+oIm6L,5kn1/2r3pQ/p2p1rP1/4p3/4P3/1q3P2/2P4R/2K4R b - - 1 33,b3f3 h7g8 f8e7 g8g7,1233,86,78,49,crushing deflection interference middlegame short,https://lichess.org/2U4TEmeh/black#66,
+oOPgS,r3k2r/p1q3pp/b1N1pn2/3p4/3P4/2P1B3/P4PPP/R2QK2R w KQkq - 1 14,c6e5 c7c3 e3d2 c3d4,1245,74,98,713,advantage deflection interference middlegame short,https://lichess.org/nk9dCsQV#27,French_Defense French_Defense_Knight_Variation
+oTHWI,r1b2rk1/6pp/p1p5/1q2pp2/1B2Q3/4KN2/P1P2PPP/R6R w - - 0 18,e4h4 f5f4 e3d2 b5b4,1227,77,95,17541,crushing interference middlegame short,https://lichess.org/3ltAbow6#35,Sicilian_Defense Sicilian_Defense_Open
+oTpJn,8/8/5R2/P2K2kp/2pB4/2Pb4/8/r7 w - - 3 58,a5a6 a1a5 d5d6 a5a6 d6e7 a6f6,1242,75,99,1142,crushing endgame interference long,https://lichess.org/s5fkf4qP#115,
+oWZV7,3rr1k1/pp2b1p1/2n4p/4p2P/3P4/P1Q1B3/qPP1NP2/2KR3R w - - 0 25,d4d5 a2a1 c1d2 d8d5,1288,75,89,656,crushing interference middlegame queensideAttack short,https://lichess.org/3FXvR6uu#49,
+oaO5y,q4rk1/pp2bpp1/1n2p2p/N2n4/3P4/5NBP/PP3PP1/2Q2RK1 w - - 1 17,c1d2 e7b4 d2d3 b4a5,1234,76,93,1009,crushing interference middlegame short,https://lichess.org/PfipVDWj#33,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+ogVwA,1R6/3k4/p1Np4/2p5/2P1P1rb/PP3b2/8/4RK2 w - - 10 53,c6a5 f3g2 f1e2 g4e4,1279,77,95,27157,advantage endgame interference short,https://lichess.org/2wEHC69F#105,
+ohmNR,r5r1/2kp2p1/R1n1p3/1Qp1Bp2/1b6/4P2q/3PNP2/4K1R1 b - - 6 28,c6e5 b5b6 c7c8 a6a8,1217,76,88,371,interference master mate mateIn2 middlegame short,https://lichess.org/FDEoaMF5/black#56,
+oiLI6,r4r2/1bbn2pQ/p2qpkBp/1p1p4/1P1P1PP1/P1N1P3/7P/R4RK1 b - - 0 21,f8h8 g4g5 f6e7 h7g7 e7d8 g7h8,1287,78,87,58,crushing deflection interference long middlegame,https://lichess.org/uVc5mx3w/black#42,
+oigpc,2r2rk1/2p1q1pp/pp2p3/3bPpN1/3P4/P7/1P1Q1PPP/2RR2K1 w - - 0 25,d2e3 f5f4 e3c3 e7g5,1244,75,92,902,crushing interference middlegame short,https://lichess.org/rCsJYrR0#49,
+oj1I7,r5r1/p1pqkp1p/3n1bp1/2QR4/3N4/4P2P/P4PP1/5K1R b - - 4 22,a8b8 d4c6 e7f8 c6b8,1264,74,92,5019,advantage fork interference middlegame short,https://lichess.org/ufW2oAoT/black#44,
+oq3gM,6k1/2p3pp/p1p5/2P5/2Pp4/6q1/Pr1RP3/R3KQ2 w - - 0 31,e1d1 b2d2 d1d2 g3c3 d2d1 c3a1,1296,76,68,100,attraction crushing endgame interference long master,https://lichess.org/YKjPpoCg#61,
+outl0,r6r/pp1bb3/1q2k2p/3pPp2/3n1PB1/2N3Q1/PPP4P/R1B1K1R1 b Q - 0 19,f5g4 g3g4 e6f7 g4g7 f7e8 g7h8,1235,80,81,53,advantage interference long middlegame,https://lichess.org/hDb70aeN/black#38,
+p11eG,r6r/1p1kb1p1/p3pp1p/1NPp1b2/1P1Pn3/4P2P/5PPB/R3KB1R b KQ - 0 18,a6b5 f1b5 d7d8 a1a8,1266,75,88,753,interference mate mateIn2 middlegame short,https://lichess.org/3toBptET/black#36,Indian_Defense Indian_Defense_Other_variations
+p3LsB,1k1r4/ppp1b1pp/q2p4/4p3/PPN2r2/2P2N1P/1K2QPP1/R6R b - - 0 24,f4c4 b4b5 a6b6 e2c4,1256,75,94,1919,advantage interference intermezzo middlegame short,https://lichess.org/ZvjmfGbX/black#48,
+p4ALo,3r2k1/ppr2pp1/7p/PRpPq3/2Q1P3/8/5PPP/2R3K1 b - - 0 23,f7f5 d5d6 g8h7 d6c7,1275,77,73,376,advancedPawn crushing discoveredAttack endgame interference master short,https://lichess.org/KD9DieGK/black#46,
+pDTg3,r1bq3r/ppp1k3/2n1pnQp/6p1/4B2P/4P1B1/PPP2PP1/R3K2R b KQ - 2 14,f6e4 g6g7 e7e8 g7h8,1217,77,95,3948,crushing interference middlegame short,https://lichess.org/UBTFA3MM/black#28,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+pE0NO,2kr1bnr/ppp2ppp/4p3/8/4N2q/3PBP2/PPP2P1P/R2QK2R b KQ - 4 11,c8b8 e3g5 h4h5 g5d8,1286,75,82,282,crushing fork interference middlegame short,https://lichess.org/bRcE8HwU/black#22,French_Defense French_Defense_Two_Knights_Variation
+pI7MO,r4brk/p5qn/Pp4B1/1P1pP1BQ/3P4/2P5/6PP/R6K b - - 8 34,g7g6 g5f6 f8g7 h5g6,1262,79,94,3326,crushing interference intermezzo kingsideAttack middlegame short,https://lichess.org/qM2vSzJt/black#68,
+pQKyU,6r1/p7/4k3/1p1p1p2/3P3K/1PP5/R7/8 b - - 1 43,g8g7 a2a6 e6e7 a6a7,1227,77,81,156,crushing endgame interference rookEndgame short,https://lichess.org/AvOCT8qs/black#86,
+pTW7p,8/p7/8/3k4/r7/3K4/P1R5/8 w - - 2 40,c2h2 a4a3 d3c2 a3a2 c2b3 a2h2,1275,75,89,428,crushing endgame exposedKing interference long rookEndgame skewer,https://lichess.org/Q63urtiU#79,
+pc7jB,8/7p/1p1r4/3pk3/6P1/4PK2/P7/7R b - - 2 40,h7h6 h1h5 e5e6 h5h6,1217,77,83,143,crushing endgame interference rookEndgame short,https://lichess.org/zvYc2dx2/black#80,
+peMSq,3r1rk1/p3q1pp/1p6/n2Ppp2/4P3/4QN1P/P4PP1/1R2R1K1 w - - 0 24,f3g5 f5f4 e3f3 e7g5,1243,74,95,21579,advantage interference middlegame short,https://lichess.org/dPMqXUxX#47,
+phuoj,2r1q1k1/pp3pp1/5b2/2BR4/8/5Q1P/PP3PP1/6K1 w - - 3 25,d5h5 e8e1 g1h2 f6e5 g2g3 c8c5,1211,75,94,901,crushing endgame interference long,https://lichess.org/qkF5oWK6#49,
+pjA0v,1k4r1/p1pnqp2/6r1/7p/8/1P2PQP1/PBPP3P/RN3RK1 w - - 0 22,f3f7 g6g3 h2g3 g8g3 g1f2 e7f7,1265,79,90,137,advantage interference kingsideAttack long middlegame sacrifice,https://lichess.org/GMqsbL3L#43,
+prn2h,7k/5r1p/2pb1p2/3p1R2/1P1Pp1r1/P7/4N1P1/5R1K w - - 0 33,f5f6 g4h4 h1g1 d6h2 g1f2 f7f6,1253,75,68,267,crushing endgame interference long,https://lichess.org/YzC4LPh3#65,
+ptEsi,2kr3r/Qpp1bppp/2qpb3/8/8/5P2/PPP2P1P/1K1R1B1R b - - 0 15,c6f3 a7a8 c8d7 f1b5 c7c6 a8b7 d7e8 b5c6 f3c6 b7c6,1273,75,80,699,crushing deflection fork interference middlegame veryLong,https://lichess.org/8lBJnx5A/black#30,Kings_Pawn_Game Kings_Pawn_Game_Leonardis_Variation
+pxTtV,r5k1/ppp2ppp/8/4P3/4p1nq/2P3N1/PP3P2/R2QR1K1 w - - 1 21,g3e4 h4h2 g1f1 h2h1 f1e2 h1e4,1241,75,87,1567,advantage interference kingsideAttack long middlegame,https://lichess.org/NOzULbhn#41,
+q0iEV,r1bqr2k/4bppp/pppp1n2/3N4/2BQPP2/1P6/PBP3PP/R4RK1 w - - 0 14,d5b6 c6c5 d4d3 d8b6,1232,79,43,109,advantage interference intermezzo middlegame short,https://lichess.org/UbmXY3W6#27,Scotch_Game Scotch_Game_Other_variations
+q2bKD,r2qk2n/1pp2p1p/8/pPbp1b2/P5n1/1R2PP2/2PP3P/1N1QKBNR w Kq - 0 16,f3g4 d8h4 e1e2 f5g4 g1f3 g4f3,1263,76,93,1689,advantage interference intermezzo long middlegame,https://lichess.org/sM5Qflwr#31,Polish_Opening Polish_Opening_Other_variations
+q3SHw,5rk1/2p2rbp/8/p7/2Qpp3/qP3R2/P1P1N1PP/1K5R w - - 0 27,f3f5 d4d3 c2c3 d3e2,1255,79,58,603,advancedPawn crushing interference middlegame short,https://lichess.org/yqyj7UGl#53,
+q5ia4,4r2r/pp1k2bp/2p5/6p1/3Pnp2/BPP2N2/P5P1/3RR1K1 b - - 1 22,g5g4 f3e5 d7e6 e1e4,1291,77,89,3020,advantage interference middlegame short,https://lichess.org/tzaZLNjj/black#44,
+q99d5,r5qr/1p2k3/p2bpp2/P6p/4Q3/1P2P3/5PP1/2R2R1K b - - 3 27,g8g4 e4b7 e7f8 b7a8,1250,76,94,11676,crushing interference middlegame short,https://lichess.org/j3uI3Ob1/black#54,
+q9kd9,2k4r/pppr2Np/2b3p1/4p3/3P4/2Q1B3/qPP3PP/2KR3R w - - 0 19,d4d5 a2a1 c1d2 d7d5,1271,76,93,2435,advantage interference master middlegame queensideAttack short,https://lichess.org/MiQqx4uA#37,Dutch_Defense Dutch_Defense_Hopton_Attack
+qDoHQ,r1b1r1k1/pp2qpp1/8/2p4p/2PpPn2/1P3P2/PNQ1P1BK/R3N2R w - - 0 22,b2d1 e7h4 h2g1 h4e1,1249,75,87,1245,crushing interference opening short,https://lichess.org/cgThDp30#43,
+qHTRq,4r1k1/p4q1p/6pP/5p2/P1R5/5PQ1/6PK/8 w - - 2 41,c4c7 f5f4 g3g5 f7c7,1283,76,90,1341,crushing endgame interference short,https://lichess.org/sAvp0z3Z#81,
+qLCgK,1r6/2RRk1p1/p3p3/Bp2p3/1P4r1/6Pp/P4KbP/8 b - - 0 29,e7f6 d7f7 f6g5 f7g7 g5h5 g7h7,1266,75,100,182,advantage deflection endgame interference long,https://lichess.org/D7puROVR/black#58,
+qLsjd,6k1/3b1qp1/7p/2QP1p2/1pP5/3P3P/4RPPK/r7 b - - 0 36,f5f4 e2e7 f7f6 e7d7,1254,75,93,7744,advantage endgame interference short,https://lichess.org/q5d9p3TH/black#72,
+qX9rq,8/8/2k3p1/2p2p1p/p1P2P1P/P1R1P1P1/1r2K3/8 w - - 10 56,e2f3 b2b3 c3c1 b3a3,1217,75,98,3897,crushing endgame interference master masterVsMaster rookEndgame short,https://lichess.org/5x3UFJsG#111,
+qYLrb,1r6/8/p6p/5k2/2P2P2/5K2/1P3R2/8 w - - 2 44,f2g2 b8b3 f3f2 b3b2 f2g1 b2g2,1254,78,81,574,crushing endgame interference long rookEndgame,https://lichess.org/iHP7kY7z#87,
+qZAiq,r1bqk2r/5ppp/2p1p3/p2p4/4nB2/P3PP2/1PQ3PP/R3KB1R b KQkq - 0 15,e4d6 c2c6 c8d7 c6d6,1285,92,82,48,advantage fork interference middlegame short,https://lichess.org/2K7nggyI/black#30,Slav_Indian Slav_Indian_Other_variations
+qZJNB,3qr2k/pp4pp/2nr2p1/8/1PP1Q3/P3P3/4BPPP/R4RK1 w - - 7 25,e4c2 d6d2 c2a4 d2e2,1272,75,90,1166,advantage interference middlegame short,https://lichess.org/AHQcUE73#49,
+qaflG,r2q4/pp3p1k/4p2p/3pPP1Q/1PnP3b/P1N3rP/R5P1/5RK1 b - - 2 24,g3g7 f5f6 g7g6 h5h4,1200,78,94,4495,advantage interference middlegame short,https://lichess.org/XJZjOiF3/black#48,
+qcBqb,r3r1k1/1p1n1pbp/p1qp1pp1/Q1pN4/4P3/3P1N2/PPP2PPP/R4RK1 w - - 10 14,d5c7 b7b6 a5d2 c6c7,1250,76,93,6674,advantage interference middlegame short,https://lichess.org/8v8BbCDQ#27,Sicilian_Defense Sicilian_Defense_Canal_Attack
+qf2uo,r5r1/pQpqkp2/5p2/2b1B2R/2P5/1P2P3/P7/5R1K b - - 0 27,f6e5 h5e5 e7f8 b7a8,1220,78,94,1394,advantage fork interference middlegame short,https://lichess.org/Q2X5VrX0/black#54,
+qfUFv,7k/p5p1/1p1p3p/1Pp2r2/P1Bp1q2/3P1P2/2P1Q3/3K1R2 w - - 1 30,c4e6 f5e5 e2g2 e5e6,1217,76,100,809,advantage endgame interference short,https://lichess.org/VTxhzsuM#59,
+qnrKJ,r1b1k2q/pp2pp2/2p5/3pb3/6p1/3PB2P/PPP1NQB1/R6K w q - 2 20,h3h4 g4g3 e2g3 h8h4,1293,74,92,4495,crushing interference kingsideAttack master middlegame short,https://lichess.org/ltST3CQB#39,
+qnwaU,b1r5/P4pk1/1R4p1/7p/2p2P1P/2K3P1/8/8 b - - 4 45,g7h6 b6b8 c8c7 b8a8,1283,110,82,25,advantage endgame interference short,https://lichess.org/sNRHiu4C/black#90,
+quXd3,2b4r/4pk1p/p4qpQ/2NPbp2/2P5/1P1B2P1/P3R1KP/8 w - - 1 32,h6e3 e5d4 e3d2 d4c5,1286,75,93,8507,advantage interference middlegame short,https://lichess.org/Sfc8vChi#63,
+quew8,6k1/1p3p2/6pp/pNpq4/P3rPPP/2P2Q2/1P4K1/R7 w - - 0 34,a1d1 e4e2 g2g3 d5d1 f3e2 d1e2,1287,77,57,102,crushing endgame interference long pin,https://lichess.org/02pG0Boq#67,
+r1eth,3r4/5ppk/1RR3bp/8/6PP/P3QP2/1P4K1/3q4 w - - 1 45,c6c1 d8d2 g2g3 d1c1,1235,74,87,3697,crushing endgame interference master short,https://lichess.org/wwcBkup9#89,
+r2T7d,r7/5p1k/6p1/7p/3QR1nP/P7/5PPq/4RK2 w - - 5 40,e4e8 h2h1 f1e2 a8e8,1248,81,67,87,crushing endgame interference short,https://lichess.org/vBfs3EdK#79,
+r91kh,5R2/p2r2pp/1p2k3/4p3/2Pr4/1P5P/1P4P1/5RK1 b - - 4 29,d4d1 f8e8 e6d6 f1d1,1265,75,99,1403,crushing endgame interference master rookEndgame short,https://lichess.org/YaQ91XeI/black#58,
+rACxv,4R3/2P2p1k/4pP1p/4P2P/8/3K4/8/2r5 b - - 2 67,c1c7 e8e7 c7c5 e7f7 h7g8 f7g7,1278,78,94,913,crushing endgame interference long master rookEndgame,https://lichess.org/Jh5YUJ0C/black#134,
+rD7rC,r3k2r/p1p2pp1/2Q2n2/1pp4p/4P3/B1Pq3P/5PP1/3BK2R b Kkq - 1 17,e8e7 a3c5 e7d8 c6a8 d8d7 a8h8,1296,74,88,353,crushing interference long middlegame skewer,https://lichess.org/Zzo5M69V/black#34,Russian_Game Russian_Game_Stafford_Gambit
+rH618,r5k1/5p2/3p2p1/2p4p/8/1Q1P3P/1R2R1Pq/1K6 w - - 12 48,e2f2 h2g1 b1c2 g1f2,1221,75,76,658,crushing endgame interference short,https://lichess.org/8yz0awbG#95,
+rM41b,r4rk1/ppb1qppp/4p1b1/4N3/1P6/2P3BP/1P3PP1/3RQRK1 b - - 0 23,g6f5 d1d7 e7e8 d7c7,1286,93,14,51,crushing interference middlegame short,https://lichess.org/nMtaNB4J/black#46,
+rPFAf,r3q2k/p6r/4p1nQ/1p1pPp2/2pP1P2/2P4P/PPB5/R5RK w - - 0 30,h6g6 h7h3 h1g2 e8g6,1275,81,25,72,crushing interference intermezzo kingsideAttack middlegame short,https://lichess.org/x1U6cKWS#59,
+rSYFs,1r4r1/p4kp1/BqN1p1np/2BpP3/8/8/4QPPP/5RK1 b - - 0 24,b6c5 e2f3 f7e8 c6b8,1227,75,94,3657,crushing interference master middlegame short,https://lichess.org/3sGI1hbD/black#48,
+rV4qY,r1br2k1/p2N1ppp/2p5/8/8/P1N1b3/1PP3PP/1K1RR3 b - - 1 16,e3g5 d7f6 g7f6 d1d8,1287,77,80,115,crushing discoveredAttack interference kingsideAttack middlegame short,https://lichess.org/ji8p9qA9/black#32,Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit
+rgvlT,7k/1pp4n/1p4Q1/8/2b5/P1P4P/1P2qPP1/5RK1 w - - 1 31,f1b1 c4d3 g6f7 d3b1,1255,73,95,19385,advantage endgame fork interference short,https://lichess.org/eMElpWNx#61,
+rjUTo,1k1r1b1r/2p1npp1/Q7/1NpPp2p/6Pq/4PP1P/PP4K1/R6R b - - 2 19,e7d5 a6a7 b8c8 a7a8 c8d7 a8d5,1224,77,87,621,advantage interference long middlegame queensideAttack,https://lichess.org/dGse6xBc/black#38,Zukertort_Opening Zukertort_Opening_Pirc_Invitation
+rkvWZ,r3n1k1/pb2b1pp/2n1p2B/3pN2Q/2pP3P/4P3/P1Bq1K2/2R3R1 w - - 0 22,h5e2 e7h4 f2f1 d2c1,1223,75,88,809,crushing interference master middlegame short,https://lichess.org/kkZONZSk#43,
+ruMOn,r4k2/4Nr2/q3p1Qp/p3Ppp1/1b6/4P3/5PPP/1R3RK1 w - - 3 29,e7g8 f7g7 g6h6 f8g8,1202,75,97,10034,advantage interference middlegame short,https://lichess.org/QpjMoxep#57,
+s2Fgb,r4qk1/2R5/p3p1pp/1p1b1p2/1P5Q/P7/5PPP/2R3K1 w - - 0 30,c7e7 g6g5 h4h5 f8e7,1209,107,71,44,advantage endgame interference short,https://lichess.org/zAv3ye0Y#59,
+sD5zA,1r5r/1n1B1kpp/1R3pn1/2p1p3/4P3/P1P5/1PP2PPP/3R2K1 b - - 0 23,b7a5 d7e6 f7f8 b6b8,1210,76,92,2229,crushing interference middlegame short,https://lichess.org/oqleg41R/black#46,
+sG8SD,8/1p4p1/4k2p/r6P/4KP2/P7/7R/8 w - - 0 40,h2h3 a5a4 e4f3 a4a3 f3g4 a3h3,1289,109,82,37,crushing endgame interference long rookEndgame,https://lichess.org/McNZiWhk#79,
+sISlJ,8/pp3ppk/7p/1q6/3n4/4RN1P/1P1R1PP1/6K1 b - - 4 27,d4f5 e3e5 b5c4 e5f5,1259,75,84,594,crushing endgame interference master short,https://lichess.org/wUZYsytb/black#54,
+sIZHo,k4r1r/p7/2p1P3/3p2Pp/3BPq2/2P5/PR4Q1/4K2R w K - 3 29,e4d5 f4c1 e1e2 c1b2 e2e3 b2g2,1240,76,90,2071,crushing exposedKing interference long middlegame skewer,https://lichess.org/kbZeAIUa#57,
+sLcwx,5n2/pq4kp/1p1Rp1p1/2r1P3/5P2/P1P2RP1/1Q5P/4rBK1 w - - 3 32,f3d3 e1f1 g1f1 b7h1 f1f2 h1h2,1259,77,91,1071,attraction crushing interference kingsideAttack long middlegame sacrifice,https://lichess.org/KUTtMggB#63,
+sP2qM,8/4n2r/4P1k1/2P1K3/7p/R7/8/8 b - - 0 56,h4h3 a3g3 g6h5 g3h3,1247,76,88,1156,crushing endgame interference master short,https://lichess.org/PX523YFC/black#112,
+sUFMj,6Q1/8/2k5/2p2pK1/8/8/5PP1/2q5 w - - 4 65,g5h5 c1h1 h5g6 h1g2,1283,80,100,89,crushing endgame interference master queenEndgame short,https://lichess.org/Z6dY0X4z#129,
+sWX92,8/5R2/1pk1p3/p2pP3/P2P4/1KP3r1/8/8 b - - 11 50,g3g6 f7f6 g6g7 f6e6,1232,77,94,9104,crushing endgame interference rookEndgame short,https://lichess.org/3X2HUq6z/black#100,
+sZ2bU,3rrk2/1bq2pp1/p1npp3/1p2b1N1/1P5Q/P3R3/2P2PPP/1R4K1 b - - 7 21,f7f6 h4h8 f8e7 h8g7,1228,75,96,13030,deflection interference mate mateIn2 middlegame short,https://lichess.org/SOlxEEvP/black#42,
+sePV3,2b2r2/pp4k1/3p1Np1/3P1nP1/8/1P5P/P6K/2R5 b - - 4 37,f8h8 c1c7 g7f8 c7c8,1225,75,91,2460,crushing endgame interference master masterVsMaster short,https://lichess.org/XtnBOIpI/black#74,
+shkXE,rnb1qk1r/1pp1p1b1/pn2p3/3p2Q1/3P3N/2N5/PPP2PPP/R1B1K2R b KQ - 1 12,h8h5 h4g6 f8g8 g5h5,1261,75,96,1820,advantage interference opening short,https://lichess.org/qAXlLfDT/black#24,Alekhine_Defense Alekhine_Defense_Spielmann_Gambit
+skJ0S,r2qkbnr/ppp1ppp1/2n4p/4P3/3P2b1/3P1N2/PP3PPP/RNBQKB1R b KQkq - 0 6,c6d4 d1a4 g4d7 a4d4,1230,75,82,867,advantage interference opening short,https://lichess.org/Kawe2iUH/black#12,Scandinavian_Defense Scandinavian_Defense_Other_variations
+smeVe,rnbq1rk1/ppp2ppp/5n2/4N3/1b1P1p2/2NB4/PPP3PP/R1BQR1K1 w - - 9 12,c1f4 d8d4 f4e3 d4e5,1257,85,62,80,crushing deflection fork interference opening short,https://lichess.org/9nt5SSg2#23,Kings_Gambit_Accepted Kings_Gambit_Accepted_Modern_Defense
+soouW,2r1qbk1/2R4p/p2r2p1/1p1P1p2/4pP1P/1PQ1P3/1B4P1/5NK1 b - - 2 33,c8c7 c3h8 g8f7 h8h7 f8g7 h7g7,1292,74,99,1454,deflection interference kingsideAttack long mate mateIn3 middlegame,https://lichess.org/pBzrZJj8/black#66,
+sqGFj,r6r/p1p1kp1p/2Q1pp2/5q2/8/8/P4PPP/2RR2K1 b - - 0 18,a8c8 c6d7 e7f8 d7c8,1283,77,79,196,crushing endgame interference short,https://lichess.org/Hty2rVlI/black#36,Scandinavian_Defense Scandinavian_Defense_Main_Line
+ss4fM,6r1/1pp3rk/5p2/pP2pP1q/4P1b1/2PP4/5QRB/5R1K b - - 0 34,g4f3 f2f3 h5f3 f1f3 g7g2 f3h3 h7g7 h1g2,1228,87,86,73,advantage exposedKing interference middlegame sacrifice veryLong,https://lichess.org/q7sq8EKX/black#68,
+subH0,2r2r2/4k3/7R/2p2p2/p4P2/P7/2P5/2K3R1 b - - 0 38,f8h8 g1g7 e7f8 h6h8 f8g7 h8c8,1238,78,94,4950,crushing endgame exposedKing interference long rookEndgame skewer,https://lichess.org/nBtFYUMq/black#76,
+sxMIp,1r2r1k1/2q1bppp/1nP5/1P1p2B1/3N2n1/1Q6/3N1PPP/2R1R1K1 w - - 1 24,g5e7 c7h2 g1f1 h2h1 f1e2 e8e7,1261,81,82,44,advantage interference kingsideAttack long middlegame,https://lichess.org/z70xQyV7#47,
+szl16,3r1b1r/p1p1kp1p/2B3p1/4P3/3p4/5N1P/PPP3P1/1NKR4 w - - 0 22,f3d4 f8h6 b1d2 d8d4,1231,76,93,3946,crushing interference intermezzo middlegame short,https://lichess.org/8lnSUrnE#43,
+t2LKa,4kb1r/p2bpppp/3p4/2p1P1Q1/4N3/q3BN2/P1rK1PPP/1R5R w k - 0 17,d2c2 d7a4 c2d2 a3a2 d2e1 a2b1,1259,75,81,873,crushing exposedKing interference long middlegame,https://lichess.org/QEi0NVXN#33,Sicilian_Defense Sicilian_Defense_Chekhover_Variation
+t3JTa,1rb4r/p3Qpk1/4p3/q3Pp1p/2B5/P1N1P3/1P4PP/3R2K1 b - - 3 21,a5e5 e7g5 g7h7 g5h5 h7g7 h5g5,1290,77,91,1660,crushing interference long master middlegame,https://lichess.org/lezYvUCb/black#42,
+t7I5K,5rk1/pb2qpbp/1p4p1/3pp3/P7/1PR1P1B1/4BPPP/4Q1K1 b - - 0 22,e5e4 c3c7 e7a3 c7b7,1282,74,96,11386,advantage interference middlegame short,https://lichess.org/BVZWFD7A/black#44,
+tDJEA,8/8/2pkppp1/8/1r2PKPP/1P5R/8/8 w - - 6 48,h4h5 e6e5 f4f3 b4b3 f3e2 b3h3,1273,79,81,91,crushing endgame interference long master rookEndgame skewer,https://lichess.org/G9cMnJ1d#95,
+tIdgr,rnbqk1nr/pp3ppp/3b4/1B1Qp3/8/2N5/PPP3PP/R1B1K1NR b KQkq - 2 8,b8c6 b5c6 b7c6 d5c6 c8d7 c6d6,1212,78,78,297,advantage fork interference long opening,https://lichess.org/p0Kp2Pk1/black#16,Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Gedult_Gambit
+tJGai,b5r1/4k3/pq3p2/2RP1P1p/P3P2P/Q4Br1/4K1P1/8 b - - 0 45,e7f7 f3h5 f7g7 a3g3,1235,75,93,5113,crushing discoveredAttack interference middlegame short,https://lichess.org/WiiXIia7/black#90,
+tLax4,r1bq1k1r/1pp1n3/5p2/2Pp1ppp/p2P1N2/2Q1PB2/PP3PPP/R4RK1 w - - 0 17,f4h5 g5g4 f3e2 h8h5,1297,86,66,86,advantage interference intermezzo middlegame short,https://lichess.org/iCHMru5s#33,Dutch_Defense Dutch_Defense_Hopton_Attack
+tNvwy,3r1r2/2pkq3/p2p1np1/P1PPp3/4P3/2Q3Pp/3NBPnP/1R4K1 b - - 0 30,d8b8 c5c6 d7e8 b1b8,1259,75,92,2484,crushing interference middlegame short,https://lichess.org/oLTQI5BO/black#60,
+tVq2V,8/8/k1p2Q2/2Pp4/P5K1/4P1Pq/5P1r/1R1R4 w - - 3 40,g4g5 h3h5 g5f4 h2f2,1219,75,97,17977,endgame interference mate mateIn2 short,https://lichess.org/dpwdpPba#79,
+tdpIX,2kr3r/ppp2pp1/2pqb3/8/4P1p1/2NP1B2/PPP2PP1/R2QR1K1 w - - 0 15,f3g4 d6h2 g1f1 h2h1 f1e2 e6g4 f2f3 h1g2,1255,77,81,94,advantage interference kingsideAttack middlegame veryLong,https://lichess.org/buJtpmub#29,Petrovs_Defense Petrovs_Defense_Stafford_Gambit
+thHsn,r6r/5p2/p3qk2/4p3/1P2Q3/P4R2/2P3PP/7K b - - 6 36,f6e7 e4b7 e7f8 b7a8,1214,127,22,17,crushing endgame interference short,https://lichess.org/3MxDJQCA/black#72,
+tlJtk,r4r2/1p1q1kpQ/p2p1p2/3PnPP1/8/8/PPP5/2KR3R b - - 0 25,f8h8 g5g6 f7f8 h7h8,1229,75,94,1272,crushing interference middlegame short,https://lichess.org/zMWbiXKW/black#50,
+tlnwn,r6r/pppbkpQ1/4p3/3pP2P/4BP2/qPP2RP1/P1R3K1/8 b - - 0 27,d5e4 g7f6 e7e8 f6h8 a3f8 h8f8,1236,76,100,104,advantage interference long middlegame,https://lichess.org/ARhVxPC1/black#54,
+tqhW9,r6r/pQpnk2p/4p1p1/5p2/2P2R2/3B3P/P1PP1P2/b6K w - - 0 24,b7c7 a1e5 c7a5 e5f4,1213,134,41,23,advantage fork interference middlegame short,https://lichess.org/vmpfhuU3#47,
+ttir8,4rr1k/2p3p1/p1Pp1n1p/1p3q2/3Pp3/P1N5/1PB1KP2/R1BQR3 w - - 2 25,e1h1 f5f3 e2e1 f3h1,1213,76,95,3512,advantage interference middlegame short,https://lichess.org/2UWS6V4k#49,
+tuPOJ,5r1k/1p1b2p1/r4pQ1/p2Bq2P/P1p5/8/2P2PP1/R1R3K1 w - - 0 26,d5e4 f6f5 g6g5 e5e4,1258,75,93,1609,advantage interference middlegame short,https://lichess.org/bHwIUsKt#51,
+u31tp,r4r2/6Pk/p1pp4/1pb1p3/4P3/1P1P1b2/qPPBQP2/1NKR4 b - - 0 22,h7g7 d1g1 g7f7 e2f3,1274,74,93,1651,crushing interference middlegame short,https://lichess.org/Op2Ul4PK/black#44,
+u5bNG,2k5/ppp4r/4b3/1P4n1/P1P3p1/6Qp/3q1P1P/1R2NRK1 w - - 0 26,e1d3 g5f3 g1h1 d2d3,1252,75,85,134,crushing interference master middlegame short,https://lichess.org/V7OzYSUw#51,
+u86gT,rnb2rk1/ppp3pp/3p4/5p2/2PPpPP1/2N1P1q1/PPBBK1P1/R2Q3R w - - 1 14,g4f5 g3g2 e2e1 g2h1,1266,79,37,168,advantage interference middlegame short,https://lichess.org/tt0AMuc5#27,Dutch_Defense Dutch_Defense_Normal_Variation
+uB4RW,r1b1k1nr/pp3ppp/2n1p3/q2pP3/1b1p1P2/P1N5/1PP1N1PP/R1BQKB1R w KQkq - 0 8,e2d4 b4c3 b2c3 a5c3 c1d2 c3d4,1264,75,95,29072,advantage exposedKing fork interference long opening,https://lichess.org/DDugSylr#15,French_Defense French_Defense_Winawer_Variation
+uFzNe,1r1qr1k1/5pb1/4pnpp/pNp5/P2p1B2/3P3P/1PP2PP1/1R2QRK1 b - - 3 20,b8b6 f4c7 d8d7 c7b6,1265,77,74,282,crushing fork interference middlegame short,https://lichess.org/CBXRUWzU/black#40,
+uImJp,rnb1kb1r/pp6/1qp2p1n/3p2pp/3P3N/2P3BP/PPQNPPP1/R3KB1R w KQkq - 0 11,h4g6 c8f5 e2e4 f5g6,1222,337,100,11,equality interference middlegame short,https://lichess.org/nbr6SzQA#21,
+uLlLN,r2qkbnr/1p1b1pp1/p1n4p/1Np1P3/2B1p3/1QP1B3/PP3PPP/RN2K2R b KQkq - 3 11,a6b5 c4f7 e8e7 e3c5,1208,76,91,3590,attackingF2F7 interference mate mateIn2 opening short,https://lichess.org/c3axxY2V/black#22,Philidor_Defense Philidor_Defense_Other_variations
+uOhVU,2r5/p3r1kp/3p3p/1p1B4/8/4b1RP/PP6/3R3K b - - 0 36,g7f6 d1f1 f6e5 g3e3,1259,77,93,3206,crushing endgame interference short,https://lichess.org/a1ohTaST/black#72,
+uSrwh,r3k2r/ppp1B2p/6pQ/3qP3/8/8/PPb1n1PP/R4R1K b - - 0 17,e8e7 h6g7 e7d8 g7h8,1247,78,93,7581,crushing interference middlegame short,https://lichess.org/mVzVkZTb/black#34,Kings_Gambit_Declined Kings_Gambit_Declined_Queens_Knight_Defense
+uT41q,1rb2rk1/1pN2ppp/p2p3q/5n2/3P2P1/3Q1N2/PPP4P/1K1R3R b - - 0 17,f5e3 g4g5 h6h3 d3e3,1296,75,93,1909,advantage interference middlegame short,https://lichess.org/md1O2abB/black#34,Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense
+uVOgf,r3k1nr/1p1b1ppp/p3p3/3pP1B1/1P1P4/2b2N2/q2N1PPP/1R1Q1RK1 b kq - 0 16,a2a3 b1b3 a3a4 b3c3 a4d1 f1d1,1289,75,86,347,advantage interference long middlegame,https://lichess.org/ZPOCSbGF/black#32,French_Defense French_Defense_Normal_Variation
+uVZPo,r4rk1/p1p2ppp/8/Q7/3Pp2q/2P1P2b/PP1N4/R1B3RK w - - 2 20,a5g5 h3g2 h1g2 h4g5,1223,76,94,190,attraction crushing doubleCheck interference kingsideAttack middlegame short,https://lichess.org/lxAHk7R4#39,
+uWfPy,3r1r1k/2p3p1/p5Pp/1pbP1p1P/4q3/1Q6/PPP1B1R1/2KR4 w - - 0 27,e2f3 c5e3 c1b1 e4f3,1271,76,96,28956,crushing interference middlegame short,https://lichess.org/FBHig6gL#53,
+ud0Uy,3r1rk1/pp4pp/4b3/q1p2p2/2P1pP2/1P2P3/P3BPP1/R2Q1RK1 w - - 1 20,d1c2 d8d2 c2c1 d2e2,1254,90,59,85,advantage interference middlegame short,https://lichess.org/mqjt6sPH#39,
+ueLVm,r4rk1/1p3qp1/p2p1n1p/2pPPP2/3p4/1P4PP/P3Q1BK/2R2R2 b - - 0 22,f6d5 e5e6 f7e7 g2d5,1286,75,96,23589,crushing interference intermezzo middlegame short,https://lichess.org/W6hfJ4Dm/black#44,
+uedi7,r6r/pp1k4/2pp1Pp1/5b1n/5B2/P2P4/BPP5/2K1R2R b - - 0 23,h5f4 e1e7 d7d8 h1h8,1202,76,96,10069,interference mate mateIn2 middlegame short,https://lichess.org/MEE7y8Sb/black#46,
+ufDs9,r1q2rk1/1b3ppp/pB1p1n2/P2Pp3/8/2R2N1P/1P2RPP1/3Q2K1 b - - 0 21,c8d7 c3c7 d7b5 c7b7,1267,76,80,121,advantage interference middlegame short,https://lichess.org/cMwcxr01/black#42,
+ugvnj,2k2r2/1pq5/1P1p3p/2p3p1/Q1P1P1b1/6P1/3R3P/7K b - - 0 27,c7f7 a4a8 c8d7 a8b7 d7e6 b7d5,1257,85,53,52,advantage deflection endgame interference long,https://lichess.org/VDgqJvDF/black#54,
+ul6Jh,3r3r/pppQn2p/1b3kpB/8/4N3/7P/P1n3PK/1q6 b - - 3 27,f6f7 e4g5 f7g8 d7d8,1266,77,93,10601,interference mate mateIn2 middlegame short,https://lichess.org/sr20KQVr/black#54,
+ulJyo,5r2/6k1/p7/1p1pP3/2p2Pr1/P2pKRb1/1P4P1/3R4 b - - 5 36,g4f4 f3g3 g7f7 e3f4,1288,78,94,13113,advantage endgame hangingPiece interference short,https://lichess.org/NFtUSdZ3/black#72,
+v0pUm,2r1r1k1/1p3pp1/p2p3p/P2P4/1P2P2q/5Q2/6BP/3RK2R w K - 5 31,f3f2 e8e4 g2e4 h4e4 f2e2 e4h1 e1d2 h1d5,1263,76,98,9236,crushing exposedKing fork interference middlegame veryLong,https://lichess.org/4Nzd0tUd#61,
+v1hKu,4r1k1/ppq3pp/2n2p2/2p1b1N1/2P5/4P3/PBQ2PP1/3R1K2 b - - 2 20,e5b2 c2h7 g8f8 h7h8 f8e7 h8g7,1278,75,84,320,deflection interference kingsideAttack long mate mateIn3 middlegame,https://lichess.org/pQ1cihyO/black#40,
+v5oYq,r2k3r/pp1b1q1p/1np1p3/3p2Q1/3P3R/3B1P2/PPP3P1/1K2R3 b - - 3 26,d8c7 g5e5 c7d8 e5h8,1274,75,94,2201,crushing interference middlegame short,https://lichess.org/3SX7Ut2T/black#52,
+v9TIt,1r4k1/5rb1/pp4p1/2p4p/2Q5/2P2qPP/PP4N1/R1B3K1 b - - 3 24,f3g3 c1f4 g3h3 f4b8,1253,75,91,1889,advantage fork interference master middlegame short,https://lichess.org/rBEkDjjS/black#48,
+vERjW,3r2kr/pp3ppp/2p5/2Q5/4N1n1/6Pq/PPP2P1P/R1B1R1K1 w - - 3 18,c1f4 h3h2 g1f1 h2h1 f1e2 h1e4,1293,78,82,103,advantage interference kingsideAttack long middlegame,https://lichess.org/OMUswMTI#35,Englund_Gambit_Complex Englund_Gambit_Complex_Englund_Gambit
+vLc0Q,2k5/pp6/2p2p2/5Pq1/4R1P1/5B2/PP1r1B2/5K2 b - - 4 36,c8d7 f2e3 g5h4 e3d2,1292,74,92,2929,advantage endgame fork interference master short,https://lichess.org/2JQ2UiBw/black#72,
+vWb0k,r5rk/2R3p1/p4p1p/1p2p3/3n2Q1/1P1N2BP/P2q1PP1/2R3K1 w - - 1 33,c1d1 d4e2 g1f1 d2d1,1221,78,60,100,advantage interference kingsideAttack middlegame short,https://lichess.org/1ei7ewEV#65,
+vZmHG,1k6/pp3p1p/3p4/2r1n2Q/8/1Pq1P1P1/P1P2P2/2RK3R w - - 5 33,h5h7 c5d5 d1e2 c3d2 e2f1 d2c1,1210,245,33,8,advantage endgame interference long,https://lichess.org/1IcsQ1pD#65,
+vb2Wb,3r1r2/pp3kpQ/2p1pp2/2q1P1P1/4pP2/1P2P3/P5P1/1K5R b - - 2 26,f8h8 g5g6 f7e8 h7h8,1214,76,93,1916,crushing endgame interference short,https://lichess.org/akcsGXgN/black#52,
+vbniq,r3r1k1/2p2ppp/8/p2n4/1PN5/PQ1P4/1B3KPq/4RR2 w - - 0 21,f1h1 h2f4 f2g1 e8e1,1288,77,84,118,deflection interference mate mateIn2 middlegame short,https://lichess.org/eXLFeDSd#41,
+vc40I,8/8/r5pR/5k2/5P2/5K2/P7/8 w - - 3 45,h6h2 a6a3 f3g2 a3a2 g2g3 a2h2,1231,75,81,201,crushing endgame interference long rookEndgame,https://lichess.org/kLvnPrQn#89,
+viWlL,4rbk1/8/p1q3bp/1p4p1/1B2pp2/P1P4P/1P2QPP1/3R1NK1 b - - 1 35,f8g7 d1d6 c6c7 d6g6,1227,75,98,4183,crushing interference master middlegame short,https://lichess.org/SY0chEYz/black#70,
+vnzU9,7r/pn2kpp1/5n1p/2p1p3/3qP3/1B1P3P/PrP2PP1/R1Q2RK1 b - - 1 19,a7a5 c2c3 d4d3 c1b2,1258,75,95,10952,crushing interference middlegame short,https://lichess.org/OKsJTMUv/black#38,Giuoco_Piano Giuoco_Piano_Other_variations
+vqngf,3r2k1/p5pp/2q3r1/2p2R2/3ppBPP/2P3R1/P2Q2K1/8 w - - 2 39,c3d4 e4e3 d4d5 e3d2 d5c6 d2d1q,1266,75,88,78,advancedPawn crushing discoveredAttack interference long middlegame promotion,https://lichess.org/oXkYDa5Y#77,
+vsN11,7k/pp4qp/2p1Q3/8/P5r1/3B2p1/1PP3K1/8 b - - 1 34,h7h5 e6e8 g7g8 e8h5 h8g7 h5g4,1274,75,49,295,crushing endgame exposedKing interference long,https://lichess.org/DYIsiE9B/black#68,
+vv9hH,4rk2/1b3p1B/pp3q2/8/P1pP4/2P2pQ1/1P2r2P/4RRK1 b - - 5 31,e2e1 g3g8 f8e7 f1e1,1233,76,95,15351,crushing interference intermezzo middlegame short,https://lichess.org/82MzlzT6/black#62,
+vxvKx,7k/1b4rp/p5q1/2p1Q3/2P5/2P4P/6P1/6RK b - - 2 36,h8g8 e5b8 g8f7 b8b7,1294,75,91,1311,crushing endgame interference short,https://lichess.org/dcehNAj1/black#72,
+vyAzg,r3r1k1/1p2qp1p/4b1p1/pQ6/4P3/bP2BP2/4B1PP/1R1R2K1 w - - 4 21,e3g5 a3c5 g1h1 e7g5,1268,89,76,68,crushing interference middlegame short,https://lichess.org/iiHHRLcV#41,
+w3l3K,7R/4k3/1r2P2p/3K2p1/8/7P/8/8 b - - 3 48,b6e6 h8h7 e7f6 h7h6 f6f5 h6e6,1252,76,87,380,crushing endgame exposedKing interference long rookEndgame,https://lichess.org/U4Dxh3cf/black#96,
+w6DAS,8/pk3r2/1pp4P/8/1P2r3/2P5/P7/R5KR w - - 0 42,h6h7 e4g4 g1h2 f7h7,1292,77,85,104,endgame interference mate mateIn2 rookEndgame short,https://lichess.org/WJcKhrLG#83,
+wAj21,r1b1k2r/ppq2pp1/4p2p/8/NnPPp3/BP6/P3BPPb/R2Q1R1K b kq - 1 15,h2d6 c4c5 d6e7 a3b4,1269,76,92,6881,advantage interference opening short,https://lichess.org/kUH8Llq6/black#30,Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations
+wBle6,5r1k/6pp/6r1/7q/2Q5/6B1/4RP2/4RK2 w - - 5 48,e2e8 h5h1 f1e2 f8e8,1232,76,95,1131,crushing interference middlegame short,https://lichess.org/vSmEnnkA#95,
+wDxKX,6k1/p2R1rpp/2p1p3/6r1/2P5/4K1P1/PP5P/7R w - - 3 21,h1d1 g5e5 e3d4 f7d7 d4e5 d7d1,1282,76,93,3720,crushing endgame exposedKing interference long master rookEndgame skewer,https://lichess.org/VLyEQQJB#41,
+wEJL9,r3k2r/ppp2ppp/8/3Bp3/b7/Pn1P1PqP/3Q2P1/RNBK2NR w kq - 0 16,d5b3 a4b3 d1e2 g3g2 e2e1 g2h1,1217,201,-60,7,advantage exposedKing fork interference long middlegame pin,https://lichess.org/MYNqBg2W#31,Bishops_Opening Bishops_Opening_Other_variations
+wFmtM,1r6/p4p1k/2pp1p2/2p1pP2/4P1r1/1P1P1K2/P1P5/R4R2 b - - 1 22,b8g8 f1h1 h7g7 f3g4,1210,81,78,75,crushing endgame interference rookEndgame short,https://lichess.org/oecm0Quy/black#44,
+wHwdU,5rk1/1p1b1ppp/p3pqB1/3p4/8/P1r3BP/5PP1/3QRRK1 b - - 0 20,f7g6 g3e5 f6f7 e5c3,1230,75,87,982,advantage fork interference middlegame short,https://lichess.org/1sUwkvKZ/black#40,
+wJYhs,1R6/5rpk/4p3/1pPp1bqp/1Pn5/5P2/2P1Q1PP/5RK1 b - - 3 26,c4e3 f3f4 g5g4 e2e3,1262,82,82,109,advantage interference middlegame short,https://lichess.org/EaAEXE0B/black#52,
+wLcFv,r1b2rk1/1p2n1p1/1b1q1p2/pP1p4/P2P2P1/1BP1B1nP/5RP1/RNQ3K1 b - - 0 22,c8e6 e3f4 d6d7 f4g3,1242,129,0,17,advantage interference middlegame short,https://lichess.org/JYi8JpE6/black#44,
+wNqfm,Rr4k1/5p1p/6p1/4R3/1p1P1P2/1r1KP1P1/6BP/8 w - - 4 40,d3c4 b3c3 c4d5 b8a8,1261,76,94,1745,advantage endgame interference short,https://lichess.org/90f4HOp5#79,
+wWtJD,rnbq2r1/pppk1Q2/3ppb2/3P4/8/8/PPP2PPP/RN2K1NR b KQ - 2 12,f6e7 f7e6 d7e8 e6g8,1273,78,79,146,advantage interference opening short,https://lichess.org/W07ZnIfy/black#24,Rat_Defense Rat_Defense_Balogh_Defense
+wZJ6S,2k4r/pp5p/5p2/2b2P2/2p2BP1/2Pr4/PP2K3/R6Q w - - 0 24,a1d1 h8e8 e2f1 d3d1,1226,80,94,3462,crushing deflection endgame interference master short,https://lichess.org/4qYXW6Qi#47,
+wc0yJ,4rr2/p1p2Pk1/1p1p3p/3P4/4q3/P7/6QP/6RK b - - 0 29,g7f7 g1f1 f7e7 g2e4,1264,75,92,5139,crushing endgame interference short,https://lichess.org/hgJQT6E6/black#58,
+weOQ3,1r4k1/1q1b2pp/p3p1r1/3p2B1/1p1P3P/1P6/1P2QPP1/R3R1K1 w - - 3 27,a1a6 d7b5 e2e5 b5a6 h4h5 g6g5,1291,75,93,2424,advantage fork interference long middlegame,https://lichess.org/274auwvn#53,
+whdGD,r4rk1/pq2np1p/1p2p1p1/1Q2b3/8/2N1B1P1/PP3P1P/R2R2K1 b - - 4 18,e5g7 d1d7 b7f3 d7e7,1242,75,91,1443,advantage interference middlegame short,https://lichess.org/pkeIkVQB/black#36,Sicilian_Defense Sicilian_Defense_Modern_Variations
+wiVRL,r2r4/pp1bkp2/1q1p1pp1/3P2P1/2p1P2Q/2P2P2/P3N3/R3K2R b KQ - 0 25,d8h8 g5f6 e7d8 h4h8,1255,74,89,1014,crushing interference middlegame short,https://lichess.org/VuhRuxk2/black#50,
+wjFsc,6k1/ppqr2bp/2p3p1/8/1PP2P2/4p1P1/P1Q1B2P/1R4K1 w - - 0 28,b1b3 d7d2 c2e4 d2e2,1252,75,85,533,crushing endgame interference short,https://lichess.org/7Zknd0gF#55,
+wjz4Z,3r3r/1Qpk1pp1/1b3n2/4p2p/4P3/B1N5/3PBqPP/R6K b - - 2 29,d8b8 e2b5 d7d8 b7b8,1251,77,94,2117,interference mate mateIn2 middlegame short,https://lichess.org/BU9pAbtW/black#58,
+wlPlW,4k3/pp1R4/2p5/4p3/5nB1/2P1KP2/PP5r/8 w - - 16 49,e3e4 h2e2 e4f5 e8d7,1217,78,90,76,crushing endgame interference master short,https://lichess.org/DtDUxyAi#97,
+wqQ1L,3rkbnr/ppp2ppp/4b3/4p3/1nP1P3/2N2N2/PP3PPP/R1B1KB1R w KQk - 2 8,a1b1 b4c2 e1e2 e6c4,1271,76,81,479,interference mate mateIn2 opening short,https://lichess.org/qdMdWL2n#15,Rat_Defense Rat_Defense_English_Rat
+wuVmT,rnq2rk1/pp2ppbp/6p1/3p1b2/3P4/P2BPN1P/1P3PP1/R1BQK2R w KQ - 3 11,b2b4 c8c3 c1d2 c3d3,1284,75,96,23503,advantage fork interference middlegame short,https://lichess.org/agfFthDt#21,Modern_Defense Modern_Defense_Other_variations
+wx43V,r4r1k/p2n1ppB/bp1p4/2pP4/2P5/2P1q3/P1QN3P/1K2R2R b - - 5 18,e3h3 h7f5 h3h6 f5d7,1264,74,94,15132,advantage interference middlegame short,https://lichess.org/dEfMy67U/black#36,French_Defense French_Defense_Steiner_Variation
+wxVm8,8/8/p7/4P3/3Q4/1p6/rk2r3/7K b - - 5 57,b2b1 d4d1 b1b2 d1e2,1212,80,93,2020,advantage endgame interference queenRookEndgame short,https://lichess.org/xGaYxQvn/black#114,
+wxXxj,rn1qkbnr/pb2pppp/1p6/2pP4/6P1/7P/PP1PPPB1/RNBQK1NR b KQkq - 0 5,b7d5 d1a4 b6b5 a4b5 b8d7 g2d5,1266,75,90,2573,crushing interference long opening,https://lichess.org/tcOlLTWH/black#10,Grob_Opening Grob_Opening_Other_variations
+x5XuN,4R1qk/p2n1r1p/1p4Q1/2pPpp2/4n3/2P4R/6PP/6K1 b - - 5 33,g8e8 h3h7 f7h7 g6e8 h8g7 e8d7,1273,75,83,164,advantage endgame interference long,https://lichess.org/WDAcbiuJ/black#66,
+xFIjw,r1bk1bnr/1p3ppp/p3p3/1B1pP3/3q4/1Q2B3/PP3PPP/RN3RK1 b - - 1 11,d4b4 e3b6 d8e7 b3b4,1230,76,95,2321,interference mate mateIn2 opening short,https://lichess.org/3Tsre7yd/black#22,French_Defense French_Defense_Advance_Variation
+xLMLt,r2q3k/5Qpp/4Pp2/8/1B2p1PP/4P1b1/1P1Nb3/R2K3R w - - 1 28,d1e2 d8d3 e2d1 a8a1,1254,128,62,49,interference mate mateIn2 middlegame short,https://lichess.org/QyvfWRpd#55,
+xWk12,2krr3/p1p2ppp/P3p1q1/1N5n/2Pn4/7P/1Q3PP1/R4RK1 b - - 2 20,h5f4 b5a7 c8d7 b2d4,1291,75,97,2705,crushing interference middlegame queensideAttack short,https://lichess.org/kvpSDMeN/black#40,
+xYazu,6qk/p5b1/4r3/1pP5/1P1p2P1/B2P3P/R3Q3/6K1 w - - 9 39,e2g2 e6e1 g1f2 g8a2 f2e1 a2g2,1264,75,79,164,crushing discoveredAttack endgame exposedKing fork interference long skewer,https://lichess.org/Mv2w5CSg#77,
+xaaPS,r5rk/p1pqbp1p/2pp3Q/8/4P3/1P5P/1PP1NPP1/R4RK1 w - - 3 20,e2f4 e7g5 h6h5 g5f4 h5f5 d7f5,1255,82,80,71,advantage interference long middlegame,https://lichess.org/bGzU9Jr2#39,
+xfxNF,8/4rq1k/1p1pP1p1/pP2ppQp/P6P/5PP1/r7/2R2BK1 b - - 0 46,f7e6 f1c4 e6d7 c4a2,1264,75,95,12213,crushing endgame fork interference master short,https://lichess.org/ifTWm7j9/black#92,
+xgjqJ,8/pppk1p2/8/8/2p2P1r/1P5r/P2N2R1/5RK1 w - - 0 35,d2c4 h3h1 g1f2 h4f4,1230,79,86,192,advantage endgame interference short,https://lichess.org/LqoSp6Xc#69,
+xiCsh,1r2r3/k1p5/p5RQ/2p5/2PpP3/1P6/PKP2q2/8 b - - 4 37,f2e3 g6a6 a7b7 h6c6 b7c8 c6e8,1218,78,93,3400,crushing endgame interference long,https://lichess.org/MILMnmzS/black#74,
+xjW1d,8/pp2k3/4p3/5p2/3PpP2/P7/1P2QKNq/8 w - - 0 33,e2c2 e4e3 f2e3 h2g3 e3d2 g3g2,1294,76,93,12674,advantage attraction endgame exposedKing interference long pin,https://lichess.org/5WZWkjqf#65,
+xyX7m,1k1r1bnq/1pp5/p7/3p1b2/4pP2/P3QP2/1PP5/2KR1BB1 b - - 1 22,f8h6 e3a7 b8c8 a7a8 c8d7 d1d5,1289,77,91,132,crushing interference long middlegame queensideAttack,https://lichess.org/I8jsjGmP/black#44,
+yHR0R,r6r/1pk3pp/p3Rp2/2Bp1n2/N2P4/8/PPP2K2/8 b - - 0 36,h8e8 c5b6 c7c8 e6e8,1239,75,99,1197,crushing endgame interference short,https://lichess.org/3Ucx3RIC/black#72,
+yI4BH,6k1/5ppp/4p3/2p5/3PPq1n/P1P5/5P1P/3QK1R1 w - - 3 28,g1g4 h4f3 e1e2 f4g4,1299,77,92,5818,advantage endgame interference short,https://lichess.org/plb4FLYV#55,
+yOQBL,8/8/p5qk/8/8/P5p1/1P4Q1/K7 b - - 1 75,h6h5 g2h3 h5g5 h3g3,1294,115,65,34,crushing endgame interference master queenEndgame short,https://lichess.org/zaEYLGXa/black#150,
+yQWrN,rn1q3r/pp3k2/2pbpnQ1/3pp3/3P3N/2N3P1/PPP3P1/R3K2R b KQ - 3 16,f7e7 g6g7 e7e8 g7h8,1296,74,90,1541,crushing interference middlegame short,https://lichess.org/abtdAjpY/black#32,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+yXivS,2r2rk1/p5pp/n1pq1p2/1p2N3/1P1Pp1Q1/P3P2P/5PP1/2R2RK1 w - - 0 19,e5d7 f6f5 g4d1 d6d7,1234,80,88,69,advantage interference middlegame short,https://lichess.org/917ITyh7#37,Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations
+yYOfA,4r1k1/pp3pp1/2p2p2/2P4P/1P2r3/8/P1Q5/qBKRR3 b - - 3 28,e4e1 c2h7 g8f8 h7h8 f8e7 d1e1,1220,76,87,735,crushing endgame interference long,https://lichess.org/J5w94hiS/black#56,
+yaaVe,r4rk1/1p3qp1/p3ppNp/1n6/3PpP2/P3PQ2/1P4PP/2R2RK1 w - - 0 20,f3e4 f6f5 e4f3 f7g6,1234,77,84,267,advantage interference middlegame short,https://lichess.org/hvqOO4Dy#39,
+ycelG,2krr3/ppp3Qp/5p2/5q2/3P1N2/2P3P1/PP1R2bP/2K2R2 w - - 2 22,f1f2 e8e1 d2d1 e1d1 c1d1 f5b1 d1d2 b1b2,1297,76,91,410,attraction crushing interference middlegame queensideAttack veryLong,https://lichess.org/1dqdQdl9#43,
+yj50i,2r1r1k1/3n1p1p/p4bp1/1p6/1Q2P3/1P4PP/P4PB1/4R1K1 w - - 0 30,h3h4 f6c3 b4d6 c3e1,1292,77,66,120,advantage fork interference middlegame short,https://lichess.org/wp4oKpBk#59,
+ym6dO,1b3r2/3k4/1RR1p3/1P1p4/1P3n1p/4K3/8/8 b - - 3 40,h4h3 b6b7 d7d8 b7b8,1273,75,98,7045,crushing endgame interference short,https://lichess.org/JjwUnUCf/black#80,
+yq6sT,r4r2/1p1k4/p2p2p1/q1pPbb1p/5B1Q/2P5/PP3PPP/R3R1K1 b - - 3 20,e5f4 h4e7 d7c8 e7f8,1230,76,86,593,crushing interference middlegame short,https://lichess.org/MnXTFGUJ/black#40,
+ysL8y,2kr3r/pp3pp1/1ppqb3/8/1P2P1p1/P1NP4/2P1BPP1/R2QR1K1 w - - 0 16,e2g4 d6h2 g1f1 h2h1 f1e2 e6g4 f2f3 h1g2,1297,101,82,29,crushing interference kingsideAttack middlegame veryLong,https://lichess.org/ytbod1dn#31,Russian_Game Russian_Game_Stafford_Gambit
+ytKLG,5rk1/p5p1/3Bpp1p/q2p4/P2P4/4PP2/2R3PP/R5K1 b - - 1 24,f8d8 d6c7 a5a6 c7d8,1282,75,100,581,advantage endgame fork interference short,https://lichess.org/kj6d03Ao/black#48,
+ytkMB,rn2k2r/ppp2ppp/3bb3/3pN3/3P3q/3B2n1/PPP1QP1P/RNB2RK1 w kq - 0 10,f2g3 h4d4 c1e3 d4e5,1286,74,93,1375,advantage interference opening short,https://lichess.org/urPUO2U2#19,Russian_Game Russian_Game_Damiano_Variation
+ytnrG,2r1qrk1/3b1p2/1B1p1bp1/p3p2p/4P3/P2Q1N1P/1PP2PP1/1R2R1K1 w - - 0 23,d3d6 c8c6 d6d2 c6b6,1296,77,93,3201,advantage interference middlegame short,https://lichess.org/YyrIy1QP#45,
+yz6vt,r2qkbnr/2pb1ppp/n1P1p3/3p4/QB6/8/P3PPPP/RN2KBNR b KQkq - 0 9,a6b4 c6d7 e8e7 a4b4,1231,77,84,238,advancedPawn advantage interference intermezzo opening short,https://lichess.org/S6hdmDJ2/black#18,Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations
+z1sgF,5r1k/1p4pp/pqn5/3nP3/1PRP1r2/P4N2/5PPP/3Q1RK1 b - - 6 21,b6b5 c4c5 b5b6 c5d5,1227,75,92,6224,crushing interference middlegame short,https://lichess.org/qafonLyu/black#42,
+z42rx,r3k2r/pp3ppn/2pb2q1/7p/PP2Pp2/2NP1B1P/5PPK/1R1Q1R2 w kq - 0 22,f3h5 f4f3 g2g3 g6h5,1286,74,92,5040,crushing discoveredAttack interference intermezzo middlegame short,https://lichess.org/UIV2Uuoa#43,
+z8Ffm,2rq1rk1/5ppp/4p1n1/pP6/1b1PPP2/1Q2B1N1/6PP/R4RK1 w - - 1 22,f1d1 c8c3 b3a2 c3e3,1275,74,95,21831,advantage interference middlegame short,https://lichess.org/JEFRaG8a#43,
+z8HqN,rnb1k2r/ppp3b1/4pnN1/3p2Bp/3P3P/2N5/PqP2PP1/R2QKB1R w KQkq - 0 11,g6h8 b2c3 g5d2 c3d4,1278,75,89,3168,advantage hangingPiece interference middlegame short,https://lichess.org/hPf82xVS#21,French_Defense French_Defense_Advance_Variation
+z9d4v,r7/1k6/ppnP4/6B1/4Nb1n/5r1P/PP2KP2/2R4R w - - 3 31,g5h4 c6d4 e2f1 f4c1,1236,76,92,3730,advantage interference middlegame short,https://lichess.org/NJzJf3BI#61,
+z9kR3,4r2k/1b1R2pp/6q1/p4p2/4p3/1B2Q2P/P4PP1/6K1 b - - 3 31,b7a8 b3f7 g6f6 f7e8,1280,75,94,4669,crushing endgame fork interference short,https://lichess.org/bsH8OQP3/black#62,
+zD29h,r5kr/1p1Q1pp1/p4b2/3R3p/8/5PPK/PPq4P/4R3 b - - 4 28,a8d8 e1e8 d8e8 d7e8 g8h7 d5h5,1298,75,97,18411,crushing interference long middlegame,https://lichess.org/uMxlQZFF/black#56,
+zGHEY,r2q1kr1/ppNb2pp/3p4/2P5/P2p3P/1Q1PR3/1P2P3/R3K3 b Q - 0 23,d8c7 e3f3 f8e7 b3f7 e7d8 f7g8,1230,75,88,685,crushing interference long middlegame,https://lichess.org/tYha3Dbu/black#46,
+zPOMg,2r1r1k1/4ppbp/p4np1/1q1P4/2p2P2/1P2BB1P/2PQ2P1/R3R1K1 w - - 0 23,a1a5 c4c3 d2f2 b5a5,1242,75,91,1028,crushing interference master middlegame short,https://lichess.org/SSi0hjHj#45,
+zW6Lw,8/1k1P2pr/pB4R1/2p1p3/2P5/3P2RB/P1P1q2K/8 w - - 3 40,g3g2 h7h3 h2h3 e2h5 h3g3 h5g6,1279,75,100,1177,advantage attraction endgame exposedKing interference long sacrifice,https://lichess.org/SJhMKiim#79,
+zb2Cu,rnb2rk1/ppp1n1pp/3q1p2/b2Pp3/2B4Q/B4N2/P4PPP/RN3RK1 b - - 3 14,a5b4 a3b4 d6b4 d5d6 g8h8 d6e7,1216,79,87,1236,advancedPawn advantage discoveredAttack interference long opening,https://lichess.org/v5IkXNv6/black#28,Italian_Game Italian_Game_Evans_Gambit
+zcn3p,4r1k1/pbpprppp/1p3q2/6N1/2P4P/2P5/PPQN2P1/5R1K b - - 2 22,e7e1 c2h7 g8f8 h7h8 f8e7 f1e1,1269,75,99,2256,crushing interference kingsideAttack long middlegame,https://lichess.org/12aovbdc/black#44,
+zf7Ka,2rqkbnr/5ppp/p3p3/1p1pPb2/3P4/Pn2B3/1P1NNPPP/R2Q1RK1 w k - 0 14,d2b3 f5c2 d1d2 c2b3,1219,76,86,359,advantage interference opening short,https://lichess.org/sC84BRUa#27,Nimzowitsch_Defense Nimzowitsch_Defense_Scandinavian_Variation
+zfsnH,6k1/1p4q1/2r5/PQbpp2R/2n2B1p/2P3P1/6K1/4R3 b - - 0 51,e5f4 e1e8 g8f7 b5b7,1214,76,75,229,crushing interference middlegame short,https://lichess.org/xx2rFiWX/black#102,
+zluwO,8/p1R3pp/4p3/kp2r2P/r5P1/6R1/P7/7K b - - 2 42,a5b4 g3b3 b4a5 c7a7 a5b6 a7a4,1285,76,81,170,crushing deflection endgame interference long pin rookEndgame,https://lichess.org/SkcbLHPh/black#84,
+zqNUG,5rk1/pp1q2p1/6P1/1b1p4/3Ppp1Q/6RP/PP1b2P1/R5K1 b - - 0 29,f8f6 h4h7 g8f8 h7h8 f8e7 h8g7,1297,96,76,43,advantage deflection interference kingsideAttack long middlegame,https://lichess.org/BMvLaaFJ/black#58,
+zqppT,8/p3R3/3R4/4P3/1K1pk2P/2r5/P2r4/8 w - - 5 48,e7a7 d2b2 b4a4 b2a2,1257,80,93,4463,crushing endgame interference master rookEndgame short,https://lichess.org/gZhR9x8g#95,
+zvbOz,r3k2r/ppq2ppB/2p1p2p/2P5/Q2PNn1P/4KP2/PP6/R6R b kq - 0 21,h8h7 e4d6 e8e7 e3f4,1270,82,62,51,advantage interference middlegame short,https://lichess.org/Y7Os0NDT/black#42,
+zwHmI,3r2k1/2q2ppp/B1prb3/2R5/8/P3P3/1PQ2PPP/5RK1 w - - 1 21,a6e2 d6d2 c2a4 d2e2,1278,76,94,23642,advantage interference middlegame short,https://lichess.org/IQ92wdLP#41,
+zx0o9,rnb2rk1/b1qp1ppp/pp2pn2/2P5/1P1NP3/P1N1B3/5PPP/R2QKB1R w KQ - 0 11,c5b6 c7c3 e3d2 c3d4,1209,78,87,2245,advantage deflection hangingPiece interference opening short,https://lichess.org/scft7H8d#21,Sicilian_Defense Sicilian_Defense_Kan_Variation
+zzXAB,rq4r1/4kpbp/p1bNp3/4P3/5Q2/2p5/PPP2PPP/R3K2R b KQ - 0 18,c3b2 f4f7 e7d8 f7g8,1283,78,79,148,crushing interference middlegame short,https://lichess.org/vq0wgpTb/black#36,Sicilian_Defense Sicilian_Defense_Richter-Rauzer_Variation

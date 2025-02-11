@@ -1,0 +1,3 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+R5b3O,6k1/pp2pp1p/2br2p1/8/1pP5/PP1R4/R3Q1PP/1Nq4K w - - 1 24,e2d1 c1d1 d3d1 d6d1,496,86,100,196,kingsideAttack mate mateIn2 middlegame short xRayAttack,https://lichess.org/7WCEegPE#47,
+WSLCk,3r2k1/1q3p1p/1P4p1/Q7/P2b4/6PP/1P3P1K/3R4 b - - 0 32,d4b6 d1d8 b6d8 a5d8,462,104,92,1276,crushing endgame master short xRayAttack,https://lichess.org/gEXm9gGr/black#64,

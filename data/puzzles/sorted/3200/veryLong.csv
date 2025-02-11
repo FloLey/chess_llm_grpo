@@ -1,0 +1,13 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+9bHgx,r7/k7/4Q2p/p3p1p1/1bP1PqP1/3r1N1P/3N1P2/3R2K1 b - - 1 30,b4d2 f3e5 a8d8 c4c5 d8b8 e5c6 a7b7 d1b1 d2b4 c6b4 a5b4 e6b6 b7c8 b6a6 c8c7 a6d3,3205,131,91,511,clearance crushing exposedKing fork middlegame quietMove veryLong,https://lichess.org/GQVvqoug/black#60,
+AFuMv,7k/8/1p1pp1p1/p6p/P3PPn1/1B1P1Q1K/1PP4P/4q3 w - - 8 47,f4f5 e1d2 f3g2 d2g5 g2g3 e6f5 e4f5 g6f5,3248,133,92,483,advantage endgame master veryLong,https://lichess.org/CW7u9KRE#93,
+Cd2s4,r4b2/p1pk1N2/2p1p3/8/2QP4/1P2K2r/1qP2P1P/3R3R w - - 1 24,e3e2 h3c3 f7e5 d7e7 c4b4 e7e8 b4b7 b2c2 e2f1 a8d8 d1e1 f8d6,3249,122,89,770,crushing defensiveMove master middlegame veryLong,https://lichess.org/WKlwv68t#47,
+L5ARp,8/8/1p1bk2p/pP1p2pP/P2P4/1B2PK2/8/8 b - - 1 43,d6c7 e3e4 g5g4 f3e3 e6f6 b3d5 f6g5 e4e5,3219,137,91,1162,bishopEndgame crushing defensiveMove endgame veryLong,https://lichess.org/RptH2xCN/black#86,
+QPRCI,r1b2rk1/pp3pp1/4p3/4P1NQ/1n1qp1K1/8/P5PP/R4R2 b - - 1 20,f7f5 e5f6 e4e3 g4g3 d4d6 g3h3 f8f6 h5h7,3226,147,90,511,crushing enPassant middlegame veryLong,https://lichess.org/HcVxn2GY/black#40,
+QySY1,8/p5p1/2k1pp1p/Pp2P3/3K1P2/P5P1/7P/8 w - - 0 35,f4f5 e6f5 h2h4 g7g6 e5f6 c6d6 f6f7 d6e7 f7f8r e7f8 d4e5 f8f7,3224,130,90,353,crushing defensiveMove endgame pawnEndgame quietMove veryLong,https://lichess.org/e1uZnXLL#69,
+SSEZS,6r1/pp2kp2/3q3p/2bppPr1/6NQ/1P3R2/P1P3PP/4R2K w - - 3 30,e1e5 e7f8 e5e6 f7e6 f5e6 f8e8 g4f6 e8d8 f6g8 d6e5,3238,119,93,638,advantage defensiveMove middlegame veryLong,https://lichess.org/oq3ATlVj#59,
+TsmiO,7k/pp4b1/4Q2p/4P3/3P1PP1/P6P/1P2KR2/2r3q1 w - - 1 31,e6e8 h8h7 f4f5 c1e1 e2d3 g1g3 d3c4 e1c1 c4b4 c1c6,3226,139,90,749,advantage defensiveMove endgame exposedKing fork veryLong,https://lichess.org/rvUHx2ks#61,
+g7STS,4rr2/pb5R/3p2p1/1qpP1kN1/2p2PP1/2Q5/PP6/2K5 b - - 0 30,f5g4 g5e4 e8e4 c3h3 g4f4 h7h4 f4g5 h4e4,3296,153,89,604,crushing deflection middlegame sacrifice skewer veryLong,https://lichess.org/MHz0Hcxf/black#60,
+nORPF,6rr/pp1Rqk2/2P2p2/4p3/2P5/1Q3P1p/P4BP1/6K1 b - - 1 35,g8g2 g1h1 e7d7 c6d7 g2f2 b3b7 f2f1 h1h2 h8d8 c4c5 f1f2 h2g1,3255,115,93,1003,advancedPawn advantage capturingDefender endgame pin quietMove veryLong,https://lichess.org/xRiVa57P/black#70,
+vaXKD,r6k/p1p3Rp/1pn5/4P3/3P4/1QPKnP2/P6q/R7 w - - 0 24,g7c7 c6e5 d4e5 a8d8 d3e4 e3d5 b3d5 h2c2,3201,118,93,556,advantage middlegame sacrifice veryLong,https://lichess.org/I6D0w3Jr#47,
+zxNB2,6k1/p1R2pp1/7p/5q2/2QPp3/P3P1P1/5PPK/1r6 w - - 7 30,c4c5 f5f2 c5e5 b1f1 e5e8 g8h7 e8e4 g7g6 c7f7 f2f7,3220,120,93,577,advantage endgame quietMove veryLong,https://lichess.org/CiVZwYmx#59,

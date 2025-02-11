@@ -1,0 +1,8 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+0lZwO,8/pr5p/3k4/R2p2p1/3Pp1P1/1P5P/P2K4/8 b - - 1 39,b7f7 a5a6 d6d7 a6a7,669,82,98,1053,crushing endgame interference master rookEndgame short,https://lichess.org/lmEFm9P2/black#78,
+2yy6K,2r1r3/pp3pkp/6p1/P1nN3n/8/1P1PP3/3KN1PP/R4R2 w - - 1 22,b3b4 c5b3 d2d1 b3a1,689,93,95,1132,crushing fork interference middlegame short,https://lichess.org/eLsBrxP7#43,
+JJJPL,8/2r4p/4k1p1/3ppP2/8/1PPK4/2P3P1/7R b - - 0 42,g6f5 h1h6 e6e7 h6h7,668,86,83,89,crushing endgame interference master rookEndgame short,https://lichess.org/AUhQ06UP/black#84,
+Lm7Jr,4r1k1/2p2pp1/p2p3p/1p1P4/4P1R1/3n4/PP1N1P1P/R6K w - - 3 26,a1g1 d3f2 h1g2 f2g4,643,92,73,158,crushing endgame fork interference short,https://lichess.org/erXAbJPn#51,
+OLm93,6r1/p7/1p2kp2/3p3p/P2P4/2P4P/2RK2P1/8 w - - 1 38,d2d3 g8g3 d3e2 g3g2,668,103,91,445,crushing endgame interference master rookEndgame short,https://lichess.org/1ciYHVM0#75,
+hc382,8/R1R2p2/4pkp1/p5r1/8/8/4KP2/7r b - - 5 52,h1h2 c7f7 f6e5 a7a5,691,90,96,312,crushing endgame interference rookEndgame short,https://lichess.org/dXOWTQfF/black#104,
+t61X3,r6r/pp4k1/5pp1/2b2q2/5P2/5QK1/PPP3P1/R4R2 b - - 5 27,c5d6 f3b7 g7g8 b7a8,654,105,90,633,crushing interference middlegame short,https://lichess.org/eNxUEwqw/black#54,

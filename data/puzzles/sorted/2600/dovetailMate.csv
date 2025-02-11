@@ -1,0 +1,2 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+CbRO3,2b1r3/6k1/pR1B2p1/3B2qp/2P5/PQ4p1/7P/6K1 w - - 0 33,d6g3 e8e1 g1g2 c8h3 g2h3 g5f5 h3g2 f5f1,2618,80,92,5718,attraction dovetailMate mate mateIn4 middlegame pin sacrifice veryLong,https://lichess.org/4YcvrYdu#65,

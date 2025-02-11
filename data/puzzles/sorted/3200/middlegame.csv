@@ -1,0 +1,9 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+6pTyQ,2rq1rk1/p1pp3p/1p2p1P1/8/4B3/8/PPPQ1nP1/2KR3R b - - 0 18,f2d1 g6g7 f8f2 d2h6 g8f7 h6h5,3230,135,91,1232,advancedPawn advantage long middlegame,https://lichess.org/5nvuALXF/black#36,Dutch_Defense Dutch_Defense_Raphael_Variation
+9bHgx,r7/k7/4Q2p/p3p1p1/1bP1PqP1/3r1N1P/3N1P2/3R2K1 b - - 1 30,b4d2 f3e5 a8d8 c4c5 d8b8 e5c6 a7b7 d1b1 d2b4 c6b4 a5b4 e6b6 b7c8 b6a6 c8c7 a6d3,3205,131,91,511,clearance crushing exposedKing fork middlegame quietMove veryLong,https://lichess.org/GQVvqoug/black#60,
+Cd2s4,r4b2/p1pk1N2/2p1p3/8/2QP4/1P2K2r/1qP2P1P/3R3R w - - 1 24,e3e2 h3c3 f7e5 d7e7 c4b4 e7e8 b4b7 b2c2 e2f1 a8d8 d1e1 f8d6,3249,122,89,770,crushing defensiveMove master middlegame veryLong,https://lichess.org/WKlwv68t#47,
+QPRCI,r1b2rk1/pp3pp1/4p3/4P1NQ/1n1qp1K1/8/P5PP/R4R2 b - - 1 20,f7f5 e5f6 e4e3 g4g3 d4d6 g3h3 f8f6 h5h7,3226,147,90,511,crushing enPassant middlegame veryLong,https://lichess.org/HcVxn2GY/black#40,
+SSEZS,6r1/pp2kp2/3q3p/2bppPr1/6NQ/1P3R2/P1P3PP/4R2K w - - 3 30,e1e5 e7f8 e5e6 f7e6 f5e6 f8e8 g4f6 e8d8 f6g8 d6e5,3238,119,93,638,advantage defensiveMove middlegame veryLong,https://lichess.org/oq3ATlVj#59,
+fJIOp,r2r1b2/5Pk1/4N1p1/q3P3/3P1BQ1/2p5/6P1/q4RK1 b - - 2 39,g7f7 f4c1 f7e7 g4f3 a5e5 f3f7,3243,132,91,680,crushing discoveredAttack long middlegame,https://lichess.org/4Oqx6FxT/black#78,
+g7STS,4rr2/pb5R/3p2p1/1qpP1kN1/2p2PP1/2Q5/PP6/2K5 b - - 0 30,f5g4 g5e4 e8e4 c3h3 g4f4 h7h4 f4g5 h4e4,3296,153,89,604,crushing deflection middlegame sacrifice skewer veryLong,https://lichess.org/MHz0Hcxf/black#60,
+vaXKD,r6k/p1p3Rp/1pn5/4P3/3P4/1QPKnP2/P6q/R7 w - - 0 24,g7c7 c6e5 d4e5 a8d8 d3e4 e3d5 b3d5 h2c2,3201,118,93,556,advantage middlegame sacrifice veryLong,https://lichess.org/I6D0w3Jr#47,

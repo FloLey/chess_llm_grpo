@@ -1,0 +1,7 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+NFjoE,6r1/1p6/p4k1P/3pRn1K/3P4/8/P7/4R3 w - - 5 46,e1f1 g8g5,653,96,70,252,endgame master mate mateIn1 oneMove vukovicMate,https://lichess.org/8vp6XP4i#91,
+Oiv6i,6r1/pp6/7R/5k1P/3p1n1K/8/PP6/5R2 w - - 0 39,h6d6 g8g4,606,89,94,864,endgame mate mateIn1 oneMove vukovicMate,https://lichess.org/wJuXSoGO#77,
+beOaW,4Nn2/ppk2p2/2pR4/2P5/4pq1r/1P1Q3P/1P3P2/1K6 b - - 1 36,c7c8 d6d8,659,80,76,180,endgame mate mateIn1 oneMove vukovicMate,https://lichess.org/yR4y7yiv/black#72,
+gdcFq,6k1/6RR/1n4NK/8/8/7P/1q2b3/8 b - - 1 44,b2g7 h7g7,612,92,80,150,endgame mate mateIn1 oneMove vukovicMate,https://lichess.org/XFRckrXu/black#88,
+w5rBz,2r2k2/R5R1/4N1p1/7p/4p3/1P2P1bP/3r4/6K1 b - - 4 34,f8e8 g7e7,621,94,100,180,endgame mate mateIn1 oneMove vukovicMate,https://lichess.org/Ysb5Oh3s/black#68,
+zWOR8,6r1/pp1k1p1Q/2pb4/8/4R2P/2N1Pn2/PPP4K/R1B3r1 w - - 5 26,h2h3 g8g3,627,88,89,227,mate mateIn1 middlegame oneMove vukovicMate,https://lichess.org/mhNB2goA#51,

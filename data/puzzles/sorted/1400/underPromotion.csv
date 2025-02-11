@@ -1,0 +1,8 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+2nNFF,5Q2/pp3Ppk/4R2p/3q4/3n4/P2P2PP/7K/8 b - - 0 29,d5e6 f8g8 h7g6 f7f8n g6f6 f8e6,1472,98,73,88,advancedPawn crushing endgame fork long master promotion underPromotion,https://lichess.org/yX7nBozr/black#58,
+AToS9,4r1k1/R1R3p1/3B2n1/P2bP1Np/6n1/8/5pKP/8 w - - 2 40,g2g3 f2f1n g3h3 g4f2,1492,86,88,2916,advancedPawn mate mateIn2 middlegame promotion short underPromotion,https://lichess.org/PgougRvp#79,
+Nn2Xr,8/8/8/1pN4p/1P1k1K2/1P2p2P/8/8 w - - 0 47,c5e4 e3e2 e4d2 e2e1n,1442,356,100,7,advancedPawn endgame equality knightEndgame promotion short underPromotion,https://lichess.org/Q6mk3bUf#93,
+OMAb6,8/8/3Pk1pp/4P3/5P2/4K3/1p4r1/3R4 b - - 3 45,h6h5 d6d7 b2b1q d7d8n e6f5 d1b1,1481,84,87,4672,advancedPawn advantage endgame long promotion underPromotion,https://lichess.org/CUVTu5fD/black#90,
+QONyp,8/5Ppk/4Q2p/8/5KP1/8/8/4q3 b - - 2 60,e1e6 f7f8n h7h8 f8e6,1432,132,90,46,advancedPawn crushing endgame fork promotion short underPromotion,https://lichess.org/akczHONR/black#120,
+SuGxX,5r2/1pp1R3/p2q3k/6R1/1P4P1/3P2Qp/P1P2p1K/8 w - - 1 40,e7e5 f2f1n h2h3 f1g3,1445,77,98,382,advancedPawn advantage endgame fork promotion short underPromotion,https://lichess.org/s7tr1Mkt#79,
+nb5Ti,2r4k/1q3p2/p3p2p/5P2/Pp1P4/2PQ2rP/1R3pRK/8 w - - 0 36,d3g3 f2f1n h2g1 f1g3,1469,88,88,97,advancedPawn crushing endgame fork promotion short underPromotion,https://lichess.org/8NLXrjPk#71,

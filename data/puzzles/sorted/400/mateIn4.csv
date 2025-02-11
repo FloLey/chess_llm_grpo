@@ -1,0 +1,13 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+0hRnW,r6r/3b1k2/4p3/1RQ2p1p/2PP4/3RP3/4NPPP/6K1 w - - 3 30,b5b7 a8a1 b7b1 a1b1 e2c1 b1c1 d3d1 c1d1,435,107,94,803,backRankMate mate mateIn4 middlegame veryLong,https://lichess.org/FsfPW9xS#59,
+37gYp,8/6pk/5p1p/2N5/8/r2RB1Pb/4nP1P/4R1K1 w - - 0 33,e1e2 a3a1 e3c1 a1c1 d3d1 c1d1 e2e1 d1e1,422,101,85,272,endgame fork mate mateIn4 veryLong,https://lichess.org/x9gPkL5M#65,
+9YzuU,2r3k1/1p3p1p/2r3p1/8/p2Q1B2/1b6/2P1RPPP/2R3K1 w - - 0 26,c2b3 c6c1 f4c1 c8c1 d4d1 c1d1 e2e1 d1e1,466,109,80,357,backRankMate endgame mate mateIn4 veryLong,https://lichess.org/DKwGKTs6#51,
+DOhDr,3r2k1/5ppp/4b3/8/2pR4/8/1r3PPP/R5K1 b - - 1 29,d8d4 a1a8 b2b8 a8b8 e6c8 b8c8 d4d8 c8d8,412,109,91,489,backRankMate endgame mate mateIn4 veryLong,https://lichess.org/MOMy1s9F/black#58,
+GigER,8/3n2pp/5k2/8/8/N7/rPR2PPP/3R2K1 w - - 3 29,d1d7 a2a1 a3b1 a1b1 c2c1 b1c1 d7d1 c1d1,413,107,84,978,backRankMate endgame mate mateIn4 veryLong,https://lichess.org/GVFWq8Ct#57,
+MnwmH,4r3/1R3pkp/2p2np1/8/3B4/2P2B2/r4PPP/4R1K1 w - - 1 22,e1e8 a2a1 b7b1 a1b1 f3d1 b1d1 e8e1 d1e1,451,100,88,67,backRankMate endgame mate mateIn4 veryLong,https://lichess.org/cQqxiZhO#43,
+O8R5s,7k/6p1/1R2Q2p/8/r4p2/3q1P2/6PP/3R3K w - - 1 36,d1d3 a4a1 b6b1 a1b1 d3d1 b1d1 e6e1 d1e1,400,116,86,1089,backRankMate endgame mate mateIn4 queenRookEndgame veryLong,https://lichess.org/CFQUF0CH#71,
+aF0sS,br3rk1/p4pp1/1qp2n1p/2RpNB2/Q2P4/P3P3/5PPP/2R3K1 w - - 9 23,c1b1 b6b1 f5b1 b8b1 c5c1 b1c1 a4d1 c1d1,460,104,83,434,backRankMate mate mateIn4 middlegame veryLong,https://lichess.org/QNGPkybr#45,
+ixBNy,4R3/1r3pkp/5pp1/8/B7/8/P1R2PPP/6K1 w - - 1 28,c2c8 b7b1 c8c1 b1c1 a4d1 c1d1 e8e1 d1e1,400,99,89,446,backRankMate endgame mate mateIn4 veryLong,https://lichess.org/H8iHvxL4#55,
+jSRm0,7k/7P/p6K/1p6/1P6/8/8/8 b - - 2 61,a6a5 b4a5 b5b4 a5a6 b4b3 a6a7 b3b2 a7a8q,470,111,81,408,advancedPawn endgame mate mateIn4 pawnEndgame promotion veryLong,https://lichess.org/SFgr3apn/black#122,
+mSDmW,1kr5/1pq5/p2b4/6B1/1P2Q3/P4B1p/7P/6RK w - - 4 41,g1c1 c7c1 g5c1 c8c1 f3d1 c1d1 e4e1 d1e1,477,98,91,488,mate mateIn4 middlegame veryLong,https://lichess.org/w2Vd4CKh#81,
+tc8in,r4k2/5p1p/6p1/4R3/1P6/3P1Q2/2R2PPP/6K1 w - - 1 35,b4b5 a8a1 c2c1 a1c1 f3d1 c1d1 e5e1 d1e1,444,106,91,1240,backRankMate endgame mate mateIn4 queenRookEndgame veryLong,https://lichess.org/G7bdXbDZ#69,

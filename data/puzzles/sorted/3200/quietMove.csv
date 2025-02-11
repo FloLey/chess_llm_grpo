@@ -1,0 +1,6 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+9bHgx,r7/k7/4Q2p/p3p1p1/1bP1PqP1/3r1N1P/3N1P2/3R2K1 b - - 1 30,b4d2 f3e5 a8d8 c4c5 d8b8 e5c6 a7b7 d1b1 d2b4 c6b4 a5b4 e6b6 b7c8 b6a6 c8c7 a6d3,3205,131,91,511,clearance crushing exposedKing fork middlegame quietMove veryLong,https://lichess.org/GQVvqoug/black#60,
+QySY1,8/p5p1/2k1pp1p/Pp2P3/3K1P2/P5P1/7P/8 w - - 0 35,f4f5 e6f5 h2h4 g7g6 e5f6 c6d6 f6f7 d6e7 f7f8r e7f8 d4e5 f8f7,3224,130,90,353,crushing defensiveMove endgame pawnEndgame quietMove veryLong,https://lichess.org/e1uZnXLL#69,
+nORPF,6rr/pp1Rqk2/2P2p2/4p3/2P5/1Q3P1p/P4BP1/6K1 b - - 1 35,g8g2 g1h1 e7d7 c6d7 g2f2 b3b7 f2f1 h1h2 h8d8 c4c5 f1f2 h2g1,3255,115,93,1003,advancedPawn advantage capturingDefender endgame pin quietMove veryLong,https://lichess.org/xRiVa57P/black#70,
+syQy9,8/p7/8/1k1P4/5P1p/1p1K3P/8/1B2b3 w - - 2 54,f4f5 b5b4 d5d6 e1c3 d3e4 b4c5,3223,121,92,782,bishopEndgame crushing endgame long quietMove,https://lichess.org/BsxT1Pzt#107,
+zxNB2,6k1/p1R2pp1/7p/5q2/2QPp3/P3P1P1/5PPK/1r6 w - - 7 30,c4c5 f5f2 c5e5 b1f1 e5e8 g8h7 e8e4 g7g6 c7f7 f2f7,3220,120,93,577,advantage endgame quietMove veryLong,https://lichess.org/CiVZwYmx#59,

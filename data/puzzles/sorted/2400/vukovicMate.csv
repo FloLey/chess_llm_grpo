@@ -1,0 +1,7 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+1XDIO,Q4R2/1pp5/pk1p1B1p/8/4Pnn1/P7/1PP1r3/R6K w - - 3 31,a8c8 e2h2 h1g1 h2g2 g1f1 g4e3 f1e1 g2e2,2400,91,91,708,exposedKing mate mateIn4 middlegame veryLong vukovicMate,https://lichess.org/45S0yhuB#61,
+6lHdM,8/bpp3k1/p2p1p2/3P1pN1/1PP5/P1Q2nR1/8/4r2K w - - 0 31,h1g2 e1e2 g2f1 e2f2,2463,81,91,2912,endgame mate mateIn2 short vukovicMate,https://lichess.org/rJRRyL9I#61,
+CNKBG,r3r1k1/1b5R/pp1p2PQ/8/P1nq2N1/5nK1/1PP4P/R7 b - - 8 30,c4e3 h6f8 g8f8 h7f7 f8g8 g4h6 g8h8 f7h7,2458,96,88,1189,attraction exposedKing fork mate mateIn4 middlegame sacrifice veryLong vukovicMate,https://lichess.org/3bTIYp44/black#60,
+FY7m1,1n1k2r1/1Bp4q/p2bp3/4n3/NP6/P7/4QRP1/2R3K1 w - - 1 30,c1d1 h7h2 g1h2 e5f3 h2h3 g8g3,2456,83,96,1259,attraction doubleCheck long mate mateIn3 middlegame sacrifice vukovicMate,https://lichess.org/3yXSs1RA#59,
+WgdTs,8/p4pk1/6pn/2B3K1/1P2NP2/3r4/8/6R1 w - - 2 41,g1g3 d3d5 f4f5 d5f5 g5h4 f5h5,2445,82,84,439,endgame long mate mateIn3 vukovicMate,https://lichess.org/L3XDhe6W#81,
+ntaeF,8/8/2k5/PpN5/1PN4p/2P1K3/3Rn3/5q2 b - - 2 62,e2c3 d2d6 c6c7 d6d7 c7c8 c4b6 c8b8 d7b7,2466,86,93,1516,endgame mate mateIn4 veryLong vukovicMate,https://lichess.org/P15JRk86/black#124,

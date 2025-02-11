@@ -1,0 +1,3 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+f3Ukt,8/1pp1k3/6p1/2PR1p2/Pn2pK2/7P/5P2/8 w - - 0 40,d5e5 e7f7 f4g3 c7c6 a4a5 b4d3 e5d5 c6d5 c5c6 e4e3 f2e3 d3c5 c6c7 c5e4 g3f4 e4d6,3149,136,89,975,crushing defensiveMove endgame quietMove trappedPiece veryLong,https://lichess.org/oruX94nN#79,
+qe8B1,r6r/pp1k1ppp/4p3/3n4/1Q6/4B3/PP2KPqP/2RR4 b - - 5 20,b7b6 b4a4 d7e7 a4h4 f7f6 d1g1 g2g6 g1g6,3150,118,92,3178,advantage middlegame trappedPiece veryLong,https://lichess.org/0ZzePFRr/black#40,

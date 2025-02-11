@@ -1,0 +1,7 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+7Hw79,r5k1/6b1/b5N1/p2q2PN/1p1p1B1P/2p5/P1P1rQ2/1K1R3R w - - 2 30,f2g3 d5e4 d1c1 e2c2 c1c2 e4h1 c2c1 h1e4,3068,115,90,383,crushing deflection master middlegame queensideAttack veryLong,https://lichess.org/Rmhpe5fP#59,
+J0g4i,1k6/5pp1/1q1b1p2/1p3rr1/pP2Q2p/P6P/4NpP1/2R2R1K b - - 3 30,d6g3 e2d4 b6b7 e4e8 b8a7 d4c6 a7a6 c6a5,3003,128,89,2210,crushing exposedKing middlegame queensideAttack veryLong,https://lichess.org/ES57QVje/black#60,
+MVSgK,kb1r4/1p1r1p1p/pQ1Ppn2/2p3pq/P1PN4/4B2b/1P2BPP1/R4RK1 b - - 1 23,h5h6 d4b5 d7d6 b5c7 b8c7 b6c7,3019,113,88,508,crushing long middlegame queensideAttack quietMove,https://lichess.org/KmsKh6CT/black#46,
+e2iar,8/1pp2q2/p6R/2k1p3/3pB3/3P1P2/PPPB2r1/2K4R w - - 5 39,a2a3 f7a2 c2c3 d4c3 d3d4 e5d4 h1h5 c5c4 b2b3 a2b3 e4d5 c4d3 d5b3 g2g1 d2e1 g1e1 b3d1 c3c2,3049,100,88,526,advancedPawn crushing endgame queensideAttack sacrifice veryLong,https://lichess.org/N59GGpxd#77,
+xN2kz,Rnk4r/2p2pp1/3p1q1r/1N2p3/4P3/2PP2Q1/5P1P/R6K b - - 4 25,h6h3 g3g4 c8b7 a1a7 b7c6 a7c7 c6b6 g4h3,3016,106,86,304,crushing middlegame queensideAttack veryLong,https://lichess.org/ZdstvSYu/black#50,
+ziFln,1k1n3r/1pp3p1/p4pq1/4p3/2P1P3/PQ2B1P1/4r3/KR1R4 b - - 6 30,b8c8 d1d8 c8d8 b3b7 g6g4 b7d5,3025,106,95,599,crushing deflection long middlegame queensideAttack,https://lichess.org/eUXBJhgH/black#60,

@@ -1,0 +1,7 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+2PGwa,8/8/1p1k4/1P5K/5p1P/5P2/6P1/8 w - - 1 48,g2g4 f4g3 h5g4 g3g2,1065,153,67,26,advancedPawn crushing enPassant endgame pawnEndgame short,https://lichess.org/FRfKiUPA#95,
+9hykU,r6b/5p1k/pp1p3p/2pPn3/2P1PN2/8/PPB3R1/6K1 b - - 0 30,e5c4 e4e5 f7f5 e5f6,1062,86,92,304,discoveredAttack enPassant endgame mate mateIn2 short,https://lichess.org/cwQnj1vR/black#60,
+XW5Qr,rn1qkb1r/p3pppp/5n2/1p4B1/2pP2b1/4PQ2/PP3PPP/R3KBNR w KQkq - 2 8,f3a8 d8a5 b2b4 c4b3,1029,78,89,466,discoveredAttack enPassant mate mateIn2 middlegame short,https://lichess.org/iRvZ2GVj#15,Slav_Defense Slav_Defense_Other_variations
+ks4Fl,r4rk1/1b1p2pp/p3p3/2q1np2/2p1P3/2P4P/P1BPQPP1/RN2R1K1 w - - 0 20,d2d4 c4d3,1097,102,68,224,advantage enPassant middlegame oneMove,https://lichess.org/Ns3Wc1HT#39,
+mPB7T,8/4p3/3p2k1/2pP4/1pP1p1Pp/1P2P3/6K1/8 b - - 2 48,g6g5 g2h3 e7e5 d5e6,1038,81,88,407,crushing enPassant endgame pawnEndgame short zugzwang,https://lichess.org/wI8bq0tv/black#96,
+nMIpS,r1b2r2/3Bk3/3pNpQ1/8/pp2P3/4qP2/PPP3P1/R3K2R w KQ - 1 25,e1f1 c8a6 d7b5 a6b5 c2c4 b4c3,1068,85,94,6885,discoveredAttack enPassant long mate mateIn3 middlegame,https://lichess.org/lUVEvIcO#49,

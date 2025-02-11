@@ -1,0 +1,3 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+P1l9b,r3kb1r/pp1n1pp1/2p1p1b1/q2p2Pp/3n1B1P/P1P1PP1B/1P1N1Q2/2KR2NR w kq - 0 15,e3d4 a5c3 b2c3 f8a3,2231,83,94,11931,bodenMate deflection mate mateIn2 opening queensideAttack sacrifice short,https://lichess.org/J5LAVzHL#29,Queens_Pawn_Game Queens_Pawn_Game_Other_variations
+YzvPL,r1b1r1kb/3n3n/p2pN1pB/q5P1/1pBPP3/2p5/PPPQ4/1K1R2NR b - - 0 21,c3d2 e6c5 d6d5 c4d5 e8e6 d5e6,2294,93,93,167335,bodenMate discoveredAttack exposedKing interference long mate mateIn3 middlegame,https://lichess.org/IlgYGFuA/black#42,

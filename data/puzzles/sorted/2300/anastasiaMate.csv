@@ -1,0 +1,6 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+QRMxC,2b2rk1/5ppp/2N1pn2/qn1p4/2pP4/2P1P1P1/2B2PP1/1N1QK2R b K - 1 19,a5a1 c2h7 f6h7 c6e7 g8h8 h1h7 h8h7 d1h5,2348,99,95,173208,anastasiaMate attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/pWIYiZ87/black#38,Horwitz_Defense Horwitz_Defense_Other_variations
+Qkq9v,5rk1/5ppp/pqN1pn2/3p4/3P4/1P1BPPP1/1P2KP2/2R4R b - - 2 18,b6b3 d3h7 f6h7 c6e7 g8h8 h1h7 h8h7 c1h1,2362,92,95,4332,anastasiaMate attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/Dv3CeXcK/black#36,Slav_Defense Slav_Defense_Exchange_Variation
+U04dL,2r1k1r1/5pP1/3pp2p/8/2q1QPP1/1nPN3P/pP2RB2/1K1R4 w - - 0 34,b1a2 b3d2 e4c4 c8a8 f2a7 a8a7 c4a4 a7a4,2305,84,95,11616,anastasiaMate discoveredAttack mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/UIC0TV0e#67,
+VNbQb,2kr4/Qp1n2pR/p1q1N3/2pn1pN1/8/3P2P1/PP2PPK1/8 w - - 1 29,e6d8 d5e3 g2h3 c6h1,2305,83,91,3915,anastasiaMate doubleCheck mate mateIn2 middlegame short,https://lichess.org/5s9udoh8#57,
+v7SLw,2r2rk1/5ppp/3pb3/ppq1bN2/3N2Q1/2P4R/6PP/2R4K b - - 3 26,e5d4 f5e7 g8h8 h3h7 h8h7 g4h4 c5h5 h4h5,2357,86,94,172158,anastasiaMate attraction fork mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/oxzLPjZJ/black#52,

@@ -1,0 +1,12 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+5xM2Z,8/8/6p1/K5k1/8/1P6/8/8 b - - 0 52,g5f4 b3b4 g6g5 b4b5,483,107,83,220,crushing defensiveMove endgame pawnEndgame quietMove short,https://lichess.org/xCnog5Rw/black#104,
+9WbCA,8/8/2p5/1k2K1p1/1r3pP1/1R3P2/8/8 w - - 0 58,b3b4 b5b4 e5f5 c6c5 f5g5 c5c4,472,96,76,301,crushing defensiveMove endgame long quietMove,https://lichess.org/mTZmpj5j#115,
+QrqhB,8/8/1K5p/8/8/P6k/8/8 b - - 1 52,h3g3 a3a4 g3f2 a4a5,400,99,85,201,crushing defensiveMove endgame pawnEndgame quietMove short,https://lichess.org/U5QAbCTx/black#104,
+UPrBD,8/8/7p/1K6/8/P7/7k/8 b - - 1 52,h2g3 a3a4 g3f2 a4a5,461,120,93,166,crushing defensiveMove endgame pawnEndgame quietMove short,https://lichess.org/rgPo6m4Y/black#104,
+bYqhT,8/8/7p/8/8/PpK3k1/8/8 w - - 0 52,c3b3 h6h5 a3a4 h5h4,447,116,95,302,crushing defensiveMove endgame pawnEndgame quietMove short,https://lichess.org/6b5bPuyC#103,
+hmIaq,8/8/8/4Qp2/2pr4/2k2K2/5P2/8 w - - 6 58,e5e3 d4d3 f3f4 d3e3,457,110,83,513,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/WrzczQb9#115,
+qDBi9,1K4k1/6p1/7p/P4Q2/3q2P1/8/8/8 b - - 12 47,d4d8 f5c8 d8c8 b8c8,467,107,86,507,crushing defensiveMove endgame master pin queenEndgame short,https://lichess.org/3sP1sr9A/black#94,
+wjTar,8/pp6/2k4K/8/8/P5P1/8/8 b - - 0 48,b7b6 g3g4 a7a5 g4g5,459,93,96,1272,crushing defensiveMove endgame pawnEndgame quietMove short,https://lichess.org/uTjJu9y9/black#96,
+xEBE4,8/8/5p2/1p6/1P4k1/K7/P7/8 w - - 0 70,a3b3 f6f5 b3c3 f5f4,487,87,72,142,crushing defensiveMove endgame pawnEndgame quietMove short,https://lichess.org/s0bcsxd2#139,
+yYYuW,8/4q1k1/p3P2p/5ppP/2P5/1P6/1K6/4Q3 w - - 1 46,e1e5 e7f6 e5f6 g7f6,422,108,94,371,crushing defensiveMove endgame queenEndgame short,https://lichess.org/kTPOUJaE#91,
+zaTu7,R7/8/5r2/1K5k/1P6/8/7p/8 w - - 1 71,a8h8 f6h6 h8h6 h5h6,496,97,92,390,crushing defensiveMove endgame master masterVsMaster rookEndgame short,https://lichess.org/tJs0Z3yD#141,

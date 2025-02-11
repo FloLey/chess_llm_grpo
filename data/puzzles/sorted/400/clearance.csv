@@ -1,0 +1,3 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+04YLh,6k1/p6p/2p1q1pB/3B4/3b4/P4QP1/1r5P/5R1K b - - 1 27,e6d5 f3d5 c6d5 f1f8,485,90,100,172,clearance endgame master mate mateIn2 short,https://lichess.org/FrqVRpRa/black#54,
+myB7q,5rk1/pp5p/2p3p1/8/2PR1n2/P1N1r2b/1PB2P1P/6K1 w - - 0 22,f2e3 f4e2 c3e2 f8f1,485,100,83,151,clearance endgame mate mateIn2 sacrifice short,https://lichess.org/zTjwy4uY#43,

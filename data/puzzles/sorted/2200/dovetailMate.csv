@@ -1,0 +1,26 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+1mWoH,r4rk1/3bnp1N/p1n1p1p1/4q3/6PQ/2p4R/PP3P1P/2R3K1 b - - 1 25,f7f5 h7f6 g8g7 h4h7 g7f6 g4g5 f6g5 h7h4,2295,79,93,7506,attraction dovetailMate exposedKing fork mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/qYHZIYuW/black#50,
+7Pz3c,4r1k1/5pp1/1R5p/pP1p2q1/Pb1n4/1Q1B2P1/4NPP1/6K1 w - - 0 27,e2d4 e8e1 d3f1 e1f1 g1f1 g5c1 f1e2 c1e1 e2f3 e1e4,2245,78,93,12750,attraction dovetailMate mate mateIn5 middlegame sacrifice veryLong,https://lichess.org/yvzuDZlw#53,
+7lV7d,r2b4/4q3/3pPk2/p3p2Q/1p6/1P4p1/PP6/1K3R2 b - - 7 34,f6e6 h5g4 e6d5 g4c4,2203,77,93,2219,dovetailMate endgame mate mateIn2 short,https://lichess.org/Kva8TMnC/black#68,
+EtDql,4r1k1/p4N2/1p6/3Q4/3Bpr2/1P6/q4nPK/3R4 b - - 0 32,f4f7 d5g5 g8f8 g5h6 f8e7 d4c5 b6c5 h6d6,2233,92,91,2112,dovetailMate exposedKing mate mateIn4 middlegame sacrifice veryLong,https://lichess.org/Wp3gh6lu/black#64,
+MqC1N,r4rk1/pp3p1p/2b1p1pB/2N1P1Q1/3q4/P1R2P2/3p2PP/R4K2 w - - 0 27,g5f6 c6b5 c5d3 b5d3 c3d3 d4a1 f1f2 a1e1,2289,82,90,576,dovetailMate mate mateIn4 middlegame veryLong,https://lichess.org/5L9Y38EL#53,
+P2eFZ,1k5r/1p3pp1/p7/7q/6p1/P3B3/1P2QPP1/2R3K1 w - - 3 27,f2f3 h5h1 g1f2 g4g3 f2g3 h1h4,2221,80,86,466,attraction dovetailMate endgame long mate mateIn3,https://lichess.org/CVSmjYiR#53,
+T7ali,1q6/6RQ/4k1p1/3r1p2/2p4P/6P1/2P2P1K/2r5 b - - 0 37,c1c2 g7g6 e6e5 h7e7 e5d4 e7e3,2264,82,85,531,dovetailMate endgame long mate mateIn3,https://lichess.org/WNSKyvQC/black#74,
+TCbbN,r2qkb1r/pnp3p1/1p5p/3Pp2Q/8/2NP4/PPP2PPP/R1B3K1 b kq - 1 15,e8e7 h5e5 e7f7 e5e6,2231,77,92,3097,dovetailMate mate mateIn2 middlegame short,https://lichess.org/mGleXHJR/black#30,Four_Knights_Game Four_Knights_Game_Italian_Variation
+VYiZn,r4rk1/pbp2pP1/1p2p3/6BQ/7P/3q4/PP3PP1/n5KR b - - 0 20,g8g7 g5f6 g7f6 h5g5,2290,80,92,144348,attraction dovetailMate mate mateIn2 middlegame sacrifice short,https://lichess.org/gsBSDDFU/black#40,
+W83l2,r5k1/ppb2pp1/2p4p/3p4/3P2qP/2PBr3/PPQ1N3/5RKR w - - 4 23,g1f2 e3e2 c2e2 g4g3,2293,75,92,5487,dovetailMate mate mateIn2 middlegame sacrifice short,https://lichess.org/RbOa9FUg#45,
+WljBh,7r/pp1k2p1/2pp4/8/3P2pq/4B3/PPPNQPP1/R5K1 w - - 2 19,f2f3 h4h1 g1f2 g4g3 f2g3 h1h4,2206,79,93,6445,attraction dovetailMate endgame kingsideAttack long mate mateIn3,https://lichess.org/FhrVuliz#37,
+adqVE,8/8/8/4Q2p/8/7P/3pk1PK/4q3 b - - 6 59,e2f2 e5f4 f2e2 f4f3,2297,77,93,6038,dovetailMate endgame mate mateIn2 queenEndgame short,https://lichess.org/v9NduNBf/black#118,
+g2CQ0,1Q6/4k3/2Kp3p/4p1p1/3r4/8/3p4/1R6 b - - 0 45,d2d1q b1b7 e7e6 b8c8 e6f6 c8f8 f6g6 f8f7,2284,82,95,6099,dovetailMate endgame mate mateIn4 veryLong,https://lichess.org/kouULoUL/black#90,
+lB0Wp,2k4r/ppp3p1/2n1pp2/7q/3P2p1/P3B3/2P1QPP1/R3R1K1 w - - 0 19,f2f3 h5h1 g1f2 g4g3 f2g3 h1h4,2218,79,92,6615,attraction dovetailMate kingsideAttack long mate mateIn3 middlegame,https://lichess.org/MuB7pTKm#37,Scandinavian_Defense Scandinavian_Defense_Main_Line
+lInm1,4r3/5pkQ/q1p5/2P1p3/pPb5/P1p4R/5b2/2K5 b - - 3 37,g7f8 h7h6 f8e7 h6d6,2259,82,97,685,dovetailMate endgame mate mateIn2 short,https://lichess.org/Tzxlouz0/black#74,
+oKMM5,5R1k/1p2q2p/p7/P1Np3b/1P1PpQr1/2P5/6r1/5R1K b - - 3 33,h8g7 c5e6 e7e6 f8g8 e6g8 f4f6,2231,77,93,7342,dovetailMate long mate mateIn3 middlegame sacrifice,https://lichess.org/cP6d4zcB/black#66,
+oTZLq,Nnb3Q1/pp2k2p/2p2p2/8/3pP3/2q1b3/2P2KPP/3R1BNR w - - 4 20,f2g3 e3f2 g3f2 c3e3,2275,77,93,8807,attraction doubleCheck dovetailMate mate mateIn2 middlegame sacrifice short,https://lichess.org/aKSIle2h#39,
+peX0j,6k1/Q5p1/7p/3q1p2/8/4B1P1/2p2P1P/1r3RK1 w - - 1 38,a7c7 b1f1 g1f1 d5h1 f1e2 h1d1,2235,80,94,9261,attraction dovetailMate endgame long mate mateIn3,https://lichess.org/OH9hPTWY#75,
+qEv2l,3R4/5p1k/4pnpp/p1q4P/1p6/1P1B2r1/P7/3RKQ2 w - - 0 49,f1f6 c5e3 d3e2 g3g1 f6f1 e3g3 e1d2 g3c3,2279,78,95,5250,clearance dovetailMate endgame exposedKing mate mateIn4 pin veryLong,https://lichess.org/kc8uumOD#97,
+qvDR0,r2q2rk/pp3pbp/4p3/3pNp2/3PnB2/2P4R/PP3PPP/R2Q2K1 b - - 8 18,g7e5 h3h7 h8h7 d1h5 h7g7 h5h6,2254,79,95,10809,attraction dovetailMate kingsideAttack long master mate mateIn3 middlegame sacrifice,https://lichess.org/NzOn9UMU/black#36,Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation
+s30jz,8/5pk1/q3p1p1/3pP1Np/1Q1P1P1P/6P1/KP6/3b4 w - - 3 44,b4a3 d1b3 a2b3 a6c4,2250,77,93,3429,attraction dovetailMate endgame master mate mateIn2 pin sacrifice short,https://lichess.org/Wg3HUPEt#87,
+u730Z,8/pp3p1k/8/3pP1Q1/4q1b1/6P1/PPP2P1P/6K1 w - - 3 29,h2h3 e4e1 g1g2 g4f3 g2f3 e1e4,2202,82,93,144851,attraction dovetailMate endgame long mate mateIn3 sacrifice,https://lichess.org/utLdtQIT#57,
+uWXBD,3Q4/2P2pk1/3K2p1/8/3q4/5P2/5P2/8 w - - 5 43,d6e7 d4e5 e7d7 e5e6,2234,83,94,11474,dovetailMate endgame mate mateIn2 queenEndgame short,https://lichess.org/EYmWgeKr#85,
+vxssR,8/1p3Qpk/p1p4p/P4K2/1P2P3/5Pq1/8/8 w - - 0 39,f7b7 g3g6 f5f4 g6g5,2202,78,93,156,dovetailMate endgame mate mateIn2 queenEndgame short,https://lichess.org/sJllqCt9#77,
+ylUNW,8/p4p1p/3q1kp1/2pP4/1p6/5PPP/PP1Q1K2/8 b - - 0 31,f6e5 d2f4 e5d5 f4e4,2215,80,94,8735,dovetailMate endgame mate mateIn2 queenEndgame short,https://lichess.org/8Rjq6JHA/black#62,

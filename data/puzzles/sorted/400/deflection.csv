@@ -1,0 +1,8 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+CT01B,r4rk1/2p4p/2p3p1/p7/P1PPN3/8/5PPP/4R1K1 b - - 0 26,a8e8 e4f6 f8f6 e1e8,485,98,88,600,advantage deflection discoveredAttack endgame short,https://lichess.org/KPb3dqFK/black#52,
+FUjhJ,r1k1r3/p1p3pp/1p3p2/4n3/5B2/3b4/PPP2PPP/2KRR3 w - - 0 17,c2d3 e5d3 d1d3 e8e1,419,105,93,770,crushing deflection discoveredAttack endgame queensideAttack short,https://lichess.org/Z7TD5xVq#33,Russian_Game Russian_Game_Other_variations
+LwtKx,4r1k1/1p3pp1/p3b1p1/3p4/3N4/2P3P1/PP3P1P/4R1K1 w - - 0 21,g1f1 e6h3 f1g1 e8e1,466,90,100,155,deflection discoveredAttack endgame mate mateIn2 short,https://lichess.org/4eXhLYHt#41,
+UEKwS,8/8/8/8/6p1/3N2kp/8/6K1 w - - 0 62,d3f2 h3h2 g1h1 g3f2,435,99,94,236,advancedPawn crushing deflection endgame knightEndgame master short,https://lichess.org/AlPuT5Jd#123,
+UJSNx,4rrk1/p4p2/1p4pp/2pb4/3pN3/P2P1P2/1PP3PP/R3R1K1 b - - 1 27,f7f5 e4f6 f8f6 e1e8,474,103,92,1256,advantage deflection discoveredAttack endgame kingsideAttack short,https://lichess.org/DN0FO9c6/black#54,
+Y51KE,2r2rk1/p4pp1/4p2p/4P3/8/1Pn2N1P/P4PP1/2R1R1K1 w - - 1 22,a2a3 c3e2 e1e2 c8c1,498,86,81,257,crushing deflection discoveredAttack endgame short,https://lichess.org/8Rb3Msr2#43,
+wy2fO,5r1k/5p1p/p2N3p/1p2p1q1/4P3/8/PP3PPP/3Q2K1 b - - 0 30,g5d8 d6f7 f8f7 d1d8,495,96,86,150,crushing deflection discoveredAttack endgame short,https://lichess.org/ke7UrR8Q/black#60,

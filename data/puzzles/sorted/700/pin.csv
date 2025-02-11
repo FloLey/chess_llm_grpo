@@ -1,0 +1,1085 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+053Mo,8/p1k2ppp/1p1n4/2PP1P2/BK3B1P/P7/4rP2/8 b - - 0 44,b6c5 b4c5 e2e4 f4d6,773,96,77,110,crushing endgame pin short,https://lichess.org/0lc3bx1t/black#88,
+07tu0,6k1/5p1p/6p1/1N6/1b1p1P2/7P/1P4P1/6K1 w - - 0 29,b5d4 b4c5 g1f2 c5d4,719,78,100,218,crushing endgame pin short,https://lichess.org/JSGEi80E#57,
+084Ml,1r5k/5p1p/4pPp1/p3P1P1/2p1B3/2P2N2/Pq1Q3P/7K w - - 2 36,h1g2 b2d2 f3d2 b8b2,748,84,100,96,advantage clearance endgame pin short,https://lichess.org/XknpfryX#71,
+0CGDp,2k1r2r/ppn4p/2pp2p1/4pNq1/PPP5/3P3P/2Q1BP2/R3K2R b KQ - 0 20,g5f5 e2g4 f5g4 h3g4,737,85,96,510,crushing middlegame pin short,https://lichess.org/o0KJYy2z/black#40,
+0NbkQ,r2q1rk1/p3bpp1/1p1p3p/3Np2P/4P3/4n3/PPPQ4/2KR1B1R w - - 0 17,d2e3 e7g5 c1b1 g5e3,786,138,88,31,advantage middlegame pin short,https://lichess.org/s9BS2K19#33,Sicilian_Defense Sicilian_Defense_Classical_Variation
+0OIiM,1rb1rk2/1p2Npbp/p5p1/4n3/4P3/B4PP1/PPP1N2P/2KR3R b - - 0 18,e8e7 d1d8,704,91,95,835,mate mateIn1 middlegame oneMove pin,https://lichess.org/mD9JMtYa/black#36,Pirc_Defense Pirc_Defense_Other_variations
+0Q2Fk,5rk1/p4Qpp/2p5/8/2B5/5P2/P2q1PPP/4R1K1 b - - 0 24,f8f7 e1e8,711,84,100,120,endgame master mate mateIn1 oneMove pin,https://lichess.org/HGws306Y/black#48,
+0UWQK,6k1/ppp3pp/7r/5P2/P3q1N1/1P6/3Pr1RP/2B3RK b - - 2 35,h6h4 g4f6 g8f7 f6e4,772,80,88,247,advantage master middlegame pin short,https://lichess.org/VTmOSLIN/black#70,
+0YscA,5rk1/3Nr1pp/4Pp1q/1p1p4/pPn5/5Q1P/6R1/5R1K b - - 3 41,f8e8 d7f6 h6f6 f3f6,778,79,100,640,crushing middlegame pin short,https://lichess.org/LZbtP59V/black#82,
+0dd3w,6k1/5ppp/4p3/2rp4/8/nP2P3/1RB2PPP/6K1 w - - 0 28,c2d1 c5c1 g1f1 c1d1,765,84,75,195,crushing endgame pin short,https://lichess.org/I2mSnd0X#55,
+0h2lT,8/6r1/R1p1kp2/1p1p1p2/1P1P1P1N/4P3/7K/3b4 b - - 6 47,e6d6 h4f5 d6e6 f5g7,769,92,88,152,crushing endgame fork master pin short,https://lichess.org/6VuCzvrx/black#94,
+0i8vD,5rk1/5Qpp/8/p2R4/8/1B4P1/Pb3PKP/4q3 b - - 0 33,f8f7 d5d8 e1e8 d8e8,741,88,66,54,endgame mate mateIn2 pin short,https://lichess.org/g9LUbOnI/black#66,
+0mdFb,6r1/2q1k3/4pp2/1pp5/p7/P4B1r/1P2QPP1/3R1RK1 w - - 0 32,f1e1 c7h2 g1f1 h2h1,799,79,82,114,mate mateIn2 middlegame pin short,https://lichess.org/LndLcs6Q#63,
+0s6ke,5rk1/8/4Pb1p/3P1p2/2R2p2/7P/5PPK/8 w - - 1 37,c4f4 f6e5 g2g3 e5f4,712,90,88,613,crushing endgame pin short,https://lichess.org/dQSostcq#73,
+0wsX0,rn1qkb1r/pp2pppp/2p5/3b4/4NP2/8/PPPPQ1PP/R1B1K2R b KQkq - 2 9,g7g6 e4f6,769,84,90,196,mate mateIn1 oneMove opening pin,https://lichess.org/FmtwyZ6w/black#18,Caro-Kann_Defense Caro-Kann_Defense_Other_variations
+0yRGZ,8/1K2k1p1/8/P2P4/6P1/7p/8/8 w - - 0 47,a5a6 h3h2 a6a7 h2h1q a7a8q h1d5,781,79,100,233,advancedPawn crushing endgame long pawnEndgame pin promotion,https://lichess.org/7SgjlQur#93,
+15xOA,8/6Rq/7P/3k3K/8/8/8/8 b - - 8 63,h7f5 g7g5 d5e6 g5f5 e6f5 h6h7,793,89,90,219,advancedPawn crushing endgame long pin queenRookEndgame,https://lichess.org/NsnyaZHJ/black#126,
+19bRS,1k6/3q1p2/p6p/1pB5/3P4/8/PP1KR3/8 b - - 1 41,b8b7 e2e7 d7e7 c5e7,737,100,87,162,advantage endgame master masterVsMaster pin short,https://lichess.org/a0PpBnby/black#82,
+1I1Nd,2Qnkr2/pp4pp/8/6b1/8/8/PPPq2PP/2KR4 w - - 0 25,d1d2 f8f1,767,99,95,432,endgame mate mateIn1 oneMove pin,https://lichess.org/y2vd4GSC#49,
+1Q9p1,2k4r/pppr4/5p1b/3Pp3/3P2pp/P4p1P/1PPQ2PB/2KR3R w - - 0 20,h2f4 h6f4 d2f4 e5f4,723,198,43,9,advantage middlegame pin short,https://lichess.org/JiPd7c7f#39,
+1RgcQ,r3k3/1pp4r/2q1p1p1/p2p1p1p/P2P1P1P/1Pb1P3/R1P1BKP1/3Q3R b q - 1 19,b7b6 e2b5 c6b5 a4b5,729,92,96,1434,crushing middlegame pin short,https://lichess.org/e3lLyfwx/black#38,Queens_Pawn_Game Queens_Pawn_Game_Other_variations
+1TNMS,5bk1/p2b4/1p2p1Bp/3pQ3/3r4/8/1P2P3/6K1 w - - 0 43,e5d4 f8c5 d4c5 b6c5,795,79,100,284,crushing endgame master masterVsMaster pin short,https://lichess.org/PN8VzC2H#85,
+1TUSJ,8/8/pkp5/1p6/5q1p/P6R/1P4P1/4B1K1 b - - 5 47,f4d4 e1f2 c6c5 f2d4,724,92,94,551,crushing defensiveMove endgame pin short,https://lichess.org/lbvzwgtt/black#94,
+1WhfW,3r2k1/bp3ppp/2n1p3/nN6/P3P3/2P2N2/5qPP/R1B2RK1 w - - 0 17,f1f2 d8d1 f3e1 d1e1,723,89,85,365,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/4JnB78O0#33,French_Defense French_Defense_Franco-Sicilian_Defense
+1aybX,3rr1k1/p5p1/1pQ5/2b3Rp/2P5/8/1B3qPP/5RK1 w - - 0 27,f1f2 d8d1,732,79,88,324,master mate mateIn1 middlegame oneMove pin,https://lichess.org/YcdLxfot#53,
+1fWgf,8/7p/4q3/p1k5/3B1R2/7P/6PK/8 b - - 9 60,c5c6 f4f6 e6f6 d4f6,768,91,80,53,crushing endgame pin short,https://lichess.org/5IMv2Pwz/black#120,
+1iold,7k/7p/6p1/4Pp2/3N1P2/b6P/6P1/7K w - - 0 37,h1g1 a3c5 g1h2 c5d4,799,91,80,90,crushing endgame pin short,https://lichess.org/tcLrsFQ3#73,
+1lnl5,r2qk3/ppp1pr2/3pb2R/4n2B/4P3/2P5/P1P2PP1/2KR2N1 b q - 4 15,d8d7 h6h8,771,80,84,122,mate mateIn1 middlegame oneMove pin,https://lichess.org/JTR7JSMJ/black#30,Indian_Defense Indian_Defense_Other_variations
+1opjD,3r4/4kpp1/p1p1p2p/2b5/2N5/P6P/1PP2nPB/5RK1 w - - 0 27,f1f2 d8d1,739,82,94,850,endgame mate mateIn1 oneMove pin,https://lichess.org/sU9oZKkY#53,
+1uZHY,6k1/p6p/2pBbrp1/3n4/4p3/P1b1P3/2P2PP1/3R1KNR w - - 4 22,g1e2 d5e3 f1g1 e3d1,769,93,95,2003,advantage middlegame pin short,https://lichess.org/JwmWpoHi#43,
+24eHW,8/5p2/4pk2/PP6/6P1/2r5/3p2PP/3B2K1 w - - 0 45,a5a6 c3c1 g1f2 c1d1,707,96,95,857,crushing endgame master pin short,https://lichess.org/cTZgFaSh#89,
+2ARTM,2r2b2/1BPb3k/7p/4p3/2R1P3/8/8/6K1 b - - 6 49,c8c7 c4c7 h7g6 c7d7,755,135,69,14,crushing endgame hangingPiece master pin short,https://lichess.org/VCX4SLAm/black#98,
+2BslG,4r1k1/5p1p/6p1/8/N7/4p2P/PP3qP1/2R1Q2K w - - 2 34,e1f2 e3f2 c1f1 e8e1 h1h2 e1f1,728,82,94,393,advancedPawn advantage endgame long pin,https://lichess.org/LexK2i6v#67,
+2GTpA,8/5ppk/8/1r3PPK/2R1R2P/8/8/6r1 w - - 10 56,g5g6 f7g6,726,77,97,221,endgame mate mateIn1 oneMove pin rookEndgame,https://lichess.org/G3ku8RPf#111,
+2GXBS,2kr2n1/2pp1p2/p3p3/P3P2q/1P2N1p1/6P1/1P3PK1/R1R5 b - - 0 22,h5f5 e4d6 c8b8 d6f5,750,78,87,297,advantage endgame pin short,https://lichess.org/pEoRkxQe/black#44,
+2LYEP,6k1/1p3ppp/pPp4q/P1Pp1P2/3Pp1Pr/4P1R1/4N3/3K2Q1 w - - 1 40,e2f4 h4h1 d1d2 h1g1,762,100,95,482,crushing endgame pin short,https://lichess.org/4eNQQUx6#79,
+2MMZS,r2q1rk1/5ppp/p4b2/1ppP4/R3PN2/4Q2P/6PN/5RK1 w - - 0 26,a4a2 f6d4 e3d4 c5d4,755,84,80,206,advantage middlegame pin short,https://lichess.org/pxxA3Lf4#51,
+2ODrH,6k1/pb2q1pp/1p2p3/2p1N2r/2Pp1P1r/3P2Q1/PP3RPP/4R2K w - - 14 27,h2h3 h4h3 g3h3 h5h3,716,84,83,239,advantage kingsideAttack middlegame pin short,https://lichess.org/y866j75f#53,
+2R0FW,6k1/b4pp1/p3p2p/1p1rP3/1Pn4N/P1Q4P/5qPB/5RK1 w - - 0 28,f1f2 d5d1 c3e1 d1e1,792,88,83,363,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/YddLIpFv#55,
+2UeKV,2r2k2/1b3pp1/2p4p/5N2/1P6/4P1P1/3K1P1P/2R5 w - - 5 30,f5d6 c8d8 d2c3 d8d6,759,83,98,3333,advantage endgame pin short,https://lichess.org/t9SXOYSN#59,
+2WwfB,8/5kp1/p7/8/1P5p/1KBB4/P3r1q1/2R5 b - - 1 53,g2d5 d3c4 d5c4 b3c4,748,96,87,608,advantage defensiveMove endgame fork pin short,https://lichess.org/jhJ74LSh/black#106,
+2jwZL,4r1k1/1B4p1/p4p1p/1p6/2p3P1/P1P4P/1P2bPK1/2R5 b - - 1 27,e8e6 b7d5 g8h7 d5e6,752,85,63,145,crushing endgame pin short,https://lichess.org/RMqplME5/black#54,
+2oH2r,rn3rk1/p4Qpp/2pp4/8/3N2bq/1BP5/P1P2PPP/R3R1K1 b - - 0 15,f8f7 e1e8,776,78,100,409,mate mateIn1 middlegame oneMove pin,https://lichess.org/SWA23eEX/black#30,Philidor_Defense Philidor_Defense_Other_variations
+2rTvV,3r1r1k/pb5p/4B2Q/2p1Ppp1/7R/1PB5/P1P3qP/6RK w - - 0 27,g1g2 d8d1 c3e1 d1e1,732,83,89,382,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/vM3WFdiF#53,
+2y7yL,8/3Q1pkp/p5p1/1p1p4/1PnP4/6P1/P3rPKP/8 w - - 2 30,d7d5 c4e3 g2f3 e3d5,770,98,94,446,crushing endgame master pin short,https://lichess.org/VzB0670N#59,
+38gVU,6k1/p2N1ppp/4p3/q2p4/2pP1P2/2Pb4/R5PP/1rb1Q1K1 w - - 0 24,a2a5 c1e3 g1h1 b1e1,719,97,92,629,backRankMate discoveredAttack endgame mate mateIn2 pin short,https://lichess.org/ghqBfDTa#47,
+3MCgB,5rk1/pp3Qpp/8/1q6/8/1B5P/PP4P1/3R3K b - - 0 24,f8f7 d1d8 b5e8 d8e8,749,98,82,323,endgame mate mateIn2 pin short,https://lichess.org/SmjTMST5/black#48,
+3RxA1,4r1k1/5pB1/pq2n2p/1p6/3n4/6Q1/PP3PPP/1B2R1K1 b - - 0 29,e6g7 e1e8,789,79,97,1788,master masterVsMaster mate mateIn1 middlegame oneMove pin,https://lichess.org/xuZ5Jnyo/black#58,
+3h46Y,5rk1/7p/1p2p3/p2nB3/3P2p1/P3P3/1P1R1PP1/5K2 w - - 1 33,d2c2 d5e3 f1e2 e3c2,764,77,98,2548,crushing endgame pin short,https://lichess.org/ohatBJVE#65,
+3j1pl,5rk1/5Qpp/p2B4/q1pB4/1r4b1/8/Pb3PPP/3RR1K1 b - - 0 21,f8f7 e1e8,767,77,97,480,master masterVsMaster mate mateIn1 middlegame oneMove pin,https://lichess.org/1KWr54R5/black#42,
+3pOIC,2rqk2r/pp3ppp/8/1Q1p4/1B1Pn3/P3P3/5PPP/2R1K2R b Kk - 0 19,d8d7 c1c8,764,358,100,4,mate mateIn1 middlegame oneMove pin,https://lichess.org/oBAyzJA2/black#38,
+3zuVs,3b2k1/5p2/4p1p1/7p/P7/1Q3PP1/P1KNq2P/8 b - - 9 44,e2h2 b3b8 g8g7 b8d8,756,87,93,799,advantage endgame pin short,https://lichess.org/Ldl36hGJ/black#88,
+41Wry,8/1p5k/2p5/4q3/P5R1/1P3P1K/2P5/8 b - - 0 48,e5h5 g4h4 h5h4 h3h4,754,97,63,106,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/3WLJBNSp/black#96,
+49zYm,1k4rr/ppp2p2/3p4/4nP2/P1B2Qpq/1NPP2R1/1P3KP1/R7 w - - 3 22,c4d5 e5d3 f2e3 d3f4,730,92,95,1638,crushing master middlegame pin short,https://lichess.org/3dBGsqgq#43,
+4JLSf,r1bqkb1r/p1pp1ppp/1p6/4P3/3Q4/6P1/PPP1B1PP/RNB1K2R w KQkq - 0 9,e1g1 f8c5 d4c5 b6c5,793,88,88,462,advantage opening pin short,https://lichess.org/TGgubxuD#17,Scotch_Game Scotch_Game_Other_variations
+4N6z2,8/1b3p1p/p5pk/1p1r4/8/8/6Q1/4R2K w - - 6 60,g2h2 d5h5 h1g1 h5h2,748,92,94,1580,crushing discoveredAttack endgame pin short,https://lichess.org/cDD29XQL#119,
+4O2KI,6k1/ppq3p1/2pb4/3p4/5P2/1P4QP/P1P3PK/R3r3 w - - 0 37,a1e1 d6f4 g3f4 c7f4,783,92,90,216,crushing endgame pin short,https://lichess.org/VgmdCw6u#73,
+4srWk,6r1/pp1k1p1p/5pb1/8/1K6/P4B1P/5PP1/2R5 w - - 1 28,f3b7 g8b8 b4a5 b8b7,786,91,93,1560,crushing endgame pin short,https://lichess.org/6Qt31QGK#55,
+4wGMK,r1bqnrk1/p1ppbppp/1p6/4P3/2BQ1P2/2N5/PPP3PP/R1B2RK1 w - - 0 11,c4d3 e7c5 d4c5 b6c5,796,81,71,126,crushing opening pin short,https://lichess.org/NEaRvfOt#21,Kings_Knight_Opening Kings_Knight_Opening_Other_variations
+4xyLC,8/3RK3/pp1R4/4Pq2/4k3/1P6/P2p4/8 b - - 3 53,f5e5 d6e6 e5e6 e7e6,700,99,50,32,crushing defensiveMove endgame master pin queenRookEndgame short,https://lichess.org/rCkp4NV1/black#106,
+5019l,2r2rk1/3q1ppp/p1n1p3/1p2b3/4NP2/1BPp2Q1/PP4PP/R4RK1 b - - 0 18,e5b8 e4f6 g8h8 f6d7,798,78,69,65,crushing middlegame pin short,https://lichess.org/WdyHxsHY/black#36,Sicilian_Defense Sicilian_Defense_French_Variation
+51z7z,2kr3r/pppq1pb1/2n2Npp/3n4/8/3P4/PP2BPPP/R1BQR1K1 b - - 5 17,g7f6 e2g4 c8b8 g4d7,771,78,95,738,advantage middlegame pin short,https://lichess.org/KfnOwRRE/black#34,Russian_Game Russian_Game_Other_variations
+52hDg,r1bq1r1k/pp4bp/2n2pp1/2p5/2Bp3N/1P2P3/PBPP1PP1/R2QK2R b KQ - 3 12,d4e3 h4g6,772,88,84,283,kingsideAttack mate mateIn1 oneMove opening pin,https://lichess.org/yJwAtu7m/black#24,Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations
+56NEf,r1bq1rk1/2p1n1b1/1p1p4/1NnPp1pp/p1P1Pp2/5P1P/PPQNBBP1/K2R3R w - - 0 18,d2b1 c5b3 c2b3 a4b3,738,80,87,417,advantage master middlegame pin short,https://lichess.org/Q6Ehhw3A#35,Kings_Indian_Defense Kings_Indian_Defense_Normal_Variation
+58zxM,5r1k/pp4pp/2bQ4/8/8/1N6/PPP3qP/6RK w - - 0 25,g1g2 f8f1,723,84,97,1436,endgame mate mateIn1 oneMove pin,https://lichess.org/HSQTQ5kQ#49,
+5AOJ9,8/pp4pk/5p2/3p1P2/6q1/8/PPP2P1K/R4B2 b - - 1 37,g4f5 f1d3 f5d3 c2d3,713,96,93,74,crushing endgame master pin short,https://lichess.org/4YU1wOjQ/black#74,
+5FK4g,4r1N1/p2k1b1r/Pp1p1Pp1/1PpPp1P1/2P1P3/4K2R/8/8 b - - 3 57,e8f8 h3h7 f8g8 h7f7,711,87,81,225,crushing endgame hangingPiece master pin short,https://lichess.org/aGxB7gaX/black#114,
+5GdQl,8/1R4pk/6pb/1p1N4/3P4/2P4P/Pr6/6K1 b - - 1 36,b2a2 d5f6 h7h8 b7b8,762,79,81,83,endgame mate mateIn2 pin short,https://lichess.org/7eaMHMrI/black#72,
+5GmRY,8/2P2k2/3q2pp/8/8/2Q5/5K2/8 b - - 0 53,d6f4 c3f3 f4f3 f2f3,772,84,100,121,crushing defensiveMove endgame master pin queenEndgame short,https://lichess.org/VfhGin1l/black#106,
+5NsB4,8/5qk1/5p2/2RN1Pp1/2KP4/8/8/8 b - - 8 55,g5g4 c5c7 f7c7 d5c7,798,94,94,1355,crushing endgame pin short,https://lichess.org/MYbPfX9G/black#110,
+5QXeT,1N6/5pk1/p7/6n1/1P1R4/4P3/r5P1/6K1 w - - 2 36,g1h2 g5f3 h2g3 f3d4,750,96,82,273,crushing endgame master masterVsMaster pin short,https://lichess.org/ObWe2zK8#71,
+5RvFr,r1b2rk1/pp3Rpp/n1pR4/8/8/1B3N2/P4PPP/6K1 b - - 0 21,f8f7 d6d8,762,85,97,1005,mate mateIn1 middlegame oneMove pin,https://lichess.org/fQQTIDOy/black#42,
+5V0jP,6k1/4pp2/6p1/Q2P3p/3bP3/2r2B2/P4qPP/5RK1 w - - 0 30,f1f2 c3c1 f3d1 c1d1 a5e1 d1e1,714,83,98,608,endgame long master mate mateIn3 pin,https://lichess.org/hBxWwODh#59,
+5Wsxr,3k4/pp3p2/2p1b2p/8/6p1/P7/2P1RPPP/6K1 w - - 0 26,g1f1 e6c4 f1e1 c4e2,721,99,82,71,advantage endgame pin short,https://lichess.org/Cxo4MKDN#51,
+5Y35i,r1b3k1/5rpp/2p2b2/p1N1R3/1p6/1B6/PPP2PPP/3R2K1 b - - 0 18,f6e5 d1d8,764,95,94,523,mate mateIn1 middlegame oneMove pin,https://lichess.org/dGatu5g6/black#36,Van_Geet_Opening Van_Geet_Opening_Reversed_Nimzowitsch
+5aHoY,5r2/pp1k1qp1/2p3p1/3pQ2r/2P4P/3PRBP1/PP3K2/R7 w - - 5 26,e5e7 f7e7 e3e7 d7e7,735,89,83,85,advantage middlegame pin short,https://lichess.org/2x3TxP83#51,
+5acsk,r2Q1k1r/4qpp1/p6p/1p6/1Q2b2P/3R1N2/PP3PP1/2K4R b - - 0 20,a8d8 d3d8,742,91,90,1047,mate mateIn1 middlegame oneMove pin,https://lichess.org/0iXXjRnd/black#40,
+5an7V,rnb2rk1/1pp2Qpp/1p6/q7/2B4P/8/PPP1NPP1/1K1R3R b - - 0 16,f8f7 d1d8,798,110,100,22,mate mateIn1 middlegame oneMove pin,https://lichess.org/IHDn5Ckg/black#32,French_Defense French_Defense_Classical_Variation
+5avW5,7Q/3R4/5p2/8/4p1P1/1r6/1k2K3/1q6 b - - 2 57,b1c2 d7d2 c2d2 e2d2,752,89,92,91,crushing defensiveMove endgame master pin short,https://lichess.org/bEurhBAL/black#114,
+5dACu,8/pppk4/3r4/2pPK1pp/8/8/PP4PP/3R4 b - - 0 29,c7c6 d5c6 d7c6 d1d6,779,96,95,757,attraction crushing discoveredAttack endgame pin rookEndgame short,https://lichess.org/WUf8NX2h/black#58,
+5mMXW,6r1/1pp2p1k/p4p1p/2P1nN2/1P1R4/P6P/5PP1/6K1 w - - 9 28,d4h4 e5f3 g1f1 f3h4,794,96,91,255,crushing endgame pin short,https://lichess.org/XpARYNSF#55,
+5mNK5,r1b4k/1p3rpn/p3p2R/3P4/8/P1B3P1/5P1P/4R1K1 b - - 0 28,e6d5 e1e8 f7f8 e8f8,775,80,83,139,mate mateIn2 middlegame pin short,https://lichess.org/FDuFOLfu/black#56,
+5pJm1,8/1p2kp2/p3r2p/3rP1p1/P5P1/1P5P/4RK2/4R3 b - - 2 32,f7f6 e5f6 e7f6 e2e6,760,83,62,80,attraction crushing discoveredAttack endgame pin rookEndgame short,https://lichess.org/Uqg4x0Sv/black#64,
+5rF2m,2rq4/p4k2/3Q1n2/1p1p1bp1/3P4/3B1P2/PP6/1K2R1N1 w - - 5 25,e1e7 d8e7 d6e7 f7e7,726,94,95,1052,crushing middlegame pin short,https://lichess.org/59WenLUv#49,
+5zkI4,8/5k2/3r4/8/P3Q3/8/1P3KP1/3r4 w - - 9 51,e4f4 d6f6 f4f6 f7f6,700,87,94,657,crushing defensiveMove endgame master pin queenRookEndgame short,https://lichess.org/oPogqVZS#101,
+66jTq,6k1/5pp1/1p5p/1Ppr4/8/4PKPP/5P2/5B2 b - - 1 34,f7f5 f1c4 g8f8 c4d5,724,89,95,675,crushing endgame pin short,https://lichess.org/B9fxXopP/black#68,
+6Efic,r1b3k1/1p3p1p/p2B2p1/3P4/3br3/5B2/PPR2nPP/5RK1 w - - 0 19,f1f2 e4e1,780,93,95,767,mate mateIn1 middlegame oneMove pin,https://lichess.org/xXZyD5xz#37,Kings_Indian_Defense Kings_Indian_Defense_Orthodox_Variation
+6HWV8,1r2R1k1/5qpp/3p2r1/p1pQ4/PpPp1P2/1P1P3P/6P1/4R1K1 b - - 2 39,b8e8 e1e8,797,83,96,1228,endgame kingsideAttack mate mateIn1 oneMove pin,https://lichess.org/9tYDTbUu/black#78,
+6KXor,r1b1kbnr/ppq2ppp/2N1p3/2p5/5P2/2N5/PPPP2PP/R1BQKB1R b KQkq - 0 7,c7c6 f1b5 c8d7 b5c6,787,92,90,237,crushing opening pin short,https://lichess.org/MZ2gLj1D/black#14,Sicilian_Defense Sicilian_Defense_Grand_Prix_Attack
+6O9gD,3k1b2/pp6/2p4P/6p1/2P1N3/8/PP4P1/2K5 w - - 0 34,e4g5 f8h6 c1c2 h6g5,749,107,63,72,advantage endgame pin short,https://lichess.org/bRRTrASQ#67,
+6VcUH,r1b2rk1/pp1qbpp1/3p3p/2pP4/4PP2/2N1Q1PP/PPP5/2KR1B1R w - - 1 18,f4f5 e7g5 e3g5 h6g5,767,81,96,1486,crushing middlegame pin short,https://lichess.org/RQ2pIObs#35,Scotch_Game Scotch_Game_Other_variations
+6n6Ow,r1R4k/5prp/3q4/p7/4n3/PP6/1B3PPP/2R3K1 b - - 1 26,a8c8 c1c8 d6f8 c8f8,750,100,81,99,endgame mate mateIn2 pin short,https://lichess.org/PGyEd2MZ/black#52,
+6ngym,3b1r2/6k1/4p3/1R1pNbp1/1p1P3p/4P3/1P1K1PPB/8 w - - 2 33,b5b4 d8a5 e5c6 a5b4,740,91,82,120,advantage endgame master pin short,https://lichess.org/X5WlzpO6#65,
+6y9xn,1kq1r3/r7/2p1N1p1/pp1pR2p/2n2B1P/2P2P2/PP2Q3/2K5 b - - 2 36,b8a8 e6c7 a7c7 e5e8,751,93,88,457,crushing discoveredAttack master middlegame pin short,https://lichess.org/bt4QOklc/black#72,
+737md,2kq1RQ1/p7/n1p1r3/1p6/3P4/P1P1P2P/1P6/6K1 b - - 3 31,e6e8 f8e8 d8e8 g8e8,763,100,78,323,crushing endgame pin short,https://lichess.org/EbWTiGvn/black#62,
+75sOT,1n3rk1/5Qpp/p2p4/1pp5/8/P1q2N2/B4PPP/4R1K1 b - - 0 18,f8f7 e1e8,791,86,92,80,endgame mate mateIn1 oneMove pin,https://lichess.org/uzWurFw8/black#36,Bishops_Opening Bishops_Opening_Other_variations
+76V74,r2qk2r/1pnnppbp/p2p2p1/2pP4/2P1PP2/P3Q3/RP2B1PP/1NB2RK1 w kq - 0 14,b2b3 g7d4 e3d4 c5d4,799,93,96,2063,crushing opening pin short,https://lichess.org/3FmJVJfv#27,Benoni_Defense Benoni_Defense_Old_Benoni
+771AH,r1bqkr2/ppppbpQp/3n3B/8/8/3P4/PPP2PPP/RN2R1K1 b q - 2 11,d6f5 g7f8,717,77,40,223,mate mateIn1 oneMove opening pin,https://lichess.org/PzytA4cS/black#22,Italian_Game Italian_Game_Hungarian_Defense
+77Y0y,3rr1k1/p4ppp/2Q5/2b5/8/3b1B2/PP3qPP/R1B2RK1 w - - 0 18,f1f2 e8e1,739,83,81,71,mate mateIn1 middlegame oneMove pin,https://lichess.org/KrgDd42M#35,Sicilian_Defense Sicilian_Defense_Open
+7DJx2,3r2k1/1b2bppp/8/1Np1NP2/2Q5/PP6/2P2RqP/7K w - - 0 26,f2g2 d8d1 c4f1 d1f1,788,77,99,892,mate mateIn2 middlegame pin short,https://lichess.org/5Hjc0Uvo#51,
+7F9FX,3r2k1/6pp/p3rp2/1pb5/8/2P3n1/PP3PPP/RN2R1K1 w - - 0 21,e1e6 d8d1 e6e1 d1e1,722,92,82,133,endgame mate mateIn2 pin short,https://lichess.org/h2TRIL57#41,
+7HPgo,2R5/4K3/8/8/2nq4/8/8/2k5 b - - 9 59,d4c5 c8c5 c1d2 c5c4,703,98,90,688,crushing endgame hangingPiece pin short,https://lichess.org/JZr1m7eL/black#118,
+7NCxH,6rk/pbp1q1rp/1p2P3/3p1p1Q/4pb2/PP5R/1BP3PP/R6K b - - 0 24,h7h6 h5h6 f4h6 h3h6,739,79,88,197,kingsideAttack mate mateIn2 middlegame pin sacrifice short,https://lichess.org/AWmIOkdO/black#48,
+7NVbj,r7/pp1nk1p1/4ppq1/1B1pn1B1/1P5P/P7/5PPQ/R4RK1 w - - 0 25,g5f4 e5f3 g1h1 f3h2,767,98,95,2211,advantage kingsideAttack middlegame pin short,https://lichess.org/ZSWXB3JM#49,
+7UYUQ,2b2rk1/5Rpp/p2Q4/1p2P3/8/P2P3P/BP2q1P1/7K b - - 0 33,f8f7 d6d8,764,85,83,159,endgame mate mateIn1 oneMove pin,https://lichess.org/SFBX7Eoj/black#66,
+7ZOdI,4k3/4r3/8/p7/8/7P/PP1p2P1/K2R4 w - - 0 38,b2b3 e7e1 a1b1 e1d1,732,95,96,485,crushing endgame pin rookEndgame short,https://lichess.org/lkGX0865#75,
+7b7AE,1rbQ1k1r/p3npbp/2B1p1p1/q1B5/1p2PPn1/8/PPP1N1PP/1K1R2NR b - - 2 17,a5d8 d1d8,776,78,83,320,mate mateIn1 middlegame oneMove pin,https://lichess.org/vTf38K3D/black#34,Modern_Defense Modern_Defense_Standard_Defense
+7fZht,7r/pp6/4kp1r/3p4/BQ1P3q/5R2/4K1P1/8 b - - 2 42,h4e4 f3e3 e4e3 e2e3,764,101,100,59,advantage defensiveMove endgame pin short,https://lichess.org/KZE86OvK/black#84,
+7hkYY,1rb2rk1/p4Qpp/1q6/3B4/8/6P1/Pb3P1P/R1B1R1K1 b - - 0 17,f8f7 e1e8,712,83,86,285,mate mateIn1 middlegame oneMove pin,https://lichess.org/upKkjKpA/black#34,Zukertort_Opening Zukertort_Opening_Reversed_Grunfeld
+7m3dD,3r2kr/pQ2Rpp1/1b5p/8/2P5/8/P4qPP/5RK1 w - - 0 24,f1f2 d8d1 e7e1 d1e1,700,109,68,44,endgame mate mateIn2 pin short,https://lichess.org/jOFLoFTI#47,
+7qc73,2kr3r/pp3ppp/1b2p3/1Q6/2P5/B7/P4qPP/5RK1 w - - 0 20,f1f2 d8d1,707,80,92,529,endgame mate mateIn1 oneMove pin,https://lichess.org/gxoGE3aG#39,
+7sIq3,8/8/2p1q2k/pp2Pr2/2nQ3p/2P3B1/P5PK/4R3 w - - 0 37,d4h4 f5h5 h4h5 h6h5,783,101,94,1018,advantage defensiveMove endgame pin short,https://lichess.org/BtJBGQxy#73,
+7v8Y2,r4r1k/pp2N2p/6p1/3N4/4P1b1/8/PPPK2P1/7R b - - 0 20,a8d8 e7g6 h8g7 g6f8,782,81,80,192,crushing endgame master pin short,https://lichess.org/Pk3BU8vH/black#40,
+7vG53,2r3k1/1pr2p2/pR2p1p1/2npP1Pp/3N1P1P/1R6/PPP5/2K5 w - - 9 30,b3b4 c5d3 c1d2 d3b4,755,87,88,1211,advantage endgame pin queensideAttack short,https://lichess.org/aqWQU5xh#59,
+7wCSS,r1r3k1/4pp2/6pb/4P2p/3Nb3/2P2NP1/1P3PP1/2KR3R w - - 2 24,f3d2 a8a1,735,78,98,385,mate mateIn1 middlegame oneMove pin,https://lichess.org/98kC3am4#47,
+7wCak,2k2Q1r/pppr2p1/4B2p/4p3/4q3/8/PPP3PP/5R1K b - - 1 18,h8f8 f1f8,725,78,100,142,endgame mate mateIn1 oneMove pin,https://lichess.org/QZEglBAJ/black#36,Petrovs_Defense Petrovs_Defense_Three_Knights_Game
+80AXX,8/p4kpp/3b4/8/3p1P1P/6P1/PP6/3R2K1 w - - 0 30,d1d4 d6c5 g1g2 c5d4,702,101,83,623,advantage endgame pin short,https://lichess.org/LGHtM0YP#59,
+83Brd,4r1k1/p1p2ppp/2N5/2bp4/8/2N3Pb/PPP2B1P/R3r1KR w - - 1 18,a1e1 e8e1,721,78,89,336,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/jSS6BFgi#35,Italian_Game Italian_Game_Scotch_Gambit
+843FK,4kbr1/3b1p2/4p1P1/q2pPp1p/2pP1N2/1nN1B3/1P4QP/5RK1 w - - 1 24,g6f7 e8f7 g2g8 f7g8,709,116,66,71,crushing middlegame pin short,https://lichess.org/SBs8JD0n#47,
+85lUt,8/5Rpk/4n2p/1p5P/6N1/r4PK1/6P1/3b4 b - - 0 35,e6g5 g4f6 h7h8 f7f8,755,82,56,92,endgame mate mateIn2 pin short,https://lichess.org/guwiqdR5/black#70,
+87Zlo,4Nb1k/5p1p/4p1p1/8/1P1r4/2Q5/1q1BKPPP/8 b - - 12 35,b2c3 d2c3 e6e5 c3d4,765,99,100,74,advantage endgame pin short,https://lichess.org/XI8FYUDD/black#70,
+87fo9,8/p7/1p1R4/2k2BK1/2P1P3/P7/1Pp4P/8 w - - 0 55,d6d2 c2c1q g5f6 c1d2,771,87,91,519,advancedPawn advantage endgame pin promotion short,https://lichess.org/pUSE0SVf#109,
+88JSe,r2q1rk1/2pnbppp/p7/1p1QP3/3p1P2/3P4/PPP3PP/RNB2RK1 w - - 1 14,d5d4 e7c5 d4e3 c5e3,794,110,0,31,advantage middlegame pin short,https://lichess.org/oaUPhBB2#27,Ruy_Lopez Ruy_Lopez_Morphy_Defense
+89YNa,8/5k1p/Bn1p1p2/3Pp1p1/6P1/P4P2/7P/6K1 b - - 0 35,b6d5 a6c4 f7e7 c4d5,749,93,87,452,crushing endgame pin short,https://lichess.org/UPQPb1Cc/black#70,
+8Ill1,2k1r2r/8/4qp2/1p1p1Q1p/p1pP3P/PnP1N3/1P4P1/3RK2R w K - 2 29,h1f1 e6f5 f1f5 e8e3,703,82,88,178,crushing discoveredAttack middlegame pin short,https://lichess.org/VHzDRAVE#57,
+8Ls6X,2k3rr/1pp2p2/p2p4/8/PP1bP3/5Qq1/2B2P2/3R1RK1 w - - 0 29,f3g3 g8g3,740,87,86,150,mate mateIn1 middlegame oneMove pin,https://lichess.org/MEVxfqbB#57,
+8RLHI,6rk/2pp2Qp/1p1b4/p2P4/7q/P1B2Ppn/1P4P1/4RR1K b - - 0 30,g8g7 e1e8 d6f8 e8f8,710,93,95,386,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/YEZEIhbK/black#60,
+8SIFN,1R2r1k1/p1Q2pp1/4r2p/8/3b4/8/P1P2qPP/5RK1 w - - 0 22,f1f2 e6e1,727,98,95,763,endgame mate mateIn1 oneMove pin,https://lichess.org/6EuqcqeG#43,
+8X15d,1r1b2k1/5ppp/1B1p4/3Pp3/2p5/7P/2P1BPP1/R5K1 b - - 0 25,b8b6 a1a8 g8f8 a8d8,792,97,73,765,crushing endgame pin short,https://lichess.org/77UyNWcP/black#50,
+8XQVJ,r1b3k1/pp3ppp/1q6/2bP4/3N1P2/3Pr2P/PP3QB1/R4RK1 w - - 0 20,f2e3 c5d4 e3d4 b6d4,768,98,86,370,crushing middlegame pin short,https://lichess.org/4BS3zZ0L#39,
+8nxlG,5q1k/p4p2/5Np1/4b2P/8/8/PP2R2P/4R2K b - - 0 37,e5f6 e2e8 f8e8 e1e8,760,108,57,47,crushing endgame pin short,https://lichess.org/bhfnt20d/black#74,
+8oBNn,2b3r1/p4p2/3Qpk2/6q1/1P5p/P5P1/5P1P/3RR1K1 w - - 2 30,d6e5 g5e5 e1e5 f6e5,733,97,80,244,advantage endgame pin short,https://lichess.org/pIoMX6db#59,
+8qtkd,bn3k1r/pq2bppp/4p3/2B1n3/2Q5/8/PPP2PPP/R2RN1K1 b - - 1 18,e5c4 d1d8,787,93,92,353,mate mateIn1 middlegame oneMove pin,https://lichess.org/kbW28nY8/black#36,Owen_Defense Owen_Defense_Other_variations
+8wl5g,r1bk1r2/pp1n4/3Qp1B1/3pP3/2p5/P1P5/1P1N1qPP/1R1K1R2 b - - 8 27,f2g2 f1f8,726,84,84,189,killBoxMate mate mateIn1 middlegame oneMove pin,https://lichess.org/Z8sJ5VwT/black#54,
+8zMoX,r1bb2k1/ppp2rpp/2nB4/8/2B5/8/PPP2PPP/RN2R1K1 b - - 0 12,c7d6 e1e8,754,99,90,598,mate mateIn1 middlegame oneMove pin,https://lichess.org/YjUJ6d0l/black#24,Philidor_Defense Philidor_Defense_Other_variations
+8zhS6,2kr2r1/p1pq1p1p/Pp1b4/5P2/1PP5/3p1B1K/R2B4/3Q1R2 b - - 0 27,d7f5 f3g4 f5g4 d1g4 g8g4 h3g4,752,85,97,1216,crushing long middlegame pin,https://lichess.org/Oq8eaqBC/black#54,
+92y0b,r1br2k1/p5pp/1bp5/8/2P5/2Q5/PP3qPP/R1B2RK1 w - - 0 17,f1f2 d8d1 c3e1 d1e1,763,98,92,1987,mate mateIn2 middlegame pin short,https://lichess.org/ylX2oNjU#33,Scotch_Game Scotch_Game_Classical_Variation
+948fz,4rrk1/p4p1p/1b4p1/1p3b2/8/1PP1NB2/1P3RPP/4R1K1 w - - 4 24,e3f5 e8e1,751,78,100,420,hangingPiece mate mateIn1 middlegame oneMove pin,https://lichess.org/GDRjP2zo#47,
+94HHV,8/5pk1/1P4pp/2q5/6P1/1Q6/1K6/8 b - - 4 50,c5d4 b3c3 d4c3 b2c3,716,102,90,993,crushing defensiveMove endgame pin queenEndgame short,https://lichess.org/n2oUU63K/black#100,
+94RL2,8/3Q1b1k/p5pp/1pP1K2P/1P3P2/P7/6q1/8 b - - 3 58,g2e2 e5f6 e2b2 f6f7,766,81,88,253,crushing defensiveMove endgame pin short,https://lichess.org/3wZ8xS50/black#116,
+98Znq,r2qkb1r/pp1npppb/2p4p/8/2NP4/2P5/P3QPPP/R1B1KB1R b KQkq - 5 11,b7b5 c4d6,797,95,88,434,mate mateIn1 oneMove opening pin smotheredMate,https://lichess.org/Jz28A9wB/black#22,Slav_Defense Slav_Defense_Quiet_Variation
+99Z0k,8/pp5k/7P/3p1R2/3Pn3/P5p1/KP4r1/4R3 w - - 0 41,f5d5 e4c3 a2b3 c3d5,794,83,88,102,crushing endgame pin short,https://lichess.org/5L4NS1fc#81,
+9AJGp,2k4q/p7/1pp1pn2/8/1P1PP3/4Q1PP/P1P3BK/8 w - - 1 29,a2a4 f6g4 h2g1 g4e3,763,82,100,111,crushing endgame pin short,https://lichess.org/yMPl86fW#57,
+9BKxS,8/8/8/5K2/6pk/7r/7Q/8 w - - 2 67,h2f4 h3f3 f5e4 f3f4,704,102,81,210,crushing endgame pin queenRookEndgame short,https://lichess.org/koHI6Lct#133,
+9Czdv,3rk2r/ppp2ppp/2p5/2b2P2/8/8/PPP2nPP/RNB2RK1 w k - 0 11,f1f2 d8d1,781,80,96,183,mate mateIn1 middlegame oneMove pin,https://lichess.org/QjkTy78m#21,Ruy_Lopez Ruy_Lopez_Berlin_Defense
+9G5wQ,5rk1/2r2p2/6pp/8/B2Q4/b1p5/6PP/4R1K1 w - - 1 39,a4c2 a3c5 d4c5 c7c5,772,79,95,1251,crushing endgame pin short,https://lichess.org/UwP5ccex#77,
+9GwJl,r2qkb1r/1ppbn3/p7/8/3PBPpp/2N5/PPP1Q1P1/2KR3R b kq - 0 17,c7c6 e4g6,733,100,95,366,mate mateIn1 middlegame oneMove pin,https://lichess.org/0pwNSrXb/black#34,Dutch_Defense Dutch_Defense_Raphael_Variation
+9HxTR,6k1/5pp1/4p2p/2B5/3P4/7P/2rp2P1/3R2K1 w - - 4 36,c5b4 c2c1 g1f1 c1d1,763,85,89,68,advantage endgame pin short,https://lichess.org/YJ5DLlAC#71,
+9IG1E,5bk1/5q1p/3pP1p1/P3pr2/8/1P2B2P/5PB1/3R2K1 b - - 0 32,f7e6 g2d5 e6d5 d1d5,779,90,95,1375,crushing endgame master pin short,https://lichess.org/20RYNsES/black#64,
+9SGnb,6k1/1p6/p2p4/3P4/1P1p3q/4bR2/P3R1K1/8 b - - 5 47,h4g4 f3g3 g4g3 g2g3,700,84,75,74,advantage defensiveMove endgame pin short,https://lichess.org/ft4clqc8/black#94,
+9Ta7x,7k/1pp2rQp/p7/1r6/3B4/5R2/P1PK1PPP/1q6 b - - 0 25,f7g7 f3f8,719,97,84,370,endgame mate mateIn1 oneMove pin,https://lichess.org/XLcE1y67/black#50,
+9TftZ,8/pr5k/5R1p/3pB1p1/3P1p2/5P1P/qP2Q2K/8 w - - 2 40,e5d6 b7b2 e2b2 a2b2,793,107,79,40,crushing endgame pin short,https://lichess.org/dIsPi6rX#79,
+9WxSg,2kr4/2q1b1p1/1B3pP1/p3p3/P3b3/7N/1PP2Q2/1K5R b - - 0 26,e4c2 f2c2 c7c2 b1c2,737,100,82,595,advantage master middlegame pin short,https://lichess.org/ymZ0rI5m/black#52,
+9XWXU,2r4k/pp5p/3pp1pP/6P1/4nP2/8/PPP1B3/2K4R w - - 0 24,e2d3 e4f2 h1f1 f2d3,791,80,84,219,advantage endgame pin short,https://lichess.org/HOLFsQX8#47,
+9f9ob,2kr3r/ppp2ppp/2b1q2B/2b1P3/2PpP3/P6P/3RBPP1/1NQ2RK1 b - - 0 18,g7h6 e2g4 e6g4 h3g4,783,100,92,748,crushing middlegame pin short,https://lichess.org/vzh0CRXj/black#36,Queens_Gambit_Declined Queens_Gambit_Declined_Albin_Countergambit
+9kAFU,3r2k1/1p3rpp/3Q2p1/3B4/8/5P1P/P3R1P1/7K b - - 0 36,d8d6 e2e8,790,104,95,395,endgame mate mateIn1 oneMove pin,https://lichess.org/ZTQpfzKO/black#72,
+9pmyb,rn1q1k1r/pQp2Bpp/8/2b1p3/8/8/PPP2nPP/RNB2RK1 w - - 0 11,f1f2 d8d1,788,80,84,157,mate mateIn1 oneMove opening pin,https://lichess.org/Gm7DdrvN#21,Philidor_Defense Philidor_Defense_Other_variations
+9rpmw,3r4/q1r2k2/1QPp2p1/P3pp1p/8/5P2/6PP/1R2R1K1 b - - 0 29,d8c8 b6a7 c7a7 b1b7,797,83,89,1218,clearance crushing endgame master masterVsMaster pin short,https://lichess.org/6OdyXT2A/black#58,
+9ySHo,6k1/7p/6p1/P3Np2/1P6/7P/4rpP1/5R1K w - - 2 44,e5c6 e2e1 h1h2 e1f1,726,80,100,114,crushing endgame pin short,https://lichess.org/gQhXre0S#87,
+A48Kx,r6r/pp3pk1/3bp1bp/3p3q/P1pP1PN1/2P1P1QP/6P1/R4RK1 b - - 0 21,g7h7 g4f6 h7g7 f6h5,733,86,84,65,crushing fork middlegame pin short,https://lichess.org/UjpL93Aw/black#42,
+AF6Q3,2b2rk1/5Qpp/8/1p2R3/1p5q/1B6/PPPn1PPP/R5K1 b - - 0 18,f8f7 e5e8,748,85,96,694,mate mateIn1 middlegame oneMove pin,https://lichess.org/S2wxp3OD/black#36,Philidor_Defense Philidor_Defense_Lion_Variation
+AKldS,8/1bq1kppB/4p3/1p1pN3/p2P1P2/2r5/5RPP/3Q2K1 w - - 1 26,f4f5 c3c1 f2f1 c1d1,773,79,96,1598,crushing middlegame pin short,https://lichess.org/msUG2iG9#51,
+AN5A2,4r2r/6k1/2p1p2n/1p1pN1p1/p2P4/P1P3PP/1P5K/1R3R2 w - - 1 43,e5c6 h6g4 h2g2 g4e3,784,77,91,236,advantage endgame pin short,https://lichess.org/hYg9hVpX#85,
+AOEtN,6k1/p4p2/3r1Q2/8/8/P3B1KP/1P3PP1/3q4 w - - 1 40,f6g5 d6g6 g5g6 f7g6,772,83,84,94,advantage defensiveMove endgame pin short,https://lichess.org/LPFBhLVv#79,
+AROAe,b4rk1/5Qpp/p7/1p2q3/8/1B6/PPP2PPP/1K1R4 b - - 0 23,f8f7 d1d8 e5e8 d8e8,793,95,96,1357,endgame fork mate mateIn2 pin short,https://lichess.org/W4JI2wOf/black#46,
+ATOCD,r1b1k2r/pp1p1p2/8/4q2p/6p1/2P3n1/PP2B1P1/RN1QR1K1 b kq - 3 19,g3e2 e1e2 e5e2 d1e2,795,85,96,944,crushing middlegame pin short,https://lichess.org/IOLIQ4vI/black#38,Sicilian_Defense Sicilian_Defense_Other_variations
+AWeIw,r1b2rk1/pp3Rpp/7q/8/Q1B2n2/2N5/PP3PPP/3R2K1 b - - 0 22,f8f7 d1d8,746,93,96,1482,mate mateIn1 middlegame oneMove pin,https://lichess.org/eoDQiGE2/black#44,
+Aah7d,1r5r/2k1b3/1p2n3/p3R3/2PR4/5P1P/PP4P1/5BK1 w - - 0 36,e5e6 e7c5 g1h2 c5d4,741,83,86,113,crushing endgame master pin short,https://lichess.org/7xTB4GTX#71,
+AbmiJ,4r1k1/pQ4p1/2p4p/3b4/8/8/PP4qP/6RK w - - 0 23,g1g2 e8e1,767,87,80,59,endgame mate mateIn1 oneMove pin,https://lichess.org/gBto0h1g#45,
+AgXz9,6k1/2r2P1p/p5p1/2p5/1n3PB1/1P2P1K1/p6P/R7 b - - 0 35,c7f7 g4e6 g8g7 e6f7,713,97,95,1493,advantage endgame pin short,https://lichess.org/h6n41tVy/black#70,
+AnYli,1r3rk1/ppp2pp1/1n1p3q/4p3/4P3/1QPP1PRP/PP3K2/6R1 b - - 1 18,g7g6 g3g6 h6g6 g1g6,768,90,88,129,advantage kingsideAttack middlegame pin short,https://lichess.org/4YqJkrXT/black#36,Italian_Game Italian_Game_Giuoco_Pianissimo
+AzjRv,4r1k1/1P3pp1/2p2p2/3p2n1/R5P1/8/2K5/8 b - - 0 43,e8b8 a4a8 b8a8 b7a8q,766,101,93,599,advancedPawn crushing endgame pin promotion short,https://lichess.org/6t4oop0f/black#86,
+B8bQx,8/5p1k/5rp1/2p2q1p/1p6/1P5P/P1P3P1/3R2QK w - - 0 36,d1f1 f5f1 g1f1 f6f1,772,104,89,280,crushing endgame master pin short,https://lichess.org/5hjDco5g#71,
+B96bp,1r6/1P1n2k1/6p1/1R5p/8/3K3P/8/8 b - - 2 41,b8b7 b5b7 g7f6 b7d7,721,106,77,88,crushing endgame hangingPiece master pin short,https://lichess.org/XgAEpPns/black#82,
+BA5Or,8/pk6/1p1p4/8/1B2r2P/4r1p1/6P1/5QK1 w - - 6 46,b4d6 e3e1 d6g3 e1f1,739,99,43,56,crushing endgame pin short,https://lichess.org/Os5T0yoD#91,
+BAPkf,r2qkb1r/3npppp/p2p1n2/8/2N1b3/5N2/PPPPQPPP/R1B1K2R b KQkq - 2 11,e4c2 c4d6,778,82,97,402,mate mateIn1 oneMove opening pin smotheredMate,https://lichess.org/SpUbmiZj/black#22,Sicilian_Defense Sicilian_Defense_Moscow_Variation
+BJ8Yu,4Q3/5p2/7p/pP3p1k/5P2/6q1/8/3K4 b - - 1 50,g3f3 e8e2 f3e2 d1e2,764,99,94,348,crushing defensiveMove endgame pin queenEndgame short,https://lichess.org/RRN6KebS/black#100,
+BKPxu,3R1r1k/6p1/7p/8/5n2/5B1P/1r4PK/3R4 b - - 3 40,f4e6 d8f8 e6f8 d1d8,788,98,93,496,clearance crushing endgame master masterVsMaster pin short,https://lichess.org/pjFVkphF/black#80,
+BLrRk,1R6/8/6k1/4p1nR/1P4p1/4P1P1/5rPK/8 w - - 2 39,h5h8 g5f3 h2h1 f2f1,787,92,91,953,endgame mate mateIn2 pin short,https://lichess.org/MbaYCE89#77,
+BOdjy,6k1/6p1/p1N5/P5n1/2PP1R1p/7P/4r1PK/8 w - - 5 41,f4g4 g5f3 h2h1 e2e1,791,77,83,289,endgame mate mateIn2 pin short,https://lichess.org/9zAO94fT#81,
+BW414,r4rk1/1p1q1pp1/p1p4p/3n4/3PN3/6Q1/PP3PPP/2R1R1K1 b - - 9 22,d5b4 e4f6 g8h8 f6d7,754,92,96,2318,crushing middlegame pin short,https://lichess.org/7hsXJ7NV/black#44,
+BZxk2,rn2r3/pppb2pp/1k6/2b3Q1/8/1PN5/P1PP1qPP/R1B2RK1 w - - 0 18,f1f2 e8e1,746,87,82,145,mate mateIn1 middlegame oneMove pin,https://lichess.org/f3j0A5hX#35,Petrovs_Defense Petrovs_Defense_Italian_Variation
+BgcOQ,3r2k1/6pp/3q1pb1/1p1p4/p2P2P1/P1P3QP/BP2R1K1/8 b - - 2 36,g6e4 e2e4 d6g3 g2g3,718,78,95,1113,advantage endgame master pin short,https://lichess.org/BbSkpl90/black#72,
+Bq6Qn,4k3/p5r1/5p2/3Pn3/1B2B2r/2P5/P4PP1/5RK1 w - - 2 27,e4f5 e5f3,716,91,90,241,endgame mate mateIn1 oneMove pin,https://lichess.org/1dbPbQRX#53,
+BrvlV,3r1rk1/pb3p1p/4pPpQ/2p1R3/1p3B2/8/PPP3qP/6RK w - - 0 24,g1g2 d8d1 e5e1 d1e1,726,90,95,973,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/ohvm9Iel#47,
+BtDXE,r6k/pp3qb1/2b1p2p/4P3/7Q/1P4P1/P2R1P2/3R2K1 b - - 5 44,f7e8 d2d8 a8d8 d1d8 e8d8 h4d8,748,79,75,75,advantage long middlegame pin,https://lichess.org/eq6zLkIL/black#88,
+Bu2yM,1k1r2nr/p1pQ1ppp/Bq6/8/8/8/5PPP/1R2R1K1 b - - 0 21,d8d7 e1e8 d7d8 e8d8,729,86,89,77,mate mateIn2 middlegame pin short,https://lichess.org/OhfwgjWq/black#42,
+Bw85f,rnbqkb1r/1pp2ppp/4p3/p2pP3/3P4/2Q5/PPP2PPP/R1B1KBNR w KQkq - 0 7,g1f3 f8b4 c3d2 b4d2,796,90,88,351,crushing opening pin short,https://lichess.org/GOHpHlhR#13,French_Defense French_Defense_Classical_Variation
+ByoTm,r7/1b1R1rkp/p3p1p1/1p6/4NPn1/1B4P1/PPP4P/5R1K w - - 1 22,d7f7 g7f7 h1g1 b7e4,738,77,82,102,advantage middlegame pin short,https://lichess.org/L9Sgc34K#43,
+C1qKJ,8/1p6/k4b2/P7/7R/3R4/5nPK/8 b - - 0 52,f2d3 h4h6 d3e5 h6f6,767,96,93,752,crushing endgame pin short,https://lichess.org/TTNlT81S/black#104,
+C5DX7,r2b4/1k3pp1/1p1p3p/8/3PP3/1R2B2P/1P3PP1/r1R3K1 w - - 1 26,d4d5 a1c1 e3c1 a8a1 g1h2 a1c1,727,80,98,1199,advantage clearance endgame long pin,https://lichess.org/7BoO7Sbf#51,
+CG5yq,3r1Q1k/6pn/p5p1/2p1b3/2P5/PP5Q/2q3N1/5RK1 b - - 0 34,d8f8 f1f8,743,86,98,836,master mate mateIn1 middlegame oneMove pin,https://lichess.org/ALs2rp4z/black#68,
+CISBS,8/5ppp/p2k4/1p1p4/1b3P2/1P6/P5PP/3R2K1 w - - 2 25,d1d4 b4c5 g1f1 c5d4,797,86,95,346,crushing endgame pin short,https://lichess.org/DrJVV24b#49,
+CQA3q,8/3q2k1/3b2p1/r2p1p1p/1P1PpP2/2R1P1P1/1BQ3KP/8 b - - 0 35,d6b4 c3c7 d7c7 c2c7,721,84,85,255,crushing endgame pin short,https://lichess.org/D2dpN49f/black#70,
+CSfaE,4r3/3R2bk/1p5p/p1p3p1/6N1/1P2P3/P5PP/6K1 b - - 2 30,h6h5 g4f6 h7g6 f6e8,746,83,95,1295,crushing endgame pin short,https://lichess.org/kG30auO0/black#60,
+CVAC5,rn1q1rk1/pp2bppp/4p3/3pP3/2pP1PPn/2P2N2/PP1N1Q1P/R1B1K2R w KQ - 1 13,f3h4 e7h4 g4g5 h4f2,735,82,87,384,advantage attackingF2F7 opening pin short,https://lichess.org/BHjb22Hr#25,Caro-Kann_Defense Caro-Kann_Defense_Other_variations
+CWlP7,r2q1rk1/1p2b1pp/2pp4/p5n1/P1P1PP2/2N1Q3/1PP1B3/2KR3R w - - 0 22,f4g5 e7g5 e3g5 d8g5,796,112,79,55,advantage middlegame pin short,https://lichess.org/ez41vmug#43,
+ChWsl,4q3/2K2k2/5p2/3R1P2/8/8/PP6/8 b - - 1 56,e8e7 d5d7 f7f8 d7e7,709,98,89,1073,crushing defensiveMove endgame master pin queenRookEndgame short,https://lichess.org/06o8XEQv/black#112,
+CmvTp,3Q4/5pnk/p2pr3/8/6p1/1P6/1P3P1K/8 w - - 3 37,d8h4 e6h6 h4h6 h7h6,773,93,79,49,crushing defensiveMove endgame pin short,https://lichess.org/Qq5ta3Dr#73,
+Csbey,r4k2/4R3/5p2/3p1P2/1PqP2p1/2P3Pp/1rQK4/4R3 w - - 2 39,e7e8 a8e8 e1e8 f8e8,748,111,77,44,crushing endgame pin short,https://lichess.org/P1nTyW5V#77,
+CyiGx,6k1/pp1q2p1/8/4p3/4N3/7P/PP4RK/8 b - - 1 36,d7d5 e4f6 g8h8 f6d5,768,77,100,132,crushing endgame pin short,https://lichess.org/ghXOWDsE/black#72,
+D8scp,1r1rn1k1/p2R1ppp/1p6/3R4/PP3B2/5P2/5P1P/6K1 b - - 2 27,b8c8 d7d8 c8d8 d5d8,771,100,81,80,crushing endgame pin short,https://lichess.org/TIUT5lNX/black#54,
+DCd7D,8/3rbk1p/1r1pR1pB/p2P4/1p3RP1/1P5P/5P2/6K1 b - - 1 36,f7e8 f4f8,792,85,95,123,endgame master mate mateIn1 oneMove pin,https://lichess.org/aIfG70Nd/black#72,
+DGta5,6k1/6p1/p3p2n/8/1p2PPP1/4B3/1q2BK1Q/8 w - - 0 39,g4g5 h6g4 f2g3 g4h2,758,84,83,345,crushing endgame pin short,https://lichess.org/ycGVtfEZ#77,
+DHewc,7r/1b3pk1/pp6/2b2Q2/8/7q/PPP3P1/3R1B1K w - - 0 31,f5h3 h8h3,727,97,91,619,endgame master mate mateIn1 oneMove pin,https://lichess.org/tgAEyS7B#61,
+DL0mV,8/2r2pk1/p5p1/3P4/8/P5Pp/1P1p1P1P/3R2K1 w - - 0 44,f2f4 c7c1 g1f1 c1d1,754,104,89,706,crushing endgame pin rookEndgame short,https://lichess.org/gqv9hkTt#87,
+DNuN2,r3q2k/p1p1n1pp/1p1pp2r/4p1N1/4P3/1QPP2RP/PP3PP1/6KR b - - 0 22,e8d7 g5f7 h8g8 f7h6,799,80,97,284,advantage fork middlegame pin short,https://lichess.org/nYYV30Hp/black#44,
+DR8a0,6rk/1p4Qp/p7/8/8/1P4P1/PB3RKP/3q4 b - - 0 36,g8g7 f2f8,754,81,92,109,endgame mate mateIn1 oneMove pin,https://lichess.org/w61TOPC4/black#72,
+DVOV4,rnb4r/ppp1bkpp/8/3qp3/3p4/1P3P2/P1PP2PP/R1BQKB1R b KQ - 0 9,h8f8 f1c4 c8e6 c4d5,799,93,50,33,advantage opening pin short,https://lichess.org/H3M5KgCD/black#18,Russian_Game Russian_Game_Other_variations
+DXivA,8/7p/5k2/p6p/3p3P/1B4R1/PPPq2P1/5K2 b - - 0 42,d2f4 g3f3 f4f3 g2f3,752,78,82,166,crushing defensiveMove endgame pin short,https://lichess.org/h18b0nKG/black#84,
+Dhnh1,r2qk2r/1p2bppp/p2p4/2p5/4PnQ1/2N2P2/PPP3PP/2KR1B1R w kq - 0 13,g4f4 e7g5 f4g5 d8g5,795,92,92,317,advantage middlegame pin short,https://lichess.org/21CrSTWI#25,Scotch_Game Scotch_Game_Other_variations
+DlvTM,r3r1k1/ppq2pp1/2pb1p1p/7P/3P1n2/3BB3/PPPQ1PR1/2KR4 w - - 0 17,e3f4 d6f4 d2f4 c7f4,708,94,95,455,advantage middlegame pin short,https://lichess.org/9EfYxa9R#33,Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation
+DqSvG,r3k2r/3npp1p/3p2pb/pQ6/2BBP3/5P2/qPP3PP/2KR3R w kq - 2 18,d1d2 a2a1,770,83,88,287,mate mateIn1 middlegame oneMove pin,https://lichess.org/WgYp0qnB#35,Sicilian_Defense Sicilian_Defense_Dragon_Variation
+DrcC8,3q2k1/6pp/1pp3b1/p2pB3/3P3P/P3QnP1/1P2P1K1/8 w - - 0 35,e3f3 g6e4 f3e4 d5e4,747,93,85,565,crushing endgame master pin short,https://lichess.org/oZL9WykK#69,
+DsAZD,3r1r1k/p2bp1bp/1qpp2p1/5p2/2B1PN2/1P2P2Q/P1P3PP/1R2R1K1 b - - 5 19,f5e4 f4g6,799,79,96,1146,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/6gt7MC3S/black#38,Sicilian_Defense Sicilian_Defense_Richter-Rauzer_Variation
+DyrWr,r2qkb1r/ppp1pp2/2b2p1p/8/3p2N1/3P4/PPP1QPPP/RN2K2R b KQkq - 3 11,c6g2 g4f6,789,82,95,241,mate mateIn1 middlegame oneMove pin,https://lichess.org/ZkiLCw5P/black#22,Scandinavian_Defense Scandinavian_Defense_Other_variations
+E4W4b,r2q3r/p2nbpk1/1pp1p1p1/P2pPn2/1P1P1P1p/2PB4/3BNQPP/R4R1K w - - 0 18,e2g1 f5g3 f2g3 h4g3,747,79,86,174,advantage kingsideAttack middlegame pin short,https://lichess.org/AGcQCG36#35,Modern_Defense Modern_Defense_Standard_Line
+E85y8,8/8/5k1p/1p4P1/1P3rP1/1R3pK1/5P2/8 b - - 0 52,h6g5 b3f3 f4f3 g3f3,751,142,43,23,crushing endgame pin rookEndgame short,https://lichess.org/YP3X1ebD/black#104,
+EA3V0,r2qk1nr/pp3ppp/2n5/1BbQPb2/8/2N5/PP3PPP/R1B1K1NR b KQkq - 0 9,c5f2 e1f2 d8d5 c3d5,730,89,79,122,crushing hangingPiece middlegame pin short,https://lichess.org/PW1Hyrql/black#18,Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation
+EBtYi,2rQ2k1/p4rpp/8/8/8/1B3P2/Pq4PP/3R3K b - - 1 26,c8d8 d1d8,700,101,76,79,endgame mate mateIn1 oneMove pin,https://lichess.org/49OmeAON/black#52,
+EKnuV,8/5Rpk/p2p4/1p4K1/6N1/r6P/4r3/8 b - - 3 42,a3h3 g4f6 h7h8 f7f8,750,82,43,69,endgame mate mateIn2 pin short,https://lichess.org/O9qb4txs/black#84,
+EMXXd,5rk1/3p1Qpp/p7/1ppB4/2Pq4/3P2PP/P3R1K1/8 b - - 0 27,f8f7 e2e8,762,78,97,705,endgame master mate mateIn1 oneMove pin,https://lichess.org/UPLpL4dS/black#54,
+EODMd,5rk1/5Qpp/p7/8/Pp4q1/1B6/1P3PPb/4RK2 b - - 0 24,f8f7 e1e8,701,97,81,294,endgame mate mateIn1 oneMove pin,https://lichess.org/Gv4vvIvq/black#48,
+EW7Az,8/3kq3/ppb1p3/3pP3/P2P2R1/1P1P1P2/4K3/6R1 b - - 1 41,d7c7 g4g7 e7g7 g1g7,712,80,78,278,crushing endgame master pin short,https://lichess.org/jw2Flxj5/black#82,
+EgFtO,1rbqnrk1/5pbp/p2p2p1/1pBB4/4PP2/2N5/PPPQ2PP/2KR3R b - - 0 15,d6c5 d5f7 f8f7 d2d8,711,82,100,133,advantage discoveredAttack kingsideAttack middlegame pin short,https://lichess.org/MKkwGD3o/black#30,Pirc_Defense Pirc_Defense_Kholmov_System
+EiEEb,8/pp6/3Qp1k1/4PpP1/2p1pP2/2P1P1q1/PP2K1Pr/5R2 w - - 16 37,d6e6 g6h5 e6h6 h5g4 h6h2 g3h2,720,87,88,265,crushing defensiveMove endgame long pin,https://lichess.org/UuqMCnIZ#73,
+EiO4o,r2k3r/ppp2q2/2n1p1Q1/2bpp2n/2B1P3/2PP2P1/PP1N2PP/R6K w - - 0 18,g6f7 h5g3,769,82,86,342,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/2QIxnT52#35,Italian_Game Italian_Game_Giuoco_Pianissimo
+Eii8u,4kb1r/p2npp1p/5np1/B7/B2P4/8/P1P4P/1R2K1Nb b k - 1 17,f8g7 b1b8,753,89,94,324,mate mateIn1 middlegame oneMove pin,https://lichess.org/4G0HNNBU/black#34,Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_von_Popiel_Gambit
+Emfn2,6k1/6p1/2B2p1p/p7/P1nP4/6P1/1r3PKP/3R4 w - - 1 37,d4d5 c4e3 g2h3 e3d1,774,82,84,314,crushing endgame pin short,https://lichess.org/mc1GsGuf#73,
+EnSRm,8/8/6pk/P2R3p/1P6/1r2p3/4B2r/3K1R2 w - - 1 47,f1e1 b3b1 d1c2 b1e1,713,81,88,90,crushing deflection endgame master pin short skewer,https://lichess.org/BrOQCx5N#93,
+Eo2yw,8/3b3k/6p1/8/p5P1/2b4K/7P/2R5 b - - 2 46,c3f6 c1c7 h7h6 c7d7,727,83,95,1011,advantage endgame pin short,https://lichess.org/09LiyKfA/black#92,
+EpA7r,r1Q1kb1r/1p1pnpp1/p2P2n1/6p1/1q6/1B3N2/PP3PPP/2R1R1K1 b kq - 0 16,a8c8 c1c8,723,123,86,30,mate mateIn1 middlegame oneMove pin,https://lichess.org/yynKU7dj/black#32,Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Deferred
+EqAmp,r5k1/1b3p1p/1p2p2q/1P4pn/3p3B/P2B1P2/2P1Q1PP/R4R1K w - - 0 23,h4g3 h5g3 h1g1 g3e2,787,77,100,847,crushing kingsideAttack middlegame pin short,https://lichess.org/8tRWNRTF#45,
+Es2t3,2b1nrk1/5Qpp/p2P4/1p6/8/1B6/PP3PqP/2KRR3 b - - 0 22,f8f7 e1e8,726,96,95,1775,hangingPiece mate mateIn1 middlegame oneMove pin,https://lichess.org/bEUqUmnh/black#44,
+EteBP,8/8/3K2k1/7p/P3R2P/6P1/8/q7 b - - 7 49,a1f6 e4e6 g6f7 e6f6,779,89,68,91,crushing defensiveMove endgame master pin queenRookEndgame short,https://lichess.org/yIiZBONJ/black#98,
+EwVel,r1b5/ppp1Bkp1/8/7p/4R1P1/2P4P/PPK5/5N2 w - - 0 23,g4h5 c8f5 c2d2 f5e4,785,88,80,140,advantage endgame pin short,https://lichess.org/vPaiSdIG#45,
+Ey4Sd,2r5/7k/4p2p/3pB1p1/3P2P1/1r2P3/4NP2/5RK1 w - - 0 34,f1c1 c8c1 e2c1 b3b1 g1g2 b1c1,792,83,75,54,advantage endgame long pin,https://lichess.org/nQ771uwd#67,
+F01t4,kr6/pQ3p2/4P1q1/3B1p1r/2R4p/4P3/P5PP/6K1 b - - 0 33,b8b7 c4c8,745,98,92,587,endgame master masterVsMaster mate mateIn1 oneMove pin,https://lichess.org/7nC18kcq/black#66,
+F1lZr,r5r1/3k1p1p/pRb2q2/4p3/2BbP1P1/8/P3QN1P/3R2K1 b - - 3 28,f6f2 e2f2 g8g4 g1f1,769,93,70,109,crushing middlegame pin short,https://lichess.org/dGRlkeuH/black#56,
+F9FAs,1r4k1/4pp1p/p2p2pb/1r6/3B2P1/Q1P2P2/2P4P/2KR3R w - - 4 22,d1d2 b5b1,734,104,60,48,mate mateIn1 middlegame oneMove pin,https://lichess.org/olqPr4fp#43,
+FEY5L,6qk/pp4rp/4PR1p/3P4/8/8/PP5P/5R1K b - - 0 31,g7e7 f6f8 g8f8 f1f8,707,84,100,513,crushing endgame pin queenRookEndgame short,https://lichess.org/2xJZ3z1C/black#62,
+FL8Zo,3r2k1/5ppp/p1p3n1/2r5/4P1R1/2N5/PP4PP/R5K1 w - - 0 27,a1d1 d8d1 c3d1 c5c1,712,101,85,493,crushing endgame pin short,https://lichess.org/vd5Ym0YQ#53,
+FLF8H,2kr4/ppp3pp/8/1Rb5/2n5/2P5/P1P2nPP/2B2RK1 w - - 0 19,f1f2 d8d1,765,76,100,177,endgame mate mateIn1 oneMove pin,https://lichess.org/5CI71AXY#37,
+FMAmJ,r7/2k1p3/2p1q3/1pPp2P1/8/3Rp1KP/1P2P3/5Q2 b - - 0 33,e6e5 f1f4 e5f4 g3f4,702,84,89,246,advantage defensiveMove endgame pin short,https://lichess.org/6IHwzF0Z/black#66,
+FO28B,5rk1/5Qpp/8/8/2Bq4/8/P2n1PPP/4R1K1 b - - 0 24,f8f7 e1e8,700,98,94,418,endgame mate mateIn1 oneMove pin,https://lichess.org/dPN1FTIW/black#48,
+FRk7C,4r1k1/pp3p1p/2n3p1/2n2N2/2P5/5N1P/PR1BPPP1/3QKB1R w K - 1 18,f5d6 c5d3,799,77,85,381,mate mateIn1 middlegame oneMove pin smotheredMate,https://lichess.org/GLnqju7G#35,Kings_Indian_Defense Kings_Indian_Defense_Normal_Variation
+FT6oc,8/p2b2kp/4p2p/2p5/2Pp4/6P1/P5K1/1R6 b - - 0 28,e6e5 b1b7 g7g6 b7d7,740,78,78,103,crushing endgame master pin short,https://lichess.org/U8vvBtxh/black#56,
+FU05S,3r2k1/2p4p/4P1p1/P1P2p2/7Q/8/4p1PP/3qR2K w - - 6 42,h2h3 d1e1 h4e1 d8d1 h1g1 d1e1,772,161,100,10,attraction clearance crushing endgame long pin sacrifice,https://lichess.org/d9RteqJa#83,
+FW5NR,5rk1/p5pp/1p6/2pb4/P7/QNP5/1P4qP/6RK w - - 0 28,g1g2 f8f1,772,80,97,1585,endgame mate mateIn1 oneMove pin,https://lichess.org/NDEDujMC#55,
+FWH27,1r1k2nr/p1p1b1pp/Bpn2q2/3p4/3P4/2P1B3/PP2QPPP/3RR1K1 b - - 3 20,e7d6 e3g5 c6e7 g5f6,783,88,93,774,crushing middlegame pin short,https://lichess.org/yuz6k3nY/black#40,
+FXWsU,5rk1/1bp2Rpp/p7/1p4q1/6n1/1B1P4/PPP1Q1PP/R5K1 b - - 0 21,f8f7 e2e8,740,106,75,46,mate mateIn1 middlegame oneMove pin,https://lichess.org/ZFl44bJk/black#42,
+FXyYC,3r2k1/3P1p1p/1p4p1/1P6/P3P1P1/3q2PK/8/2RR4 b - - 2 40,d3a3 c1c8 a3f8 c8d8,714,79,96,551,advantage endgame master pin queenRookEndgame short,https://lichess.org/MNiG2HdR/black#80,
+Fa9xk,2kr3r/1bpq1p2/1p1p3p/pP1P2p1/P1P1B3/3Q1N2/5PPP/b3R1K1 b - - 1 23,d8e8 e4f5 e8e1 f3e1 h8e8 f5d7,793,85,92,1861,advantage long middlegame pin,https://lichess.org/kC58KVyG/black#46,
+FbMCF,8/Bp1r3p/4k1pb/4P3/3p4/P2P3P/1PP2R2/6K1 w - - 1 38,a7b8 h6e3 g1g2 e3f2,771,115,85,60,crushing endgame pin short,https://lichess.org/uE2ALpaS#75,
+Ffxwu,r2Rq1k1/5p1p/p5p1/1p2p1Q1/2p2P2/2b5/6PP/3R2K1 b - - 0 31,a8d8 d1d8 e8d8 g5d8,728,85,76,53,advantage endgame pin short,https://lichess.org/U2pt8sED/black#62,
+FiQVU,r1b2rk1/2p2Qpp/p7/1p6/3P3q/1BP3bP/PP1B1nP1/RN2R1K1 b - - 0 17,f8f7 e1e8,741,83,86,133,mate mateIn1 middlegame oneMove pin,https://lichess.org/QY2P5zg5/black#34,Ruy_Lopez Ruy_Lopez_Marshall_Attack
+Fj3YE,r1b2r1k/ppp3pp/2np2q1/4p3/2B1P1nN/1P1P4/PBPN1Q2/R3K2R b KQ - 0 14,g4f2 h4g6,727,92,86,140,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/gVvRiUte/black#28,Kings_Pawn_Game Kings_Pawn_Game_Other_variations
+Fl6t8,r4k2/pp2r1q1/2p1p1Pp/3n1p1P/3R4/BPP5/P1B3P1/3R2K1 b - - 2 28,d5c3 d4d8 a8d8 d1d8,726,87,74,99,mate mateIn2 middlegame pin short,https://lichess.org/8KcYYIBz/black#56,
+FmciQ,r1bq1r2/ppknbQ1R/2pp4/4P1P1/3P1B2/2N5/PPP3P1/R4K2 w - - 1 17,e5d6 e7d6 f4d6 c7d6,719,92,42,81,advantage middlegame pin short,https://lichess.org/AjCnL0bG#33,Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit
+FpSBT,8/6kp/4q3/3B1R2/6K1/6P1/7P/8 b - - 15 54,e6g6 f5g5 h7h6 g5g6,778,92,82,239,crushing defensiveMove endgame pin short,https://lichess.org/V3VXaVJg/black#108,
+FzM3n,8/8/5kP1/6n1/3p3R/7P/8/1r1BK3 w - - 3 50,h4d4 g5f3 e1e2 f3d4,752,87,95,919,crushing endgame master pin short,https://lichess.org/jAK6kkRQ#99,
+G0vgB,k7/3r2pp/8/1N6/P7/3p4/3RrPPP/3R2K1 w - - 4 39,d2e2 d3e2 d1e1 d7d1 f2f4 d1e1,767,79,100,172,advancedPawn advantage endgame long pin,https://lichess.org/XgpolqgJ#77,
+G4Bp1,r1b3k1/6pp/2p1p3/p1PpPp2/3P1P2/2r5/PR2B3/1R4K1 b - - 1 25,g8f8 b2b8 a8b8 b1b8,722,85,83,90,advantage endgame master pin short,https://lichess.org/RNrm6Ap8/black#50,
+G4wS9,r7/1p4k1/p1p3pr/2Pp1p2/1P1P4/P3PKN1/5P2/6R1 b - - 2 38,a8h8 g3f5 g7f6 f5h6,729,87,76,202,advantage endgame pin short,https://lichess.org/4Rcul3l6/black#76,
+G5J7I,r3Q1k1/ppp2qpp/8/4R3/8/1Q4P1/PP3PP1/6K1 b - - 0 26,a8e8 e5e8,713,95,84,283,endgame mate mateIn1 oneMove pin,https://lichess.org/7sfhnlmb/black#52,
+G6F97,2r2b2/p7/2bpk3/3Nppr1/4Q3/8/PPP2P1P/R4R1K w - - 2 28,d5c7 c8c7 e4c6 c7c6,764,95,85,197,crushing hangingPiece middlegame pin short,https://lichess.org/CQuqSiDw#55,
+G8G5m,r3k1r1/pp3p1p/2p2n1q/3p4/4pb2/4PbPP/PPPP3K/R1B1QRN1 w q - 0 18,e3f4 f6g4,760,106,88,32,master mate mateIn1 middlegame oneMove pin,https://lichess.org/ErOm3IHl#35,Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations
+GCMQF,r4rk1/pp3ppp/2p5/6q1/4Q3/1B5b/PPP3PP/R4RK1 w - - 1 19,b3f7 f8f7 f1f7 g8f7,733,79,88,542,advantage middlegame pin short,https://lichess.org/njvATQIl#37,Center_Game Center_Game_Other_variations
+GJZnc,6r1/6PP/8/8/3k4/5K2/2p2P2/8 b - - 0 61,g8g7 h7h8q c2c1q h8g7,734,78,97,2568,advancedPawn crushing endgame master pin promotion short,https://lichess.org/Z43VDjFS/black#122,
+GMbSF,r7/2p3kp/4p1p1/2B1Pp2/b1NP4/6P1/5P1P/3B2K1 w - - 0 28,c4b2 a4d1 b2d1 a8a1 g1f1 a1d1,738,96,86,631,advantage clearance endgame long pin,https://lichess.org/XCMonvcn#55,
+GNOyy,5rk1/ppq3p1/2p4Q/7P/2P1pr2/6R1/PP2RPP1/5K2 b - - 0 28,f4f2 e2f2 f8f2 f1f2 c7g3 f2g3,772,93,94,493,crushing endgame long pin,https://lichess.org/WXNPskTR/black#56,
+GOyZE,3r2k1/8/rpp2pp1/7p/1p5P/1P2NN2/2P2PP1/2R3K1 w - - 1 25,c1d1 d8d1 e3d1 a6a1 g1f1 a1d1,723,104,92,573,crushing endgame long pin,https://lichess.org/2s4cLneD#49,
+GU9M9,r5k1/1Q6/8/3p1pq1/P3rpPR/2P4K/8/2B5 b - - 1 55,f5g4 h4g4 g5g4 h3g4,759,96,80,63,crushing endgame pin short,https://lichess.org/IQMdmJlb/black#110,
+GViXH,8/6p1/1ppk1p2/p2r4/3PK1PP/P2R4/8/8 b - - 1 38,c6c5 d4c5 d6c6 d3d5,798,78,77,74,crushing discoveredAttack endgame pin rookEndgame short,https://lichess.org/AkK2yQtN/black#76,
+GaUHo,r7/P2k1p2/2n1p1p1/6P1/Q3PP2/KP1P4/8/8 w - - 1 50,d3d4 a8a7 a4a7 c6a7,715,83,88,199,advantage endgame master pin short,https://lichess.org/5b6vlMGM#99,
+Gdsdh,8/pp4p1/1kp5/3p4/1P4P1/2b5/P4R2/6K1 w - - 0 42,a2a3 c3d4 g1f1 d4f2,791,96,92,573,crushing endgame pin short,https://lichess.org/QjY4TNOf#83,
+GnHEP,8/8/p7/2B1kn2/1P1p1Rp1/6P1/r4PK1/8 w - - 0 47,f4g4 f5e3 g2h3 e3g4,772,81,97,1395,crushing endgame master pin short,https://lichess.org/FlIQCKJf#93,
+GnwLT,6rk/5pQp/3p4/3P4/1q1B4/7P/1P3PP1/4R1K1 b - - 0 30,g8g7 e1e8,753,78,100,386,endgame mate mateIn1 oneMove pin,https://lichess.org/LfPTVmMP/black#60,
+GxK65,r1r3k1/1p3p1p/p3p1p1/P1qp4/8/2R4P/2Q2PP1/2R3K1 b - - 0 28,c5f8 c3c8 f8c8 c2c8 a8c8 c1c8,722,92,71,175,advantage endgame long pin,https://lichess.org/xg9EqZoe/black#56,
+GzZJz,r5k1/pb1Qqpp1/1pn1pb1p/8/4N1R1/2P2NP1/PP3PBP/6K1 b - - 2 19,e7d7 e4f6 g8h8 f6d7,727,126,43,39,advantage kingsideAttack middlegame pin short,https://lichess.org/njO0SUj8/black#38,Indian_Defense Indian_Defense_Tartakower_Attack
+H0WbQ,2r3k1/1p3pp1/p1n1b2p/3q4/4Q3/P2B3P/3NR1P1/6K1 b - - 5 29,d5d6 e4h7 g8f8 h7h8 f8e7 h8c8,786,80,98,465,advantage long middlegame pin,https://lichess.org/hR6U23tj/black#58,
+H30d9,rn4k1/p6p/1p4p1/3PP3/4q3/1P1B4/P1K3PP/R6R b - - 2 24,e4d5 d3c4 d5c4 b3c4,737,90,82,379,crushing endgame pin short,https://lichess.org/j1bGKAMS/black#48,
+H5rwc,r1b2rk1/pp1p1Qpp/1qn5/6B1/2B5/8/PP3PPP/R3R1K1 b - - 0 15,f8f7 e1e8,733,83,44,70,mate mateIn1 middlegame oneMove pin,https://lichess.org/2CWWfXpP/black#30,Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Accepted
+H61Vh,3r2k1/5ppp/p7/1P6/1P5R/2P5/4p3/5R1K w - - 0 38,f1e1 d8d1 h1g2 d1e1,747,96,92,515,crushing endgame pin rookEndgame short,https://lichess.org/Ay1WXcvI#75,
+H7Lzk,8/ppn3k1/4pr2/3p1p1Q/P2P1P2/2P5/1P6/6K1 w - - 1 39,h5g5 f6g6 g5g6 g7g6,740,85,80,148,crushing defensiveMove endgame pin short,https://lichess.org/ZSc3yA0V#77,
+HAoVv,3r2rk/2q1b2p/p2p1p2/1ppRnN2/4PB2/1P4QP/P1P3P1/3R2K1 w - - 2 29,g3h4 e5f3 g1f2 f3h4,799,89,95,841,crushing kingsideAttack middlegame pin short,https://lichess.org/gISVtqWY#57,
+HDXrW,2b3k1/6p1/p2P3p/2P5/8/8/3r2PP/1R4K1 b - - 2 28,d2d5 b1b8 g8f7 b8c8,769,76,81,226,advantage endgame pin short,https://lichess.org/pIsyNsuC/black#56,
+HGgPa,1r1r2k1/1p3Npp/p1p5/2P1n3/PP3q2/1Q6/3R1PPP/3R2K1 b - - 0 25,e5f7 d2d8 b8d8 d1d8,744,96,96,205,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/cuzriqdH/black#50,
+HHyrf,8/5pk1/4p3/3pP3/3P1pqP/6P1/6QK/8 b - - 1 62,f4g3 g2g3 g4g3 h2g3,707,105,76,52,crushing endgame master pin queenEndgame short,https://lichess.org/sAoeuCGk/black#124,
+HIg53,r3k2r/ppp1npp1/2qpb2p/4N3/4P3/3B4/PPP1QPPP/R3K2R b KQkq - 3 12,d6e5 d3b5 e8c8 b5c6,738,84,70,146,advantage middlegame pin short,https://lichess.org/Bz4yrSmZ/black#24,Italian_Game Italian_Game_Anti-Fried_Liver_Defense
+HMAwd,5Q2/p5p1/kp1N3p/n4P2/RP6/K1q5/P2Nr1B1/r7 w - - 1 37,d2b3 c3b3,744,93,83,136,mate mateIn1 middlegame oneMove pin,https://lichess.org/d6VCrrWX#73,
+HS4UE,1RQ5/p4ppk/2b2p1p/8/5P2/r7/6qP/6RK w - - 0 35,g1g2 a3a1 b8b1 a1b1,730,95,86,790,endgame mate mateIn2 pin short,https://lichess.org/hz4aONYX#69,
+HTF51,8/5k1p/3r4/6Q1/p3P3/P1P2Kp1/1P3b2/8 w - - 0 44,g5f5 d6f6 f3e2 f6f5,769,87,69,52,crushing defensiveMove endgame pin short,https://lichess.org/006aqA0Z#87,
+HVo4p,8/5pkp/2Br2p1/p1p5/P3R3/1b4P1/4PPKP/8 w - - 6 36,c6b5 b3d5 f2f3 d5e4,791,89,93,733,crushing endgame master pin short,https://lichess.org/SA4tiiIz#71,
+HWOPP,7R/2r2p2/p3p2p/1p3p1k/7P/P1P3RK/2P2r2/8 b - - 1 33,f2c2 g3g5,756,79,98,706,endgame mate mateIn1 oneMove pin rookEndgame,https://lichess.org/lWopchJ9/black#66,
+HWh6a,7k/6pp/p7/3Qp3/q1Pb4/8/5rPP/5RK1 w - - 0 30,f1f2 a4a1,783,87,96,204,endgame master mate mateIn1 oneMove pin,https://lichess.org/nUHcYuBp#59,
+HXIqd,5k2/br3ppp/3q4/P1BP4/2Q5/5P2/2R2KPP/8 b - - 0 34,a7c5 c4c5 d6c5 c2c5,753,97,82,262,crushing endgame pin short,https://lichess.org/KPZjfjxY/black#68,
+HZczl,4q1k1/pp2r3/b6b/2p3N1/2P5/P4RBP/6P1/5QK1 w - - 1 35,g3f4 e7e1 f1e1 e8e1,760,80,96,938,advantage middlegame pin short,https://lichess.org/I89niae4#69,
+HhyRo,4q1k1/5pp1/3R3p/1p6/1Pp1r3/P1b2N2/5PPP/3Q2K1 b - - 1 27,c3b2 d6d8 b2f6 d8e8,755,99,88,1145,advantage endgame pin short,https://lichess.org/U1aLJgKG/black#54,
+HxQUE,r1bq2k1/p3br1p/5pP1/1p5B/2p1P3/3P2Q1/PPPK3P/R5R1 b - - 0 24,f7g7 g6h7 g8h8 g3g7,790,79,97,2196,advancedPawn discoveredAttack kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/LaqFv1yv/black#48,
+HxsQ0,5rk1/4r1pp/pp6/2pR2P1/P1P1p2P/5p1B/1P6/3K1R2 w - - 2 29,d5d7 e7d7 h3d7 f8d8,734,82,84,389,crushing endgame pin short,https://lichess.org/VYMvCGnK#57,
+Hzyhp,r5rk/1pp2p2/5Rq1/p7/2P4P/PPQ3P1/7K/8 b - - 0 32,g6g7 f6h6,792,94,87,754,endgame mate mateIn1 oneMove pin,https://lichess.org/47nH9ZVE/black#64,
+I1n1C,rnb2rk1/1p3Npp/p7/8/2B5/2n5/P1P2PPP/3R1RK1 b - - 0 14,f8f7 d1d8,712,77,100,140,mate mateIn1 middlegame oneMove pin,https://lichess.org/OnKRShJu/black#28,Sicilian_Defense Sicilian_Defense_Najdorf_Variation
+I2mJv,r1b1k3/5p1p/p1p1p1rB/q2p4/1b1P2P1/P1n4P/1PPQ1P2/R3K1NR w KQq - 1 15,b2c3 b4c3 g1e2 c3d2,790,92,95,1168,advantage fork middlegame pin short,https://lichess.org/uZdc6iZC#29,Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation
+I6Mne,3rr1nk/2B3bp/p1q3p1/1p4P1/3p2QN/4pB1R/P6P/4R2K b - - 3 37,c6c7 h4g6,775,117,100,51,kingsideAttack mate mateIn1 middlegame oneMove pin smotheredMate,https://lichess.org/qPyphTZX/black#74,
+IDod2,6k1/6p1/4b3/4p1R1/8/P2Br3/1r4PK/6R1 w - - 5 47,d3g6 e3h3,701,84,85,291,endgame mate mateIn1 oneMove pin,https://lichess.org/hZuRBQAh#93,
+IKWWy,8/8/5k2/5p2/1p3q2/2p5/P4RPN/6K1 b - - 1 48,f4e3 h2g4 f6g5 g4e3,737,91,83,71,crushing endgame master masterVsMaster pin short,https://lichess.org/EiXYWEWk/black#96,
+IYQ0F,5kr1/pp3p2/3qpp2/3p4/3P4/2P1Q1NP/PP3PP1/6K1 b - - 6 26,f8e7 g3f5 e7d7 f5d6,790,94,95,2974,crushing endgame pin short,https://lichess.org/jejeJfEW/black#52,
+IYmg3,2k1r3/p7/1p2r3/2p4P/P2p4/1P4Q1/2P3PK/8 w - - 11 38,h2h3 e6e3 h3h2 e3g3,762,92,75,59,crushing endgame pin queenRookEndgame short,https://lichess.org/ll6Lpk1z#75,
+IZYhG,2r5/5pkp/p4p2/8/1P6/P1p2P2/3r2PP/R2R2K1 w - - 0 29,d1d2 c3d2 a1d1 c8c1 g1f1 c1d1,796,81,100,88,advancedPawn crushing endgame long pin rookEndgame,https://lichess.org/XGNDIppZ#57,
+IZzNG,1k2R1r1/ppn5/1qpQ3p/3p4/P2P4/2B2r2/1PP3PP/4R1K1 b - - 1 27,g8e8 e1e8,709,84,79,287,master mate mateIn1 middlegame oneMove pin,https://lichess.org/PAN8CeZH/black#54,
+IaFYT,8/pp2pk1p/3p2p1/8/4P1P1/2b4P/P1P1b3/2K4R b - - 0 26,e2f3 h1f1 f7g7 f1f3,748,79,79,145,advantage endgame pin short,https://lichess.org/LI5fF58v/black#52,
+IfhGC,8/7k/5r2/6Qp/5rPK/P6P/8/8 w - - 4 54,g5h5 f6h6 h5h6 h7h6,787,82,100,84,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/CAnmoQTl#107,
+IhA4B,r1b4r/p2k2p1/2p4p/n4N2/6n1/3P4/PPPKBqPP/R2Q2NR b - - 2 18,f2f5 e2g4 d7c7 g4f5,764,89,85,241,crushing middlegame pin short,https://lichess.org/IlLHFWEe/black#36,Italian_Game Italian_Game_Two_Knights_Defense
+IiX6X,4r1k1/ppp1rp1p/1b1p2pQ/3P2B1/2P5/8/PPB2qPP/5RK1 w - - 0 24,f1f2 e7e1,701,90,70,80,mate mateIn1 middlegame oneMove pin,https://lichess.org/8cp2aaj6#47,
+IkYr5,4r3/7k/4r3/1pppP1Qp/3P4/2P5/6PK/8 w - - 0 51,g5h5 e6h6 h5h6 h7h6,784,90,86,131,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/ZrapXR4G#101,
+IkiV2,r5k1/ppp3pp/7r/2bpNn2/5P2/2P5/PP4PP/R1B2R1K w - - 0 20,c1d2 f5g3,774,86,88,728,master mate mateIn1 middlegame oneMove pin,https://lichess.org/gd1UFpm6#39,
+ImCbm,6k1/5ppp/p3p3/1p1nN3/8/6P1/PPr1PPKP/3R4 w - - 1 24,e2e4 d5e3 g2g1 e3d1,759,84,94,974,crushing endgame master pin short,https://lichess.org/qmRviPxe#47,
+Iqg2z,3rR1k1/5rpp/5b2/ppp5/3p4/1B1P3P/PPP2PP1/4R1K1 b - - 1 24,d8e8 e1e8,731,105,95,999,endgame kingsideAttack master mate mateIn1 oneMove pin,https://lichess.org/y0VEWg46/black#48,
+IuL1N,r7/1RN2pk1/1P2p1p1/8/3p3p/5n1P/1K6/8 b - - 1 46,a8d8 c7e6 g7f6 e6d8,714,78,81,118,crushing endgame master pin short,https://lichess.org/OtRc8cHg/black#92,
+J17xi,5b2/p1p5/6k1/4p1p1/8/7P/P5PK/4R3 w - - 0 38,e1e5 f8d6 h2g1 d6e5,720,102,83,66,crushing endgame pin short,https://lichess.org/6lPOZ6jL#75,
+J2DJt,7r/pp6/5pp1/5k2/2N5/5PB1/PPP3P1/1K2R2r w - - 1 33,b2b3 h1e1 g3e1 h8h1 b1c1 h1e1,730,89,97,494,advantage clearance endgame long pin,https://lichess.org/DEyOdmv6#65,
+JDrGX,8/p6Q/3p1b2/1p3rk1/3q4/5R2/P4RK1/8 b - - 0 39,d4g4 f3g3 g4g3 g2g3,703,101,94,715,crushing defensiveMove endgame pin short,https://lichess.org/oGcOwPZ1/black#78,
+JEIsm,5k2/pp3rnp/2np2pB/2pN1q2/2P5/P3R2P/1P2QPP1/6K1 b - - 8 27,c6d4 e3e8,792,81,96,1060,mate mateIn1 middlegame oneMove pin,https://lichess.org/XTUpLETn/black#54,
+JHB8U,R7/5pk1/3Pp2p/2Pp4/2nP2p1/2P1B1P1/1r3PKP/8 w - - 2 29,d6d7 c4e3 g2h1 b2b1,796,76,100,658,endgame mate mateIn2 pin short,https://lichess.org/eSz61eCa#57,
+JJW2Y,8/4k1p1/p2r4/1p3Q2/nP6/8/P2pK2P/8 w - - 7 49,f5e5 d6e6 e5e6 e7e6,710,98,94,456,crushing defensiveMove endgame pin short,https://lichess.org/8AjCoKzb#97,
+JO4gV,2k4r/1pp1b3/p7/5p1p/P2R4/2P2Pp1/1P4P1/R5K1 w - - 0 27,a1d1 e7c5 g1f1 c5d4,770,78,97,1444,advantage endgame pin short,https://lichess.org/vxXjJKtI#53,
+JOiRv,8/3QR1qk/6pn/2r4p/8/7P/5PP1/6K1 b - - 1 48,h6f7 e7f7 c5c1 g1h2 g7f7 d7f7,773,81,95,384,crushing endgame long master pin,https://lichess.org/9cUzGTKT/black#96,
+JP0aH,6rk/3r2pq/p6Q/8/1P1B3R/P6P/5RPK/8 b - - 2 46,h7h6 h4h6,776,82,89,396,endgame master mate mateIn1 oneMove pin,https://lichess.org/YqeRrBvk/black#92,
+JR0gH,rq4k1/5pp1/b3p2p/Q2p3P/8/1BP5/1n2NPP1/R5K1 b - - 4 27,a6e2 a5a8 b8a8 a1a8,732,80,88,482,advantage master middlegame pin short,https://lichess.org/oGAfYG9G/black#54,
+JTd0c,r1bqQ1k1/p4rpp/2p2b2/1p6/3P4/1BP5/P1P2PPP/R1B1R1K1 b - - 3 16,d8e8 e1e8,793,102,67,38,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/Ioqv9AWh/black#32,Scandinavian_Defense Scandinavian_Defense_Valencian_Variation
+JW9Kr,rn1qkb1r/pppbpp2/3p1n1p/6p1/4N3/3P1NP1/PPPB1PBP/R2QR1K1 b kq - 5 11,b8c6 e4f6,793,77,93,585,mate mateIn1 oneMove opening pin smotheredMate,https://lichess.org/lDAVUNkl/black#22,Zukertort_Opening Zukertort_Opening_Lemberger_Gambit
+JbzO3,k5rr/ppQ5/3N4/4p3/1P1bb3/P7/5P1B/2R2RK1 w - - 1 30,h2g3 g8g3,731,296,33,8,mate mateIn1 middlegame oneMove pin,https://lichess.org/Fejki4T3#59,
+JhcTc,r4rk1/1pp2qpp/4Rb1n/1p6/5p2/1QP5/PP3PPP/4R1K1 b - - 2 18,f8e8 e6e8 a8e8 e1e8,748,82,100,470,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/5GVhdB6x/black#36,Scotch_Game Scotch_Game_Benima_Defense
+JmzBY,5r2/7k/p7/1p4RN/8/2n4P/P4PP1/6K1 w - - 1 42,g5g3 c3e2 g1f1 e2g3,784,91,90,677,advantage endgame fork pin short,https://lichess.org/avSIKhoo#83,
+Jpsux,8/7k/r5R1/5p1p/4BP2/6P1/6K1/8 b - - 0 58,a6g6 e4f5 h7g7 f5g6,749,88,82,86,crushing endgame pin short,https://lichess.org/tjClIqNa/black#116,
+Jrb4A,8/1pp3pk/1p6/8/5q1P/P1P3R1/1P4RK/8 b - - 6 44,f4h4 g3h3 h4h3 h2h3,717,92,82,93,crushing endgame master pin queenRookEndgame short,https://lichess.org/J0hdyiFf/black#88,
+JwqmJ,6k1/5rpp/p1p2p2/P3p3/1rB1Pn2/q4Q2/2P2PPP/1R1R2K1 b - - 1 25,a3f3 d1d8,798,80,89,301,master mate mateIn1 middlegame oneMove pin,https://lichess.org/Zffq8331/black#50,
+JxRsq,4Q3/b1p2ppk/3p3p/3P1N2/1r6/8/5qPP/5RK1 w - - 0 35,f1f2 b4b1 e8e1 b1e1,784,93,95,637,endgame mate mateIn2 pin short,https://lichess.org/J17OXvOW#69,
+K5bvV,3r2k1/Qp3ppn/8/4p3/8/2N4b/PP2NPR1/3q1K2 w - - 7 26,c3d1 d8d1,706,103,90,468,mate mateIn1 middlegame oneMove pin,https://lichess.org/y9EDiZjh#51,
+KDngY,r1bqR1k1/ppp2rpp/1n6/5p2/Q1BP4/B1P5/P4PPP/R5K1 b - - 2 17,d8e8 a4e8,760,83,93,104,hangingPiece kingsideAttack master mate mateIn1 middlegame oneMove pin,https://lichess.org/OGonC01o/black#34,Horwitz_Defense Horwitz_Defense_Other_variations
+KK6pQ,rn3rk1/pp2Rppp/2p5/8/2BP4/6qb/PPP3P1/R1BQ2K1 w - - 0 17,c4f7 f8f7 e7e8 f7f8 e8f8 g8f8 d1f3 g3f3,744,82,93,421,advantage middlegame pin veryLong,https://lichess.org/yXa9pt3w#33,Elephant_Gambit Elephant_Gambit_Other_variations
+KK9RU,7Q/3kb3/4p3/3prpp1/8/7P/6PK/8 w - - 0 41,h8e5 e7d6 h2g1 d6e5,754,76,96,146,crushing endgame pin short,https://lichess.org/iJtAsoai#81,
+KLuhI,8/5p2/P1Qp3k/1P6/1KPq2p1/8/8/8 b - - 0 53,d4b2 b4a5 b2d2 a5b6,763,93,63,117,crushing endgame master pin queenEndgame short,https://lichess.org/7fMfc9Ta/black#106,
+KNfAI,4r1k1/ppp2pp1/1b5p/4r3/6Q1/1N6/PP3qPP/3R1RK1 w - - 0 19,f1f2 e5e1 d1e1 e8e1,726,86,100,65,mate mateIn2 middlegame pin short,https://lichess.org/7PxvjBMF#37,
+KOWP9,r1b1k2r/ppb3pp/4p1q1/2p1N3/3p3P/3P2P1/PPP1BP2/R2Q1RK1 b kq - 0 17,c7e5 e2h5 e8g8 h5g6,719,103,93,1768,advantage middlegame pin short,https://lichess.org/0RaaG42m/black#34,Scandinavian_Defense Scandinavian_Defense_Other_variations
+KOzmS,6k1/8/1p2p3/p1p1Pr2/4b1B1/P5R1/1P6/6K1 b - - 0 42,f5g5 g4e6 g8h7 g3g5,719,97,100,49,crushing discoveredAttack endgame pin short,https://lichess.org/lj2UMFfw/black#84,
+KSnsO,1k2r3/p1q5/1p3p2/4b3/4b2p/2PRNp2/PPQ2P2/1K1R4 w - - 0 30,d3d8 e8d8 d1d8 c7d8,774,79,100,947,advantage master middlegame pin short,https://lichess.org/mRmTTTXv#59,
+KVwu4,3r2k1/p6p/1bQ2pp1/4p3/1B6/P7/5qPP/5RK1 w - - 0 25,f1f2 d8d1 b4e1 d1e1,716,81,79,208,endgame mate mateIn2 pin short,https://lichess.org/QlwM5mIo#49,
+KZZUq,r4rk1/p3p2p/1p2n1p1/2p1bp2/3qN1P1/2PP1Q1P/PP3P2/R1B2RK1 b - - 0 17,d4d5 e4f6 e7f6 f3d5,783,80,80,146,advantage discoveredAttack middlegame pin short,https://lichess.org/dhpuhZwg/black#34,Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack
+KfNIm,8/6k1/3p1q1p/p1pr1PP1/Pp6/1PbB1R1P/2Q3K1/8 b - - 0 36,f6g5 f3g3 g5g3 g2g3,723,97,75,97,crushing defensiveMove endgame pin short,https://lichess.org/lg15Ko39/black#72,
+KgJJW,8/p7/7q/2p5/1nB5/3P1RP1/Pk4KP/8 b - - 15 44,h6d2 f3f2 b2c3 f2d2,758,98,89,608,crushing defensiveMove endgame pin short,https://lichess.org/ITCzenpL/black#88,
+KrD0o,2r3k1/p4ppp/3P4/8/4N3/P3P1P1/5PBP/2rR2K1 w - - 1 27,g2f3 c1d1 f3d1 c8c1,730,86,100,74,advantage clearance endgame pin short,https://lichess.org/DyXh00Qi#53,
+Kwmug,8/6k1/3q2p1/8/5R1P/4BPK1/8/8 b - - 34 65,d6e5 e3d4 e5d4 f4d4,767,81,88,236,crushing endgame master masterVsMaster pin short,https://lichess.org/oTRHk0ak/black#130,
+L0QhR,r1bqk2r/pppp4/5p2/2b1P1Bn/8/1B1p4/PPP3PP/RN1Q1RK1 w kq - 0 13,g1h1 h5g3,786,94,87,689,mate mateIn1 middlegame oneMove pin,https://lichess.org/U6pusAK6#25,Italian_Game Italian_Game_Two_Knights_Defense
+L1Iut,2b2bk1/p4p1p/1p4p1/8/5P2/1P4P1/P3N1BP/6K1 w - - 0 31,e2d4 f8c5 g1h1 c5d4,763,155,76,26,crushing endgame pin short,https://lichess.org/fN1JjTSr#61,
+L4amh,r2q1rk1/pppnbppp/3p4/8/3PP3/2N2B2/PPPQ2PP/2KR3R w - - 1 13,h1f1 e7g5 d2g5 d8g5,758,86,73,204,advantage middlegame pin short,https://lichess.org/9wTuUYv3#25,Vienna_Game Vienna_Game_Vienna_Gambit
+L4lOc,5rk1/1p3Qpp/p1n5/5P2/6n1/P1B3P1/BP5q/1K2R3 b - - 0 35,f8f7 e1e8,765,96,55,90,mate mateIn1 middlegame oneMove pin,https://lichess.org/6SwZ0Les/black#70,
+L4wej,1r3k2/RP6/4pnp1/2Pp1p1p/3P1P2/4P2P/5KP1/8 b - - 0 43,f8e8 a7a8 e8d8 a8b8,735,102,88,722,crushing endgame pin short,https://lichess.org/Y1FqU2Y4/black#86,
+L62Jw,r4r2/pp3pkp/4p1p1/2Pq4/3nN3/P2P3P/2P2PP1/Q3R1K1 b - - 1 18,g7g8 e4f6 g8g7 f6d5,717,96,85,382,advantage fork middlegame pin short,https://lichess.org/r5rSJH9P/black#36,Sicilian_Defense Sicilian_Defense_Modern_Variations
+L7ZwL,8/5p1p/3p1k1b/2pPp3/4PP2/7P/5R2/6K1 w - e6 0 40,f4f5 h6e3 g1g2 e3f2,711,102,83,40,crushing endgame pin short,https://lichess.org/EUF3PVYQ#79,
+L7uL4,r6N/ppk1bBpp/2pqP3/3p4/8/6PP/PP3P2/R1BR2K1 b - - 0 19,a8h8 c1f4 d6f4 g3f4,785,89,97,843,crushing middlegame pin short,https://lichess.org/Z9aQ5csJ/black#38,Danish_Gambit Danish_Gambit_Other_variations
+LDMbj,3r2k1/2RP1ppp/4p3/3p4/p7/7P/5PP1/6K1 b - - 0 29,a4a3 c7c8 g8f8 c8d8,740,92,93,520,crushing endgame pin rookEndgame short,https://lichess.org/Yb7cLlkh/black#58,
+LEkRK,1r2k3/RP3pp1/4p3/3pP3/3B4/6P1/8/2b3K1 b - - 0 35,c1g5 a7a8 e8d7 a8b8,755,80,100,266,crushing endgame pin short,https://lichess.org/EH1QZWhJ/black#70,
+LHPnr,8/p7/2p1k3/1pP1Pp2/1P1Kp3/P7/3N1P2/3R1Brr w - b6 0 36,f1e2 g1d1 e2d1 h1d1,702,91,79,107,crushing endgame master pin short,https://lichess.org/whHmqufj#71,
+LMqk9,B5k1/p1P2r1p/6p1/3bb3/4p3/6P1/P4P1P/4R1K1 b - - 0 28,e5c7 a8d5 g8f8 d5f7,771,77,98,929,advantage endgame hangingPiece pin short,https://lichess.org/AhLTP25d/black#56,
+LT0k0,8/1r4bk/6p1/7p/P7/6P1/4Q1K1/8 w - - 1 49,a4a5 b7b2 e2b2 g7b2,786,90,95,1763,crushing endgame pin short,https://lichess.org/4AX6hXf6#97,
+LTi2i,6rk/1b4Qp/p3p3/1p1qB3/8/7P/PP4P1/5R1K b - - 0 31,g8g7 f1f8,780,81,98,580,endgame master mate mateIn1 oneMove pin,https://lichess.org/qF27w4jT/black#62,
+LVdce,2k1R1r1/1ppq4/p7/3p1Q2/3P2P1/2P4r/PP3P2/4R1K1 b - - 1 32,g8e8 e1e8,760,96,96,1004,endgame mate mateIn1 oneMove pin,https://lichess.org/oDy81Owd/black#64,
+LYyMx,3nQ1kr/pp1q1bpp/8/2BB4/3p4/P7/1PP2PPP/R2KR3 b - - 0 24,d7e8 e1e8,791,79,100,112,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/nZwJKuyF/black#48,
+Lb7yD,r6k/p6p/1pb5/8/5PQ1/3p2N1/P5RP/4r2K w - - 1 28,g3f1 e1f1,755,128,40,48,endgame hangingPiece master mate mateIn1 oneMove pin,https://lichess.org/qsMOo9dw#55,
+Lje9n,7r/p5k1/1p1p4/3P4/2Pp4/1P2rR2/P5PB/3R3K w - - 2 38,d1d4 e3e1 f3f1 e1f1,703,86,65,91,endgame mate mateIn2 pin short,https://lichess.org/ywMZWvdo#75,
+Lua1d,2r3k1/pp1q1ppp/4p3/8/8/P3NN2/1P3PPP/2Q3K1 w - - 3 28,c1d1 d7d1 e3d1 c8c1 g1f1 c1d1,726,84,98,1017,advantage endgame long pin,https://lichess.org/a7L62FhZ#55,
+M15iN,8/1pr2k1p/p3p1p1/3p4/2nPp3/P3P1PP/1PR1BP2/6K1 w - - 5 30,g1g2 c4e3 f2e3 c7c2,716,97,88,881,crushing discoveredAttack endgame pin short,https://lichess.org/H1YK1oPH#59,
+M3aRp,r2qk2r/2p1bpp1/p2p3p/1p1N4/4Pn2/1P1PQ3/1PP2P1P/2KR3R w kq - 0 16,e3f4 e7g5 f4e3 g5e3,789,86,79,193,crushing middlegame pin short,https://lichess.org/qPfLM6xu#31,Three_Knights_Opening Three_Knights_Opening_Other_variations
+M4iyg,r1b1k1nr/1pp2ppp/p1p5/8/4q3/4b3/PPPP1PPP/RNBQR1K1 b kq - 1 9,e3f2 g1f2 e4e7 e1e7,704,95,71,130,advantage hangingPiece opening pin short,https://lichess.org/aeCUsN7I/black#18,Ruy_Lopez Ruy_Lopez_Exchange_Variation
+MANgg,8/p1p5/7p/3k2p1/4n1P1/r1P1N2P/P3R3/6K1 b - - 16 48,d5e5 e3c4 e5d5 c4a3,786,84,87,379,advantage endgame fork pin short,https://lichess.org/DjtLl2OB/black#96,
+MIN6Q,2b2k1r/2Q2r1B/pp2p3/3pP3/2pP4/2P1bN2/PP4P1/7K w - - 13 41,c7c8 f8g7 c8h8 g7h8,731,81,96,1022,crushing endgame pin short,https://lichess.org/mfSBJNgj#81,
+MJ7qw,4b1k1/1p1q2pp/p3p3/n4pQ1/4N3/8/PPB2PPP/6K1 b - - 1 24,a5c6 e4f6 g8h8 f6d7,779,92,41,33,advantage endgame pin short,https://lichess.org/deIK81vp/black#48,
+ML63G,4r1k1/2p5/p2p3p/1pbP2p1/5p2/2N2N1P/Q1b2RPB/4q1K1 w - - 1 39,f3e1 e8e1,728,84,88,98,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/unDYdFmB#77,
+MLUQy,6k1/1p2Bp2/p1p4p/P2bP1p1/4nQ2/2r2PPK/7P/R7 w - - 0 43,f4g4 e4f2 h3g2 f2g4,795,86,95,109,crushing endgame fork pin short,https://lichess.org/NaUFszme#85,
+MS6q6,8/5q1k/p6p/2N3p1/PP1RP3/2P5/4K3/8 b - - 0 51,g5g4 d4d7 f7d7 c5d7,789,77,99,804,crushing endgame pin short,https://lichess.org/RQYLEivV/black#102,
+MT62T,5r1k/ppp2Prp/b3R3/8/3B4/1P6/P1P2P2/7K b - - 0 33,f8f7 e6e8 f7f8 e8f8,729,84,96,348,endgame mate mateIn2 pin short,https://lichess.org/XAz4E3PB/black#66,
+MVRop,rn2kb1r/4p1pp/pq6/1B4p1/3P3P/2P1P3/1Q3PP1/R3K2R b KQkq - 0 16,b6b5 b2b5 a6b5 a1a8,722,92,84,201,advantage middlegame pin short,https://lichess.org/dG5Xkvd9/black#32,Slav_Defense Slav_Defense_Two_Knights_Attack
+MXvlO,8/2R3pk/7p/8/5nNr/5P2/8/5K2 b - - 4 43,f4g6 g4f6 h7h8 c7c8 g6f8 c8f8,779,77,100,707,endgame long master mate mateIn3 pin,https://lichess.org/ivJMUCa2/black#86,
+MZy7P,R5k1/5rpp/3p1b2/3BpP2/4P3/3P3P/1p4PK/2q5 b - - 1 31,f6d8 a8d8,740,79,94,984,endgame hangingPiece mate mateIn1 oneMove pin,https://lichess.org/CzxYLUVR/black#62,
+Mac2T,r2qk2r/pp3pp1/4bb1p/2n1p3/3pP3/N2B1P2/PPPQN1PP/R4RK1 b kq - 3 14,d8d7 d3b5 e8g8 b5d7,780,88,96,367,advantage middlegame pin short,https://lichess.org/DYNO24hN/black#28,French_Defense French_Defense_Paulsen_Variation
+Me5BQ,4r3/3R2pk/1p4pp/pP1N4/8/2P4P/1n3PP1/5K2 b - - 5 34,b2c4 d5f6 h7h8 f6e8,783,77,100,239,crushing endgame master pin short,https://lichess.org/DH5VucST/black#68,
+MfB6B,3rQ1k1/ppp2rpp/2n5/6q1/8/1B6/PPP3PP/4R2K b - - 1 24,d8e8 e1e8,765,97,90,83,endgame mate mateIn1 oneMove pin,https://lichess.org/FiLAhnof/black#48,
+MfIHW,r4r1k/pp1bq2n/3N1b1p/2pPp3/2P5/3BP1Q1/PP1N4/R3K1R1 w Q - 1 22,d2e4 f6h4 e1c1 h4g3,765,85,96,1360,crushing master middlegame pin short,https://lichess.org/hHzRclD2#43,
+MfuUS,2r4k/6p1/pR2R2p/P1rq4/4Q3/6PP/5PK1/8 w - - 1 43,e6e8 c8e8 e4d5 c5d5,733,95,83,145,crushing endgame pin short,https://lichess.org/g0vKttjO#85,
+Mhb1J,r1b2rk1/ppp2Npp/8/5n2/2B5/8/PP3PPP/3R1RK1 b - - 0 16,f8f7 d1d8,797,78,97,1287,mate mateIn1 middlegame oneMove pin,https://lichess.org/IwcRq5bH/black#32,Italian_Game Italian_Game_Classical_Variation
+MnmyL,2r2rk1/5p1p/R3p1p1/1p2P3/8/5N2/PPP2nPP/2KR4 w - - 0 26,d1e1 f2d3 c1b1 d3e1,769,79,97,503,advantage endgame master pin short,https://lichess.org/APxke4XS#51,
+Mo5xM,r1bq1r1k/ppp3bp/2n3p1/4ppP1/2B2P1N/8/PPPN1P2/R2QK2R b KQ - 3 13,e5f4 h4g6,715,100,89,338,kingsideAttack mate mateIn1 oneMove opening pin,https://lichess.org/NkX1QiKp/black#26,Indian_Defense Indian_Defense_Other_variations
+Mrq32,2kr3r/1pp3p1/p3ppp1/2qpP2n/5P2/2PPBn2/PP2B1PP/R2Q3K w - - 0 18,e3c5 h5g3,765,79,98,548,mate mateIn1 middlegame oneMove pin,https://lichess.org/P01u8kHw#35,Bird_Opening Bird_Opening_Dutch_Variation
+MsGgY,r3r1k1/pp3p1p/2nB1npb/3P4/2B5/5P2/PPPR2PP/2K3NR w - - 1 15,d5c6 e8e1,784,92,75,114,master mate mateIn1 middlegame oneMove pin,https://lichess.org/LV2F9lIJ#29,Pirc_Defense Pirc_Defense_Other_variations
+Mw72O,4R3/bpp2k1p/p2p2n1/5q2/1P5r/P5QP/1B3P2/4R1K1 b - - 4 29,a7f2 g3f2 f5f2 g1f2,703,90,87,60,advantage master middlegame pin short,https://lichess.org/XLBdZZrV/black#58,
+MxVkO,1n3rk1/pp3pp1/4p2p/bP2P3/P2n4/R2N1PNP/2r3P1/2B3KR w - - 1 24,g1h2 d4f3,763,95,93,666,mate mateIn1 middlegame oneMove pin,https://lichess.org/r6nTrqtA#47,
+N4Tvb,8/4qk2/7p/3p2p1/1p1Q1P2/pBn1P1PP/P7/7K b - - 0 44,e7e4 d4e4 c3e4 b3d5 f7f6 d5e4,752,81,97,1248,crushing endgame exposedKing fork long pin,https://lichess.org/QP8u6xEL/black#88,
+N6eUy,2r1r1k1/p4p1p/4p1pb/2RpP3/PP3P2/5NP1/7P/2R4K b - - 0 30,h6f8 c5c8 e8c8 c1c8,792,104,90,317,crushing endgame pin short,https://lichess.org/VqWA400t/black#60,
+NC9N6,6r1/p1pq1k1p/1p2Rpr1/5Q2/8/2P3P1/PP3K1P/RN6 w - - 1 24,e6f6 g6f6 f5f6 f7f6,723,98,89,254,crushing middlegame pin short,https://lichess.org/OUAsSAhr#47,
+NFx52,r3R1k1/pp1Q1rpp/5qb1/8/2B5/7P/PP3PP1/2R3K1 b - - 4 22,a8e8 d7e8,764,96,87,745,mate mateIn1 middlegame oneMove pin,https://lichess.org/S1LHLXGg/black#44,
+NGVV7,r1b2rk1/pp3Npp/2p5/8/2B5/2n5/2P2PPP/4RRK1 b - - 0 18,f8f7 e1e8,734,97,87,469,mate mateIn1 middlegame oneMove pin,https://lichess.org/nAcV9pKc/black#36,Russian_Game Russian_Game_Three_Knights_Game
+NIWyE,r2Q1k1r/p3bppp/1np5/qpB1p1Pn/4P3/P1N2P1b/1PP4P/2KR2NR b - - 1 14,a8d8 d1d8,718,83,100,121,mate mateIn1 middlegame oneMove pin,https://lichess.org/cYWAk9fM/black#28,Czech_Defense Czech_Defense_Other_variations
+NKkPS,5k2/8/5p1p/3nQ3/2B5/1Pr3PK/P6P/3r4 w - - 0 40,e5h5 d5f4 h3h4 f4h5,718,84,71,43,crushing endgame pin short,https://lichess.org/TZNCgJlA#79,
+NMTZ4,r3k3/5pr1/p1pp2n1/3p3p/8/2NP2P1/PP3PK1/R6R w q - 1 25,h1h5 g6f4 g2f3 f4h5,743,89,96,1230,crushing endgame pin short,https://lichess.org/tbitNG69#49,
+NaqzE,8/2p5/kp6/p2P3p/2R2p1b/P7/1P6/2K5 w - - 0 41,c4f4 h4g5 c1d1 g5f4,736,77,92,117,crushing endgame pin short,https://lichess.org/qz4tvsAs#81,
+Nbkew,rnb2rk1/p4Qpp/2pp4/8/Np1N3q/1B6/PPPn1PPP/R3R1K1 b - - 0 14,f8f7 e1e8,723,78,95,311,mate mateIn1 middlegame oneMove pin,https://lichess.org/neR0EntS/black#28,Petrovs_Defense Petrovs_Defense_Three_Knights_Game
+NfcMk,6k1/Nb2q3/1Q1rp2p/2n2pp1/2P5/4PPP1/6BP/2R3K1 w - - 1 32,b6c5 d6d1 c1d1 e7c5,745,92,79,100,advantage discoveredAttack master masterVsMaster middlegame pin short superGM,https://lichess.org/LoLd3Ofo#63,
+Ni6Qd,4Qbk1/2qr1p1p/6p1/2P2pP1/3p3P/3P4/3N1PK1/4R3 b - - 0 31,d7e7 e1e7 c7e7 e8e7,794,79,53,58,advantage endgame master pin short,https://lichess.org/NlATBMZg/black#62,
+NiWA7,7k/6p1/p7/P2r1p2/3p1P2/6P1/4K2P/3B4 b - - 1 36,h8g8 d1b3 g8f8 b3d5,750,82,100,114,crushing endgame pin short,https://lichess.org/c6Zc23fD/black#72,
+NnYKw,r2k2nr/pppq3p/2n2pN1/2Ppp1pQ/8/1P2P1P1/P1P2PKP/R1B2R2 b - - 3 15,h7g6 h5h8,762,93,44,45,advantage hangingPiece middlegame oneMove pin,https://lichess.org/qLHAuJRh/black#30,Hungarian_Opening Hungarian_Opening_Other_variations
+Np0mH,r5k1/1pp3p1/p2b2qp/4p3/4Np2/P2P1P1b/1PPB1P1P/R5QK b - - 1 21,g6h5 e4f6 g8f7 f6h5,794,242,43,4,crushing kingsideAttack middlegame pin short,https://lichess.org/oonlBBTA/black#42,
+NqOzu,2r2r2/4k1pp/3p1p2/p5P1/Bpn1Pq1P/1Q6/PPP2R2/1K6 w - - 0 29,f2f4 c4d2 b1c1 d2b3,748,78,86,114,advantage endgame fork pin short,https://lichess.org/osAGiCw8#57,
+NtaCG,2r3k1/5pp1/p6p/1p3Pb1/5Q2/P6P/6P1/7K w - - 2 36,f4f1 c8c1 f1c1 g5c1,718,102,85,433,crushing endgame pin short,https://lichess.org/w5Ps0sIR#71,
+O3RRQ,8/p5pp/kbp5/1q3P2/P1n5/8/2P1Q1PP/2BK4 b - - 0 32,c4b2 c1b2 b5e2 d1e2,778,81,79,106,crushing endgame master pin short,https://lichess.org/ZK5OLTpP/black#64,
+OFQhk,1r4k1/5rpp/2b2q2/4p3/1PB1nP1N/1QB1b1P1/7P/3R1K2 w - - 0 32,c4f7 f6f7 b3f7 g8f7,709,89,78,100,advantage middlegame pin short,https://lichess.org/G9PtQZj1#63,
+OIt8i,3r1k2/1p1P1ppp/3P4/8/8/p7/6PP/2R3K1 b - - 2 40,f7f6 c1c8 f8f7 c8d8,747,106,88,362,crushing endgame pin rookEndgame short,https://lichess.org/NhFXvOfn/black#80,
+OKvE5,r1b1kb1r/pp2pppp/2q2n2/2p5/8/1PN5/PBPP1PPP/R2QKB1R b KQkq - 1 8,e7e6 f1b5 c8d7 b5c6,778,82,86,150,crushing opening pin short,https://lichess.org/0kkXT5nK/black#16,Sicilian_Defense Sicilian_Defense_Modern_Variations
+OM093,8/1p3pp1/1bk1p3/3pP2p/3P4/1r5P/P4RP1/6K1 w - - 0 29,a2b3 b6d4 g1f1 d4f2,730,95,82,110,crushing endgame pin short,https://lichess.org/XQsLpb1b#57,
+OR9i5,8/2q3k1/2b2pp1/P3p2p/1p2P2P/1PQ1PBP1/2K5/8 w - - 0 46,c3c5 c6e4 f3e4 c7c5,727,86,95,355,crushing discoveredAttack endgame master pin short,https://lichess.org/18g7hC54#91,
+OV3l3,r2qk2r/p1p4p/2pbbp2/3p2p1/3P4/2N1nN1P/PPPQ1PP1/2KR3R w kq - 0 13,d2e3 d6f4 e3f4 g5f4,786,97,95,1979,crushing middlegame pin short,https://lichess.org/fccUeqZH#25,French_Defense French_Defense_Queens_Knight
+OanBe,3b1r2/6k1/5p2/p1R5/PpB5/1P4pP/2P2P2/6K1 w - - 0 35,f2g3 d8b6 g1g2 b6c5,782,86,96,2231,advantage endgame pin short,https://lichess.org/Pvr1XJJk#69,
+OeHdo,rn2kbnr/pp3p1p/1qp1p1p1/3pP1B1/3P4/6Q1/PPP2PPP/RN2K1NR w KQkq - 2 8,g3c3 f8b4 g5d2 b4c3,786,92,93,1426,crushing opening pin short,https://lichess.org/EMkga2QP#15,Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation
+Okz9U,r3r1k1/p6R/6p1/2b3N1/2P2R2/1P6/P1B2pPP/6K1 w - - 0 33,f4f2 e8e1,794,90,95,354,mate mateIn1 middlegame oneMove pin,https://lichess.org/tR690S9P#65,
+OvP0o,3r2k1/p5pp/2Q2p2/2b5/8/8/P4qPP/5RK1 w - - 0 45,f1f2 d8d1,796,78,90,173,endgame mate mateIn1 oneMove pin,https://lichess.org/Cea8p80j#89,
+OxUq9,8/pp4kp/6p1/4p1q1/3pPn2/1P4NP/7K/6R1 b - - 6 35,g5h4 g3f5 g7f6 f5h4,729,86,82,74,advantage endgame pin short,https://lichess.org/bmmP4atq/black#70,
+P1SUo,2rqk2r/4b1p1/4p1Pp/2npn3/p2N4/PpNP4/1P1BQP2/2KR3R w k - 0 23,e2e5 c5d3 c1b1 d3e5,743,95,92,340,crushing fork middlegame pin short,https://lichess.org/ogKALekm#45,
+P2D4h,2k5/p7/bpq1p3/8/2PP2P1/1K2P1p1/4Q1P1/8 b - - 4 36,a6c4 e2c4 c6c4 b3c4,742,96,76,266,crushing endgame pin short,https://lichess.org/PGg3R9Iq/black#72,
+P2ONH,5r2/8/2p2b1k/8/ppBPp1Q1/8/PPPK2P1/7r w - - 5 38,g4f4 f6g5 f4g5 h6g5,798,92,94,1042,crushing defensiveMove endgame pin short,https://lichess.org/9jY5qkyv#75,
+P3DUp,r1b3k1/pp3rpp/3p4/3n1q2/2BP1B2/8/PP4PP/R3Q1K1 b - - 0 17,d5f4 e1e8,753,79,97,767,mate mateIn1 middlegame oneMove pin,https://lichess.org/BwUWk2ph/black#34,Kings_Gambit_Declined Kings_Gambit_Declined_Queens_Knight_Defense
+P67M7,1rb2rk1/p2p1Qpp/1p1p4/2qB4/8/2P5/P4PP1/1R2R2K b - - 0 21,f8f7 e1e8,700,80,88,188,mate mateIn1 middlegame oneMove pin,https://lichess.org/KPmYR4U5/black#42,
+P7i8l,2Q5/5rk1/7r/8/5P2/4P3/6K1/8 w - - 6 44,c8g4 h6g6 g4g6 g7g6,748,98,76,273,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/CxFf6v2D#87,
+P8YaR,r2qk2r/p1p1bppp/1p2b3/n2pP3/3P4/2PB1Q2/P1P1N1PP/1RB1K2R w Kkq - 2 11,f3g3 e7h4 e1g1 h4g3,790,92,94,790,advantage opening pin short,https://lichess.org/lbuuBbRB#21,Vienna_Game Vienna_Game_Vienna_Gambit
+P9Uwb,7k/5p2/4p2b/p2pP3/3P4/2P5/5qR1/6K1 w - - 0 37,g2f2 h6e3 g1f1 e3f2,750,81,100,119,crushing endgame pin short,https://lichess.org/QHenW8EK#73,
+PAmMH,r4qr1/4p2k/p2p1p1b/1pp2P1R/4N2P/1P1P1P2/PBPQ4/2K4R w - - 0 21,h1h3 g8g1,771,81,79,328,mate mateIn1 middlegame oneMove pin,https://lichess.org/Rz2rED59#41,
+PCoKK,8/5Qpk/3p3p/PN6/4P3/4b3/2q2RPP/R2r2K1 w - - 3 33,a1d1 c2d1,744,77,100,152,endgame mate mateIn1 oneMove pin,https://lichess.org/lyW3ayCp#65,
+PFZZO,5rk1/1R2nQpp/8/4p3/2BpP2P/3Pq1P1/2P4K/8 b - - 0 35,f8f7 b7b8 e7c8 b8c8,799,80,83,59,endgame mate mateIn2 pin short,https://lichess.org/AOMY3CvK/black#70,
+PJomw,5rk1/5Qpp/3P1b2/3B4/8/4R1P1/1q3P1P/2rR2K1 b - - 0 31,f8f7 e3e8,788,391,100,5,mate mateIn1 middlegame oneMove pin,https://lichess.org/b4O7L1uQ/black#62,
+PNlZB,4r1k1/p1p2p2/6pQ/2b3Bp/8/P7/5qPP/5RK1 w - - 0 36,f1f2 e8e1,797,89,85,44,endgame mate mateIn1 oneMove pin,https://lichess.org/ZEChPA5F#71,
+PPxnx,2R4R/5pp1/1K4k1/7p/7q/8/8/8 b - - 0 50,h4f6 c8c6 f6c6 b6c6,797,86,67,58,advantage defensiveMove endgame pin queenRookEndgame short,https://lichess.org/mR17rK1b/black#100,
+PX819,6k1/pp2r2p/3PP1p1/2r1pp2/8/8/P1P2PK1/3R4 b - - 0 33,c5c8 d6e7 c8e8 d1d8 g8g7 d8e8,780,90,94,637,advancedPawn crushing endgame hangingPiece long pin rookEndgame,https://lichess.org/eXDYEllL/black#66,
+PZVpN,6k1/pp3p2/1qn1r2p/7Q/4NP1B/1Pb5/P4P1P/4R1K1 w - - 0 25,h5g4 e6g6 g4g6 f7g6,743,79,100,348,advantage defensiveMove middlegame pin short,https://lichess.org/KRl5wkem#49,
+PZk32,2r3qk/1p3p2/p4prp/3R4/4PBP1/P2Q1K1P/8/8 b - - 1 34,c8c6 d5d8 g8d8 d3d8,799,147,11,33,advantage endgame pin short,https://lichess.org/hHq8GF7N/black#68,
+PjTtX,8/8/8/3p4/5Q2/2k2K1P/2pr4/8 w - - 4 50,f4e3 d2d3 e3d3 c3d3,789,429,47,5,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/VpOJAdUV#99,
+Pjf2w,r4rk1/pbp2pbp/1p2p1p1/4P3/2B2Pn1/1QN1P1qP/PP4P1/R1B3RK w - - 5 16,c3e2 g3h3,743,77,88,288,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/k0CclqIt#31,Queens_Gambit_Accepted Queens_Gambit_Accepted_Old_Variation
+PosAC,r1b2rk1/p2p1Qpp/2p5/q7/2B5/8/PP3PPP/RNB1R1K1 b - - 0 13,f8f7 e1e8,771,84,95,200,mate mateIn1 middlegame oneMove pin,https://lichess.org/af2fKzyw/black#26,Sicilian_Defense Sicilian_Defense_Alapin_Variation
+PqCPh,5rkr/1b4p1/p2R4/1p5p/5nQ1/8/PPP2PPP/R5K1 w - - 0 22,g4g3 f4e2 g1f1 e2g3,727,78,100,498,advantage fork master middlegame pin short,https://lichess.org/ZaFJ8BmH#43,
+PqSbb,2kr3r/1bp3b1/p2pPq2/1p2npp1/8/2P3N1/PPB2PPP/RN1Q1RK1 b - - 0 15,f6e6 c2f5 e6f5 g3f5,754,98,96,1313,crushing middlegame pin short,https://lichess.org/T6B5G3ES/black#30,Pirc_Defense Pirc_Defense_Other_variations
+PvanE,4Rbk1/p5p1/1p1q4/3p4/8/7P/PP2Q2K/8 w - - 13 48,e2e5 d6e5 e8e5 f8d6 h2g2 d6e5,777,78,100,309,attraction clearance crushing endgame long pin,https://lichess.org/Ah3YmMXF#95,
+PytrD,4r3/p6p/4Pkp1/2p1R3/8/4K3/P5PP/8 w - - 4 33,e3e4 e8e6 e5e6 f6e6,713,83,97,1917,crushing endgame pin rookEndgame short,https://lichess.org/M63ZIHFr#65,
+Q1dYm,2r2nk1/p1rq3p/bp2p1pB/n2pP1N1/Pb1P4/6N1/1P3PP1/RB1QR1K1 w - - 4 23,e1e3 c7c1 d1c1 c8c1,788,76,84,158,advantage middlegame pin short,https://lichess.org/CugJylEH#45,
+QDhJK,8/p4ppp/2k5/4p3/1rp5/5P2/6PP/R2N2K1 w - - 0 32,a1a7 b4b1 g1f2 b1d1,798,102,91,1054,advantage endgame pin short,https://lichess.org/dLaWLxR1#63,
+QHmUQ,5b2/1k6/4N3/8/2p5/8/6P1/6K1 w - - 0 60,e6d4 f8c5 g1f1 c5d4,773,82,88,334,crushing endgame master pin short,https://lichess.org/domZVthM#119,
+QK1HB,r1b1k2r/1pp1qppp/p1p5/2b5/B7/3P1Q2/PPP2nPP/RNB2RK1 w kq - 0 10,f1f2 e7e1,716,97,95,437,mate mateIn1 oneMove opening pin,https://lichess.org/4da4L00p#19,Ruy_Lopez Ruy_Lopez_Morphy_Defense
+QKIN2,r5rk/pb3p1Q/1p3Pp1/n1pq4/3P1R2/2PB4/P3N1PP/2R3K1 b - - 0 23,h8h7 f4h4 d5h5 h4h5,768,103,84,291,mate mateIn2 middlegame pin short,https://lichess.org/XtMCgpKJ/black#46,
+QL3Ng,r2q1rk1/3bbppp/2pp4/pp4P1/P2BPn2/2N5/1PPQ3P/2KR1B1R w - - 0 15,d2f4 e7g5 f4g5 d8g5,794,83,88,44,advantage middlegame pin short,https://lichess.org/5qXGGNB9#29,Philidor_Defense Philidor_Defense_Other_variations
+QSDCb,r2q1rk1/1p1n1pp1/p1b3N1/3B2pQ/3P4/7P/PP3PP1/R1B3K1 b - - 1 21,d7f6 h5h8,770,96,89,704,mate mateIn1 middlegame oneMove pin,https://lichess.org/DYB7dBU4/black#42,
+QVpH4,r1bqk2r/3pbppp/pp2pn2/8/3QPP2/2NB4/PPP3PP/R1B2RK1 w kq - 0 10,e4e5 e7c5 d4c5 b6c5,784,96,94,1842,advantage opening pin short,https://lichess.org/bmsmIM0u#19,Sicilian_Defense Sicilian_Defense_Open
+QXpwg,6rk/p1q2br1/1pp2B2/2p4R/4P2Q/8/PPP3PP/6K1 b - - 0 29,f7h5 h4h5,757,85,74,65,endgame mate mateIn1 oneMove pin,https://lichess.org/5LI1BbBE/black#58,
+QZTlD,6k1/1p6/3p4/3Pp2q/4P3/4B3/PP3K2/R7 b - - 0 38,h5g4 a1g1 g4g1 f2g1,793,99,91,955,crushing endgame master pin short,https://lichess.org/UXN22X8k/black#76,
+QcvkC,8/2r5/k1r5/pp5P/8/P2Q2K1/6P1/8 w - - 0 80,g3h3 c6c3 d3c3 c7c3,777,98,71,186,crushing endgame pin queenRookEndgame short,https://lichess.org/n19FuTCR#159,
+QgjLM,6k1/3R1p1p/4r1p1/pB2p3/P7/7P/6P1/2K5 w - - 0 41,b5c4 e6c6 c1b2 c6c4,750,97,93,1037,advantage endgame pin short,https://lichess.org/EuJ3YYnK#81,
+Qksla,3r3k/5p2/N5p1/p7/8/2P5/P3p1PP/4R2K w - - 1 34,g2g3 d8d1 h1g1 d1e1,721,93,94,1067,crushing endgame pin short,https://lichess.org/eOY3dsKD#67,
+QpVUU,r5r1/3kbp1p/3p1p2/4p3/4P3/1N4P1/PKP4P/3R1R2 b - - 2 26,a8a4 b3c5 d7e8 c5a4,767,78,87,267,crushing endgame pin short,https://lichess.org/DRBNAvDB/black#52,
+Qt6iA,8/6b1/2p2pkp/q1p1pNp1/2PpP1P1/rP1P1P2/1RQ1K1P1/8 w - - 5 38,b2a2 a3a2 c2a2 a5a2,714,80,86,272,crushing endgame master pin short,https://lichess.org/rCSb7Ac3#75,
+QwxAm,3Q4/2Rb2kp/p2q2p1/1p6/4p3/1P4PP/P4P2/3r1BK1 b - - 0 37,d1f1 g1f1 d6c7 d8c7,787,80,68,257,crushing endgame hangingPiece pin short,https://lichess.org/rFFMUwTa/black#74,
+R1gP2,5R2/8/8/3p3k/p3q2P/6R1/7K/8 b - - 13 49,e4h4 g3h3 h4h3 h2h3,763,97,92,988,crushing defensiveMove endgame master masterVsMaster pin queenRookEndgame short,https://lichess.org/PMqHWcXz/black#98,
+R94ko,r6k/6pp/8/4P1PP/5P2/3pP3/QB1p4/2K5 w - - 0 36,c1d2 a8a2 d2d3 a2b2,756,93,78,310,advantage endgame hangingPiece pin short,https://lichess.org/bEwo87O1#71,
+R9CuJ,8/1p1k1r1R/3P1rQK/Pp2p3/1P6/2P5/5P2/8 b - - 12 59,f6g6 h6g6 f7h7 g6h7,712,96,91,281,crushing endgame pin rookEndgame short,https://lichess.org/qpd5UqTa/black#118,
+RDkvn,2rr2k1/pp3pp1/7p/3B4/6P1/6BP/PP3P2/3R2K1 w - - 3 26,d5b3 d8d1 b3d1 c8c1 g1g2 c1d1,733,91,77,166,crushing endgame long pin,https://lichess.org/QmnS12j1#51,
+RU4sQ,2Nk3r/1p1b1ppp/p3p3/3p4/8/1P1n2P1/PB2QP1b/5K2 w - - 0 22,e2d3 d7b5 d3b5 a6b5,776,97,94,453,advantage endgame pin short,https://lichess.org/yjnRd1xq#43,
+RaweA,5rk1/7p/5qp1/1Pp2b2/2PpB3/3P1Q1P/6P1/5R1K w - - 10 33,g2g4 f5e4 d3e4 f6f3 f1f3 f8f3,791,77,85,264,crushing discoveredAttack endgame exposedKing long pin,https://lichess.org/4oN8NRQB#65,
+RfNs8,8/ppb1kp2/2p1p2p/8/2P3r1/1P4N1/P4PPP/4R1K1 b - - 2 26,g4d4 g3f5 e7d7 f5d4,751,77,98,758,crushing endgame pin short,https://lichess.org/rxfwgabT/black#52,
+Rhglg,rn3r1k/pp4b1/2p3Pp/4q1P1/4N3/1Q3p2/PPP3B1/2KR3R b - - 0 21,e5b2 b3b2 g7b2 c1b2,756,96,67,102,crushing middlegame pin short,https://lichess.org/GP8v5xDb/black#42,
+Ricgo,r1q3k1/6pp/2r2n2/pp6/3Q4/P1N1B3/1P3PPP/2KRR3 w - - 0 22,d4d8 c8d8 d1d8 a8d8,700,97,80,83,advantage middlegame pin short,https://lichess.org/QRKBklVZ#43,
+RkrO4,8/5p1k/4r1r1/p4N2/1p1Q4/8/P5PK/8 w - - 2 43,d4h4 g6h6 h4h6 e6h6,784,83,95,238,crushing endgame master pin short,https://lichess.org/ymYi9IQG#85,
+Ro2n2,4r1k1/r4p1p/4bBp1/pp5P/8/4R1R1/PP3PP1/6K1 b - - 0 30,e6a2 e3e8,706,78,80,146,endgame hangingPiece mate mateIn1 oneMove pin,https://lichess.org/9mBgCJsY/black#60,
+RtjBb,1r4k1/1p4pp/8/b2P1B2/2Rp1P2/8/6PP/6K1 w - - 0 27,c4d4 a5b6 g1f1 b6d4,779,82,87,309,advantage endgame master pin short,https://lichess.org/6eFEOv0P#53,
+RuhC8,2krr3/pp1b4/8/P7/2qp2Pp/P1N4B/1K6/2RQ3R b - - 1 28,d4c3 c1c3 c4c3 b2c3,794,104,85,203,crushing middlegame pin short,https://lichess.org/UKsslzEW/black#56,
+Ruoz3,5r2/1pp4k/p1bp2pp/8/1Q6/PP6/6qP/6RK w - - 0 38,g1g2 f8f1,786,94,94,364,endgame mate mateIn1 oneMove pin,https://lichess.org/8tEuqJBD#75,
+Rxw9O,r1b1r1k1/ppp2p2/2n3pb/2Q4p/7P/5P2/PPPq2P1/2KR1BNR w - - 0 15,d1d2 e8e1,794,81,88,294,mate mateIn1 middlegame oneMove pin,https://lichess.org/kH1uFnR4#29,Center_Game Center_Game_Berger_Variation
+S0yve,r5k1/2R2pb1/4b1p1/p3p2p/P3P3/6P1/5P1P/1R4K1 b - - 1 25,a8c8 c7c8 e6c8 b1b8 g7f8 b8c8,773,90,93,822,crushing endgame long pin,https://lichess.org/YxdXvLVg/black#50,
+S8gAn,2K2k2/3R4/4q3/8/2P5/8/8/8 b - - 11 81,e6e8 d7d8 f8e7 d8e8,744,104,78,317,crushing defensiveMove endgame master pin queenRookEndgame short,https://lichess.org/NLrz6bLB/black#162,
+S9y5C,6k1/1b1r1p2/5Qp1/1p3pN1/2p5/7R/rPP3qP/6RK w - - 0 32,g1g2 a2a1,745,115,79,77,master mate mateIn1 middlegame oneMove pin,https://lichess.org/eh6zEyO3#63,
+S9ylp,r1b2rk1/ppp2Npp/8/8/2B2n2/8/PP4PP/2KR3R b - - 0 16,f8f7 d1d8,756,79,72,401,mate mateIn1 middlegame oneMove pin,https://lichess.org/a2XYbf0N/black#32,Russian_Game Russian_Game_Classical_Attack
+SD1xo,8/6pp/8/2P5/2K1p1k1/6p1/P4rQ1/8 w - - 5 56,g2e4 f2f4 e4f4 g4f4,718,84,76,147,crushing defensiveMove endgame master pin queenRookEndgame short,https://lichess.org/1iNrow5F#111,
+SEAdU,2kr1bnr/ppp1pppp/2n1q3/5P2/8/2NP4/PPP1BP1P/R1BQK2R b KQ - 0 9,e6f5 e2g4 e7e6 g4f5,780,80,96,2418,crushing opening pin short,https://lichess.org/C9aLYzra/black#18,Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation
+SNFRi,rn2k2r/pp3ppp/2Nqpn2/3p4/8/1QP1P3/PP3PPP/RN2KB1R b KQkq - 0 11,d6c6 f1b5 e8g8 b5c6,768,97,87,269,crushing middlegame pin short,https://lichess.org/Wk1ByTW2/black#22,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+SNG7m,4r1k1/Q4p1p/6p1/2B5/3b4/8/P4qPP/5RK1 w - - 0 23,f1f2 e8e1,721,87,100,277,endgame mate mateIn1 oneMove pin,https://lichess.org/LBN3B8B5#45,
+SXm08,7r/3r1pk1/5np1/N1p1R3/Pp6/1P1P1R1P/2P4K/8 w - - 7 48,a5c4 f6g4 h2g3 g4e5,769,84,97,917,advantage endgame master pin short,https://lichess.org/kqRgXkxW#95,
+SaUg1,4rrk1/pbp3pp/5n2/2Q5/1P1p1P2/P2B4/6qP/RNB3RK w - - 0 22,g1g2 e8e1 d3f1 e1f1,784,98,100,46,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/8oQvISV9#43,
+SeJt5,4k1nr/3bppbp/6p1/1BR5/4P3/8/3NKPPP/r6R b k - 3 18,a1h1 c5c8,758,77,100,188,mate mateIn1 middlegame oneMove pin,https://lichess.org/0vhIa3tG/black#36,Queens_Pawn_Game Queens_Pawn_Game_Modern_Defense
+SeS5S,1k3r2/8/pp6/5p1p/4B1p1/8/P1RK1P1P/8 w - - 2 33,e4d5 f8d8 d2e1 d8d5,789,99,94,1357,advantage endgame pin short,https://lichess.org/g2oyP3Xv#65,
+ShMlC,8/1k3prp/2p5/1p2n3/4P3/3R3P/6P1/1R4K1 w - - 3 32,d3d2 e5f3 g1f2 f3d2,767,90,48,34,advantage endgame pin short,https://lichess.org/N4IGgQoB#63,
+Sj8hH,r4rk1/ppp2pp1/1b1p2qp/3P1b2/2B1N3/5P2/PP3P1P/R2Q2RK b - - 4 17,g6h7 e4f6 g8h8 f6h7,722,107,91,341,crushing kingsideAttack middlegame pin short,https://lichess.org/iYGkL5qf/black#34,Italian_Game Italian_Game_Classical_Variation
+SjJTX,8/8/2p5/3p1p2/2kP1P2/p1q1B3/P3RK2/8 b - - 15 58,c4b4 e3d2 c3d2 e2d2,782,81,83,72,crushing endgame pin short,https://lichess.org/wpblchZf/black#116,
+SkYFl,2r5/1p3ppp/1p4k1/2n1B3/3p4/8/PPP2PPP/2K1R3 w - - 2 27,e5d4 c5d3 c1d2 d3e1,795,86,83,254,advantage endgame pin short,https://lichess.org/QwR0ZyAj#53,
+SkvCU,6k1/1pp1rr2/p2pb1pB/2q2pQ1/5P2/3P1NK1/P3P1P1/5B1R w - - 0 25,g5g6 f7g7 h6g7 e7g7,746,91,84,296,crushing middlegame pin sacrifice short,https://lichess.org/rojX9Ujf#49,
+SlW3p,5r2/2R2pkp/p1p2p2/2N1p3/2b5/6P1/1P3PP1/6K1 b - - 0 25,c4b5 c5e6 g7g8 e6f8,795,89,94,1684,advantage endgame pin short,https://lichess.org/7WBfXzOY/black#50,
+Sn4la,6rk/2p3Qp/p1p3p1/1r6/6P1/KP6/PB3q2/R3R3 b - - 0 32,g8g7 e1e8 f2f8 e8f8,729,98,78,164,endgame mate mateIn2 pin short,https://lichess.org/4XaHtUYn/black#64,
+SpH7H,r1bqk2r/2p1pp1p/p2p2pB/3P4/1Pp1N3/P4N2/2P1QPPP/b4RK1 b kq - 1 13,a1f6 e4f6,757,81,100,113,mate mateIn1 middlegame oneMove pin,https://lichess.org/DnxRUz1z/black#26,Pirc_Defense Pirc_Defense_Classical_Variation
+Sq8yD,5b2/8/kp2R1P1/p1p1B2p/3p4/5B2/3q4/5K2 b - - 0 60,d2d3 f3e2 d3e2 f1e2,773,92,94,293,crushing defensiveMove endgame master pin short,https://lichess.org/CQZpfxaN/black#120,
+SsE6j,3r2k1/Rp4pp/6r1/2P5/4bp2/2Q3P1/1B3P1P/3qR1K1 w - - 0 35,e1d1 d8d1 c3e1 d1e1,711,88,94,118,mate mateIn2 middlegame pin short,https://lichess.org/JsKjDMj8#69,
+Sy6ll,8/p4Rpk/1p5p/3N1P2/3n4/4K3/r5PP/8 b - - 2 31,d4c6 d5f6 h7h8 f7f8,791,79,95,932,endgame mate mateIn2 pin short,https://lichess.org/hb5qGFzS/black#62,
+Sz56n,1k6/1pp2ppp/pb6/4B3/8/P1P3QP/1P3qPK/8 w - - 0 27,e5c7 b6c7 g3c7 b8c7,753,81,57,72,crushing endgame pin short,https://lichess.org/RMtOEuxq#53,
+T0CnR,2r3k1/pp3p1p/7p/3p4/3B4/1P3B2/P5PP/2rR2K1 w - - 4 29,d4a7 c1d1 f3d1 c8c1 g1f2 c1d1,722,108,95,1125,clearance crushing endgame long master pin,https://lichess.org/HoBg67nM#57,
+T0ZYR,r5k1/p2p2pp/1p6/1Np4r/1P6/P7/R2Nn2P/5R1K w - - 2 26,d2f3 e2g3 h1g2 g3f1,702,97,85,970,advantage middlegame pin short,https://lichess.org/krNU0lae#51,
+T2ZPR,r2r3k/pp3p1p/2pR1Pp1/1q1bP1P1/7Q/5N2/PP5P/5R1K w - - 1 28,h4h6 b5f1,748,93,90,298,hangingPiece kingsideAttack master mate mateIn1 middlegame oneMove pin,https://lichess.org/VlPwyDNG#55,
+T8qny,5rk1/p4N1p/5PpP/5p2/8/1B2b3/P2r4/2R4K b - - 0 34,f8f7 c1c8 d2d8 c8d8,778,87,77,375,endgame mate mateIn2 pin short,https://lichess.org/GuqQ0TyW/black#68,
+TIlVN,3r2k1/pp3pp1/7p/2nB1P2/8/7P/PPP3P1/2K1R3 w - - 1 23,c2c4 c5d3 c1d2 d3e1,773,81,77,96,advantage endgame fork pin short,https://lichess.org/L60pe4iN#45,
+TSxQR,5rr1/p1Q2p1k/1p2pqBP/3b2R1/3P4/P7/1PP2P2/2K3R1 b - - 0 26,g8g6 g5g6 f6g6 g1g6,799,83,79,127,crushing middlegame pin short,https://lichess.org/gNfWUgGX/black#52,
+TVrOO,6k1/p4r2/np1b4/2pN4/2P1b3/P6P/1P1B2B1/2R2q1K w - - 0 42,c1f1 f7f1,720,79,98,391,mate mateIn1 middlegame oneMove pin,https://lichess.org/KAAyPZgp#83,
+TWvBx,r1Rr3k/3P2p1/5b1p/1p6/1P3P2/6PP/P7/2R3K1 b - - 2 51,a8a2 c8d8 f6d8 c1c8 h8h7 c8d8,749,99,78,481,clearance crushing endgame long pin,https://lichess.org/llb6zawo/black#102,
+TbrxN,6k1/pp4p1/2pq1r1p/4R3/2pPQ1P1/2P5/PP4P1/6K1 b - - 2 31,d6f8 e5e8 f8e8 e4e8,795,112,87,26,crushing endgame pin short,https://lichess.org/TYYymihY/black#62,
+Tc3SC,6k1/1bpprp1p/p5p1/1p3P2/6Q1/1B4N1/P1P3qP/6RK w - - 0 25,g1g2 e7e1 g3f1 e1f1,758,117,67,74,endgame mate mateIn2 pin short,https://lichess.org/rToKPxK8#49,
+TeAwk,5kr1/5p2/2p1p2p/3pP1n1/1P5Q/P3q2P/5PP1/R5K1 w - - 0 34,f2e3 g5f3 g1f1 f3h4,773,83,100,74,advantage endgame pin short,https://lichess.org/ViHZeHWM#67,
+TiSYx,7k/6p1/1RP4p/1P6/3Pp1q1/6r1/6Q1/5RK1 w - - 6 38,b6b8 h8h7 g2g3 g4g3,711,80,100,321,crushing endgame pin short,https://lichess.org/quY7nDcb#75,
+TkcAA,rnb1qrk1/pp1p1Npp/8/8/n1B5/8/PPP2PPP/R3QRK1 b - - 0 12,f8f7 e1e8,739,80,96,882,hangingPiece kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/KImN802k/black#24,Benoni_Defense Benoni_Defense_Benoni_Gambit_Accepted
+TmxOy,4r2k/2R4p/p7/1pp1n2N/8/1PP3P1/P3P2P/4K3 w - - 2 33,c7c5 e5d3 e1d2 d3c5,780,97,90,1043,advantage endgame pin short,https://lichess.org/kkcfmrtU#65,
+TnL3j,r2q1rk1/ppp1bppp/3p4/8/2B1Pn2/P1N1QP2/1PP4P/2KR3R w - - 0 13,e3f4 e7g5 f4g5 d8g5,710,81,96,969,advantage middlegame pin short,https://lichess.org/Q0i5LhzA#25,Vienna_Game Vienna_Game_Vienna_Gambit
+TtcAi,1r6/p4kpp/2pRp3/2p1p3/4Pp2/2P4P/P5P1/2B4K w - - 4 28,d6c6 b8b1 h1h2 b1c1,714,96,83,349,advantage endgame pin short,https://lichess.org/eM4D8lK0#55,
+TxBqs,8/2r5/1kbQ4/p1p5/P1P5/2K5/8/8 w - - 2 64,c3d3 c7d7 d6d7 c6d7,710,105,91,976,crushing endgame master pin short,https://lichess.org/Nt42mkGZ#127,
+TxkwC,7R/6k1/4KN2/p3B1p1/8/6b1/4r3/8 w - - 10 51,h8h7 g7g6 h7g7 g6g7,721,81,65,65,advantage endgame master pin short,https://lichess.org/7ax8H4D3#101,
+TyBio,8/r5k1/6P1/3P2p1/8/3B4/5PK1/8 w - - 1 38,g2g3 a7a3 g3f3 a3d3,777,98,83,70,crushing endgame pin short,https://lichess.org/fjFGJ1br#75,
+U0Nv3,8/3k4/3p4/5R2/P1n2N1P/6P1/r4PK1/8 w - - 5 54,h4h5 c4e3 g2f3 e3f5,798,96,92,1011,advantage endgame master pin short,https://lichess.org/e4PJ0nZo#107,
+U2EuE,3Q2k1/5r1p/1rn2Pp1/p4p2/P1B1pP2/2P5/1P5P/3R2K1 b - - 0 39,c6d8 d1d8,764,93,85,193,endgame mate mateIn1 oneMove pin,https://lichess.org/JFu242U9/black#78,
+U3FFc,6k1/p1p3pp/4p3/Q1bq4/1P1r4/P7/2P2rPP/1R3RK1 w - - 0 24,f1f2 d4d1 b1d1 d5d1,786,88,89,509,endgame mate mateIn2 pin short,https://lichess.org/nNuSiPQ5#47,
+U7mOw,8/5pkp/6p1/b7/3R4/6P1/5P1P/6K1 w - - 0 39,f2f3 a5b6 g1g2 b6d4,787,80,100,97,crushing endgame pin short,https://lichess.org/dObBEcOW#77,
+U8N2A,6k1/1pN2p2/5np1/p1p5/2P3b1/PP2RP2/2r1BK2/8 w - - 0 32,f3g4 f6g4 f2f3 g4e3,783,78,98,313,advantage endgame master pin short,https://lichess.org/R6gL9BfL#63,
+U9d7y,2r3rk/pp5p/4P1q1/4BR2/3p4/1PP1p3/P4Q1P/7K b - - 1 34,g8g7 f5f8 c8f8 f2f8,729,79,97,737,endgame master mate mateIn2 pin short,https://lichess.org/rOPS04IJ/black#68,
+UDDeq,4r1k1/pb5p/1p4p1/2b5/2P5/2B4R/P4RPP/3Br1K1 w - - 9 29,c3e1 e8e1,774,94,95,631,mate mateIn1 middlegame oneMove pin,https://lichess.org/b6T9qD0C#57,
+UHDhc,r7/1p1n2k1/3p1pb1/4p2p/1PPpP2P/3P2R1/3BB1P1/q2Q2K1 w - - 4 28,e2h5 a1d1 h5d1 a8a1,742,98,33,45,advantage clearance master middlegame pin short,https://lichess.org/lZNEDKzo#55,
+UJKuy,8/pp6/2p2kpp/2q5/3R3P/2P1PK2/PP3P2/8 b - - 0 32,c5f5 d4f4 f6e5 f4f5,798,102,87,240,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/18WvUra1/black#64,
+UKz9u,3kb1R1/2p1b3/p1p5/P2p4/6p1/1P1PP3/2P1KPP1/8 w - - 2 31,g8g4 e8h5 f2f3 h5g4,713,92,83,327,advantage endgame master pin short,https://lichess.org/BqAZGaBQ#61,
+UUZGf,r3k2r/1pq1bpp1/p2p3p/4p2P/4P3/PNN1nQ2/1PP5/2KR3R w kq - 0 21,f3e3 e7g5 e3g5 h6g5,799,80,82,156,advantage middlegame pin short,https://lichess.org/9T4NlcqB#41,
+UgJuY,5brk/6p1/1R5Q/8/p2BP2P/2P5/3q1PK1/8 b - - 0 35,d2h6 b6h6,751,79,98,779,endgame mate mateIn1 oneMove pin,https://lichess.org/RX7bUUp6/black#70,
+UhGBJ,rnb1k2r/ppp2pp1/5q1p/3p4/3P4/1QP1P3/P4PPP/R3KBNR b KQkq - 0 9,f6c6 f1b5 e8g8 b5c6,795,87,94,1546,crushing middlegame pin short,https://lichess.org/EIG3mERt/black#18,Queens_Gambit_Declined Queens_Gambit_Declined_Modern_Variation
+Uhgrc,r4rk1/1p1b1pp1/p3p2p/3pP2P/3P1P2/3Q1N1R/6P1/5K2 w - - 1 31,h3g3 d7b5 d3b5 a6b5,752,89,88,40,crushing endgame pin short,https://lichess.org/72jxGwSQ#61,
+Up7jP,8/1p2R1pk/p1pK2p1/6Pp/n3N3/8/PPr5/8 b - - 3 32,c2b2 e4f6 h7h8 e7e8,793,82,92,382,endgame mate mateIn2 pin short,https://lichess.org/tm1iNWl8/black#64,
+UqAuA,5rk1/ppp3p1/2np3p/4p3/2P1P2q/2NP4/PP1B1rPN/R2Q3K w - - 5 18,d2e1 f2f1,775,120,76,25,mate mateIn1 middlegame oneMove pin,https://lichess.org/LmEC5KpM#35,Kings_Pawn_Game Kings_Pawn_Game_Dresden_Opening
+UsoqW,4nk2/5p1p/1B3Pp1/6P1/1p3P2/8/7P/6K1 b - - 0 40,e8d6 b6c5 f8e8 c5d6,787,98,80,212,crushing endgame pin short,https://lichess.org/4yeJfuSw/black#80,
+UtERI,7k/p4p2/4q3/2p1p3/1P1pP1R1/P2P1P1K/2P5/8 b - - 0 33,e6h6 g4h4 h6h4 h3h4,712,94,76,96,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/Uql1dQGU/black#66,
+UvTjb,r5k1/2q2p2/2p1p1pQ/1bNpP3/1P3P2/2P3R1/6PP/r1R4K w - - 1 29,c5b3 a1c1 b3c1 a8a1 h2h3 a1c1,791,95,92,649,clearance crushing long middlegame pin,https://lichess.org/RaRLUx4R#57,
+V20Nw,3b2k1/5p1p/2p1p1p1/p1N5/P3P3/1P4PP/5P2/6K1 w - - 0 31,f2f4 d8b6 g1g2 b6c5,769,96,95,269,crushing endgame pin short,https://lichess.org/gLsFj9jN#61,
+V5sFN,4r1k1/pp1P1r1p/2b3p1/2p5/2Q5/2N5/P5qP/6RK w - - 0 32,g1g2 e8e1 c4f1 e1f1,765,83,100,82,endgame mate mateIn2 pin short,https://lichess.org/1122yD6h#63,
+VHPCP,r1b3k1/6p1/3Pp2p/p2p4/2pP2P1/2P5/P3B2P/1R4K1 b - - 0 32,a8a6 b1b8 a6d6 b8c8,713,83,82,369,crushing endgame pin short,https://lichess.org/bYYIuJtA/black#64,
+VKv3I,rnbq1knr/pp4b1/2p2pB1/2B1p3/8/2N5/PPP3PP/R2QK1NR b KQ - 1 12,g8e7 d1d8,785,77,96,1507,hangingPiece mate mateIn1 oneMove opening pin,https://lichess.org/4ZHkgUrR/black#24,French_Defense French_Defense_Queens_Knight
+VNsve,3r1rk1/p4pp1/bpn1p3/6R1/4N3/2p5/P1P2PPP/R5K1 b - - 2 23,c6d4 e4f6 g8h8 g5h5,775,84,93,280,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/8ksBg5so/black#46,
+VOoeE,2r5/pb1pk3/1pq5/2b2Q2/2P1PPp1/2B5/PP5P/1R3R1K w - - 1 30,c3f6 c6f6 f5f6 e7f6,736,88,97,248,advantage master middlegame pin short,https://lichess.org/20pTzzQX#59,
+VbpPo,2r3k1/pp3p1p/6p1/4p3/4P3/8/P4PPP/2bQ2K1 w - - 2 20,f2f3 c1e3 g1f1 c8c1 d1c1 e3c1,717,101,100,60,clearance crushing endgame long pin,https://lichess.org/KCq9wDhq#39,
+VjBt7,1r2k3/pp3ppp/3p1b2/P7/5B2/P4P2/5P1P/1R1K4 w - - 0 22,f4d6 b8d8 d1e2 d8d6,749,84,95,1372,crushing endgame pin short,https://lichess.org/8BmxPhJV#43,
+VmHie,r3Q1k1/1pq2rpp/p1n5/3B1b2/8/8/PP3PPP/R3R1K1 b - - 1 18,a8e8 e1e8,772,98,86,365,mate mateIn1 middlegame oneMove pin,https://lichess.org/8AGGqvSE/black#36,Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack
+VnsD7,r1b1k2r/pp2bpp1/1qN1pn1p/8/2B5/2N5/PPPB1PPP/R2QR1K1 b kq - 0 13,b6c6 c4b5 c8d7 b5c6,765,173,0,8,crushing opening pin short,https://lichess.org/9WLWxCnW/black#26,Sicilian_Defense Sicilian_Defense_Other_variations
+VpST6,5rk1/pp3ppp/7r/7n/8/1P1P1N2/P1P2RPP/5R1K w - - 0 31,f3g5 h5g3 h1g1 g3f1,798,84,96,1510,advantage endgame pin short,https://lichess.org/tQ5RGnS2#61,
+Vs7DP,3rk2r/p5pp/2pR2p1/2p1P3/5P2/2P4P/P4P2/2KR4 b k - 3 23,e8g8 d6d8 f8d8 d1d8,745,114,18,32,crushing endgame pin rookEndgame short,https://lichess.org/OaK9wtfm/black#46,
+Vu704,4rrk1/ppp2ppp/8/2b5/6q1/2PP4/PP3RPP/R1BQ2K1 w - - 0 15,d1g4 e8e1,729,80,83,183,mate mateIn1 middlegame oneMove pin,https://lichess.org/xm9DxRWf#29,Bishops_Opening Bishops_Opening_Boden-Kieseritzky_Gambit
+VuBJD,r4k2/2n2p1p/4p1pP/1p1pP1P1/3P2P1/2P5/8/1RB3K1 w - - 2 31,b1b3 a8a1 g1h2 a1c1,764,98,69,46,crushing endgame pin short,https://lichess.org/H9wVnF4L#61,
+VwGll,2rk1Q1r/p1qbp2p/6p1/4P2n/B1p5/2P1B2P/PP4PK/3R1R2 b - - 8 24,h8f8 f1f8,749,87,90,826,mate mateIn1 middlegame oneMove pin,https://lichess.org/vpyUmXPZ/black#48,
+W3xGx,5bk1/2p2pBp/p1r5/8/4r3/2P5/P4PR1/3R3K b - - 0 31,f8g7 d1d8 e4e8 d8e8,786,81,93,1238,endgame mate mateIn2 pin short,https://lichess.org/LeY9MMjX/black#62,
+W62iI,8/4KQ1p/6pP/6P1/3q4/8/8/4k3 b - - 15 64,d4e5 f7e6 e5e6 e7e6,769,78,100,536,crushing defensiveMove endgame pin queenEndgame short,https://lichess.org/WjpjgBgF/black#128,
+WEDsk,6k1/ppq5/4pR2/6K1/3P2P1/8/PP6/8 b - - 2 43,c7g7 f6g6 g8f7 g6g7,748,103,83,38,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/o07TFJtN/black#86,
+WEMYB,rnb2k1r/pppp1Bpp/8/2b1q3/8/3P1Q2/PPP2nPP/RNB2RK1 w - - 0 9,f1f2 e5e1,776,91,96,299,mate mateIn1 oneMove opening pin,https://lichess.org/tyHNKSdO#17,Kings_Pawn_Game Kings_Pawn_Game_Busch-Gass_Gambit
+WEQMn,5rk1/1pP2rp1/1pb4p/4Q3/8/2P4P/1P4PK/8 b - - 0 27,f8e8 e5e8 c6e8 c7c8q,762,108,73,31,advancedPawn advantage endgame pin promotion short,https://lichess.org/i8ryOpxR/black#54,
+WF0Pe,8/4Rq1k/6pp/3p4/2pb4/2P3P1/4QPKP/3r4 b - - 1 37,d1g1 g2g1 f7e7 e2e7,730,93,80,178,crushing endgame hangingPiece pin short,https://lichess.org/DeIRYCCZ/black#74,
+WG2zk,r1b2k1r/pppp2pp/8/3BP3/4n2q/8/PPP2bPP/RNBQ1RK1 w - - 0 10,g1h1 e4g3,789,79,87,247,mate mateIn1 oneMove opening pin,https://lichess.org/wL5SgrZc#19,Russian_Game Russian_Game_Stafford_Gambit
+WGF62,8/8/6K1/1Q6/8/p5P1/1q6/1k6 w - - 2 65,b5d3 b2c2 d3c2 b1c2,757,93,95,684,crushing defensiveMove endgame pin queenEndgame short,https://lichess.org/6ck7FeoB#129,
+WHFEH,r2q1r2/2pn3k/p2b1ppp/1p1Pp3/4P3/1BP1QR2/PP1N2PP/5RK1 w - - 2 22,b3c2 d6c5 e3c5 d7c5,785,77,98,1309,crushing middlegame pin short,https://lichess.org/eEySa7z6#43,
+WHyK9,1r1q1knr/4bpp1/2Bp3p/p3p3/4P3/1PPP1N2/PB1Q1P1P/2KR3R w - - 0 15,f3g1 e7g5 g1e2 g5d2,793,88,87,509,advantage opening pin short,https://lichess.org/iPhptHEl#29,Italian_Game Italian_Game_Other_variations
+WJXDz,3r4/1p4kp/p1p1Qbp1/1b6/5P2/1P4P1/4p1BP/4B2K w - - 8 38,g3g4 d8d1 g2f3 d1e1,728,99,71,43,advantage endgame master pin short,https://lichess.org/XqgN5bM1#75,
+WK58h,4q1k1/p3rp1p/6p1/1R6/1P6/P5P1/5P1P/5QK1 w - - 1 46,b5c5 e7e1 f1e1 e8e1,745,99,63,29,advantage endgame pin short,https://lichess.org/D8mc2Hxu#91,
+WNscf,7k/p5pp/1pb1B3/8/3p4/1P1Q4/P5RP/2q2r1K w - - 0 31,d3f1 c1f1,703,80,87,127,endgame hangingPiece mate mateIn1 oneMove pin,https://lichess.org/SvEQqeOo#61,
+WPEBc,4q3/2k5/7R/1p1Q1pp1/1P6/2PP2P1/5PKP/4r3 w - - 1 35,h6c6 e8c6 d5c6 c7c6,798,97,86,157,advantage endgame pin short,https://lichess.org/gl0M6R2Z#69,
+WUg2i,7Q/pqr2k1p/6p1/3R2P1/2p5/8/P4PKP/8 w - - 2 44,h8h7 f7e6 h7h3 e6d5,724,99,82,337,crushing defensiveMove endgame pin short,https://lichess.org/RSB2rOuL#87,
+WWbc2,1kr5/ppQ4p/8/2b2p2/3p1B2/q7/P4P1P/4RBK1 b - - 0 28,c8c7 e1e8,740,77,85,228,endgame mate mateIn1 oneMove pin,https://lichess.org/NkBsDbZ6/black#56,
+WY9vh,8/1p5p/1p4p1/6P1/8/2rk3P/P4Q1K/8 w - - 4 52,f2g2 c3c2 h2g3 c2g2,703,88,91,150,crushing endgame master masterVsMaster pin queenRookEndgame short,https://lichess.org/1NFkVGOh#103,
+WgybD,8/5pkp/Q2p4/3Bp3/2Pq4/4b3/PR3RPP/6K1 w - - 5 30,a6b7 d4d1,762,85,81,375,endgame mate mateIn1 oneMove pin,https://lichess.org/tN1Ls9H0#59,
+WtNvn,6R1/p6k/8/6p1/3n2Np/7P/P4rPK/8 w - - 2 39,g8a8 d4f3 h2h1 f2f1,746,94,96,530,endgame mate mateIn2 pin short,https://lichess.org/bSIIg5mz#77,
+Wy8qF,rnb2k1r/pp2ppbp/4N1pB/8/2q5/8/PPP3PP/R2Q1RK1 b - - 1 14,c8e6 d1d8,735,85,88,205,mate mateIn1 middlegame oneMove pin,https://lichess.org/05580ibi/black#28,Sicilian_Defense Sicilian_Defense_Dragon_Variation
+WycdQ,8/3k1p2/p3p3/Pp2Pp2/1P1P1P2/4q3/5RK1/4B3 b - - 0 40,e3d4 f2d2 d4d2 e1d2,764,79,55,75,crushing endgame master pin short,https://lichess.org/6jyagSvZ/black#80,
+X64Us,6k1/1p3pp1/5n1p/7q/8/1B2Q1PP/PPP2P1K/8 w - - 3 31,c2c4 f6g4 h2g1 g4e3,768,79,88,437,crushing endgame pin short,https://lichess.org/UCcFGQPe#61,
+XAuik,8/1pkn4/2p5/4p3/1Pr1P1p1/2N5/5PPK/2R5 b - - 5 26,c4b4 c3d5 c7d6 d5b4,773,91,95,1093,crushing endgame pin short,https://lichess.org/fXkouh3y/black#52,
+XBau1,2k1r1nr/ppp3pp/5p2/q2p4/1n1P4/8/PPP1PPPP/RNQNKB1R w KQ - 8 17,h2h4 b4d3,747,86,85,466,doubleCheck mate mateIn1 oneMove opening pin,https://lichess.org/HAXbvBZI#33,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+XDTwF,2r3k1/5pp1/4p2p/4P3/p3Q1PP/q1PRPP2/Pr1R1K2/8 w - - 1 30,d3d8 c8d8 d2b2 a3b2,760,89,80,134,crushing endgame pin short,https://lichess.org/yuBMaogy#59,
+XFaul,3b1r2/p6k/1pb4p/6p1/6Q1/P5B1/1PP3qP/6RK w - - 0 28,g1g2 f8f1,749,78,100,156,endgame mate mateIn1 oneMove pin,https://lichess.org/YisHHHYe#55,
+XN9iL,8/2p5/pp1p1k2/3P4/PbP2K2/4p3/4R3/8 w - - 0 55,e2e3 b4d2 f4e4 d2e3,722,81,94,481,crushing endgame pin short,https://lichess.org/4E0lzUQa#109,
+XP0ah,6k1/5pp1/4p3/2r4p/2P2P1P/p2K2P1/Bb1B4/8 b - - 0 41,g8f8 d2b4 f8e8 b4c5,702,80,82,421,advantage endgame pin short,https://lichess.org/vJBSMscN/black#82,
+XQb4k,r1bq1rk1/pppnbppp/8/3pP3/3Q4/6P1/PPP2PBP/RNB2RK1 w - - 1 10,f2f4 e7c5 c1e3 c5d4,742,85,92,1345,crushing opening pin short,https://lichess.org/ssdFpdBK#19,Kings_Pawn_Game Kings_Pawn_Game_Other_variations
+XQpV9,4R3/1pk5/8/3q4/8/4R3/2K5/8 b - - 10 68,d5c4 e3c3 c4c3 c2c3,787,128,60,33,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/pL1lp5n9/black#136,
+XR0Vu,r1b2k1r/p4ppp/1q1b4/8/2pN1Pn1/2N5/PPP3PP/R1BQR1K1 w - - 2 16,g1h1 g4f2 h1g1 f2d1,760,84,84,173,crushing fork middlegame pin short,https://lichess.org/odqEXy3n#31,Philidor_Defense Philidor_Defense_Exchange_Variation
+XUbcq,8/8/7p/2r4P/1q4P1/4QP2/Pk4KN/8 w - - 11 65,e3e2 c5c2 e2c2 b2c2,793,95,95,438,crushing defensiveMove endgame pin short,https://lichess.org/7FvKMLqD#129,
+XXYsl,6k1/RP3bp1/5p1p/2p5/5q2/7P/6P1/6K1 b - - 2 40,f4b8 a7a8 g8h7 a8b8,726,104,90,511,crushing endgame pin short,https://lichess.org/NcI0xSFY/black#80,
+XcC4A,r1bq1rk1/p3b1pp/1p2p1p1/3pP3/3Q1P2/8/PP4PP/RNB1NRK1 w - - 0 13,e1f3 e7c5 c1e3 c5d4,783,97,94,2321,advantage opening pin short,https://lichess.org/9eyxkV5F#25,French_Defense French_Defense_Advance_Variation
+XcO4K,6n1/1pk2r2/p2q1n2/2p1pP1p/3p3P/3B2B1/PPP5/2K1R2R b - - 1 37,f7g7 g3e5 d6e5 e1e5,777,85,94,2283,advantage middlegame pin short,https://lichess.org/uKEiVYpw/black#74,
+Xf6hf,r1bqkb1r/pppp2pp/2n2p1B/8/4P3/2Q5/PPP2PPP/RN2KB1R w KQkq - 0 8,h6e3 f8b4 a2a3 b4c3,774,103,72,61,crushing opening pin short,https://lichess.org/KTESXZlU#15,Scotch_Game Scotch_Game_Other_variations
+XiB04,r2qk2r/1p3ppp/p7/2P5/1Pb1p3/P1b3BP/2R1nPP1/1B1Q1K1R w kq - 0 20,c2e2 d8d1,712,79,97,627,hangingPiece mate mateIn1 middlegame oneMove pin,https://lichess.org/9BCHvqYD#39,
+Xk17T,2r3k1/5pp1/2Q1b1q1/3N4/5R2/PP2P3/2P2PP1/6K1 b - - 0 29,c8c6 d5e7 g8f8 e7g6,740,83,86,401,advantage endgame fork pin short,https://lichess.org/Gkl7uzKd/black#58,
+Xl4Il,r7/ppp1n1k1/2n3rp/3p4/3P2q1/1NP2R1Q/PP1B1P2/5R1K w - - 1 28,d2h6 g6h6,768,100,78,77,advantage middlegame oneMove pin,https://lichess.org/wxuE6WTY#55,
+XrZBE,5r1k/4N1pp/4R3/4p3/Pp3r1P/1P6/2Pb2P1/1K5R w - - 1 29,h1d1 f4f1 c2c4 f1d1,762,80,85,153,advantage endgame master pin short,https://lichess.org/UpDQKWcK#57,
+XtjSm,4r1k1/1pp4n/p2pq3/P3p3/1PP2P2/2P1R2P/3N1PK1/4R3 b - - 0 29,e6g6 e3g3 g8f7 g3g6,747,77,100,186,advantage defensiveMove endgame pin short,https://lichess.org/IYU7VYca/black#58,
+XwzwY,5k2/5p1p/2p3p1/B1R5/1n6/8/2r2PPP/5K2 b - - 5 30,c2c5 a5b4 f8e7 b4c5,780,125,22,27,advantage endgame hangingPiece pin short,https://lichess.org/1bLaCy8p/black#60,
+XynQL,3r4/q7/5b1k/pB1P4/P1P2pQ1/1P3Pp1/2NK2Pr/6R1 w - - 7 44,g4f4 f6g5 f4g5 h6g5,758,103,90,920,crushing defensiveMove middlegame pin short,https://lichess.org/RwuQJ745#87,
+Xzx0Y,3r1q1k/pp1b2pp/2p1r1P1/4p3/4P2N/8/PPPB1P2/2KR3R b - - 0 27,e6g6 h4g6 h8g8 g6f8,712,100,65,89,crushing kingsideAttack middlegame pin short,https://lichess.org/5tgyF3sD/black#54,
+Y0csr,3b1rk1/p4Qpp/3r3q/3B4/2P1R3/1P4P1/P4P1P/5R1K b - - 0 26,f8f7 e4e8,776,77,100,157,mate mateIn1 middlegame oneMove pin,https://lichess.org/EZk5fjvI/black#52,
+Y27Oe,r1b2rk1/3nb1pp/p1p5/4pp2/2B4N/1P2P1P1/P1KN1PP1/R6R b - - 0 18,g8h8 h4g6,719,80,87,123,mate mateIn1 middlegame oneMove pin,https://lichess.org/pJtl9zv9/black#36,Mieses_Opening Mieses_Opening_Other_variations
+Y4mHx,r4rk1/1p4n1/2b1P1Q1/p7/1P6/P7/2P3qP/6RK w - - 0 27,g1g2 f8f1,750,81,100,192,endgame mate mateIn1 oneMove pin,https://lichess.org/RPjkXQvF#53,
+Y9ydO,r1bk4/pp4pp/8/3pq3/3b4/8/PPQ2rPP/RNB2RK1 w - - 0 16,f1f2 e5e1,750,94,90,469,mate mateIn1 middlegame oneMove pin,https://lichess.org/OhTTvvYo#31,Italian_Game Italian_Game_Blackburne-Kostic_Gambit
+YAymS,8/8/1p1k4/p7/P2P2P1/1pP1R3/1b5P/6K1 w - - 0 44,c3c4 b2d4 g1f1 d4e3,700,81,100,568,crushing endgame master pin short,https://lichess.org/jtBWPg2I#87,
+YC9hL,rnbk3r/pppp1Qpp/8/2b1q3/2B5/3P4/PPP2nPP/RNB2RK1 w - - 0 9,f1f2 e5e1,755,79,92,80,mate mateIn1 oneMove opening pin,https://lichess.org/gleZqRxL#17,Petrovs_Defense Petrovs_Defense_Italian_Variation
+YGPxD,4r1kr/pb3R1p/1p4pQ/2p3P1/8/3P4/PP4qP/6RK w - - 0 32,g1g2 e8e1 f7f1 e1f1,719,99,80,314,endgame mate mateIn2 pin short,https://lichess.org/h4dzxAd1#63,
+YGt0N,6q1/p2n2Nk/1p5p/2p2R2/8/8/PP5P/5R1K b - - 0 38,g8g7 f5f7 d7e5 f7g7,738,83,100,149,advantage endgame pin short,https://lichess.org/ZdiQVRSZ/black#76,
+YW9Im,2b1k2r/3nb1pp/p2p4/Np4P1/5p2/8/PPP1B2P/2KR1R2 w k - 2 22,f1f4 e7g5 c1b1 g5f4,767,90,81,116,crushing middlegame pin short,https://lichess.org/ZNFmrTyN#43,
+YYYUr,1r2kb1r/5ppp/2p1p3/2P1P3/1pRp1P2/1P1p2P1/P2P3P/RN4K1 w k - 2 18,c4d4 f8c5 g1g2 c5d4,787,88,86,145,crushing endgame pin short,https://lichess.org/Yc1G2fG0#35,Scandinavian_Defense Scandinavian_Defense_Other_variations
+YbqAR,4q3/8/2Q5/1KP3B1/5rp1/4k3/7P/8 b - - 5 50,e8c6 b5c6 e3e4 g5f4,714,87,100,59,crushing endgame pin short,https://lichess.org/gj9M2E2o/black#100,
+YjpIW,5r1k/3q3p/1BNp1b1P/1p1P4/1P2PQ2/3B3b/P4K2/7R w - - 3 38,b6d4 f6d4 c6d4 f8f4,707,77,98,2312,crushing discoveredAttack master middlegame pin short,https://lichess.org/F3YBcKLf#75,
+YkV2y,2b3k1/3r1p1p/p3p3/3p4/P6p/4P3/2P1BPPP/1R4K1 b - - 1 28,g8f8 b1b8 f8g7 b8c8,775,89,89,462,crushing endgame pin short,https://lichess.org/yOdI7vsk/black#56,
+YlUvm,3n2rk/pp2Q1p1/5R1p/2q5/8/P1B4P/1PP2PP1/6K1 b - - 0 29,c5e7 f6h6,762,88,92,511,endgame master mate mateIn1 oneMove pin,https://lichess.org/LWE5Kj7D/black#58,
+YpzwQ,rnb1kbnr/ppp1pppp/2q5/8/8/2N1P3/PP1P1PPP/R1BQKBNR b KQkq - 0 4,g8f6 f1b5 a7a6 b5c6,764,218,-80,8,crushing opening pin short,https://lichess.org/LiU47X41/black#8,English_Opening English_Opening_Anglo-Scandinavian_Defense
+YrSgB,r2B3k/ppp2prp/3p2nn/3Pp3/4P3/2PB2PR/P1P2PK1/R7 w - - 0 24,d8f6 g6f4 g2f3 f4h3,793,80,68,149,advantage middlegame pin short,https://lichess.org/tlqiOBZL#47,
+YreKW,8/7k/p7/4r1RK/PP2r1p1/8/2B5/8 b - - 5 44,e5g5 h5g5 h7g8 c2e4,729,93,85,331,crushing endgame pin short,https://lichess.org/CYxaPCbU/black#88,
+YuLN6,R5k1/5rpp/3p1b2/3BpP2/1p2P3/1P2q2P/2r3P1/5R1K b - - 1 25,f6d8 a8d8,772,77,91,327,hangingPiece master mate mateIn1 middlegame oneMove pin,https://lichess.org/tpzGZYOV/black#50,
+Yv5Lw,8/5k1p/7p/7R/4PKP1/2q4P/8/8 b - - 7 54,c3f6 h5f5 f7e6 f5f6,746,97,88,320,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/NY0fqZXX/black#108,
+YxHRJ,6k1/1pp1rQpp/1q3n2/1p6/P3P3/1BP2P2/6PP/3R3K b - - 0 25,e7f7 d1d8 f6e8 d8e8,706,81,100,138,endgame mate mateIn2 pin short,https://lichess.org/hFKwZCxl/black#50,
+Yxcv7,1Qq1R1k1/5r1p/6b1/2pB2P1/2P5/8/p7/B5K1 b - - 5 40,c8e8 b8e8,743,84,95,2437,endgame hangingPiece master mate mateIn1 oneMove pin,https://lichess.org/oMvPKE8m/black#80,
+Yxq2O,5bk1/7p/6p1/3q1P2/1pnB4/1B1K3P/PP6/8 b - - 4 47,f8c5 b3c4 d5c4 d3c4,713,92,87,468,crushing endgame master pin short,https://lichess.org/pApqXf5Z/black#94,
+Z3SqN,r1b3k1/ppp3p1/1b1p2qp/3Pn3/1P5Q/2N2r1P/PB2BPP1/1R3RK1 w - - 2 20,e2f3 e5f3 g1h1 f3h4,799,126,0,27,crushing kingsideAttack middlegame pin short,https://lichess.org/IOXumIHb#39,
+Z51Dh,4r1k1/p1p2pp1/2p1r2p/2b5/5BQ1/2N5/PPP2qPP/3R1RK1 w - - 0 18,f1f2 e6e1 d1e1 e8e1,781,80,97,1316,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/6tQkWwn9#35,Italian_Game Italian_Game_Anti-Fried_Liver_Defense
+Z85xf,r1b1r1k1/b3n2p/p1pB2p1/8/3PN3/P1P4P/6P1/1R3R1K b - - 0 28,c8f5 e4f6 g8f7 f6e8,752,89,92,1436,crushing fork middlegame pin short,https://lichess.org/SHoEuiJ8/black#56,
+Z9Rum,3r3k/1p3p1p/p1b1p1p1/2p5/2P4Q/P5N1/6qP/6RK w - - 0 33,g1g2 d8d1 g3f1 d1f1,742,85,95,1057,endgame master mate mateIn2 pin short,https://lichess.org/jJHwlHGl#65,
+Z9xOU,1r4k1/2q2p1n/3p4/6p1/2pB1P2/p7/1PQ5/1K1R4 w - - 0 40,c2h7 g8h7 d1h1 h7g6,736,83,78,81,crushing endgame hangingPiece master pin short,https://lichess.org/h4NFo3hE#79,
+ZAHu5,r1bqkb1r/pppp2pp/2n2p2/8/3QPB2/8/PPP2PPP/RN2KB1R w KQkq - 1 8,d4c3 f8b4 a2a3 b4c3,784,83,96,962,crushing opening pin short,https://lichess.org/iMlvBuaj#15,Scotch_Game Scotch_Game_Other_variations
+ZB7Qx,6k1/pp5p/5np1/4p3/3p4/3B1P1P/PP3KP1/8 b - - 1 25,f6d5 d3c4 g8g7 c4d5,798,113,79,398,crushing endgame pin short,https://lichess.org/qEbU7BA1/black#50,
+ZJ1lU,r1b2rk1/ppp2Qpp/8/8/2B3n1/8/PPq2PPP/RNB1R1K1 b - - 0 14,f8f7 e1e8,763,82,100,74,mate mateIn1 middlegame oneMove pin,https://lichess.org/9MrfirnO/black#28,Italian_Game Italian_Game_Scotch_Gambit
+ZJHZv,8/8/8/1k6/p1p5/Pr6/KP6/1R6 b - - 1 62,c4c3 b2c3 b3b1 a2b1,718,88,87,655,crushing endgame master pin rookEndgame short,https://lichess.org/fxZVuZzZ/black#124,
+ZLaVe,r1b3k1/pp1r1Npp/n7/4p3/2B5/8/PPP2PPP/2KR3R b - - 0 16,d7f7 d1d8,774,78,100,167,mate mateIn1 middlegame oneMove pin,https://lichess.org/585dL1Id/black#32,French_Defense French_Defense_Burn_Variation
+ZRK4i,rnbqr1k1/ppp1bpp1/3p1n1B/8/3NP3/2N5/PPPQ1PPP/R3KB1R w KQ - 1 9,h6g5 f6e4 c3e4 e7g5,796,83,92,119,advantage discoveredAttack opening pin short,https://lichess.org/ccGpYRp3#17,Philidor_Defense Philidor_Defense_Exchange_Variation
+ZiXQ7,1r6/7k/5npp/2p5/p1N1Pp2/P2P3P/2p2PP1/1rR1R1K1 w - - 2 35,g1f1 b1c1 e1c1 b8b1,756,102,90,1282,clearance crushing endgame pin short,https://lichess.org/PI36afVx#69,
+Zn2Tw,8/5k2/5N2/6P1/2P4K/7P/2r5/8 w - - 3 53,f6e4 c2c4 h4g3 c4e4,715,78,100,240,crushing endgame master pin short,https://lichess.org/SdUxccxM#105,
+Zo0Lb,rn1q1k2/pppb1ppp/4p3/4P3/3R3P/3Q4/P4PP1/3K2NR w - - 0 19,d3h7 d7a4 d1e1 d8d4,745,78,100,581,advantage discoveredAttack middlegame pin short,https://lichess.org/WrcxDPNR#37,
+a0QfJ,r1b2rk1/pppp1Qpp/8/8/2B5/5P2/2n2P1P/R3R1K1 b - - 0 17,f8f7 e1e8,766,79,98,1780,mate mateIn1 middlegame oneMove pin,https://lichess.org/S59weKxM/black#34,Italian_Game Italian_Game_Giuoco_Piano
+aCBF9,2r3k1/p4ppp/1p5P/3p4/QP1q4/P7/2n1K3/6R1 b - - 3 34,c8e8 a4e8,780,90,38,72,endgame hangingPiece mate mateIn1 oneMove pin,https://lichess.org/HUSnvfXU/black#68,
+aDpI9,rn2kb1r/ppp2ppp/5n2/3qp3/8/2N4P/PPPP1P1P/R1BQKBR1 b Qkq - 3 6,d5c6 f1b5 a7a6 b5c6,752,82,38,173,crushing opening pin short,https://lichess.org/v0cRbWEa/black#12,Kings_Pawn_Game Kings_Pawn_Game_Other_variations
+aRwBH,5rk1/1p3Qpp/p7/P7/8/1BqP3P/5P2/4R1K1 b - - 0 31,f8f7 e1e8,784,100,91,437,endgame mate mateIn1 oneMove pin,https://lichess.org/NHPjL7IK/black#62,
+aYfAE,3N2k1/bNp3p1/p6p/B3p3/P7/8/5RPP/2r3K1 w - - 1 28,a5e1 c1e1,721,82,78,274,endgame hangingPiece mate mateIn1 oneMove pin,https://lichess.org/ukBdl0aV#55,
+admUL,4rr2/q2pB1kp/b2P2p1/p4Q2/1pB3R1/7P/PP4P1/2R2K2 w - - 1 32,e7f6 f8f6 f5f6 g7f6,789,87,83,149,crushing middlegame pin short,https://lichess.org/H1gH1JT3#63,
+aiTrs,r1r3k1/p5pp/8/3P4/P2P4/8/3p2PP/R1R3K1 w - - 0 31,c1c8 a8c8 a1d1 c8c1 g1f1 c1d1,715,98,89,806,crushing endgame long pin rookEndgame,https://lichess.org/LrBgJ3gp#61,
+at5ll,1r3k2/4bpp1/1N1r3p/PR3P2/3pB1P1/3P3P/6K1/8 b - - 2 48,e7d8 b6d7 d6d7 b5b8,772,81,82,142,advantage discoveredAttack endgame master pin short superGM,https://lichess.org/KVWjnnEx/black#96,
+b0r8y,4k3/pp6/4Kpp1/1P1P3p/4P2P/5P2/1r6/3B4 b - - 5 40,b2b5 d1a4 e8d8 a4b5,737,97,86,289,crushing endgame pin short,https://lichess.org/azXIRER2/black#80,
+b1bXA,8/8/8/8/5K2/4Q1p1/6rk/8 w - - 0 54,e3f3 g2f2 f4e4 f2f3,754,80,96,676,crushing endgame master pin queenRookEndgame short,https://lichess.org/Pzgg9FA2#107,
+b83fy,r3kbnr/2pb1ppp/1p6/p7/2Q1P3/2p5/PP3PPP/R1B1K2R w KQkq - 0 12,c4c3 f8b4 c3b4 a5b4,767,92,84,488,advantage middlegame pin short,https://lichess.org/ve6gBCCZ#23,Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense
+b84b0,r1b2rk1/ppp2Qpp/8/4R3/2Bp2n1/3P2Pq/PPP2P1P/RN4K1 b - - 0 15,f8f7 e5e8,700,89,67,116,mate mateIn1 middlegame oneMove pin,https://lichess.org/VHOJXZnc/black#30,Ruy_Lopez Ruy_Lopez_Bird_Variation
+b9etb,1r1b4/1k6/8/p7/3R1p2/P1N4P/1P3P2/2K5 w - - 0 36,d4f4 d8g5 c1c2 g5f4,798,86,96,755,advantage endgame pin short,https://lichess.org/NTvFIrTb#71,
+b9hck,1k1r1r2/p1p1b1pp/Q6n/2P1P1N1/6b1/4B3/P1P2NPP/5K2 w - - 1 21,c5c6 d8d1,753,78,100,1813,mate mateIn1 middlegame oneMove pin,https://lichess.org/1nTkAKbs#41,
+bD4zd,4b1k1/p5p1/3p1p1p/3P4/2p5/7P/P2N1PP1/5K2 w - - 0 27,d2c4 e8b5 f1e1 b5c4,726,93,73,41,crushing endgame pin short,https://lichess.org/aHUuOaoi#53,
+bD8k5,4r2k/1pp2R1p/p1b2P1Q/8/8/8/PP4qP/6RK w - - 0 26,g1g2 e8e1,710,82,97,1034,endgame master mate mateIn1 oneMove pin,https://lichess.org/IBiFih66#51,
+bDPia,r1b4r/ppp5/5k2/2b1p3/3nB3/P5Q1/1PP2PPP/R4RK1 w - - 6 25,c2c3 d4e2 g1h1 e2g3,720,92,90,129,advantage fork middlegame pin short,https://lichess.org/npRWO57n#49,
+bHboR,4rrk1/1pp3b1/p2p2qp/3Pnp2/2P2B2/1PN1Q2P/P5P1/1R2R1K1 w - - 1 24,e3d2 e5f3,772,93,96,978,crushing middlegame oneMove pin,https://lichess.org/RHOnqDhG#47,
+bIDhr,8/8/8/2p1Q1p1/2K3k1/1P3r1p/8/8 w - - 0 56,e5e4 f3f4 c4d5 f4e4,795,97,76,187,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/i6eapHVB#111,
+bMnCV,4b3/5k1p/4r1p1/3Qp3/8/1P4P1/P3PPKP/8 w - - 5 35,a2a4 e8c6 e2e4 c6d5,758,80,100,257,crushing endgame pin short,https://lichess.org/cCp4xfqy#69,
+bTdyX,7k/b3q1p1/4p2p/2R1p3/p3P3/P2P1P1P/1P3QP1/6K1 w - - 1 31,c5c8 h8h7 f2a7 e7a7,783,102,100,54,advantage defensiveMove endgame pin short,https://lichess.org/Up9NJrjp#61,
+bVtdl,2k4r/ppp2ppp/8/2b1P3/4Q1b1/8/PPP2RPP/RNBr2K1 w - - 1 14,e4e1 d1e1,770,95,85,521,hangingPiece kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/RAXjo2GR#27,Russian_Game Russian_Game_Stafford_Gambit
+bWRSN,3k3r/pb6/5n1p/1pp5/4P3/2Pn2P1/P2N1PP1/3R1K1R b - - 1 23,b7e4 d2e4 f6e4 d1d3,738,81,96,1044,advantage capturingDefender discoveredAttack middlegame pin short,https://lichess.org/3IuDAgk6/black#46,
+bc2mA,2kr3r/ppp2ppp/3b1B2/3P1q2/2P1p1b1/8/PP2BPPP/RN1Q1RK1 b - - 0 12,g7f6 e2g4 f5g4 d1g4,793,78,100,118,crushing middlegame pin short,https://lichess.org/ewpxwjLm/black#24,Scandinavian_Defense Scandinavian_Defense_Modern_Variation
+bfRgB,4r2k/pp1q2pp/2nP2r1/5Q2/8/2P5/PP3PNP/4R1K1 w - - 0 24,f5d7 e8e1,712,79,100,146,endgame mate mateIn1 oneMove pin,https://lichess.org/qZOsfViT#47,
+bhfR5,r2q1rk1/1b3Bpp/p7/1p2N1bQ/3n4/P7/1P3PPP/R3R1K1 b - - 0 18,g8h8 e5g6,788,81,100,129,mate mateIn1 middlegame oneMove pin,https://lichess.org/XH2VPtPL/black#36,Queens_Gambit_Accepted Queens_Gambit_Accepted_Classical_Defense
+bj10C,r4rk1/p4pp1/2p3np/1p6/1P2N3/2P2q2/1PQ2PRP/6RK b - - 3 26,g6f4 e4f6 g8h8 c2h7,710,79,90,196,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/DZieEovu/black#52,
+bjUJJ,r1b2rk1/bp3Qpp/p4n2/8/2B5/7P/PP3PP1/3R1RK1 b - - 0 22,f8f7 d1d8 f6e8 d8e8,792,85,95,2104,mate mateIn2 middlegame pin short,https://lichess.org/CM6Hphrk/black#44,
+bkEmk,3r2k1/5p1p/8/4Pp2/P4P2/3p3P/4q1P1/2RQ3K w - - 1 36,d1e2 d3e2 c1e1 d8d1 h1g1 d1e1,732,79,76,156,advancedPawn crushing endgame long master pin,https://lichess.org/F8gYQBE2#71,
+bln3v,6k1/p6p/6p1/1p1n1p2/2P5/P5P1/B6P/6K1 b - - 0 36,b5c4 a2c4 g8g7 c4d5,712,88,33,35,advantage endgame pin short,https://lichess.org/sz0lZuus/black#72,
+bnmiP,3R3k/1p4rp/8/5pPq/p1P2B2/7P/1P3P2/6K1 b - - 1 34,g7g8 f4e5,798,78,87,136,endgame mate mateIn1 oneMove pin,https://lichess.org/5JYDgJFg/black#68,
+brzW6,4qk2/2p3p1/1n1b3n/5pN1/1P1P3N/2P4P/1B2QP2/6K1 w - - 5 29,h4g6 e8g6,788,94,83,704,advantage hangingPiece middlegame oneMove pin,https://lichess.org/UK9Smf1v#57,
+bu3NF,2kr3r/1p2qp2/p4b1p/2pPpP2/4P3/P7/1P1Q2P1/2KR1B1R w - - 1 21,g2g3 f6g5 c1b1 g5d2,776,126,38,23,crushing middlegame pin short,https://lichess.org/v66pTqnA#41,
+bw9YS,5rk1/5pp1/p5rp/8/P1PQ3q/1P2N3/3n1PPP/R5K1 w - - 0 29,d4h4 d2f3 g1f1 f3h4,788,87,87,470,advantage endgame pin short,https://lichess.org/tKW3XPmb#57,
+c7CvI,r3r1k1/pQp2ppp/1b1p2b1/1P6/P1P5/2P2N2/5RPP/RNB1q1K1 w - - 1 17,f3e1 e8e1,705,104,100,40,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/h2UeVTQj#33,Italian_Game Italian_Game_Classical_Variation
+cFjai,r2q1r1k/pp4pp/1np2p2/8/3P1b1N/1QN4R/PP3PPP/3R2K1 b - - 6 18,d8c7 h4g6,760,98,91,628,mate mateIn1 middlegame oneMove pin,https://lichess.org/5ZgZdVN5/black#36,French_Defense French_Defense_Exchange_Variation
+cIZfu,1q2Q1k1/p1p2bpp/3r4/8/2B5/2P4P/PP3PP1/4RK2 b - - 1 27,b8e8 e1e8,785,90,95,258,endgame mate mateIn1 oneMove pin,https://lichess.org/lxyjQwRo/black#54,
+cLdmL,2kr1bnr/ppp1pppp/2n5/5q2/3N1Bb1/2NP4/PPP1BPPP/R2QK2R b KQ - 8 8,c6d4 e2g4 f5g4 d1g4,799,93,91,70,advantage opening pin short,https://lichess.org/KeR2cW8A/black#16,Scandinavian_Defense Scandinavian_Defense_Main_Line
+cPGSr,4rrk1/pbp2p2/3b2qp/1p4p1/1P1BP2N/P2P4/B1P2KQ1/R6R b - - 5 24,g5h4 g2g6,784,81,97,959,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/gfLERfdL/black#48,
+cPYYM,2r3k1/1p1qQp2/3P2p1/1p6/1P6/2p4P/5PP1/3R2K1 b - - 1 31,d7e7 d6e7 c8e8 d1d8 g8g7 d8e8,768,81,88,250,advancedPawn crushing endgame long pin,https://lichess.org/H9i0JGvc/black#62,
+cPxQ6,4qrk1/6pp/r1bBpp2/p2p4/P1pPP3/5P1P/2Q1K1P1/RR6 b - - 4 23,f8f7 b1b8 e8b8 d6b8,795,79,97,1275,crushing middlegame pin short,https://lichess.org/kW2aM4jR/black#46,
+cUeuX,1r6/1P6/P7/6pp/8/2K5/6k1/8 b - - 1 49,h5h4 a6a7 b8b7 a7a8q,712,93,88,274,advancedPawn crushing endgame master pin promotion rookEndgame short,https://lichess.org/vXd7FsBs/black#98,
+cUooW,k3r2r/pp6/1bp5/8/2p2B2/2P2Q2/PP4P1/RN3RK1 w - - 0 27,f1f2 e8e1,735,101,93,509,mate mateIn1 middlegame oneMove pin,https://lichess.org/2VmqkZd3#53,
+cavoR,r1b2bk1/1pq3pp/p3p3/4P3/3p4/2N5/PPPQB1PP/R5K1 w - - 0 18,d2d4 f8c5 d4c5 c7c5,796,81,44,71,crushing middlegame pin short,https://lichess.org/gx6aL0QF#35,French_Defense French_Defense_Steinitz_Variation
+cbSpj,rn3r1k/pp2pPbp/8/8/3p3N/2Q5/P1P2PP1/R1B1K2R b KQ - 0 15,d4c3 h4g6,769,81,57,197,master mate mateIn1 middlegame oneMove pin,https://lichess.org/AEiC0MVO/black#30,East_Indian_Defense East_Indian_Defense_Other_variations
+cbuP0,5k2/p4r2/1pb3p1/2p4p/8/1QBP4/PPP3qP/6RK w - - 0 30,g1g2 f7f1,701,79,100,106,endgame mate mateIn1 oneMove pin,https://lichess.org/NXDM0vlc#59,
+ce9Bo,6rk/1pp3qn/2np3Q/p1b1p1N1/2P2N1P/PP2P3/1B1P1r2/2KR2R1 b - - 3 23,g7h6 g5f7,779,77,98,909,mate mateIn1 middlegame oneMove pin,https://lichess.org/OGlpITfV/black#46,
+ce9uS,2r1k2r/1p1npp2/p7/5P2/2Np1n1p/8/PP3P2/R3RB1K b k - 3 29,b7b5 c4d6 e8f8 d6c8,775,83,86,459,advantage master middlegame pin short,https://lichess.org/eOcQdUsU/black#58,
+ciSAi,6rk/1Q3pr1/8/4R3/3B4/3B1qPp/P4P1P/6K1 b - - 0 29,f3b7 e5h5,723,83,83,130,endgame mate mateIn1 oneMove pin,https://lichess.org/ZsqWKmPF/black#58,
+cjmeo,r2q2k1/pp2b3/2pp3Q/7P/5r2/2N5/PPP3P1/2K1R3 w - - 1 24,h6f4 e7g5 f4g5 d8g5,719,119,54,13,advantage endgame pin short,https://lichess.org/rrB8gU6B#47,
+clzRz,5rk1/p6p/7q/Qp2R3/6K1/6P1/P7/8 b - - 2 36,h6g7 e5g5 g7g5 g4g5,735,78,82,156,crushing defensiveMove endgame pin short,https://lichess.org/lkwP8dDU/black#72,
+co6b0,r2b1k2/1R1n3p/2p1b2r/2Pp1pp1/3Pp3/4P1P1/5PPN/NR3BK1 b - - 8 32,d7b8 b7b8 a8b8 b1b8,779,99,79,136,crushing middlegame pin short,https://lichess.org/E6QJWbR4/black#64,
+csJKL,8/1k1b4/5P2/2Qp1pq1/p1pP4/PpP5/1P5P/5R1K w - - 4 45,c5d5 d7c6 d5c6 b7c6,784,105,93,816,crushing defensiveMove endgame pin short,https://lichess.org/cP68Zlf4#89,
+cumcp,3n1rkn/1p3pp1/1pp4p/2rB1P2/4N1R1/6PP/PP6/4R1K1 b - - 1 23,c5d5 e4f6,759,82,69,76,mate mateIn1 middlegame oneMove pin,https://lichess.org/qo5FuZUp/black#46,
+d0Qtz,8/1kp5/1pq3p1/3n4/3B4/1PP1pQ2/P5P1/1K6 b - - 1 51,d5c3 d4c3 c6f3 g2f3,732,77,89,283,advantage endgame master pin short,https://lichess.org/E5ZRipy5/black#102,
+d2qln,2r5/6p1/1p2k2p/4p3/1P5P/2Pr4/1K2NP2/4R3 b - - 3 31,d3f3 e2d4 e6f6 d4f3,746,81,69,129,advantage endgame pin short,https://lichess.org/ZCpArIRw/black#62,
+dAiAo,5kr1/5p2/2q5/1p1ppPQ1/1P2P3/2P1R3/R5K1/8 w - - 1 42,a2a8 c6a8 g5g8 f8g8,796,97,79,244,crushing endgame hangingPiece pin short,https://lichess.org/zdSCeApQ#83,
+dB7UX,3r2kr/1p3ppp/1b2p3/1P1nP3/1B3P2/5N2/4K1PP/2RR4 b - - 5 23,d5b4 d1d8 b6d8 c1c8 h7h6 c8d8,741,105,91,558,advantage long middlegame pin,https://lichess.org/A0MliUry/black#46,
+dBSvH,1r1bk3/5p2/3P3p/2R1pNpP/Pp2P1P1/4KP2/1P6/8 w - - 1 35,b2b3 d8b6 e3d3 b6c5,711,102,94,604,advantage endgame pin short,https://lichess.org/NwpBeOTj#69,
+dCsir,7k/6p1/7p/3q4/1R6/PQ6/KP6/5r2 b - - 8 49,d5d8 b4b8 d8b8 b3b8,771,80,85,239,crushing endgame pin short,https://lichess.org/CEwYgEDX/black#98,
+dGnPZ,1rbq1rk1/p2pbp1p/1p5p/2pBP3/2Q5/2N5/PPP2PPP/2KR3R w - - 4 14,c4f4 e7g5 f4d2 g5d2,732,86,96,480,crushing middlegame pin short,https://lichess.org/lsyWJZWU#27,Four_Knights_Game Four_Knights_Game_Scotch_Variation_Accepted
+dHopd,8/1p4kp/pnb2rp1/4p3/2P2n2/1PN1NPR1/P4P1P/5K2 b - - 7 30,f6d6 e3f5 g7f8 f5d6,786,93,95,439,advantage master middlegame pin short,https://lichess.org/5UtAyhr5/black#60,
+dLafL,8/7p/2R3pk/4p3/p1P2q1P/6N1/6K1/8 b - - 7 46,f4h4 g3f5 h6g5 f5h4,777,80,78,147,crushing endgame pin short,https://lichess.org/1EjYizEB/black#92,
+dO4Pr,3r1rk1/1p3Qpp/5b2/8/p2q4/1B5P/PP2RPP1/4R1K1 b - - 0 21,f8f7 e2e8 d8e8 e1e8,700,79,98,326,mate mateIn2 middlegame pin short,https://lichess.org/cld2Y0np/black#42,
+dOrK8,6k1/pp5p/2p1p3/3pPp2/3P4/2P2R2/PP6/2b3K1 w - - 4 33,f3f2 c1e3 g1g2 e3f2,798,159,86,34,crushing endgame pin short,https://lichess.org/vYCPXVx9#65,
+dUzao,rn1R2k1/pp3ppp/2b5/4r3/8/B1P5/P4PPP/3R2K1 b - - 3 18,e5e8 d8e8 c6e8 d1d8,739,86,100,100,advantage clearance middlegame pin short,https://lichess.org/VfIxnYgI/black#36,Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Accepted
+dVWX5,6rk/6Qp/p1q5/2p1B1P1/P2p4/3P3P/1P6/5RK1 b - - 0 29,g8g7 f1f8,736,84,96,451,endgame mate mateIn1 oneMove pin,https://lichess.org/L9oeCysY/black#58,
+dew34,8/7k/8/8/2n2N2/6PP/r4PK1/3R4 w - - 15 70,h3h4 c4e3 g2f3 e3d1,789,91,78,63,advantage endgame pin short,https://lichess.org/sv0hN5wQ#139,
+deywP,3r2k1/pp4pp/1bn5/1R4N1/8/P7/2P2rPP/5RK1 w - - 0 18,f1f2 d8d1,780,81,62,56,endgame mate mateIn1 oneMove pin,https://lichess.org/5d6B7ImJ#35,French_Defense French_Defense_Exchange_Variation
+dluoI,r2qb1k1/pp2n1pQ/2p1p1P1/4Pr2/1BPP4/8/PP4P1/R3K3 b Q - 3 24,g8f8 h7h8,759,85,97,1995,master mate mateIn1 middlegame oneMove pin,https://lichess.org/UTn78jIP/black#48,
+dn0Pj,8/ppp5/5pk1/8/P6q/2P1R3/1P1B2K1/8 b - - 0 37,h4g4 e3g3 g6h5 g3g4,770,91,92,685,crushing defensiveMove endgame pin short,https://lichess.org/8AK0osEl/black#74,
+dnb2x,8/3r4/1kp3p1/p1n5/1p1Q1P2/1P3KP1/P6P/8 w - - 11 46,d4e3 d7d3 e3d3 c5d3,761,93,88,229,advantage endgame pin short,https://lichess.org/fDYygm46#91,
+dqyAC,2r2bk1/6pp/3p1p2/p2Q4/1p1BPq2/1P3B1b/P4PP1/6K1 b - - 3 41,h3e6 d5e6 g8h8 e6c8,782,86,74,209,crushing fork hangingPiece middlegame pin short,https://lichess.org/SL1vnsRs/black#82,
+e4D5q,1r4k1/5ppp/p1P1p3/4P3/8/5BP1/1Bp2P1P/5K2 w - - 2 30,b2c1 b8b1 f1e1 b1c1,704,95,57,73,advantage endgame master masterVsMaster pin short,https://lichess.org/vUAg2zbh#59,
+e7OhI,rn2k2r/ppp2ppp/8/2bpq3/8/1B1P3Q/PPP2nPP/RNB2RK1 w kq - 0 10,f1f2 e5e1,739,79,100,396,mate mateIn1 oneMove opening pin,https://lichess.org/HUDl4KDJ#19,Petrovs_Defense Petrovs_Defense_Italian_Variation
+eQG1u,r7/2b2p1k/1q2pPr1/p2pQ3/1p1P4/1P1b4/PB1N1RP1/R5NK w - - 2 27,e5h5 g6h6 h5h6 h7h6,780,98,96,278,advantage middlegame pin short,https://lichess.org/yoCCQi7Y#53,
+eTCe5,2r3k1/2r3p1/R6p/5p2/2nPp3/6P1/2R1BP1P/6K1 w - - 0 29,g1g2 c4e3 f2e3 c7c2,731,95,91,790,crushing discoveredAttack endgame pin short,https://lichess.org/FvFMO8DH#57,
+eUri8,8/1r5p/R3pkp1/1p2b3/1N6/6P1/5PP1/6K1 b - - 4 42,e5c3 b4d5 f6e5 d5c3,794,80,97,1108,advantage endgame pin short,https://lichess.org/jZTNVS6u/black#84,
+eYU76,6rk/pQ2R2p/2P2p2/3P3q/2P2p2/6Pb/P4P1P/6K1 w - - 1 32,b7b2 h5d1 e7e1 d1e1,751,79,96,629,endgame mate mateIn2 pin short,https://lichess.org/0iLRxutC#63,
+egx81,6k1/1p2q3/4pR2/PpPpP2P/1P6/2P5/8/6K1 b - - 0 41,e7g7 f6g6 g7g6 h5g6,776,100,80,124,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/gsQD1wHQ/black#82,
+eo7Qm,2r3k1/5pbp/4p1p1/1b1pP3/P2P1PP1/5N2/2rQ2KP/1R6 w - - 0 27,b1b5 c2d2 f3d2 c8c2 g2f3 c2d2,741,92,80,278,clearance crushing endgame long pin,https://lichess.org/8KB4QG6A#53,
+eoAU3,2k3r1/ppp1bp1p/3Q1p2/1q6/4N3/6P1/P4P1P/2R3K1 b - - 1 27,e7d6 e4d6 c8b8 d6b5,711,81,97,1145,advantage endgame pin short,https://lichess.org/OCO5voSy/black#54,
+esFYB,r1bq3k/1pp3pp/1b6/pP2p3/2P1Q3/P7/1B3rPP/RN3RK1 w - - 0 17,f1f2 d8d1 e4e1 d1e1,793,87,93,332,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/QDbYm1or#33,Bishops_Opening Bishops_Opening_Other_variations
+f0cDE,6k1/pp4b1/3p4/2rPp1p1/6P1/1P6/P3Br1P/1K2R2R b - - 0 27,c5d5 e2c4 g8f8 c4d5,724,103,94,1222,advantage endgame pin short,https://lichess.org/tW2GG5xj/black#54,
+f3u3v,rn1b1rk1/pp3Npp/2p5/8/2B5/8/PPb2PPP/R1B1R1K1 b - - 0 16,f8f7 e1e8,714,78,98,957,mate mateIn1 middlegame oneMove pin,https://lichess.org/mCpYkePt/black#32,Russian_Game Russian_Game_Modern_Attack
+f92U9,4r2k/pb4pp/3r1p2/2p5/1pQ5/1P1P2PB/PB4NP/3Rq2K w - - 2 30,d1e1 e8e1,752,97,94,405,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/NE9cMJPU#59,
+fBox0,R3nbk1/1r2pp1p/2Np2p1/1Pp5/4PPP1/2B5/1P4P1/6K1 b - - 0 26,e8c7 c6e7,791,85,100,666,endgame kingsideAttack master mate mateIn1 oneMove pin,https://lichess.org/VPGHZYOs/black#52,
+fDWKT,4k1r1/p1p2p1p/b5pB/8/1p2P3/P3QPbP/1Pq1N1P1/2Rr1K1R w - - 2 23,c1d1 c2d1,726,98,75,215,mate mateIn1 middlegame oneMove pin,https://lichess.org/hbOTajNP#45,
+fFaC4,r1rk1n1R/p2n4/2bqNPQ1/3p4/1p1N1P2/2P3P1/PP4P1/R3K3 b Q - 0 25,d6e6 d4e6,703,81,83,153,mate mateIn1 middlegame oneMove pin,https://lichess.org/a1r0VF2t/black#50,
+fPZEH,8/8/4p3/2k1b3/3r2P1/5Q2/2P5/2K5 w - - 1 40,f3e3 e5f4 e3f4 d4f4,702,86,94,999,crushing endgame master pin short,https://lichess.org/KRD9iSIe#79,
+fTa10,r5r1/pbkp2Q1/1p2p3/2p5/2P2P2/5q2/P1PB2PP/R4RK1 w - - 0 25,g7d7 c7d7 f1f3 b7f3,797,129,43,16,advantage middlegame pin short,https://lichess.org/LEnpqFQg#49,
+fXsnC,5rk1/5Qpp/6r1/8/p7/P1P2N1q/BP3PP1/4R1K1 b - - 0 31,f8f7 e1e8,780,84,96,1228,endgame mate mateIn1 oneMove pin,https://lichess.org/WW1rO1Px/black#62,
+feNJ1,rn3rk1/pp3Qpp/2pR4/4p3/2B5/3P4/P1q2PPP/5RK1 b - - 0 20,f8f7 d6d8,762,85,86,218,mate mateIn1 middlegame oneMove pin,https://lichess.org/XZHpmLHh/black#40,
+fhYkQ,8/5k2/2p2n1p/5p2/1PP5/8/K2p4/2qB2Q1 b - - 0 48,c1c4 d1b3 c4b3 a2b3,772,80,99,1305,crushing defensiveMove endgame master pin short,https://lichess.org/LBgkPuc2/black#96,
+fliYG,r1Q1k2r/pp1n1ppp/4b3/1B1pP1B1/8/1P5P/q4PP1/2R1K2R b Kkq - 5 18,a8c8 c1c8,711,78,98,841,mate mateIn1 middlegame oneMove pin,https://lichess.org/JGEohZ61/black#36,Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation
+fmbMW,8/1p2bkp1/p6p/4P3/P2N4/7P/1P4P1/7K w - - 1 31,h1g1 e7c5 g1f2 c5d4,749,120,67,21,crushing endgame pin short,https://lichess.org/I9P1Bjoa#61,
+fqAgx,8/1p1Q4/1k4KP/8/2r5/2b5/8/8 w - - 0 62,d7e6 c4c6 g6f5 c6e6,751,84,96,672,crushing defensiveMove endgame master masterVsMaster pin short,https://lichess.org/Q1DlAQld#123,
+fs4zl,2r1r3/p5pk/6pp/qp1QP3/5P2/1PN5/P5PP/2R2B1K w - - 3 26,c3e2 c8c1 e2c1 a5e1 d5f3 e1c1,773,408,100,2,advantage fork long middlegame pin,https://lichess.org/pLUArtgx#51,
+fx0J7,r2q2k1/pp3rp1/5b2/2p1p1p1/7P/2NP4/PPPQ1P2/2KR3R w - - 0 19,h4g5 f6g5 c1b1 g5d2,774,138,90,31,crushing middlegame pin short,https://lichess.org/xeE0iyVR#37,Sicilian_Defense Sicilian_Defense_Other_variations
+g3KBd,1n4k1/RP3ppp/8/8/3p4/3K1p2/1PP3r1/8 b - - 0 31,g2g6 a7a8 h7h5 a8b8,772,90,85,463,crushing endgame pin short,https://lichess.org/WHmrIJMU/black#62,
+g3i8q,rnb2r1k/ppq2p2/2pbp1pP/6N1/3P3P/2NBQ3/PPP2P2/2KR3R w - - 5 17,h6h7 d6f4 c1b1 f4e3,794,82,96,977,advantage middlegame pin short,https://lichess.org/BGyJn1zh#33,Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation
+g446v,r5k1/6pp/2q2n2/2N5/p1PQ1p2/KP3r2/PB6/5R1R w - - 0 39,c5a4 c6a4,772,79,97,1863,mate mateIn1 middlegame oneMove pin,https://lichess.org/39Q9vEas#77,
+g6Hp4,6k1/1q2r1rp/p1p5/2Q2R2/3Pp3/1PP4P/P7/4R1K1 w - - 1 32,f5g5 g7g5 c5g5 e7g7,751,78,98,1786,crushing endgame pin short,https://lichess.org/Mr7P8LyC#63,
+g89Yx,2K3k1/4q1p1/8/8/8/3R2R1/8/8 b - - 22 95,e7e8 d3d8 e8d8 c8d8,706,82,97,1905,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/sA2hoxyb/black#190,
+g8pRr,8/pppk3p/3p3p/2b1p3/2P1P2r/1B1P1P2/PP2n1PP/RN3R1K w - - 1 21,f1d1 e2g3,729,77,98,946,mate mateIn1 middlegame oneMove pin,https://lichess.org/tWL2IHZQ#41,
+gEB1q,4k3/pp3p1p/6p1/1P3n2/P7/4q1PP/2r1R1QK/8 w - - 5 40,e2e3 f5e3 g2c2 e3c2,717,111,89,332,crushing endgame pin short,https://lichess.org/I0e6VhfY#79,
+gEblH,6Rq/1p5P/p3k2K/8/8/3pp3/PP6/8 b - - 1 62,h8f6 g8g6 f6g6 h6g6 e6d5 h7h8q,799,81,89,364,advancedPawn crushing endgame long pin promotion queenRookEndgame,https://lichess.org/k1PJ35Ws/black#124,
+gFIMC,r7/p6Q/1p3kp1/8/4pq2/5P1R/PP4K1/8 b - - 1 32,e4f3 h3f3 f4f3 g2f3,763,109,90,580,advantage endgame pin short,https://lichess.org/CXHgC6zV/black#64,
+gNenE,4r1k1/pp2Qrpp/1n6/8/2B5/2P5/P4P1P/2KR2Nb b - - 0 19,e8e7 d1d8 e7e8 d8e8,789,83,92,94,mate mateIn2 middlegame pin short,https://lichess.org/FhwMJ1Wq/black#38,
+gQN7w,8/8/3R4/1p1qP3/p4Pp1/P1K4k/1P3B2/8 b - - 1 53,d5f3 d6d3 h3g2 d3f3,732,79,94,401,crushing defensiveMove endgame pin short,https://lichess.org/1DglJ8d0/black#106,
+gQW5b,r6r/p4kp1/1p1p1n1p/3Pn3/4N3/5P2/PPB2K1P/4R1Nb b - - 4 21,a8c8 e4d6 f7e7 d6c8,788,88,85,63,advantage fork middlegame pin short,https://lichess.org/Z0LY9ehB/black#42,
+gWgWk,r3k2r/pp1q1ppp/3p1n2/4p3/1b2P3/2NB3P/PPPK1P2/R4Q1R b kq - 0 14,d6d5 d3b5 e8g8 b5d7,784,83,84,150,advantage middlegame pin short,https://lichess.org/N3D7WeDZ/black#28,Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation
+gY357,4r1k1/1b3pbp/p5p1/1p6/8/1NPQ4/PP1RrNqP/6RK w - - 0 28,g1g2 e2e1 d3f1 e1f1,758,89,81,252,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/S1fTXIwv#55,
+gbucv,8/1p6/2p1k3/3p4/1r6/5Q2/4K3/8 w - - 1 57,f3e3 b4e4 e2f3 e4e3,750,91,94,89,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/EMTwcniV#113,
+gk4na,r3kbr1/2p1qp1R/p5p1/1p1pn3/5Q2/2P1P1P1/PPB2PP1/RN2K3 w Qq - 0 18,c2b3 e5d3 e1e2 d3f4,727,93,86,661,crushing fork middlegame pin short,https://lichess.org/oYHuKl1g#35,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+glSGj,2k4r/1ppq4/p1nb4/4pR2/2P3pp/3P4/PP2B1PP/R2Q3K b - - 0 23,d7f5 e2g4 f5g4 d1g4,766,99,95,759,advantage middlegame pin short,https://lichess.org/w4RLaHwh/black#46,
+gm2HD,7k/1b4p1/7p/1Q6/1P1P2P1/2P5/6RP/4qr1K w - - 0 41,b5f1 e1f1,701,100,87,81,endgame hangingPiece mate mateIn1 oneMove pin,https://lichess.org/gpyTS9uH#81,
+gwHPP,2r3k1/6p1/2r5/7p/4QP1K/7P/1P4P1/8 w - - 7 45,f4f5 c6c4 e4c4 c8c4,792,94,92,256,crushing endgame master masterVsMaster pin queenRookEndgame short,https://lichess.org/8QBhOtXN#89,
+gysvc,4r3/2k5/2p1r1p1/1p5p/5P2/1PR1NKPP/8/8 b - - 0 34,e6f6 e3d5 c7b7 d5f6,727,103,92,583,crushing endgame master pin short,https://lichess.org/Ivs1hQBb/black#68,
+h1OOp,6rk/6pp/1pn2p2/1q6/7N/1b5Q/6PP/B2R3K b - - 9 33,b3d1 h4g6,753,91,94,767,mate mateIn1 middlegame oneMove pin smotheredMate,https://lichess.org/CXE7i2Sd/black#66,
+hIWlJ,r2qk2r/1b1n2pR/p3p1n1/1p1p2P1/2pP4/2P1PNP1/PPQN1P2/R3K3 b Qkq - 0 14,h8h7 c2g6 e8e7 g6h7,777,89,95,884,advantage fork hangingPiece master middlegame pin short,https://lichess.org/zbefCAev/black#28,Horwitz_Defense Horwitz_Defense_Other_variations
+hMq2z,8/1k2K3/p1q5/1p3Q1p/1P6/P5P1/8/8 b - - 0 55,c6c7 f5d7 c7d7 e7d7,799,94,81,93,crushing defensiveMove endgame pin queenEndgame short,https://lichess.org/XqNYc9x3/black#110,
+hPziS,1k4r1/ppp3r1/2n1Q3/7p/3p1q2/6P1/PPP2P1P/RN2R1K1 w - - 5 20,e6g8 g7g8 e1e8 g8e8,727,76,86,310,advantage hangingPiece middlegame pin short,https://lichess.org/rQ0uOvzA#39,
+hX1Yh,rn3rk1/1pq1bpp1/p2p3p/3B1P2/5p2/2N5/PPPQ2PP/2KR3R w - - 0 16,d2f4 e7g5 f4g5 h6g5,789,94,95,719,crushing middlegame pin short,https://lichess.org/5yUMJR7C#31,Sicilian_Defense Sicilian_Defense_Najdorf_Variation
+hd1F5,2k3r1/pR6/4p2p/2b1Pp2/b4P2/2r2B2/P4QPN/5RK1 w - - 1 32,b7b8 c8b8 f2c5 c3c5,786,77,100,307,advantage hangingPiece middlegame pin short,https://lichess.org/6M4L4M6F#63,
+hglHC,r5k1/1pp4p/p2p3P/3Pp1q1/2P1P1n1/P2K2R1/1P2N3/6R1 b - - 2 33,a8f8 g3g4 f8f3 d3c2 g5g4 g1g4,719,77,98,419,advantage endgame long pin,https://lichess.org/4yU0zTkM/black#66,
+hhQoV,8/ppp1kp2/5p2/1PPr4/P6Q/5P2/4p1PP/3rR2K w - - 4 36,h2h3 d1e1 h4e1 d5d1 h1g1 d1e1,751,88,92,542,attraction clearance crushing endgame long pin queenRookEndgame,https://lichess.org/hCoTbSWu#71,
+hj7eR,5rk1/1b3pp1/p3p3/7Q/2P5/1P1r3q/P5P1/6RK w - - 2 29,h5h3 d3h3,761,93,65,137,endgame mate mateIn1 oneMove pin,https://lichess.org/Z0SHEpaU#57,
+hmqkC,r1b2rk1/pp3Qpp/1n6/8/7q/1BN5/PP3PPP/R3R1K1 b - - 0 17,f8f7 e1e8,798,95,100,57,mate mateIn1 middlegame oneMove pin,https://lichess.org/qB5qkDGW/black#34,Sicilian_Defense Sicilian_Defense_Alapin_Variation
+hod4Y,8/6pk/7p/1r6/2RPp3/1pp1P3/5PPP/3B2K1 w - - 0 35,c4c3 b3b2 g1f1 b2b1q,796,81,80,153,advancedPawn advantage endgame pin promotion short,https://lichess.org/joSEidxF#69,
+i2YSz,8/4pp2/2B1k1p1/1P5p/2n5/4PKPP/1r3P2/3R4 w - - 13 40,f3g2 c4e3 g2f3 e3d1,747,89,90,302,crushing endgame master pin short,https://lichess.org/7InGJfHM#79,
+i7BPE,r1r3k1/5ppp/3p4/3Pp3/2B4P/4B1P1/5P2/2R3K1 w - - 1 28,c4b5 c8c1 e3c1 a8a1,715,82,62,87,crushing endgame pin short,https://lichess.org/l4UHnDGK#55,
+i7TKa,8/5pk1/6pp/2q1r3/6P1/5P1P/6K1/Q4R2 b - - 3 30,c5c2 f1f2 c2f2 g2f2,741,90,85,93,crushing defensiveMove endgame pin short,https://lichess.org/A9tqgsIg/black#60,
+iDhoR,8/5p2/1b3kp1/1P1rp3/7p/5P1P/4B1P1/1R2K3 b - - 1 68,f6e6 e2c4 e6d6 c4d5,734,85,96,389,advantage endgame pin short,https://lichess.org/uazjpN9s/black#136,
+iDwBB,rn3rk1/pp4pp/2p1qb2/4p3/4P3/3B2P1/P1P1QP1P/R2R2K1 b - - 5 22,c6c5 d3c4 e6c4 e2c4,789,95,81,299,advantage middlegame pin short,https://lichess.org/OnjzNoR8/black#44,
+iESEA,6rk/pp4Qp/3p4/5p2/2P2P2/6N1/qB5P/4R2K b - - 0 30,g8g7 e1e8,775,77,98,1515,endgame mate mateIn1 oneMove pin,https://lichess.org/OUL2Wu1q/black#60,
+iGBE7,7k/2r3p1/7p/8/p5Q1/P6P/1b4P1/7K w - - 0 40,g4d1 c7c1 d1c1 b2c1,747,81,100,361,crushing endgame master pin short,https://lichess.org/PUdQePNk#79,
+iWfgc,3r2k1/p2rbp1p/4p1p1/N1p1P3/4b3/1P3N2/P4PPP/R2R2K1 w - - 3 25,f3e1 d7d1 a1d1 d8d1,799,118,87,47,crushing middlegame pin short,https://lichess.org/VJj7oPBY#49,
+iWsY8,2r1Q1k1/1p3r1p/p1n3pP/6q1/8/PB6/1PP3P1/1K2R3 b - - 1 31,c8e8 e1e8,785,99,71,36,endgame mate mateIn1 oneMove pin,https://lichess.org/9Sdg6MfI/black#62,
+iWxLs,3R2k1/p4rpp/1pn4b/2p5/2B2P2/2P1r3/PP4PP/3R2K1 b - - 1 22,c6d8 d1d8 e3e8 d8e8,728,102,95,1071,endgame mate mateIn2 pin short,https://lichess.org/OT4CVG3a/black#44,
+iXkyr,4Q3/2q2nkp/6p1/4p3/4P1B1/4r1P1/P2p3P/2rR1R1K w - - 14 40,f1f7 c7f7 e8f7 g7f7,781,78,100,240,crushing middlegame pin short,https://lichess.org/a56cmbER#79,
+ig2I4,5rk1/1p3Qpp/p7/2p5/P4P2/1B3nPP/4q3/2BR3K b - - 0 30,f8f7 d1d8 e2e8 d8e8,734,124,47,34,endgame mate mateIn2 pin short,https://lichess.org/H4kUadJn/black#60,
+iiUxN,1r6/8/2Q4p/5pk1/6p1/6P1/3n3P/6K1 w - - 0 51,c6c1 b8b1 c1b1 d2b1,785,91,94,278,crushing endgame master pin short,https://lichess.org/onzXZLMO#101,
+io2S5,6k1/6r1/3Q4/p4p2/3p4/2p2P1P/P2n2P1/6K1 w - - 3 43,d6d4 d2f3 g1f2 f3d4,789,77,99,1006,crushing endgame pin short,https://lichess.org/o2gnakMN#85,
+irsQd,6r1/5p1p/3N4/4n3/nB6/P3k3/6PP/5BKR w - - 2 38,h2h4 e5f3,795,83,90,289,master mate mateIn1 middlegame oneMove pin,https://lichess.org/UXDvThrW#75,
+ivQoY,Q5k1/2q1bp1p/4p1pP/2r1P3/p5N1/Pp4P1/1P3P2/6K1 b - - 2 34,e7f8 g4f6 g8h8 a8f8,799,95,91,1092,deflection endgame master mate mateIn2 pin short,https://lichess.org/GRoeuhuk/black#68,
+jM45g,5rk1/3p1Npp/2b5/8/1R5P/1B3nP1/PPP2P2/4nK2 b - - 0 34,f8f7 b4b8,700,85,87,125,endgame mate mateIn1 oneMove pin,https://lichess.org/UyE30nZi/black#68,
+jOyLT,1k1r3r/pp1q2b1/3p1p1p/2p3p1/N3P3/1P1PQ1B1/1PP2K2/R7 b - - 1 25,b8a8 a4b6 a8b8 b6d7,784,76,98,452,crushing middlegame pin queensideAttack short,https://lichess.org/vTKD5TZY/black#50,
+jRuHE,r5k1/3P1ppp/p7/5n2/8/8/P4KPP/2R5 b - - 3 28,a8d8 c1c8 g8f8 c8d8,709,97,63,302,crushing endgame pin short,https://lichess.org/Ok38xFic/black#56,
+jTrn6,8/5pk1/2q5/2p5/2P2R2/1P4K1/5P2/8 b - - 11 56,c6g6 f4g4 g7f6 g4g6,736,81,100,112,crushing defensiveMove endgame master pin queenRookEndgame short,https://lichess.org/iIaI7PMu/black#112,
+jV9pM,1kbr3r/pp2bp2/1q3p2/3Pp2p/P3P2P/2P2P2/4B1P1/1RQ2K1R b - - 2 27,b6a6 e2a6,785,115,14,29,crushing middlegame oneMove pin,https://lichess.org/bvlayFIr/black#54,
+jW7ju,5rk1/5Qpp/3R4/1P2p3/1PBbP2P/5Pq1/3r4/5R1K b - - 0 26,f8f7 d6d8,709,91,100,131,mate mateIn1 middlegame oneMove pin,https://lichess.org/HjOQHfL3/black#52,
+jaiSt,8/8/8/5P2/4R3/kp4P1/8/b5K1 w - - 0 62,e4e3 a1d4 g1f2 d4e3 f2e3 b3b2,705,96,95,911,advancedPawn crushing endgame exposedKing long pin,https://lichess.org/6e9sRWpU#123,
+jcoqb,8/2k1bQ2/8/pP6/P1Pp3p/3P1N1P/4qPPK/8 w - - 2 63,f7f4 e7d6 f4d6 c7d6,769,95,86,586,crushing defensiveMove endgame pin short,https://lichess.org/d04mRFC6#125,
+jexdP,3qkr2/3BbpQp/3p3B/8/8/7P/rP2RPP1/n5K1 b - - 0 20,d8d7 g7f8,768,77,98,729,mate mateIn1 middlegame oneMove pin,https://lichess.org/LwVBw6hc/black#40,
+jkjcM,r1b5/1p2b1kp/p3p3/4N1p1/P2nn3/6PB/2P4P/3Q2K1 w - - 2 30,d1d4 e7c5 d4c5 e4c5,799,96,91,829,crushing master middlegame pin short,https://lichess.org/7MGBElBh#59,
+jnGpo,r2qk2r/p2N1ppp/4pb2/3p4/P2P4/1P6/4BPPP/R2Q1RK1 b kq - 0 15,d8d7 e2b5 d7b5 a4b5,755,87,93,1208,crushing middlegame pin short,https://lichess.org/s1YUuPn0/black#30,Sicilian_Defense Sicilian_Defense_Marshall_Gambit
+jq6Qy,4rr1k/2p4P/p1p2PR1/5pQ1/2pP4/8/7P/6K1 w - - 3 34,g6g8 f8g8 h7g8b e8g8,702,81,82,129,crushing endgame pin queenRookEndgame short,https://lichess.org/GX9AmWjJ#67,
+jqmsO,4K3/4R3/4P3/6q1/5k2/8/8/8 b - - 2 77,g5f5 e7f7 f4g5 f7f5,710,101,93,1462,crushing endgame master masterVsMaster pin queenRookEndgame short,https://lichess.org/vDTGIuxY/black#154,
+juCeP,r6k/2B3bp/6p1/5p2/8/3p4/5PPP/2Q3K1 w - - 0 35,g2g3 a8a1 c1a1 g7a1,791,80,99,610,advantage endgame pin short,https://lichess.org/7H3p9CAR#69,
+jxxPt,5rk1/pp2Rp1p/1n3Q2/2p3P1/3P3P/P1q2BK1/8/7R w - - 3 32,f6f7 f8f7 e7f7 g8f7,714,100,92,482,crushing middlegame pin short,https://lichess.org/OjR447KO#63,
+jz1m7,5k2/p3r3/1p2p1p1/3pQ1Pr/3P4/4P3/PP3KP1/8 w - - 7 32,e5f6 e7f7 f2e2 f7f6,792,79,96,613,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/O5n3ceCu#63,
+jzoh5,r4rk1/1p3ppp/p1pp1q2/4pN2/R3P1P1/1P1P3Q/1PP2P2/6K1 b - - 0 22,f6g6 f5e7 g8h8 e7g6,776,83,70,80,advantage endgame fork pin short,https://lichess.org/JsTRRBt8/black#44,
+kAXm5,1r1b4/kp3Q2/p1q1p3/8/3P3p/2P3rP/R5P1/R6K b - - 0 36,d8b6 a2a6,765,81,97,372,mate mateIn1 middlegame oneMove pin,https://lichess.org/PlyLxOMV/black#72,
+kBILa,8/2r5/R3pk1p/5p2/1Npb4/7P/2K5/8 b - - 1 54,d4c5 b4d5 f6e5 d5c7,782,77,98,1266,crushing endgame master pin short,https://lichess.org/AmQ6GYLH/black#108,
+kBqVz,rn1qr3/ppp3pp/4Qn2/7k/8/2PB4/PPP3PP/R1B1K2R w KQ - 3 13,g2g4 f6g4 e6e8 d8e8,798,120,43,20,advantage middlegame pin short,https://lichess.org/91QVlKzr#25,Zukertort_Opening Zukertort_Opening_Tennison_Gambit
+kDx8T,6rk/p5Qp/1p6/2b4r/8/2B1PpPq/PP3P1P/3R2RK b - - 0 28,g8g7 d1d8 c5f8 d8f8,750,102,96,1312,mate mateIn2 middlegame pin short,https://lichess.org/WD5RvI0J/black#56,
+kFgmI,8/2Q5/p3qb1k/1p1p4/3Ppp1n/1P6/PB6/2K4R w - - 0 39,c7f4 f6g5 h1h4 h6g6 f4g5 g6g5,796,83,95,701,crushing defensiveMove endgame long master masterVsMaster pin sacrifice,https://lichess.org/1T6aq2kl#77,
+kJw7J,r3k2r/pp1q1ppp/2p2n2/3Pp2b/P1B5/2BP1P1P/1PP2P1K/R2Q1R2 b kq - 0 14,c6d5 c4b5 e8g8 b5d7,798,83,91,612,crushing middlegame pin short,https://lichess.org/QjaMXsxM/black#28,Four_Knights_Game Four_Knights_Game_Italian_Variation
+kNIOJ,r4bk1/p4p1p/1qp1p1p1/3pP3/3P4/Q6P/PP3PP1/RN2K2R w KQ - 0 15,a3c3 f8b4 e1g1 b4c3,793,92,100,50,advantage middlegame pin short,https://lichess.org/QFdF0Mm2#29,Sicilian_Defense Sicilian_Defense_Alapin_Variation
+kTwtw,1r4k1/1p4pp/p1p1p1r1/P1Pp1p2/1P1P1P1Q/4P2P/3n2P1/2R3K1 w - - 0 31,c1d1 d2f3 g1f2 f3h4,774,92,78,233,crushing endgame kingsideAttack pin short,https://lichess.org/KM3CJOWO#61,
+kXtUO,6k1/7p/B2r2p1/5p2/1b6/4K2P/R4P2/8 b - - 0 36,d6d5 a6c4 g8g7 c4d5,793,92,88,681,advantage endgame pin short,https://lichess.org/VZMT9Tgm/black#72,
+kayO7,8/8/8/1k6/1qp4p/1P3p1P/2K2P2/1R6 b - - 1 55,c4b3 b1b3 b4b3 c2b3,720,104,91,761,crushing endgame pin queenRookEndgame short,https://lichess.org/E0E5O29Z/black#110,
+keUVH,4rk2/pp5r/2pb2pP/3p1qP1/3P1NRR/P4N2/1PP2P2/1K6 b - - 0 27,d6f4 g4f4 f5f4 h4f4,704,89,87,225,advantage middlegame pin short,https://lichess.org/SCSbQz9r/black#54,
+kgJiz,6k1/3b3p/3R1p2/r1pP2p1/8/2q5/5BPP/5QK1 w - - 0 30,d6d7 a5a1 d7e7 a1f1,708,79,89,345,advantage endgame master pin short,https://lichess.org/opsMOgzt#59,
+khLax,3r4/3N4/8/p5R1/8/3K2pk/PP6/8 w - - 2 50,g5g3 h3g3 d3c3 d8d7,713,92,79,71,crushing endgame hangingPiece pin short,https://lichess.org/Z6tOEjAO#99,
+kpQK4,1nbqk1nr/rppp4/1b2pp2/2P3pp/Qp1PP3/4BN2/P4PPP/RN2KB1R w KQk - 0 11,a4b4 b6a5 b4a5 a7a5,720,99,95,804,crushing middlegame pin short,https://lichess.org/CoIbTDQq#21,Goldsmith_Defense Goldsmith_Defense_Other_variations
+kpzQu,4r3/1R3pkp/6p1/4np2/5N2/5P1P/6PK/8 b - - 1 36,e8d8 f4e6 g7f6 e6d8,744,84,97,192,advantage endgame master pin short,https://lichess.org/B9oE7cUu/black#72,
+kvoiC,3r2k1/4Rpp1/7p/Q7/8/5qP1/5P1P/3rR1K1 w - - 6 40,e7e8 d8e8 e1d1 f3d1,775,79,98,1294,crushing endgame pin short,https://lichess.org/vFdUTE5d#79,
+l0R8a,3qk2r/Q2n1p2/4pp1p/1B1p1b2/1b1P4/2N1P3/Pr3PPP/R3K1NR w KQk - 2 13,b5d7 d8d7 a7d7 e8d7,715,90,93,369,crushing middlegame pin short,https://lichess.org/IkTXzXiV#25,Slav_Defense Slav_Defense_Other_variations
+l2bjv,2kr2r1/ppp1qp1Q/3b4/5p2/7N/2P2n1b/P1P1BPPP/R1B1R1K1 w - - 2 17,e2f3 e7e1,743,77,98,549,hangingPiece kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/RKCstFga#33,Alekhine_Defense Alekhine_Defense_Scandinavian_Variation
+l5F4P,8/p2r1kpp/2P2p2/4p3/1RP5/5nP1/P4P1P/7K b - - 0 27,d7c7 b4b7 c7b7 c6b7,774,87,95,1395,advancedPawn crushing endgame pin short,https://lichess.org/RGQPdvex/black#54,
+lD45j,3rr1k1/1pp2pp1/p6p/2b2B2/8/2P5/PP1P1nPP/RNB2RK1 w - - 6 18,f1f2 e8e1,786,78,86,378,mate mateIn1 middlegame oneMove pin,https://lichess.org/eNmTPr8y#35,Italian_Game Italian_Game_Anti-Fried_Liver_Defense
+lDAoZ,4r1k1/1p3p1p/p5p1/3r4/P3p1P1/4B3/4B3/R6K b - - 5 33,f7f5 e2c4 g8g7 c4d5,796,79,100,131,advantage endgame master pin short,https://lichess.org/7UrT4hDS/black#66,
+lFCVN,4rk2/p1pb1p2/1b6/5NQ1/8/8/P4qPP/5RK1 w - - 0 25,f1f2 e8e1,715,79,86,352,endgame mate mateIn1 oneMove pin,https://lichess.org/0DSwrI4I#49,
+lHpDL,1r2kbr1/3qB2p/2n1p3/1B1p1b2/Q2P4/5P2/PP2N1PP/R3K2R b KQ - 0 18,f8e7 b5c6 d7c6 a4c6,793,97,96,302,crushing middlegame pin short,https://lichess.org/5W4jcz6L/black#36,Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation
+lNcls,rn4rk/1p4Qp/6p1/p7/8/1PB5/q1P2PPP/2KR3R b - - 0 18,g8g7 d1d8,766,98,91,559,mate mateIn1 middlegame oneMove pin,https://lichess.org/7vqi6JmH/black#36,French_Defense French_Defense_Knight_Variation
+lNqGg,6k1/5p2/3r1Pp1/p3p1Pp/PpPn4/1P1N2RP/2PK4/8 w - - 0 40,d2c1 d4e2 c1d2 e2g3,780,88,90,195,advantage endgame fork pin short,https://lichess.org/6CIWwway#79,
+lPKsP,8/1p4k1/2b2r2/6pQ/6K1/2P5/P7/8 w - - 11 64,h5g5 f6g6 g4f4 g6g5,799,119,80,39,crushing defensiveMove endgame pin short,https://lichess.org/JyuUWpm9#127,
+lPmvV,2r3k1/2p1pp1p/3b2p1/2nP4/B2RNP2/7P/6P1/6K1 w - - 5 32,e4c5 d6c5 g1f1 c5d4,762,97,82,205,crushing endgame pin short,https://lichess.org/cJZKlJqa#63,
+lQw4T,rn1qk2r/1p2bpp1/p2p3p/3Pp3/8/1N2Q3/PPP2PPP/R3KB1R w KQkq - 1 13,e1c1 e7g5 c1b1 g5e3,785,94,96,1175,crushing middlegame pin short,https://lichess.org/ytI3WP8B#25,Sicilian_Defense Sicilian_Defense_Najdorf_Variation
+lSoiW,4R3/6k1/8/1p1rp3/1Ppn3p/2B1K1pP/1P4P1/8 b - - 1 43,d4f5 e3e4 f5d6 e4d5,788,103,82,555,advantage defensiveMove endgame master pin short,https://lichess.org/QSiVrwrv/black#86,
+lb4sB,4n1k1/3R3p/1R1bp3/4N1q1/2pP4/2P1P2b/3N1P1r/Q6K w - - 5 31,h1h2 g5g2,758,80,50,62,mate mateIn1 middlegame oneMove pin,https://lichess.org/utfv7VIo#61,
+lbREJ,r2k4/pppb2p1/1n4Bp/4R3/5r2/2N5/PPP3PP/3R2K1 b - - 3 19,f4f6 e5e8,790,87,96,886,mate mateIn1 middlegame oneMove pin,https://lichess.org/VdbDAgHB/black#38,
+lgg4Q,8/2Q2ppk/3p3p/4p3/1BPbP3/3r4/5qPP/5RK1 w - - 0 25,f1f2 d3d1 b4e1 d1e1,723,98,100,42,endgame mate mateIn2 pin short,https://lichess.org/68BFkqsg#49,
+lly7j,r7/1R3p2/3p1k1p/4bPp1/2P1B3/1P4P1/1r3P1P/3R2K1 w - - 1 31,d1b1 b2b1 e4b1 a8a1 g1g2 a1b1,776,84,93,725,crushing endgame long pin,https://lichess.org/EZXcFgAz#61,
+lnJEm,8/3R2pk/5p1p/4pP2/5nN1/4r2P/5K2/8 b - - 5 47,e3h3 g4f6 h7h8 d7d8,792,85,87,377,endgame mate mateIn2 pin short,https://lichess.org/EybBVp0N/black#94,
+lnrOZ,8/2k5/4pp2/2Pp4/p2P2P1/rN2P3/3N1P2/5K2 w - - 0 38,b3c1 a3a1 f1e2 a1c1,755,86,85,167,crushing endgame pin short,https://lichess.org/Aqo0H3gi#75,
+lun0j,4r3/6kp/p1Q3p1/5p2/PP1b4/8/5qPP/5RK1 w - - 0 34,f1f2 e8e1,757,122,83,39,endgame mate mateIn1 oneMove pin,https://lichess.org/q6JyIAKZ#67,
+lwEY6,6k1/5p1p/2pr2p1/1p6/rP1B4/4PB1P/5PP1/3R2K1 w - - 1 34,d4c5 d6d1 f3d1 a4a1 g1h2 a1d1,709,80,100,102,advantage endgame long pin,https://lichess.org/VwfP9yY1#67,
+lz28e,8/8/7p/p1R3pk/8/3Nn1K1/r4P2/8 b - - 7 50,e3g4 d3f4,769,82,91,180,endgame mate mateIn1 oneMove pin,https://lichess.org/w2q5EOis/black#100,
+m0g4x,3Q1b2/5pk1/2B3p1/4r2p/2p5/7P/2P2KP1/8 w - - 4 44,d8d4 f8c5 d4c5 e5c5,732,79,95,209,advantage endgame master masterVsMaster pin short,https://lichess.org/LZ2n5MM9#87,
+m1mnS,r1b2rk1/pp3Npp/8/8/2B5/8/PPP3PP/2KR3n b - - 0 18,f8f7 d1d8,759,79,97,1619,endgame mate mateIn1 oneMove pin,https://lichess.org/e77VTtsD/black#36,Caro-Kann_Defense Caro-Kann_Defense_Other_variations
+m6BK7,r2qkb1r/pppbn3/6pp/3PR2Q/3P4/3B4/PP3PPP/R1B3K1 b kq - 0 15,g6h5 d3g6,761,83,83,254,master mate mateIn1 middlegame oneMove pin,https://lichess.org/gh3SzMLk/black#30,Queens_Gambit_Declined Queens_Gambit_Declined_Queens_Knight_Variation
+m6jJ9,rn2r1k1/pp4pp/2p2p2/5b2/5B2/6N1/PP3PPP/3RR1K1 b - - 7 18,f5g6 e1e8 g6e8 d1d8,799,90,92,1464,advantage kingsideAttack middlegame pin short,https://lichess.org/p20ehN19/black#36,Danish_Gambit Danish_Gambit_Other_variations
+m7t2I,r1b2rk1/ppp2Qpp/1n6/4R3/2Bq4/3P4/PPP2bPP/RNB4K b - - 0 12,f8f7 e5e8,730,82,100,122,mate mateIn1 middlegame oneMove pin,https://lichess.org/Sn5dA9s6/black#24,Italian_Game Italian_Game_Two_Knights_Defense
+m9HBd,rn1q1rk1/1b3Npp/pp3b2/2p5/P2pR3/3P4/BPP2PPP/R1B1Q1K1 b - - 0 15,f8f7 e4e8 d8e8 e1e8,725,99,77,465,fork mate mateIn2 opening pin short,https://lichess.org/jZJmF4BQ/black#30,Sicilian_Defense Sicilian_Defense_Modern_Variations
+mNtOM,2rqr1k1/1b2bppQ/pp5p/8/P2N4/6n1/1P4PP/1BR2RK1 b - - 1 21,g8f8 d4e6,732,105,25,27,mate mateIn1 oneMove opening pin,https://lichess.org/60a8eELe/black#42,
+mNzFe,r1b1k2r/pp2qpbp/3Rp1p1/1B6/8/Q4N2/PP3PPP/R5K1 b kq - 2 15,e8f8 d6d8,732,101,93,768,master mate mateIn1 middlegame oneMove pin,https://lichess.org/sM8VtobJ/black#30,Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit
+mdY7S,5r2/p5kp/1p3bp1/1PpB4/2P2P2/P3R1PP/8/6K1 w - - 1 34,g3g4 f6d4 g1g2 d4e3,707,98,92,867,crushing endgame pin short,https://lichess.org/Sc876kbu#67,
+meuhE,1rr2k2/4RP2/p2p3p/3b4/8/2P5/4Q1PP/4K3 w - - 0 33,e7e8 c8e8 f7e8r b8e8 e1d2 e8e2,735,80,100,140,crushing endgame long pin,https://lichess.org/9jnnNBFB#65,
+mkvCC,rnb2k2/ppp2BpQ/3P4/2b1r3/8/3P4/PPP2qPP/RN3RK1 w - - 0 13,f1f2 e5e1,791,107,71,44,mate mateIn1 middlegame oneMove pin,https://lichess.org/MJe1dOG7#25,Russian_Game Russian_Game_Italian_Variation
+mmCFZ,3b2k1/p4bpp/5p2/1B2p3/Np2P3/1P3P2/P1P2KPP/8 w - - 0 26,a4c5 d8b6 f2e2 b6c5,763,95,95,426,crushing endgame pin short,https://lichess.org/o2UIHUs8#51,
+mpR1w,2Q3R1/1p3k1r/p2p4/8/3b1Pp1/2N5/P1P2RP1/2q3K1 w - - 2 29,c3d1 c1d1,777,81,64,94,hangingPiece master mate mateIn1 middlegame oneMove pin,https://lichess.org/m1DkPfZT#57,
+msNyV,r1b3k1/2q2rpp/5b2/1Q6/3pP3/1B6/PPP3PP/5RK1 b - - 0 21,a8a5 b5e8,764,79,97,1145,mate mateIn1 middlegame oneMove pin,https://lichess.org/L4eCPCGx/black#42,
+muQ2f,8/p3B1k1/4Qp1r/1P1Pp3/8/2r2PKp/7P/8 w - - 1 47,e6g4 h6g6 g3h3 g6g4,788,99,93,2415,advantage defensiveMove endgame pin short,https://lichess.org/a00t7HGQ#93,
+mxFsW,r3k2r/ppp2pp1/3p4/8/3bP1pq/5Q2/PP1N1P2/R1B2RK1 w kq - 0 17,f3g3 h4g3,766,80,100,91,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/HMHj4Yjx#33,Italian_Game Italian_Game_Giuoco_Pianissimo
+n0da6,r5k1/1RP3n1/p6p/8/pP6/4b1P1/6KP/8 b - - 0 40,a8c8 b7b8 g8f7 b8c8,795,93,88,364,crushing endgame pin short,https://lichess.org/s38BfExu/black#80,
+nBiHt,4r2k/p1p3pp/2Q3b1/6P1/5p1B/P1P1b2P/1P2p1K1/4N3 w - - 2 33,c6f3 g6e4 f3e4 e8e4,785,76,98,723,advantage endgame pin short,https://lichess.org/h7csU7Pi#65,
+nDImc,4r2k/7p/1p1p2pb/p1rP4/P2QP3/1KN2R1P/1P3R2/2q5 b - - 2 34,h6g7 f3f8 e8f8 f2f8,795,77,87,149,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/3um4diRB/black#68,
+nFZIU,2r3k1/p4ppp/1p2N1P1/3p1p1P/3P4/qP6/P4RP1/1Rr1Q1K1 w - - 1 32,b1c1 c8c1 g6f7 g8f7,778,82,86,52,advantage endgame pin short,https://lichess.org/NVz9Y7lI#63,
+nNXBc,8/5p2/4p3/4Pk2/1p3P2/1PrNn1K1/2PR3P/8 w - - 7 48,h2h4 e3f1 g3f2 f1d2,763,86,93,1012,crushing endgame fork pin short,https://lichess.org/EnM7tAaf#95,
+nNmuK,4rr2/6k1/6p1/p2pN2p/Pp1p2bP/1B1P2P1/1PP2B2/5RK1 b - - 0 33,e8e5 f2d4 f8f1 g1f1,758,92,86,54,crushing endgame master pin short,https://lichess.org/m1MTvszt/black#66,
+nO4xz,2kr3r/ppp2ppp/2p5/2b5/4P3/P7/1PP2nPP/RNB2RK1 w - - 0 12,f1f2 d8d1,767,82,100,73,mate mateIn1 middlegame oneMove pin,https://lichess.org/sHN4Ksys#23,Scotch_Game Scotch_Game_Classical_Variation
+nOxbf,1r4k1/2RP4/1p6/1K5p/8/5p1P/8/8 b - - 0 34,b8d8 c7c8 g8f7 c8d8,754,78,97,766,crushing endgame pin rookEndgame short,https://lichess.org/759bVPS4/black#68,
+nQFY5,rn2k2r/pppq1ppb/3p3p/7P/4PPP1/2PB4/P1P1Q3/2KR3R b kq - 0 16,d7c6 d3b5 a7a6 b5c6,728,97,96,1719,crushing middlegame pin short,https://lichess.org/WS7cpuWe/black#32,Philidor_Defense Philidor_Defense_Other_variations
+nTxJg,3r2k1/2RP1pp1/4p2p/8/P4P2/2n3P1/7P/6K1 b - - 2 36,c3a4 c7c8 g8f8 c8d8,795,97,81,72,crushing endgame pin short,https://lichess.org/hGLRdLH2/black#72,
+nW2WC,r1b1k2r/pp3p2/3p4/2P4n/2Pp2p1/P2Pb1P1/1B1NP1BP/R2Q2K1 w kq - 1 18,g1h1 h5g3,768,80,100,149,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/cHBMYYun#35,Zukertort_Opening Zukertort_Opening_Queens_Gambit_Invitation
+nXE5w,2kr1b1r/ppp1pppp/2n1q3/8/5Pb1/3P1N2/PPP1B1PP/R1BQ1RK1 b - - 0 9,c6d4 f3d4 d8d4 e2g4,796,89,85,98,crushing discoveredAttack opening pin short,https://lichess.org/QhKQ6yso/black#18,Nimzowitsch_Defense Nimzowitsch_Defense_Other_variations
+nYxhK,2r5/8/p3pk2/2r5/P4P1P/3p1PR1/6P1/5RK1 w - - 0 41,f1d1 c5c1 g1h2 c1d1,773,100,85,31,crushing endgame master pin rookEndgame short,https://lichess.org/VxzZNQZv#81,
+nceYn,r1b2rk1/ppp2Npp/8/8/2Bn4/8/P4PPP/R3R1K1 b - - 0 17,f8f7 e1e8,729,92,86,47,mate mateIn1 middlegame oneMove pin,https://lichess.org/76CdnXOS/black#34,Danish_Gambit_Accepted Danish_Gambit_Accepted_Copenhagen_Defense
+ndj4c,rn6/pbpp1Npp/1p6/3n1k2/2P2b2/5R2/PP5p/RNB4K w - - 0 20,c4d5 b7d5 c1f4 d5f3,755,89,72,146,crushing fork middlegame pin short,https://lichess.org/ntt0xktf#39,
+nmcZJ,2r1k2r/2qp1p2/p3p1p1/1pb1P1Bn/4b1Q1/1B6/PPP3PP/R4R1K w k - 0 18,g4e4 h5g3,709,83,84,182,mate mateIn1 middlegame oneMove pin,https://lichess.org/nsmuoMBc#35,Sicilian_Defense Sicilian_Defense_Taimanov_Variation
+nqAHJ,r3r1k1/ppp2pp1/2n4p/3p1Q2/3q4/1P2PN1P/P3KPP1/R1R5 w - - 0 18,f3d4 c6d4 e2f1 d4f5,770,97,94,461,crushing middlegame pin short,https://lichess.org/KnYrCyHd#35,Torre_Attack Torre_Attack_Classical_Defense
+ntTJm,1b4rk/1p4Qp/p7/8/1PP5/P6P/1B3qP1/4R2K b - - 0 34,g8g7 e1e8 f2f8 e8f8,740,96,71,39,endgame fork mate mateIn2 pin short,https://lichess.org/LK2N42l0/black#68,
+nw1l6,8/1p3k2/1pp3rP/7Q/2P3PK/1P6/P7/5r2 w - - 4 45,h6h7 f1h1 h4g3 h1h5,719,100,89,1061,crushing endgame pin queenRookEndgame short skewer,https://lichess.org/ktFycc9m#89,
+o1siq,4r1k1/1b3pqp/p4P2/8/2p4R/2P3NQ/6rP/6RK w - - 0 33,g1g2 e8e1 g3f1 e1f1,753,80,87,663,mate mateIn2 middlegame pin short,https://lichess.org/QWDXD9Hz#65,
+o4Oq5,4r1k1/2Q4p/p5p1/1pb2p2/2p5/8/PP3qPP/1B3RK1 w - - 0 33,f1f2 e8e1,780,85,88,72,endgame mate mateIn1 oneMove pin,https://lichess.org/kHLvmBMJ#65,
+oBKXV,r1bqkb1r/pppp1ppp/2n5/8/3QP3/4B3/PPP2PPP/RN2KB1R w KQkq - 3 7,d4c3 f8b4 a2a3 b4c3,752,88,95,799,crushing opening pin short,https://lichess.org/AUfT6pnl#13,Scotch_Game Scotch_Game_Other_variations
+oCiiH,6r1/R5pk/7p/3N1n2/p5P1/8/6PK/8 b - - 0 46,f5d6 d5f6 h7h8 f6g8,764,79,97,1112,advantage endgame pin short,https://lichess.org/iHLmuBzo/black#92,
+oEhPZ,4rr1k/1b3p1p/p2p1PpQ/1p6/5R2/2N5/PPP3qP/6RK w - - 0 24,g1g2 e8e1 f4f1 e1f1,743,130,100,24,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/40vzUCXW#47,
+oFbSx,5r2/7p/p7/1pp3k1/5p2/1P1P1R2/P1P2KP1/8 w - - 3 33,g2g3 f4g3 f2g3 f8f3,714,94,47,33,attraction crushing discoveredAttack endgame pin rookEndgame short,https://lichess.org/n1oZC3UO#65,
+oIQHF,r1r3k1/5pp1/7p/1p1pP3/2N5/1P2B2P/6P1/2R2K2 w - - 0 35,c4b6 c8c1 e3c1 a8a1 f1e2 a1c1,754,92,94,1449,crushing endgame long pin,https://lichess.org/wbb62ts6#69,
+oN6Fy,r1bq1r1k/ppp3bp/3p1np1/4p3/2BPP1PN/2N4R/PPPQ2P1/2KR4 b - - 2 15,c8g4 h4g6,782,79,94,164,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/uyBgBK0Y/black#30,Modern_Defense Modern_Defense_Other_variations
+oPKQi,rn1qkb1r/1p3ppp/2p5/p2p1b2/3P4/2QBPN2/PP3PPP/R1B1K2R w KQkq - 0 10,d3f5 f8b4 e1g1 b4c3,795,87,93,680,advantage opening pin short,https://lichess.org/ahxzimi2#19,Slav_Defense Slav_Defense_Quiet_Variation
+oR5e5,4r1k1/1b5p/1p1R2p1/p1n2r2/2P5/6B1/PPQ3BP/2R2q1K w - - 0 27,c1f1 f5f1,729,83,98,635,mate mateIn1 middlegame oneMove pin,https://lichess.org/FmCKS9JF#53,
+oRTvo,8/6pk/5rp1/p6P/P1r1P1Q1/5PK1/8/8 w - - 1 44,h5g6 f6g6 g3f4 g6g4,788,85,95,1128,crushing endgame master pin queenRookEndgame short,https://lichess.org/rwLIaDc9#87,
+oRich,8/p1k5/1p1rpQ2/5p2/8/5PP1/PP2b1P1/2K5 w - - 5 40,f6c3 d6c6 c1d2 c6c3,726,100,93,1288,advantage defensiveMove endgame pin short,https://lichess.org/kI7vUr10#79,
+omnTZ,8/R1r1bk2/2p2r2/1p1p2p1/1P1Pp1Pp/4P2P/R4PK1/4B3 b - - 3 37,e7d6 a7c7 d6c7 a2a7 f7g6 a7c7,716,83,93,326,advantage clearance endgame long pin,https://lichess.org/tAUsPDA5/black#74,
+osSso,8/4p2p/3b2p1/6P1/8/4Q2P/2k3K1/3r4 w - - 5 53,e3e2 d1d2 g2f3 d2e2,729,97,90,394,crushing defensiveMove endgame pin short,https://lichess.org/ETwGP7Ra#105,
+owbVr,8/8/1p4k1/6p1/P4p2/5P2/2rp2P1/B2R2K1 w - - 0 49,a1d4 c2c1 g1f1 c1d1,770,99,95,366,advantage endgame pin short,https://lichess.org/k3juBumX#97,
+ozMed,rn3r2/p4pk1/1p2p2p/3bP3/3P4/P2B2q1/2Q3P1/R4KNR b - - 1 19,d5g2 c2g2 g3g2 f1g2,752,197,47,49,advantage middlegame pin short,https://lichess.org/MVFS6XDK/black#38,
+p7mrX,6rk/6Qp/2p5/5p2/4b3/1PB3P1/P3q2P/3R2K1 b - - 0 40,g8g7 d1d8,795,78,100,206,endgame master mate mateIn1 oneMove pin,https://lichess.org/JdufASvx/black#80,
+p94Zq,r2qk2r/1p1bbp1p/p2p2p1/6P1/4Pp2/2N5/PPPQB2P/2KR3R w kq - 0 16,d2f4 e7g5 f4g5 d8g5,723,101,89,772,crushing middlegame pin short,https://lichess.org/vtYSnFgL#31,Sicilian_Defense Sicilian_Defense_Taimanov_Variation
+pBYjp,8/1p3pkp/pR1Q2p1/3p4/r3b3/2P5/6qP/6RK w - - 0 36,g1g2 a4a1 b6b1 a1b1,756,87,91,392,endgame mate mateIn2 pin short,https://lichess.org/rYPlxcPT#71,
+pBnPU,r2qk1nr/pp4pp/3ppb2/2p2P2/4P3/4Q2P/PPPN2P1/R1B2RK1 w kq - 0 14,f5e6 f6d4 e3d4 c5d4,778,92,90,776,crushing middlegame pin short,https://lichess.org/3jqx5EDP#27,Philidor_Defense Philidor_Defense_Other_variations
+pDBAT,6k1/5pbp/1n4p1/p1p5/P7/1P2N1P1/5P1P/5BK1 w - - 2 27,f2f4 g7d4 g1g2 d4e3,755,95,93,870,advantage endgame pin short,https://lichess.org/4wwspOB4#53,
+pI89Y,r2q1rkn/3nbppp/2p5/p2pPp1P/3P1N2/1p2BNP1/PPPQ1P2/R3K2R w KQ - 0 16,c2b3 e7b4 e1g1 b4d2,720,83,67,156,crushing middlegame pin short,https://lichess.org/kCu97k3U#31,Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation
+pIWe3,rn3rk1/p4Qpp/2p2p2/8/8/1B3b2/PP1q1PPP/2R1R1K1 b - - 0 15,f8f7 e1e8,785,82,56,79,mate mateIn1 middlegame oneMove pin,https://lichess.org/zecDObQT/black#30,Reti_Opening Reti_Opening_Reti_Accepted
+pLRPl,6k1/1p3q2/2p2B1p/P7/2p5/4PR2/6K1/8 b - - 0 45,f7g6 f3g3 g6g3 g2g3,781,92,96,234,crushing defensiveMove endgame pin short,https://lichess.org/BNFExYyV/black#90,
+pQbkJ,r2k1r2/pppb1pp1/5b1p/4p3/2B1P3/2N5/PPPR1PPP/2K4R w - - 0 13,h1d1 f6g5 g2g3 g5d2,743,82,52,78,advantage middlegame pin short,https://lichess.org/mL4npHjK#25,Pirc_Defense Pirc_Defense_Other_variations
+pTuld,8/4kr2/p1p1pn2/8/P6Q/6P1/8/6K1 w - - 2 50,g1h2 f7h7 h4h7 f6h7,733,89,82,265,crushing endgame pin short,https://lichess.org/XV3RuB9g#99,
+pUyIl,r2q1k1Q/p1n1rpp1/1p2p1n1/1P1pP1P1/1B1P4/P7/5PP1/R3K2R b KQ - 4 19,g6h8 h1h8,725,90,76,158,mate mateIn1 middlegame oneMove pin,https://lichess.org/1ZqaZitO/black#38,
+pWwhB,8/8/8/4Q3/5P2/1p6/2r2P1P/1k4K1 w - - 6 49,e5e1 c2c1 e1c1 b1c1,743,103,89,479,crushing defensiveMove endgame master pin queenRookEndgame short,https://lichess.org/Q4vhTDdQ#97,
+pdXhy,1r4k1/6p1/7p/p1N5/3Pp3/4P3/P1p2PPP/2R3K1 w - - 0 29,g1f1 b8b1 f1e1 b1c1,782,107,85,236,crushing endgame pin short,https://lichess.org/SJyFWjWj#57,
+petgq,3rrk2/2p1Rp2/1pp2Ppp/p4b2/P4P2/1PB5/2P3PP/4R2K w - - 6 31,e7c7 e8e1 c3e1 d8d1 h1g1 d1e1,783,90,96,2075,advantage endgame kingsideAttack long pin,https://lichess.org/DvgyQ1xa#61,
+phQII,r5k1/pp3ppp/1bn5/8/5Q2/B1Pq4/P4RPP/RN3K2 w - - 4 22,f1g1 d3d1,773,78,99,853,master mate mateIn1 middlegame oneMove pin,https://lichess.org/ItS95jo8#43,
+pi2Go,3R1q1k/5P1p/p4Qpb/8/4P3/3Rp1PP/1rr1N1K1/8 b - - 3 35,h6g7 d8f8,749,80,95,1789,master mate mateIn1 middlegame oneMove pin,https://lichess.org/0E3UsXWS/black#70,
+pj6xj,r1b2q1k/ppp4p/5Rp1/8/2B5/8/P1P3PP/Q5K1 b - - 0 18,f8g7 f6f8,745,93,88,618,endgame mate mateIn1 oneMove pin,https://lichess.org/vi4wu1jK/black#36,
+pk427,6r1/1R4pk/2R4p/7K/1P6/6P1/1r6/8 b - - 4 38,b2b3 c6h6,798,92,86,284,endgame mate mateIn1 oneMove pin rookEndgame,https://lichess.org/QRnvFgWn/black#76,
+pqnJt,2r3k1/6p1/4p2p/5p2/1P5P/1Q2P1P1/2p1qP2/2R3K1 b - - 3 38,e2d1 c1d1 c2d1r b3d1,770,89,92,353,advantage endgame pin short xRayAttack,https://lichess.org/dKMSxSnd/black#76,
+prKqo,1R1Nrk2/8/2N3p1/3r1p1p/5K1P/5P2/8/8 b - - 0 54,d5d7 d8e6 f8g8 b8e8,792,81,74,97,crushing deflection discoveredAttack endgame master pin short,https://lichess.org/eFPJODog/black#108,
+psItY,8/1p3k1b/2p5/p6P/6R1/2P5/6PK/8 w - - 0 46,h2h3 h7f5 h3g3 f5g4,735,96,89,540,crushing endgame pin short,https://lichess.org/T2r3K4rB#91,
+q8dwS,8/1pk2pp1/4p3/1Q1pP3/Pn1q2P1/1P2B1K1/5P2/8 b - - 3 40,d4e5 e3f4 e5f4 g3f4,701,94,89,187,advantage defensiveMove endgame master pin short,https://lichess.org/tfbiMruq/black#80,
+qBQ2Q,r4B2/2kp4/b1p4p/pp2P3/3P4/1P4P1/P5P1/R6K w - - 1 27,f8h6 a8h8 h1g1 h8h6,752,87,93,502,advantage endgame pin short,https://lichess.org/mjuqf6BI#53,
+qDAQ8,r2qr1k1/4bpp1/2bp4/p1p3P1/P1B1P1n1/2N1QP2/1PP3P1/2KR3R w - - 1 19,f3g4 e7g5 e3g5 d8g5,772,82,83,114,crushing middlegame pin short,https://lichess.org/CtkRzPj6#37,Four_Knights_Game Four_Knights_Game_Scotch_Variation
+qFWn0,4rrk1/5p2/8/p1pNb1q1/1pQ4p/4RRPP/P6K/8 b - - 0 39,h4g3 f3g3 e5g3 e3g3 g5g3 h2g3,743,86,88,449,advantage long middlegame pin,https://lichess.org/P1UDh2Wt/black#78,
+qG5gp,8/8/8/5k2/1P6/7P/2rp2PK/3R4 w - - 2 48,h2g1 c2c1 g1f1 c1d1,700,93,78,100,crushing endgame pin rookEndgame short,https://lichess.org/BhMQxSyi#95,
+qH0qO,2r3k1/pp3ppp/5q2/4p3/5n2/2P2NQ1/PP3PPP/3R2K1 w - - 1 25,f3e1 f4e2 g1f1 e2g3,776,93,93,2229,crushing endgame fork pin short,https://lichess.org/B9SMNtaz#49,
+qIUJv,r1b1kr2/1p4p1/p2Rp1p1/7p/4n3/PBN2Q2/1PP5/5K2 w q - 0 22,d6e6 c8e6 f3f8 e8f8,718,79,86,117,crushing middlegame pin short,https://lichess.org/kSGw6abZ#43,
+qMUsg,r1b2k1r/pp2pp1p/6pB/1B2b3/8/8/PP3PPP/R2R2K1 b - - 3 15,e5g7 d1d8,775,85,84,232,mate mateIn1 middlegame oneMove pin,https://lichess.org/LBgFnh1m/black#30,Sicilian_Defense Sicilian_Defense_Alapin_Variation
+qPUGU,6k1/p4p2/2pq1b1p/8/2p2P2/PP1Pr1p1/2PQ2N1/6KR w - - 0 38,d2e3 f6d4 g1f1 d4e3,774,84,78,187,crushing endgame pin short,https://lichess.org/D7nYF3mT#75,
+qRiI9,3r2k1/1p3p1p/p2p2p1/3Nn2P/4P3/8/PPP2r2/2KR2R1 b - - 3 27,d8c8 d5e7 g8f8 e7c8,766,97,82,412,crushing endgame fork pin short,https://lichess.org/6fsyeaP2/black#54,
+qTiWt,r1b2rk1/p1p2Qpp/2pp4/2B5/2B5/8/P1P2PPP/qN2R1K1 b - - 0 14,f8f7 e1e8,780,101,88,40,mate mateIn1 middlegame oneMove pin,https://lichess.org/hilhLpvh/black#28,Scotch_Game Scotch_Game_Classical_Variation
+qUb2F,5rkb/1p3Q1p/2p3pP/p5q1/P7/1BP3P1/4RP2/6K1 b - - 0 35,f8f7 e2e8,734,99,96,414,endgame master mate mateIn1 oneMove pin,https://lichess.org/c4C9MbPr/black#70,
+qX7S9,r3kb1r/pb1n1pp1/1pp5/2q1p2n/2P1P3/1PN2NP1/PBQ3BP/3R1R1K w kq - 4 18,c3a4 h5g3,781,90,95,378,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/57IKtg54#35,English_Defense English_Defense_Other_variations
+qd40B,r5k1/5p1p/4p1p1/2Pp4/3N4/6P1/2B2P1P/rR4K1 w - - 1 34,c5c6 a1b1 c2b1 a8a1 g1g2 a1b1,779,102,91,804,clearance crushing endgame long pin,https://lichess.org/Sh0K8jFt#67,
+qpHPf,r1b2Qk1/1p4p1/pqp2nBp/3p4/3P4/2N3P1/PPP3PP/4RRK1 b - - 0 17,g8f8 e1e8,738,85,100,132,mate mateIn1 middlegame oneMove pin,https://lichess.org/jzfdTCDh/black#34,Rapport-Jobava_System_with_e6 Rapport-Jobava_System_with_e6_Other_variations
+qsnjv,r1b2rk1/pp3Qpp/2n5/8/2B4q/P1P5/2P2PPP/R1B1R1K1 b - - 0 15,f8f7 e1e8,720,100,93,1016,mate mateIn1 middlegame oneMove pin,https://lichess.org/7J46FUul/black#30,Sicilian_Defense Sicilian_Defense_Bowdler_Attack
+qunNb,3kb3/8/p6q/1p1pPBbp/2pP2p1/P1P3P1/1P3Q1P/5RK1 w - - 7 34,e5e6 g5e3 f2e3 h6e3,739,103,95,637,crushing endgame kingsideAttack pin short,https://lichess.org/1P1fRhIG#67,
+qvoyZ,2r3k1/4P3/p4b1p/Qp2pp2/8/4q1PB/PP2NR1P/6K1 w - - 1 27,a5d8 c8d8 e7d8q f6d8,797,88,78,260,crushing middlegame pin short xRayAttack,https://lichess.org/fjCKpi6K#53,
+r3U67,2k5/2q5/4pb2/pR1p1p2/P1P2P2/1K2P3/3P4/2R5 b - - 2 55,d5c4 c1c4 c7c4 b3c4,755,97,71,121,crushing endgame pin short,https://lichess.org/tpZ8CK04/black#110,
+r5Crx,2r1r2k/ppP3p1/2bQ3p/5N2/5P2/PB6/1P4qP/6RK w - - 0 28,g1g2 e8e1,765,78,75,105,mate mateIn1 middlegame oneMove pin,https://lichess.org/LEwUQtR0#55,
+r5Gy8,1k1r3r/1b6/1p2p1pn/1BqpPp2/P2NnP2/1PP3Pp/2R4P/R2Q2NK w - - 3 25,g1e2 e4f2 h1g1 f2d1,789,80,94,457,advantage fork middlegame pin short,https://lichess.org/oRgPhpdL#49,
+r6As2,2kq4/2p2p2/p6p/1p4p1/4P3/2P2PP1/PP1r1b2/3RQRK1 w - - 0 22,f1f2 d2d1 e1d1 d8d1,710,106,87,966,crushing endgame pin short,https://lichess.org/MLuEplzO#43,
+r7PkK,2r4k/1pq3np/p5p1/5p2/1P1P4/P1r1P2P/2B2PP1/1RRQ2K1 w - - 3 32,c2b3 c3c1 b1c1 c7c1 d1c1 c8c1,714,92,66,62,advantage long middlegame pin,https://lichess.org/O7d2MyF8#63,
+r9Mk6,8/R7/5k2/5p1p/5PpP/P2pP1P1/1rnP2K1/5R2 w - - 1 42,f1d1 c2e3 g2f2 e3d1,747,84,94,118,advantage endgame master pin short,https://lichess.org/7H7DDy2r#83,
+r9fgL,8/2R3pk/7p/p2N1P2/2n1P1P1/6r1/8/K7 b - - 2 36,c4e5 d5f6 h7h8 c7c8,799,81,92,285,endgame mate mateIn2 pin short,https://lichess.org/hTxw2YHJ/black#72,
+rCL95,5r2/pQ3pkp/1p1p2p1/4q1P1/3N4/P1P5/KP6/8 b - - 0 27,e5g5 d4e6 g7h6 e6g5,779,83,82,250,crushing endgame master pin short,https://lichess.org/GfhATujR/black#54,
+rE4c8,8/1pp1R1pk/1p1p2pp/3P4/2r3N1/6P1/5PK1/8 b - - 1 30,b6b5 g4f6 h7h8 e7e8,765,96,95,1237,endgame mate mateIn2 pin short,https://lichess.org/hElA2k1z/black#60,
+rExzj,5r1k/p7/2p2q2/1bPpQ3/3P1nRP/8/P2R2PK/8 w - - 7 50,g4f4 f6e5 d4e5 f8f4,733,100,83,111,advantage capturingDefender discoveredAttack endgame pin short,https://lichess.org/K33ufQr3#99,
+rNVnU,8/p2b3p/1p3kp1/2p5/4R3/P1P4P/6P1/7K w - - 1 37,g2g4 d7c6 h1h2 c6e4,741,83,95,2817,crushing endgame pin short,https://lichess.org/x1TWY7Se#73,
+rUN8q,3r2k1/p4pp1/8/6p1/8/P2p3P/1P1QqPP1/R5K1 w - - 2 32,d2e2 d3e2 a1e1 d8d1 f2f3 d1e1,777,79,100,99,advancedPawn crushing endgame long pin,https://lichess.org/ho2zd2yw#63,
+rWyD8,5r2/pp2k3/1bp1p2p/8/4PN2/6PP/PPP2n1K/5R2 b - - 0 24,e6e5 f4g6 e7f7 g6f8,765,79,76,100,advantage endgame fork pin short,https://lichess.org/t5a6Gq9Q/black#48,
+rc451,2k4r/1pp3pp/3b4/8/R6B/P7/1rP2PPP/3R2K1 b - - 0 23,b2c2 a4a8 c8d7 a8h8,796,89,87,144,crushing endgame master pin short skewer,https://lichess.org/j9KQ510q/black#46,
+rnt1S,8/1p3p1p/p3p1p1/2PkP3/PP1r2P1/2rRKP1P/8/3R4 b - - 0 32,c3d3 d1d3 d4d3 e3d3,722,97,88,728,advantage endgame pin rookEndgame short,https://lichess.org/CRns01fH/black#64,
+ry8J2,2kr3r/pbp1qpp1/1p2Pb1p/3p4/8/2PBP1P1/PPQN2P1/2KR3R b - - 0 16,e7e6 d3f5 e6f5 c2f5,727,111,65,58,advantage middlegame pin short,https://lichess.org/yutq7eAg/black#32,Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System
+ryL2L,5rk1/5Qpp/5b2/1P6/3P1q2/8/B4PPP/4R1K1 b - - 0 31,f8f7 e1e8,797,89,56,43,endgame master mate mateIn1 oneMove pin,https://lichess.org/UpFX6lld/black#62,
+s8oxH,6k1/6p1/6p1/3Rp3/pb4P1/8/7K/8 w - - 0 39,d5e5 b4d6 h2g2 d6e5,784,79,99,2219,crushing endgame pin short,https://lichess.org/0mKpgTSB#77,
+s9gjr,5rk1/p4Qpp/2p5/4q1P1/4n2P/1B6/P4P2/3R2K1 b - - 0 25,f8f7 d1d8 e5e8 d8e8,729,77,97,280,endgame mate mateIn2 pin short,https://lichess.org/Dq5Vgugm/black#50,
+sCnyL,8/pp3kp1/3br2p/3p4/3P2Q1/2P3P1/PP5P/5K2 w - - 0 30,g4f3 e6f6 f1e2 f6f3,705,84,81,187,advantage defensiveMove endgame pin short,https://lichess.org/F8S3uoj0#59,
+sCs1T,5B2/3r2p1/5pBp/3k1K1P/8/8/8/8 b - - 2 47,d5c6 g6e8 c6c7 e8d7,791,78,93,423,crushing endgame pin short,https://lichess.org/rHLGExFg/black#94,
+sGJaj,4r1k1/RP6/3n4/2p5/2P5/3K4/8/8 b - - 0 52,e8b8 a7a8 g8f7 a8b8,760,92,73,34,crushing endgame master pin short,https://lichess.org/LgmHSANn/black#104,
+sHNYl,r1b1k1r1/1pq1bp2/2p5/p3p2p/P1B1P1P1/2N1QP2/1PP5/3R1RK1 w q - 0 20,c4f7 e8f7,767,101,81,54,advantage hangingPiece middlegame oneMove pin,https://lichess.org/HQhiU214#39,
+sLXfX,7k/8/7p/p7/1p5P/1B6/PP1rpPP1/4R1K1 w - - 2 40,b3c4 d2d1 f2f4 d1e1,745,103,93,477,crushing endgame master pin short,https://lichess.org/tNit5mXa#79,
+sRSLS,4Q3/kp6/3p1p2/3Pp3/1q4p1/P3b3/2R5/K7 b - - 0 46,b4a3 c2a2 e3d4 a1b1 a3a2 b1a2,708,98,87,404,advantage endgame long pin,https://lichess.org/Ylqw0eWU/black#92,
+sa3cj,2r1r1k1/p4pp1/1bp4p/n7/6Q1/2P5/PP1P1qPP/RNB2RK1 w - - 0 19,f1f2 e8e1,727,90,84,389,mate mateIn1 middlegame oneMove pin,https://lichess.org/VTnUwaVR#37,Italian_Game Italian_Game_Two_Knights_Defense
+saLrS,4r2r/1p1b1k2/2p5/5q2/2P2n2/p2P1QBP/6B1/5RRK b - - 3 31,h8h3 g2h3 f5h3 g3h2 h3f3 f1f3,796,116,88,23,advantage long master middlegame pin,https://lichess.org/hy5LoJ9G/black#62,
+siQwL,r4rk1/2pq1ppp/5n2/p7/2B5/2QP4/PPPn3P/2K2R1R w - - 0 21,c1d2 f6e4 d2c1 e4c3,788,93,94,2045,crushing middlegame pin short,https://lichess.org/PFqdL5Bo#41,
+sidKi,2r5/5ppp/2N1k3/p7/4P2P/8/PPP2n2/2K1R3 w - - 2 30,c6a5 f2d3 c1d2 d3e1,786,91,63,96,crushing endgame pin short,https://lichess.org/bbP72Fs9#59,
+sk7Kn,7k/2p2rrp/1p1p2p1/p1nP2P1/2PB1Q1P/2P5/P5K1/4R3 b - - 0 29,f7f4 e1e8 f4f8 e8f8,752,98,88,207,endgame master mate mateIn2 pin short,https://lichess.org/TqHpqvW5/black#58,
+skVXW,rn1q1r1k/ppp3bp/n2p2p1/1B4P1/3PP1bN/PQ6/1P3P2/RNB1K2R b KQ - 3 15,d8e7 h4g6,790,76,100,253,kingsideAttack mate mateIn1 middlegame oneMove pin,https://lichess.org/rMe7UBQq/black#30,Indian_Defense Indian_Defense_Gibbins-Weidenhagen_Gambit
+slSkT,8/8/8/8/8/3p2rp/3K3k/4Q3 w - - 6 79,e1f2 g3g2 d2e3 g2f2,767,94,89,528,crushing endgame pin queenRookEndgame short,https://lichess.org/PTeNIyRt#157,
+smNKt,8/8/4k2p/p2r3P/P1K4R/8/8/8 b - - 5 44,e6d6 h4d4 d5d4 c4d4,799,97,93,140,crushing endgame pin rookEndgame short zugzwang,https://lichess.org/NJvPUIwT/black#88,
+ssfG6,6k1/pbp4p/6p1/3qp3/3pN3/BP1Qbr2/P5KP/5R2 w - - 0 28,f1f3 d5e4 d3e4 b7e4,762,79,100,183,crushing middlegame pin short,https://lichess.org/nRzqcZK3#55,
+ssoZo,r4kr1/2p2pq1/pb1pR2p/1p1P4/8/5QPP/PP4BK/5R2 b - - 5 24,g7g3 f3g3 g8g3 h2g3,782,88,73,157,advantage master middlegame pin short,https://lichess.org/TKIwSEGc/black#48,
+szcOt,6r1/pp3k1p/8/3N4/2Pn4/1P6/P5P1/1R4K1 w - - 3 33,b1e1 d4f3 g1f2 f3e1,755,97,84,264,crushing endgame pin short,https://lichess.org/cKmZU7fI#65,
+t1Qo7,8/8/p3p3/2P3p1/1P5p/3K3P/6k1/8 b - - 0 48,g2h3 c5c6 g5g4 c6c7 g4g3 c7c8q,721,85,62,80,advancedPawn crushing endgame long pawnEndgame pin promotion,https://lichess.org/yKBniDft/black#96,
+tAyXL,3q2k1/1br1brpp/p4B2/1p6/3P4/1BP5/P3QPPP/R3R1K1 b - - 0 20,e7f6 e2e8 d8e8 e1e8,746,93,93,838,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/zgYGGs5Y/black#40,
+tCiUN,r1bqk1nr/1ppp2pp/p1nb1p2/8/3QP3/1P3N2/PBP2PPP/RN2KB1R w KQkq - 2 7,d4c3 d6b4 a2a3 b4c3,739,86,88,262,advantage opening pin short,https://lichess.org/budGVRgd#13,Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation
+tEjtM,8/8/8/8/7P/3R4/1k2K3/2q5 b - - 0 64,c1c2 d3d2 b2c3 d2c2,708,85,93,731,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/2XJYNeNB/black#128,
+tGItJ,1r6/1R2p2k/3p2pp/P1n2p2/8/5P2/6PP/1R3K2 b - - 0 42,b8b7 b1b7 c5b7 a5a6 b7c5 a6a7,784,85,81,284,advancedPawn crushing endgame long pin,https://lichess.org/cdClEDpc/black#84,
+tGLzR,4r3/p3k3/8/2Pn3Q/8/3KP1p1/PP5b/8 w - - 2 37,h5d5 e8d8 d5d8 e7d8,789,195,-29,11,crushing endgame pin short,https://lichess.org/xdyrT6im#73,
+tPU4g,5k2/p1r3p1/5p2/5P2/2p2B1P/PnPp1K2/1P6/3R4 b - - 1 39,c7e7 f4d6 f8e8 d6e7,703,96,94,1553,crushing endgame pin short,https://lichess.org/5LQiBz2i/black#78,
+tUSSg,4r1k1/5pp1/Qpb4p/8/8/1BP5/PP4qP/6RK w - - 0 32,g1g2 e8e1 a6f1 e1f1,750,77,99,1564,endgame mate mateIn2 pin short,https://lichess.org/Lc8A6jOH#63,
+tUoc4,8/3k3p/1P1n1p2/4p3/N1p1P3/3r4/6PP/2R3K1 b - - 2 30,d3b3 a4c5 d7c6 c5b3,714,93,81,251,advantage endgame fork pin short,https://lichess.org/qqLbWuYS/black#60,
+tivf3,Q5r1/3bkp2/p6p/2p4q/4P3/2Pr4/PP2RRPN/7K w - - 3 31,a8g8 d3d1 e2e1 d1e1 f2f1 e1f1,788,91,92,1390,long mate mateIn3 middlegame pin,https://lichess.org/3XcXaUrM#61,
+tlOl4,6k1/7p/rp3bp1/2pPR3/2P3P1/P6P/8/5BK1 w - - 1 40,e5e3 f6d4 g1g2 d4e3,709,106,88,437,crushing endgame pin short,https://lichess.org/mNxaNfSB#79,
+tlcOb,1r4k1/p3r3/1p2Rpp1/2p2q1p/2Pp1P1P/P5P1/6BK/1R1Q4 b - - 0 29,f5e6 g2d5 e6d5 c4d5,719,107,95,1636,advantage endgame pin short,https://lichess.org/WuvVMtO1/black#58,
+tpaNM,r2qk2r/pp1N1ppp/3bpn2/8/1P1N4/P2BP3/5PPP/R2QK2R b KQkq - 0 13,d8d7 d3b5 d7b5 d4b5,799,85,93,1495,crushing middlegame pin short,https://lichess.org/C072rA9S/black#26,Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations
+tpoBB,r4r2/6bk/p2p2pp/n2P1P2/NppqP3/4Q3/PP6/1BK3RR w - - 1 26,h1h6 g7h6 e3h6 h7h6,798,89,82,75,crushing middlegame pin short,https://lichess.org/A4ZYKfqu#51,
+twi3y,2k3r1/1b4PR/pp2p3/3pPp2/1P1p1P2/8/1PPK3Q/5q2 b - - 0 30,f1f3 h7h8 f3e3 d2d1 c8c7 h8g8,706,99,96,1220,crushing endgame long pin,https://lichess.org/JIUuivwn/black#60,
+tyc7B,4q1k1/5ppp/B4n2/8/3p4/1P5P/P4PP1/1NR3K1 b - - 0 26,h7h6 c1c8 e8c8 a6c8,730,95,89,266,advantage endgame master pin short,https://lichess.org/WFY1K4Pn/black#52,
+u462x,r1bqr1k1/ppp1bp1p/3p2p1/8/4P3/1PNPn1Q1/1PP1NPPP/R3K2R w KQ - 0 13,f2e3 e7h4 e1g1 h4g3,710,99,85,808,crushing middlegame pin short,https://lichess.org/worxNvzy#25,Bishops_Opening Bishops_Opening_Other_variations
+uABhW,8/2k4K/4q1R1/8/2p1p2P/8/2P2PP1/8 b - - 0 49,e6f7 g6g7 c7d6 g7f7,764,82,67,69,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/T2C9h2Wy/black#98,
+uCsPc,1kb5/2P2R2/1K6/1P6/1P6/5p2/5r2/8 b - - 0 48,b8a8 f7f8 f2h2 f8c8,793,84,100,56,endgame mate mateIn2 pin short,https://lichess.org/GENFs1oJ/black#96,
+uIJZb,r7/p4p2/4b3/7k/8/6Q1/PPPPKPP1/RNB3q1 w - - 11 23,g3f3 e6g4 f3g4 h5g4,797,87,80,213,advantage defensiveMove middlegame pin short,https://lichess.org/pypnQIZw#45,
+uJ5UT,rn3rk1/pp3Qpp/2p5/6q1/2B5/1N6/PPb2PPP/R3R1K1 b - - 0 16,f8f7 e1e8,752,82,89,574,mate mateIn1 middlegame oneMove pin,https://lichess.org/U7Gpwgp5/black#32,Philidor_Defense Philidor_Defense_Other_variations
+uLiwP,r5k1/pp1Pq2p/2p3p1/2bp4/8/8/PPQ2rPP/RNB2RK1 w - - 0 17,f1f2 e7e1,731,82,94,195,mate mateIn1 middlegame oneMove pin,https://lichess.org/pmx5Jg5o#33,Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation
+uOuwV,r5r1/p2R2pk/1p2R3/2p2nB1/5p2/8/P5PK/8 b - - 3 39,f5d4 e6h6,746,77,86,125,endgame mate mateIn1 oneMove pin,https://lichess.org/HsYJ3jiG/black#78,
+uPLj8,r3r1k1/1p2Bp1p/p2P2p1/2p5/2P1P3/5K2/8/3R4 b - - 1 30,e8e7 d6e7 a8e8 d1d8 g8g7 d8e8,737,95,94,1011,advancedPawn crushing endgame hangingPiece long pin rookEndgame,https://lichess.org/bAo3AQdU/black#60,
+uSK0W,r1b2rk1/1p3Qpp/p7/8/3R4/1Bq2N2/P4PPP/3R1K2 b - - 0 25,f8f7 d4d8,703,94,86,301,mate mateIn1 middlegame oneMove pin,https://lichess.org/SbJ9jgdv/black#50,
+uWFX8,8/1p3ppk/1p6/p5rp/P7/5P1P/3n2P1/3RR1qK w - - 0 42,h1g1 d2f3 g1f2 f3e1,776,85,75,73,advantage endgame pin short,https://lichess.org/KlD4L4da#83,
+uYlZt,8/p1b3k1/2p1n3/2P1P2P/1P4P1/P6K/4R3/8 w - - 3 47,a3a4 e6f4 h3g3 f4e2,789,92,88,323,advantage endgame fork pin short,https://lichess.org/vTILDnoU#93,
+uZMW5,6k1/1r3pp1/7p/8/8/3P3P/2p2PP1/1rR1R1K1 w - - 5 46,g1f1 b1c1 e1c1 b7b1 f1e2 b1c1,703,100,96,167,attraction clearance crushing endgame long pin rookEndgame,https://lichess.org/ifAnny7A#91,
+ueXLI,3r4/1p2n3/p5k1/8/8/1B3N2/PPP3PP/3rR2K w - - 9 34,h2h3 d1e1 f3e1 d8d1 h1g1 d1e1,704,96,80,216,advantage clearance endgame long pin,https://lichess.org/MHH6R1ZV#67,
+uf35V,5rk1/2p2pp1/2n5/pp4R1/4N3/8/PP3PP1/6K1 b - - 0 26,c6d4 e4f6 g8h8 g5h5,779,86,94,602,endgame mate mateIn2 pin short,https://lichess.org/9wTpBOVF/black#52,
+ujeyz,rnbqr1k1/ppp1bppp/3p1n2/6B1/2BNP3/2N5/PPP2PPP/R2QK2R w KQ - 5 8,d1d2 f6e4 c3e4 e7g5,793,84,76,143,crushing discoveredAttack master masterVsMaster middlegame pin short,https://lichess.org/8Pk8bjcz#15,Philidor_Defense Philidor_Defense_Morphy_Gambit
+ukcZg,8/2Pk4/8/3rBP1p/7K/7P/8/8 w - - 1 44,h4h5 d5e5 c7c8q d7c8,757,95,100,52,crushing endgame hangingPiece master pin short,https://lichess.org/R7SfGvqC#87,
+upDyS,8/PK4k1/3q2p1/5p1p/2R4P/2N1p3/8/8 b - - 4 50,d6d7 c4c7 d7c7 b7c7 e3e2 c3e2,775,92,93,1431,crushing defensiveMove endgame long pin,https://lichess.org/FMSTQ3qU/black#100,
+uvwdc,2b1r1k1/5p2/1P5p/8/3pn2p/5N1P/r5PK/2R1R3 b - - 1 28,e4f6 e1e8 f6e8 c1c8,705,79,86,413,advantage middlegame pin short,https://lichess.org/9aS8mlhR/black#56,
+v0BcI,1r6/3r1ppp/ppkp4/2pR4/q1P5/3QPP2/2PK2PP/3R4 w - - 0 30,d5d6 d7d6 d3d6 c6d6,767,78,93,146,crushing endgame pin short,https://lichess.org/iKQDbdjp#59,
+v7ayL,4r1k1/5p1p/R5p1/p1b5/8/P2B1P2/2P3PP/4rR1K w - - 3 25,h2h3 e1f1 d3f1 e8e1,797,85,100,62,advantage clearance endgame pin short,https://lichess.org/vvhw3j9p#49,
+v7ywl,3r1rk1/pp3p1p/5qpP/P7/1PbpB1n1/3P4/4QP2/R1B2K1R w - - 0 26,d3c4 d4d3 e2f3 f6a1,743,280,-100,3,advantage discoveredAttack middlegame pin short,https://lichess.org/hSMiGp7E#51,
+v897u,r2qk3/ppp1np2/3b2r1/7Q/5p2/2PP3P/PP3PP1/RN2R1K1 b q - 3 16,d8d7 h5h8 g6g8 h8g8,770,82,90,451,mate mateIn2 middlegame pin short,https://lichess.org/nVNt3R1S/black#32,Kings_Knight_Opening Kings_Knight_Opening_Normal_Variation
+v97mf,6n1/2r2p1p/p7/3k4/8/3bB3/PP1bNPPP/3R1K1R w - - 9 21,d1d2 c7c1 d2d1 c1d1,797,100,78,457,mate mateIn2 middlegame pin short,https://lichess.org/Xgm4eEoF#41,
+v9XNV,4r1k1/5ppp/8/8/8/1P2p3/P1P2qPP/2R1Q2K w - - 2 29,e1f2 e3f2 c1f1 e8e1 g2g4 e1f1,726,93,83,160,advancedPawn crushing endgame long pin,https://lichess.org/CdnSZL3A#57,
+vDFAY,4r1k1/1b3p1p/3B2p1/8/Q7/8/6qP/6RK w - - 0 33,g1g2 e8e1,778,82,60,92,endgame mate mateIn1 oneMove pin,https://lichess.org/MI8mMY0b#65,
+vE7wB,1r3nk1/RP6/4p1Np/3pPpp1/3P4/1n4P1/5PKP/8 b - - 1 36,f8g6 a7a8 b3a5 a8b8,786,102,92,1385,advantage endgame pin short,https://lichess.org/O0GEeFtc/black#72,
+vFJBL,2krr3/pp3ppp/2P5/7b/2P5/2q1B2P/P4PP1/2R1KB1R w K - 0 18,c1c3 d8d1,703,82,97,808,mate mateIn1 middlegame oneMove pin,https://lichess.org/Xa3ZslNj#35,Russian_Game Russian_Game_Other_variations
+vGg5d,r2qk1nr/1p1bbppp/p2p4/2p2P2/4P1P1/2N1Q3/PPP4P/2KR1BNR w kq - 1 13,g4g5 e7g5 e3g5 d8g5,784,94,93,146,crushing opening pin short,https://lichess.org/PA2RRCtC#25,Rat_Defense Rat_Defense_Antal_Defense
+vIoXf,6rk/1ppb2Qp/p1q5/8/3B4/1P6/2P3PP/3R1RK1 b - - 0 30,g8g7 f1f8,743,78,100,462,endgame mate mateIn1 oneMove pin,https://lichess.org/St5X3nVc/black#60,
+vMkTQ,r1b1qr1k/ppp1p1bp/1n1p1p2/1N6/3PPpPN/1B6/PPPQ1PP1/R3K2R b KQ - 5 14,e8b5 h4g6,774,105,100,42,mate mateIn1 middlegame oneMove pin,https://lichess.org/9629pVpi/black#28,Pirc_Defense Pirc_Defense_Other_variations
+vSuER,6k1/7p/1p1r1bp1/1P1P1p2/3p4/7P/4BPP1/3R2K1 b - - 0 33,d6d5 e2c4 g8f8 c4d5,798,87,95,2542,advantage endgame pin short,https://lichess.org/KBttAttJ/black#66,
+vYA9J,8/5k2/2p3pp/p2bRp2/3P4/5P2/6PP/5K2 w - - 0 33,e5e2 d5c4 f1f2 c4e2,780,79,82,110,crushing endgame pin short,https://lichess.org/Ow1fB0XK#65,
+vZR4b,2k1r3/1bpqr3/ppn2p1p/3p3P/5RB1/PP6/2P3P1/RN1Q1K2 b - - 4 24,e7e1 d1e1 e8e1 f1e1 d7g4 f4g4,767,95,88,55,crushing long middlegame pin,https://lichess.org/Qvwj0XBW/black#48,
+vgFdJ,6k1/5q2/8/8/4R3/6KP/5PP1/8 b - - 9 47,f7g6 e4g4 g8h7 g4g6,783,99,84,521,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/kmAEBVnv/black#94,
+vsFRM,8/6B1/6p1/6P1/5PK1/1p2r3/1P2k3/8 b - - 0 71,e2f2 g7d4 f2e2 d4e3,736,77,72,123,crushing endgame pin short,https://lichess.org/bgfDUX3o/black#142,
+vsFWX,r1bb2k1/ppp2rpp/2n2B2/8/2B5/8/P4PPP/RN2R1K1 b - - 0 13,d8f6 e1e8,758,80,97,1636,mate mateIn1 middlegame oneMove pin,https://lichess.org/ontB5T00/black#26,Danish_Gambit_Accepted Danish_Gambit_Accepted_Other_variations
+vv0QT,6k1/1p3p1p/r7/3p4/5N2/pP3NP1/P2K3P/8 w - - 7 46,f4d5 a6d6 d2d3 d6d5,795,79,100,102,advantage endgame pin short,https://lichess.org/aqu9loOD#91,
+vy4Yn,3b4/5kp1/4p2p/4P3/5P2/1p6/1PN3PP/6K1 w - - 0 28,c2d4 d8b6 g1f1 b6d4,760,111,77,64,crushing endgame pin short,https://lichess.org/XuUcd09f#55,
+wA43d,r3k2r/ppp2pb1/3pqnpp/3N4/3pP3/PP1P3P/2P2PP1/R1BQR1K1 b kq - 1 13,f6d5 e4d5 e6e1 d1e1,781,105,91,667,crushing middlegame pin short,https://lichess.org/AM29LtsW/black#26,Four_Knights_Game Four_Knights_Game_Italian_Variation
+wAfe5,2br2qk/1p4pp/p3n3/2Q5/5P1N/7R/PP3P2/6K1 b - - 6 39,e6c5 h4g6,712,104,100,63,endgame mate mateIn1 oneMove pin smotheredMate,https://lichess.org/7mMhy9Ql/black#78,
+wGADF,8/1p3pk1/2pp4/p6q/5P2/1P3R2/P4RK1/8 b - - 4 41,h5g6 f3g3 g6g3 g2g3,771,98,72,143,crushing defensiveMove endgame master pin queenRookEndgame short,https://lichess.org/L8Xl7MKh/black#82,
+wJ8HF,8/8/8/Pk6/1P3KR1/8/8/7q b - - 53 70,h1d5 g4g5 d5g5 f4g5,720,91,94,2040,crushing endgame master masterVsMaster pin queenRookEndgame short,https://lichess.org/W4ULhWgO/black#140,
+wOOpU,rn4k1/pp4pp/2pqp3/2b1N3/4Q3/2P5/PP3rPP/RN3RK1 w - - 0 16,f1f2 d6d1 e4e1 d1e1,714,80,100,450,kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/uNg4RqLz#31,Russian_Game Russian_Game_Italian_Variation
+wWUgZ,5k2/pp3ppp/2p1qb2/2Q1p3/1P6/P7/5PPP/3R2K1 b - - 3 29,f6e7 d1d8,782,94,88,37,endgame master mate mateIn1 oneMove pin,https://lichess.org/qZSiBAeI/black#58,
+wWtiZ,r6r/3n1kbq/1pp2pR1/p3p3/P3P1Q1/2NP4/1PP4P/5RK1 w - - 8 27,g6g7 h7g7 g4g7 f7g7,725,81,100,68,advantage master middlegame pin short,https://lichess.org/PunJatKf#53,
+wY9Li,r1bqr1k1/ppp3pp/1bn5/3p2N1/3PN3/1Q3P2/PP4PP/R1B1K2R b KQ - 0 12,g8h8 g5f7 h8g8 f7d8,710,85,85,153,crushing fork middlegame pin short,https://lichess.org/3vk0LNJI/black#24,Italian_Game Italian_Game_Classical_Variation
+wbHZ3,3r2k1/p1RP2pp/1p2p1p1/8/3P4/8/5PPP/6K1 b - - 0 33,a7a5 c7c8 g8f7 c8d8,705,101,88,228,crushing endgame pin rookEndgame short,https://lichess.org/CHpJ9AET/black#66,
+wc27y,r4k2/2P2p1p/8/p4p2/2pP4/4P2P/3b1PP1/1R4K1 b - - 0 32,a8c8 b1b8 f8e7 b8c8,788,94,88,580,crushing endgame master pin short,https://lichess.org/PvvE4mwl/black#64,
+weGaU,1k3r1r/p7/1bB5/4pq2/1Q5p/4n3/PPPR1PPB/6K1 w - - 0 35,f2e3 f5f1,791,88,87,190,mate mateIn1 middlegame oneMove pin,https://lichess.org/GIzB0iOt#69,
+wf5qB,r4rk1/ppq2ppp/2p5/2N1bP2/3p4/7P/PPPQB3/2KR2R1 w - - 4 23,e2d3 e5f4 d2f4 c7f4,770,96,93,902,advantage middlegame pin short,https://lichess.org/A5EnLbNa#45,
+whUBt,7k/pp2B1pb/3pB3/1q1Pp2Q/7P/8/PPR5/1K3r1R w - - 1 36,h1f1 b5f1 h5d1 f1d1,787,99,94,784,mate mateIn2 middlegame pin queensideAttack short,https://lichess.org/zwyfn9dC#71,
+wjcOt,4r1k1/1p3pP1/2p4p/p7/Pb2n1P1/8/1P2R2P/3R2K1 b - - 1 28,e4f6 e2e8 f6e8 d1d8 g8g7 d8e8,713,88,67,96,advantage endgame long pin,https://lichess.org/12qoXFdX/black#56,
+wobNZ,b2Rr1k1/5ppp/4p3/1rB5/2p2P2/4P3/6PP/3R2K1 b - - 1 31,a8c6 d8e8 c6e8 d1d8 f7f6 d8e8,776,104,95,1617,advantage clearance endgame long pin,https://lichess.org/RLm9KcKs/black#62,
+wqFo7,8/2r1p1k1/BQ1p2p1/3Pb3/1p3p2/5P2/Pq6/KR6 w - - 0 32,b1b2 c7c1,731,80,100,402,endgame mate mateIn1 oneMove pin,https://lichess.org/PRRRt9D3#63,
+wqoYl,1Rr1r1k1/2P2pbp/4p1p1/1R6/p7/8/2P2PPP/7K b - - 1 30,g8f8 b8c8 e8c8 b5b8 f8e7 b8c8,737,84,93,590,advantage attraction clearance endgame long pin,https://lichess.org/20BEfN4A/black#60,
+wtkmt,2r5/5R1p/p2pk3/8/3b4/8/P1R3PP/6K1 w - - 1 30,c2f2 c8c1,770,79,86,135,endgame mate mateIn1 oneMove pin,https://lichess.org/2e5O1XpJ#59,
+wtq5W,7r/p2n1k2/1p2p3/3pPpq1/3Pb1P1/2P5/PP3Q2/K5R1 b - - 0 30,g5g4 g1g4 h8h1 g4g1 h1g1 f2g1,737,81,85,203,advantage endgame long pin,https://lichess.org/YkJf6cHi/black#60,
+wy46R,4r2k/p5bp/1pQ3p1/8/P2rpq2/5P1P/1BP2P2/RK5R b - - 1 23,d4b4 c6e8 f4f8 e8f8,772,98,89,512,hangingPiece kingsideAttack mate mateIn2 middlegame pin short,https://lichess.org/M36jfV97/black#46,
+x09Av,1n3rk1/5Qpp/2p5/2r1q3/p1B5/7P/PP3PP1/2RR2K1 b - - 0 23,f8f7 d1d8 e5e8 d8e8,776,78,98,2156,mate mateIn2 middlegame pin short,https://lichess.org/jATKdYaU/black#46,
+x0qJJ,1b2r3/rbq2k1p/4p1p1/p4p2/2P1N3/BP3QP1/P4P1P/4RR1K w - - 2 25,e4d6 c7d6 f3b7 a7b7 a3d6 b8d6,792,76,96,566,advantage long middlegame pin,https://lichess.org/WyIb9JdH#49,
+x7kFy,3b2k1/1p3p2/4pP2/3pP1P1/3P3r/2R4P/6K1/8 b - - 0 41,h4d4 c3c8 g8h7 c8d8,780,93,93,649,advantage endgame pin short,https://lichess.org/RmFV9a8n/black#82,
+xCTWn,r4rk1/pp4p1/n1pb2q1/7R/2QPp3/4P3/PP3PP1/2K4R b - - 3 20,g6f7 h5h8,787,79,97,300,mate mateIn1 middlegame oneMove pin,https://lichess.org/Z7DUrTwE/black#40,
+xFLwx,2b5/5k2/1RP5/5ppp/8/1P4P1/4K2P/8 w - - 1 37,b6b5 c8a6 e2e3 a6b5,780,83,97,464,crushing endgame pin short,https://lichess.org/TcGE6aq6#73,
+xK4TL,R4rk1/6pp/8/1Pp5/3p1PBq/1P2Q2P/2P3P1/5nK1 b - - 0 27,f1e3 g4e6 g8h8 a8f8,720,85,71,123,backRankMate deflection endgame mate mateIn2 pin short,https://lichess.org/x4rGV0Ng/black#54,
+xTDuJ,6k1/p6p/5b2/1pp5/4Rp1p/2PP4/PP3P1K/8 w - - 0 31,e4f4 f6e5 h2h3 e5f4,786,114,88,49,crushing endgame master pin short,https://lichess.org/2hEU7nxg#61,
+xU8x3,3Rn1k1/4Ppp1/1pq4p/1pp5/8/7P/PP3PP1/3R3K b - - 3 34,c5c4 d8e8 c6e8 d1d8 f7f5 d8e8,777,89,89,404,attraction clearance crushing endgame long pin sacrifice,https://lichess.org/iAXj6TC3/black#68,
+xUuGV,8/4Q3/6r1/2r5/1k3K2/6P1/2P5/8 w - - 2 68,e7e4 c5c4 e4c4 b4c4,719,83,67,80,crushing defensiveMove endgame pin queenRookEndgame short,https://lichess.org/ZTPpdMJF#135,
+xbw5L,r1b2rk1/bpp2Npp/p1np2q1/8/3P4/1BP5/PP3PPP/R1BQR1K1 b - - 0 15,f8f7 e1e8,719,99,89,420,master mate mateIn1 middlegame oneMove pin,https://lichess.org/Dg1Z7aiU/black#30,Italian_Game Italian_Game_Giuoco_Piano
+xd8qm,3r4/6pk/N2p2rp/1p2n3/1Pp5/2P2P1P/P2R2P1/3R2K1 w - - 1 32,a6c7 e5f3 g1f1 f3d2,743,80,96,1569,crushing endgame pin short,https://lichess.org/pQ5cYVRU#63,
+xq4ck,1k2r3/1pp3p1/p1b5/5Q2/5P2/8/PP1p2qP/3N2RK w - - 0 27,g1g2 e8e1,747,88,94,805,endgame mate mateIn1 oneMove pin,https://lichess.org/AHzIn4Ql#53,
+xxW8b,2k2b1r/pp3ppp/2p1q3/8/2P5/P2BNP1P/1P3PP1/R3K2R b KQ - 0 15,f8c5 d3f5 e6f5 e3f5,791,82,52,56,advantage middlegame pin short,https://lichess.org/XpeVHNka/black#30,Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation
+y59vB,1k1r1b1r/1pp2p2/p4P2/3Pp2p/4P2p/2N4B/PPP5/2K3RR w - - 0 24,g1g5 f8h6 c1d1 h6g5,731,191,83,11,advantage middlegame pin short,https://lichess.org/c9xbEDqB#47,
+yEyRb,8/p7/1p2p1k1/3p1r2/8/2P1Q3/P5K1/8 w - - 0 48,e3g3 f5g5 g3g5 g6g5,791,91,87,77,crushing defensiveMove endgame master pin queenRookEndgame short,https://lichess.org/Be0CilAr#95,
+yFhHJ,8/8/7Q/2r5/1p6/1k3K2/2p5/2B5 w - - 1 54,h6e3 c5c3 f3e2 c3e3,750,91,73,238,crushing defensiveMove endgame pin short,https://lichess.org/MKJX8fob#107,
+yJQPW,r1b1r1k1/pp3ppp/8/8/3b4/5B1P/PP3nPB/RN3RK1 w - - 0 18,f1f2 e8e1,721,88,90,434,mate mateIn1 middlegame oneMove pin,https://lichess.org/O8lEObnM#35,Benoni_Defense Benoni_Defense_Benoni_Gambit_Accepted
+yOua4,r1b2rk1/ppp2Qpp/2n5/6q1/2B5/1N6/PP3PPP/R3R1K1 b - - 0 14,f8f7 e1e8,723,84,86,182,mate mateIn1 middlegame oneMove pin,https://lichess.org/BaZZHgrB/black#28,French_Defense French_Defense_Knight_Variation
+yPUmY,1k1r3r/1pp2ppp/8/1Nb1P3/P7/8/1P3nPP/R1B2RK1 w - - 0 17,f1f2 d8d1,735,80,99,560,master mate mateIn1 middlegame oneMove pin,https://lichess.org/uQ6qVcVh#33,
+ySE18,3r4/p2r1k1p/1p1PR1p1/5p2/8/8/P4PPP/3R1K2 w - - 1 33,e6e7 d7e7,722,104,88,443,crushing endgame oneMove pin rookEndgame,https://lichess.org/BnLOXO27#65,
+yigyx,2k4r/1p3p2/p2p3n/8/8/3N3P/P1P3PK/5R2 w - - 2 28,f1f6 h6g4 h2g3 g4f6,799,86,83,196,crushing endgame pin short,https://lichess.org/6wskFrNp#55,
+yjHbo,3b2q1/kb6/p4p1p/8/1Npn1B2/P1N5/1PPQ2P1/6K1 w - - 0 34,d2d4 d8b6 d4b6 a7b6,755,109,18,31,advantage middlegame pin short,https://lichess.org/owuox2PT#67,
+yoGiT,2rr2k1/1p3pp1/p6p/1bb5/3N4/2R1P3/P4PPP/2R3K1 b - - 4 22,c5d4 c3c8 d4b6 c8d8 b6d8 c1c8,738,109,88,581,clearance crushing endgame long pin,https://lichess.org/xXvTEvtF/black#44,
+ypLak,8/8/6pk/5pr1/4Q2p/7K/8/8 w - - 0 62,e4h4 g5h5 h3g3 h5h4,764,78,100,244,crushing endgame pin queenRookEndgame short,https://lichess.org/5Y2Xnmry#123,
+ysMIb,2k2qrr/1p6/1Rb1pP1p/p2p2n1/2pP1N2/2P1QB2/2P3PP/1R4K1 w - - 8 27,e3e5 g5f3 g1h1 f3e5,799,98,92,1012,crushing kingsideAttack master middlegame pin short,https://lichess.org/1PKBpldw#53,
+ytLog,4r1k1/1b3p1p/p5p1/1n3p2/Q1pP4/B7/P1P3qP/6RK w - - 0 28,g1g2 e8e1,755,80,100,258,endgame mate mateIn1 oneMove pin,https://lichess.org/TNNr2eFn#55,
+ywcD0,8/8/4p3/2P2k2/1P6/4pq1p/2R2R2/5K2 b - - 10 54,e3f2 c2f2 f3f2 f1f2 h3h2 f2g2 h2h1r g2h1,739,78,100,86,crushing endgame pin queenRookEndgame veryLong,https://lichess.org/XIsgL1Jo/black#108,
+z3ozW,5rk1/5Qpp/2R5/p2B4/q2P4/6NP/1r3PPK/8 b - - 0 35,f8f7 c6c8 a4e8 c8e8,779,78,98,722,endgame mate mateIn2 pin short,https://lichess.org/lZLi0Euh/black#70,
+z6IVM,1rb2rk1/p4Q1p/1pn1RPp1/2p5/2B2q2/1P3N2/P4PPP/R5K1 b - - 0 20,f8f7 e6e8,738,86,82,192,mate mateIn1 middlegame oneMove pin,https://lichess.org/UQ3DdRvx/black#40,
+z8f73,4k3/ppp5/8/5R2/8/2PKp3/PPP1B1q1/8 b - - 0 29,g2g6 e2h5 g6h5 f5h5,707,77,86,114,crushing endgame pin short,https://lichess.org/zL5t4U0n/black#58,
+z8sDh,7k/7P/p1p3r1/8/P1p5/7P/5KB1/8 b - - 0 38,h8h7 g2e4 h7g7 e4g6,701,102,92,840,crushing endgame pin short,https://lichess.org/MredT9Zo/black#76,
+zCMXv,8/5kpp/5n2/3b3q/1B2pP2/P3Q1PP/5PBK/8 w - - 17 43,a3a4 f6g4 h2g1 g4e3,732,84,94,505,crushing endgame pin short,https://lichess.org/JvRgn1iQ#85,
+zGyv2,6k1/p4pp1/1p2n1P1/8/8/1PP2B2/PK6/8 b - - 0 28,f7f6 f3d5 g8f8 d5e6,700,94,89,534,crushing endgame pin short,https://lichess.org/fB3IxixV/black#56,
+zORNY,4k3/p3n3/1p2P2R/5P2/6P1/2p1PK2/P2r2P1/8 b - - 3 34,e7g8 h6h8 e8e7 h8g8,795,79,81,143,crushing endgame pin short,https://lichess.org/T5BOeFj9/black#68,
+zPlb5,rn3rk1/pp2nQpp/q1pRB3/8/8/4B3/P4PPP/R5K1 b - - 0 16,f8f7 d6d8,744,103,91,377,mate mateIn1 middlegame oneMove pin,https://lichess.org/RmxqGdwa/black#32,Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack
+zS1dN,Q5R1/5p1p/6pk/8/1p6/1bp3P1/5PKP/3r4 w - - 3 38,a8e4 b3d5 e4d5 d1d5,769,99,88,301,crushing endgame pin short,https://lichess.org/ILS65LzB#75,
+zW0Za,r2q1r1k/2p4n/pb1p3Q/1p1Np3/4P1bP/1BPP4/PP4P1/2K2R1R b - - 4 19,f8f1 h1f1 d8f8 f1f8,781,86,67,96,advantage middlegame pin short,https://lichess.org/VpKAlMyH/black#38,
+zbHTG,2r4r/8/P5p1/B7/3p4/8/4QP1P/1k4K1 w - - 5 54,e2d1 c8c1 d1c1 b1c1,717,99,90,924,crushing defensiveMove endgame pin short,https://lichess.org/0TjNJueH#107,
+zfPgS,5rk1/5Qpp/1p6/8/4R3/r6P/Bq3PP1/R5K1 b - - 0 32,f8f7 e4e8,727,85,100,82,endgame mate mateIn1 oneMove pin,https://lichess.org/YspmoKo4/black#64,
+zrbV1,4k1r1/1pp2p1p/2n5/2q1r3/6bP/P2PPNb1/4K1P1/RNBQ1B1R w - - 3 17,b1d2 c5e3,749,81,97,1162,mate mateIn1 middlegame oneMove pin,https://lichess.org/6J2aJgI6#33,Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations
+zs9dt,8/K4pk1/P5p1/3N4/8/7p/8/8 w - - 0 48,a7b7 h3h2 a6a7 h2h1q,727,98,74,351,advancedPawn crushing endgame knightEndgame pin promotion short,https://lichess.org/dJDa6ktM#95,
+zsJLN,r1b2rk1/2p2Qpp/p7/1p6/3P3q/1BP3bP/PP2RnP1/RNB3K1 b - - 0 17,f8f7 e2e8,716,86,91,109,mate mateIn1 middlegame oneMove pin,https://lichess.org/vMqvMGCl/black#34,Ruy_Lopez Ruy_Lopez_Marshall_Attack
+ztzie,r2k4/p3rp2/5Qp1/1p3p2/3P4/P1P3P1/1P1K1Pq1/R6R w - - 7 28,h1h8 d8d7 f6e7 d7e7,700,110,65,53,advantage endgame pin short,https://lichess.org/FTx7wZRK#55,
+zxU0v,2kr2r1/ppp2pPp/7B/2b3Q1/2p3b1/8/PP3qPP/RN3RK1 w - - 0 16,f1f2 d8d1,799,81,83,213,mate mateIn1 middlegame oneMove pin,https://lichess.org/MfaT0KHC#31,Italian_Game Italian_Game_Classical_Variation

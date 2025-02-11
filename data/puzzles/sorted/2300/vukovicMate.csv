@@ -1,0 +1,8 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+J5P4W,kR1r3r/P1pN4/2PbP3/P7/3P1p2/N5p1/3n2Kp/R7 b - - 1 41,a8a7 a3b5 a7a6 d7c5 d6c5 b5c7 a6a7 b8b7,2348,83,91,803,deflection exposedKing mate mateIn4 middlegame sacrifice veryLong vukovicMate,https://lichess.org/gE8TglNd/black#82,
+LABGK,k5r1/5R1p/pP6/N1b5/1p1p3P/1P6/2P3r1/5K2 b - - 1 42,d4d3 f7a7 a8b8 a5c6 b8c8 a7c7,2319,82,91,1238,endgame exposedKing long mate mateIn3 vukovicMate,https://lichess.org/ZFQ1Vg13/black#84,
+dv65Z,8/5R2/k2P4/P3n3/6p1/4p3/2r5/1R3K2 w - - 4 43,f7e7 c2f2 f1e1 e5d3 e1d1 f2d2,2340,77,93,6663,endgame exposedKing long mate mateIn3 vukovicMate,https://lichess.org/w6SoCRTw#85,
+mRwJy,6k1/R7/5Kp1/5p2/5N2/6r1/6Pn/8 b - - 5 42,g6g5 a7g7 g8f8 f4e6 f8e8 g7e7,2360,83,93,5859,endgame exposedKing long mate mateIn3 vukovicMate,https://lichess.org/6JzvI1BT/black#84,
+moHNa,r3r1k1/ppb1Bp2/2p2P2/6N1/8/3B3b/P1P2Pn1/3K2R1 b - - 1 30,g2f4 d3h7 g8h8 g5f7 h8h7 g1g7,2383,84,93,7172,deflection long mate mateIn3 middlegame sacrifice vukovicMate,https://lichess.org/uObxo4bz/black#60,
+ufKsP,6k1/3r2p1/4N2B/p2Pnp2/2r5/2K4P/P5R1/R7 w - - 0 39,c3b3 d7b7 b3a3 c4c3 a3a4 c3a3 a4a3 e5c4 a3a4 b7b4,2376,85,92,7787,attraction exposedKing mate mateIn5 middlegame sacrifice veryLong vukovicMate,https://lichess.org/lJX3Ulmq#77,
+vny16,2r1k2r/5P1p/p4Pb1/1p4P1/1b3N2/4Q3/PPq4P/K3R3 b k - 0 33,e8f7 e3e7 b4e7 e1e7 f7g8 e7g7 g8f8 f4e6 f8e8 g7e7,2358,80,85,404,exposedKing mate mateIn5 middlegame sacrifice veryLong vukovicMate,https://lichess.org/PZ8gU2xt/black#66,

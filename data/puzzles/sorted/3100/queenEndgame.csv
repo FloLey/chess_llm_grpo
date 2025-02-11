@@ -1,0 +1,7 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+18GW0,8/4Q1pk/5p2/5q2/3P2pK/6P1/7P/8 w - - 2 42,e7e3 f5g6 h2h3 f6f5 d4d5 h7g8 e3e6 g6e6,3127,135,91,1331,crushing endgame queenEndgame quietMove veryLong,https://lichess.org/fO7sC5oB#83,
+7DrLK,1Q6/p5kp/6p1/5p2/4q2P/1P1p4/P4PP1/6K1 w - - 2 37,b8a7 g7h6 a7a5 e4e2 a5b4 h6h5 b4c4 e2e1 g1h2 e1e5,3127,128,90,1302,crushing defensiveMove endgame queenEndgame veryLong,https://lichess.org/tvmSWm7Z#73,
+IfcoI,7k/8/2p5/1pP4P/1P1q4/4p3/6PK/4Q3 w - - 0 58,e1g3 e3e2 g3e1 d4e4 g2g4 e4g4,3145,113,93,402,advancedPawn crushing endgame long master queenEndgame,https://lichess.org/rDPs9c26#115,
+U7SJ3,8/7p/1p4pk/pq6/4P2Q/5P1P/6PK/8 b - - 1 41,b5h5 h4f6 h5c5 h3h4 a5a4 h2h3 a4a3 g2g4,3179,136,90,1491,crushing defensiveMove endgame queenEndgame quietMove veryLong,https://lichess.org/2jYBclUp/black#82,
+qblpL,8/6Q1/3k1p2/1P6/2P4P/8/pq4PK/8 w - - 5 52,g7f8 d6e5 f8d8 e5e4,3135,141,90,1619,crushing defensiveMove endgame queenEndgame short,https://lichess.org/Ke3NZFzo#103,
+x3qHD,8/7p/1p3Qpk/p2q4/8/6P1/P4P1P/6K1 b - - 2 44,d5a2 g3g4 a2d5 h2h3 a5a4 g1h2,3151,128,91,1269,crushing defensiveMove endgame long queenEndgame quietMove,https://lichess.org/dH3wry3z/black#88,

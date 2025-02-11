@@ -1,0 +1,11 @@
+PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags
+1iTkn,2r2b1r/1k2pppp/1B1p4/P2P4/8/5Q2/3N1PPP/1q4K1 w - - 0 24,d2b1 c8c1 f3d1 c1d1,399,93,79,218,backRankMate endgame fork mate mateIn2 short,https://lichess.org/Ay8OjjwX#47,
+2U2rO,4r1k1/5p1p/p2R2p1/2pP4/2P5/8/P3rPPP/q4QK1 w - - 0 22,f1a1 e2e1 a1e1 e8e1,399,107,90,694,backRankMate endgame fork mate mateIn2 queenRookEndgame short,https://lichess.org/k6rPMcCp#43,
+FNs5l,3qrQ1k/1p1b2pp/1p4p1/4r3/2p1P3/2P3PP/P4RB1/5RK1 b - - 5 26,e8f8 f2f8 d8f8 f1f8,399,94,79,487,backRankMate fork mate mateIn2 middlegame short,https://lichess.org/NCGSwf5B/black#52,
+LaCGh,1Q4k1/3n1ppp/2q5/3R2P1/pB2P3/P4P2/7P/1K6 b - - 0 27,d7b8 d5d8 c6e8 d8e8,399,110,96,992,backRankMate endgame fork mate mateIn2 short,https://lichess.org/bQLMKXm3/black#54,
+X1icB,2kr1bnr/pp3ppp/8/2p5/4R1q1/2Q5/PPP2PPP/RNB3K1 w - - 1 12,e4g4 d8d1 c3e1 d1e1,399,102,83,185,backRankMate fork mate mateIn2 middlegame short,https://lichess.org/fhfsiT1M#23,Scotch_Game Scotch_Game_Other_variations
+ZPxXt,rn1r2k1/p5bp/1n2R1p1/8/2N5/P7/1PP2PPP/RNB3K1 w - - 0 18,c4b6 d8d1 e6e1 d1e1,399,117,86,1342,backRankMate fork mate mateIn2 middlegame short,https://lichess.org/uIWLJ8xy#35,Philidor_Defense Philidor_Defense_Other_variations
+giqCB,1n5k/1r3Bpp/p7/8/8/8/PPP2PPP/4R1K1 b - - 0 25,b7f7 e1e8 f7f8 e8f8,399,94,73,277,backRankMate endgame fork mate mateIn2 short,https://lichess.org/kYb08gHi/black#50,
+i2NLr,3k4/p7/3P1p2/3r4/P6p/4B3/4RPPP/1N3RK1 w - - 2 31,f1d1 d5d1 e2e1 d1e1,399,102,75,160,backRankMate endgame fork hangingPiece mate mateIn2 short,https://lichess.org/5DxignK0#61,
+o90vL,2Q3k1/4nppp/1q6/p3Pp2/1p6/1PpR3P/P4PP1/3R2K1 b - - 0 29,e7c8 d3d8 b6d8 d1d8,399,112,84,289,backRankMate endgame fork mate mateIn2 short,https://lichess.org/qKkFmvvl/black#58,
+yy6gq,6k1/3R1ppp/3B4/1pp5/2n5/8/r4PPP/4N1K1 b - - 0 26,c4d6 d7d8 d6e8 d8e8,399,119,93,2161,backRankMate endgame fork mate mateIn2 short,https://lichess.org/NNGfHWag/black#52,
