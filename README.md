@@ -22,17 +22,6 @@ Located in `data/puzzles/sorted/`, puzzles are first organized by rating (e.g., 
 Python scripts for dataset creation and processing are located in `data/scripts/`.
 
 ## Requirements
-Required Python packages:
-- tqdm 4.65.0
-- zstandard 0.21.0  
-- requests 2.31.0
 
 Install dependencies with:
 ```pip install -r requirements.txt```
-
-## Usage
-The datasets are provided in CSV format and can be used for:
-- Training chess engines
-- Creating chess puzzle applications
-- Analyzing chess patterns
-- Educational purposes
