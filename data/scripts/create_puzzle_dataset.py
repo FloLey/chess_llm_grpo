@@ -62,12 +62,11 @@ def extract_dataset():
 
 def process_puzzles():
     """Process puzzles and create rating and theme based files"""
-    print("Loading CSV into memory...")
-    
-    # Clear existing puzzles directory
     if os.path.exists(puzzles_dir):
-        import shutil
-        shutil.rmtree(puzzles_dir)
+        print("Sorted puzzles directory already exists. Skipping processing.")
+        return
+        
+    print("Loading CSV into memory...")
     
     # Dictionary to store puzzles by rating bin and theme
     rating_theme_groups = defaultdict(lambda: defaultdict(list))
