@@ -12,9 +12,13 @@ import requests
 compressed_filename = os.path.join("data", "puzzles", "lichess_db_puzzle.csv.zst")
 csv_filename = os.path.join("data", "puzzles", "lichess_db_puzzle.csv")
 puzzles_dir = os.path.join("data", "puzzles", "sorted")
+base_puzzles_dir = os.path.join("data", "puzzles")
 
 # Set a fixed random seed for reproducibility
 random.seed(42)
+
+# Ensure base puzzles directory exists
+ensure_dir(base_puzzles_dir)
 
 def ensure_dir(directory):
     """Create directory if it doesn't exist"""
