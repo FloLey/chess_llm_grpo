@@ -12,6 +12,7 @@ import requests
 compressed_filename = os.path.join("data", "puzzles", "lichess_db_puzzle.csv.zst")
 csv_filename = os.path.join("data", "puzzles", "lichess_db_puzzle.csv")
 puzzles_dir = os.path.join("data", "puzzles", "sorted")
+datasets_dir = os.path.join("data", "puzzles", "datasets")
 base_puzzles_dir = os.path.join("data", "puzzles")
 
 # Set a fixed random seed for reproducibility
@@ -103,6 +104,73 @@ def process_puzzles():
                 writer.writeheader()
                 writer.writerows(puzzles)
 
+def create_datasets():
+    """Create training and test datasets from sorted puzzles"""
+    if not os.path.exists(puzzles_dir):
+        print("Sorted puzzles directory doesn't exist. Run processing first.")
+        return
+        
+    if os.path.exists(datasets_dir):
+        print("Datasets directory already exists. Skipping dataset creation.")
+        return
+        
+    ensure_dir(datasets_dir)
+    
+    # Iterate through rating directories
+    for rating_dir in tqdm(os.listdir(puzzles_dir), desc="Processing rating ranges"):
+        rating_path = os.path.join(puzzles_dir, rating_dir)
+        if not os.path.isdir(rating_path):
+            continue
+            
+        # Create rating directory in datasets
+        rating_datasets_dir = os.path.join(datasets_dir, rating_dir)
+        ensure_dir(rating_datasets_dir)
+        
+        train_puzzles = []
+        test_puzzles = []
+        
+        # Process each theme file
+        for theme_file in tqdm(os.listdir(rating_path), desc=f"Rating {rating_dir}", leave=False):
+            if not theme_file.endswith('.csv'):
+                continue
+                
+            theme_path = os.path.join(rating_path, theme_file)
+            with open(theme_path, 'r', newline='', encoding='utf-8') as f:
+                reader = csv.DictReader(f)
+                puzzles = list(reader)
+                
+                # Determine split sizes
+                total_puzzles = len(puzzles)
+                if total_puzzles == 0:
+                    continue
+                elif total_puzzles == 1:
+                    test_size = 1
+                    train_size = 0
+                else:
+                    test_size = min(10, total_puzzles // 3)
+                    train_size = min(20, total_puzzles - test_size)
+                
+                # Randomly select puzzles
+                random.shuffle(puzzles)
+                test_puzzles.extend(puzzles[:test_size])
+                if train_size > 0:
+                    train_puzzles.extend(puzzles[test_size:test_size + train_size])
+        
+        # Write train and test files
+        if test_puzzles:
+            test_file = os.path.join(rating_datasets_dir, 'test.csv')
+            with open(test_file, 'w', newline='', encoding='utf-8') as f:
+                writer = csv.DictWriter(f, fieldnames=test_puzzles[0].keys())
+                writer.writeheader()
+                writer.writerows(test_puzzles)
+                
+        if train_puzzles:
+            train_file = os.path.join(rating_datasets_dir, 'train.csv')
+            with open(train_file, 'w', newline='', encoding='utf-8') as f:
+                writer = csv.DictWriter(f, fieldnames=train_puzzles[0].keys())
+                writer.writeheader()
+                writer.writerows(train_puzzles)
+
 def main():
     """Main execution function"""
     if not os.path.exists(csv_filename):
@@ -112,6 +180,7 @@ def main():
             extract_dataset()
     
     process_puzzles()
+    create_datasets()
     gc.collect()
 
 if __name__ == "__main__":
