@@ -91,16 +91,13 @@ def process_puzzles():
                     rating_theme_groups[rating_bin][theme].append(puzzle)
 
     # Create output directories and files
-    for rating_bin in sorted(rating_theme_groups.keys()):
-        # Create rating bin directory
+    for rating_bin in tqdm(sorted(rating_theme_groups.keys()), desc="Processing rating bins"):
         rating_dir = os.path.join(puzzles_dir, str(rating_bin))
         ensure_dir(rating_dir)
         
-        print(f"\nProcessing rating bin {rating_bin}:")
-        for theme, puzzles in rating_theme_groups[rating_bin].items():
+        for theme, puzzles in tqdm(rating_theme_groups[rating_bin].items(), 
+                                 desc=f"Rating {rating_bin}", leave=False):
             output_file = os.path.join(rating_dir, f"{theme}.csv")
-            print(f"  Writing {len(puzzles)} puzzles to {theme}.csv")
-            
             with open(output_file, "w", newline="", encoding="utf-8") as out_file:
                 writer = csv.DictWriter(out_file, fieldnames=fieldnames)
                 writer.writeheader()
@@ -109,20 +106,13 @@ def process_puzzles():
 def main():
     """Main execution function"""
     if not os.path.exists(csv_filename):
-        # Only download if we need to extract and don't have the compressed file
         if not os.path.exists(compressed_filename):
             download_dataset()
-        # Only extract if we don't have the CSV
         if not os.path.exists(csv_filename):
             extract_dataset()
-    else:
-        print(f"Using existing {csv_filename}")
     
     process_puzzles()
-    
-    # Cleanup
     gc.collect()
-    print("Processing complete. Files created in the puzzles directory.")
 
 if __name__ == "__main__":
     main()
