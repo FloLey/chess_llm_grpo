@@ -1,6 +1,6 @@
 # Chess Puzzles Dataset
 
-A comprehensive collection of chess puzzles from Lichess.org, organized by rating and puzzle type. All puzzles are sourced from the Lichess puzzle database.
+A comprehensive collection of chess puzzles from Lichess.org, organized by rating and puzzle type.
 
 ## Structure
 
