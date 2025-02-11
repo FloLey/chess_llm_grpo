@@ -24,6 +24,9 @@ def ensure_dir(directory):
 def download_dataset():
     """Download the compressed dataset if needed"""
     if not os.path.exists(compressed_filename):
+        # Ensure the parent directory exists
+        ensure_dir(os.path.dirname(compressed_filename))
+        
         print(f"Downloading {compressed_filename}...")
         import requests
         url = "https://database.lichess.org/lichess_db_puzzle.csv.zst"
@@ -42,6 +45,9 @@ def download_dataset():
 def extract_dataset():
     """Extract the CSV file if needed"""
     if not os.path.exists(csv_filename):
+        # Ensure the parent directory exists
+        ensure_dir(os.path.dirname(csv_filename))
+        
         print(f"Extracting {csv_filename} from {compressed_filename}...")
         with open(compressed_filename, "rb") as comp_file:
             with zstd.ZstdDecompressor().stream_reader(comp_file) as reader:
