@@ -9,9 +9,9 @@ import gc
 import requests
 
 # Configuration
-compressed_filename = "lichess_db_puzzle.csv.zst"
-csv_filename = "lichess_db_puzzle.csv"
-puzzles_dir = "data/puzzles"
+compressed_filename = os.path.join("data", "puzzles", "lichess_db_puzzle.csv.zst")
+csv_filename = os.path.join("data", "puzzles", "lichess_db_puzzle.csv")
+puzzles_dir = os.path.join("data", "puzzles", "sorted")
 
 # Set a fixed random seed for reproducibility
 random.seed(42)
