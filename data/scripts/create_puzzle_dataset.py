@@ -105,7 +105,7 @@ def process_puzzles():
                 writer.writerows(puzzles)
 
 def create_datasets():
-    """Create training and test datasets from sorted puzzles"""
+    """Create training and test datasets using sliding windows of rating ranges"""
     if not os.path.exists(puzzles_dir):
         print("Sorted puzzles directory doesn't exist. Run processing first.")
         return
@@ -116,21 +116,21 @@ def create_datasets():
         
     ensure_dir(datasets_dir)
     
-    # Iterate through rating directories
-    for rating_dir in tqdm(os.listdir(puzzles_dir), desc="Processing rating ranges"):
-        rating_path = os.path.join(puzzles_dir, rating_dir)
-        if not os.path.isdir(rating_path):
-            continue
-            
-        # Create rating directory in datasets
-        rating_datasets_dir = os.path.join(datasets_dir, rating_dir)
-        ensure_dir(rating_datasets_dir)
+    # Get sorted list of rating directories
+    rating_dirs = sorted([d for d in os.listdir(puzzles_dir) 
+                         if os.path.isdir(os.path.join(puzzles_dir, d))],
+                        key=int)
+    
+    if not rating_dirs:
+        return
         
+    def process_rating_range(rating_dir):
+        """Process puzzles from a single rating directory"""
         train_puzzles = []
         test_puzzles = []
+        rating_path = os.path.join(puzzles_dir, rating_dir)
         
-        # Process each theme file
-        for theme_file in tqdm(os.listdir(rating_path), desc=f"Rating {rating_dir}", leave=False):
+        for theme_file in os.listdir(rating_path):
             if not theme_file.endswith('.csv'):
                 continue
                 
@@ -139,7 +139,6 @@ def create_datasets():
                 reader = csv.DictReader(f)
                 puzzles = list(reader)
                 
-                # Determine split sizes
                 total_puzzles = len(puzzles)
                 if total_puzzles == 0:
                     continue
@@ -150,26 +149,60 @@ def create_datasets():
                     test_size = min(10, total_puzzles // 3)
                     train_size = min(20, total_puzzles - test_size)
                 
-                # Randomly select puzzles
                 random.shuffle(puzzles)
                 test_puzzles.extend(puzzles[:test_size])
                 if train_size > 0:
                     train_puzzles.extend(puzzles[test_size:test_size + train_size])
+                    
+        return train_puzzles, test_puzzles
+    
+    # Process sliding windows
+    for i in tqdm(range(len(rating_dirs)), desc="Processing rating windows"):
+        if i == 0:
+            # First window: single rating range
+            window_dirs = [rating_dirs[0]]
+            window_name = f"range_{rating_dirs[0]}"
+        elif i == 1:
+            # Second window: first two rating ranges
+            window_dirs = rating_dirs[:2]
+            window_name = f"range_{rating_dirs[0]}_{rating_dirs[1]}"
+        elif i >= len(rating_dirs) - 3:
+            # Last window: last three rating ranges
+            window_dirs = rating_dirs[-3:]
+            window_name = f"range_{window_dirs[0]}_{window_dirs[-1]}"
+            if i > len(rating_dirs) - 3:
+                continue
+        else:
+            # Regular sliding window of three ranges
+            window_dirs = rating_dirs[i-1:i+2]
+            window_name = f"range_{window_dirs[0]}_{window_dirs[-1]}"
         
-        # Write train and test files
-        if test_puzzles:
-            test_file = os.path.join(rating_datasets_dir, 'test.csv')
+        # Create directory for this window
+        window_dir = os.path.join(datasets_dir, window_name)
+        ensure_dir(window_dir)
+        
+        # Process all ranges in this window
+        all_train_puzzles = []
+        all_test_puzzles = []
+        for rating_dir in window_dirs:
+            train, test = process_rating_range(rating_dir)
+            all_train_puzzles.extend(train)
+            all_test_puzzles.extend(test)
+        
+        # Write combined files for this window
+        if all_test_puzzles:
+            test_file = os.path.join(window_dir, 'test.csv')
             with open(test_file, 'w', newline='', encoding='utf-8') as f:
-                writer = csv.DictWriter(f, fieldnames=test_puzzles[0].keys())
+                writer = csv.DictWriter(f, fieldnames=all_test_puzzles[0].keys())
                 writer.writeheader()
-                writer.writerows(test_puzzles)
+                writer.writerows(all_test_puzzles)
                 
-        if train_puzzles:
-            train_file = os.path.join(rating_datasets_dir, 'train.csv')
+        if all_train_puzzles:
+            train_file = os.path.join(window_dir, 'train.csv')
             with open(train_file, 'w', newline='', encoding='utf-8') as f:
-                writer = csv.DictWriter(f, fieldnames=train_puzzles[0].keys())
+                writer = csv.DictWriter(f, fieldnames=all_train_puzzles[0].keys())
                 writer.writeheader()
-                writer.writerows(train_puzzles)
+                writer.writerows(all_train_puzzles)
 
 def main():
     """Main execution function"""
