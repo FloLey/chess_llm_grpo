@@ -123,9 +123,10 @@ def create_datasets():
     
     if not rating_dirs:
         return
-        
-    def process_rating_range(rating_dir):
-        """Process puzzles from a single rating directory"""
+
+    # First, process all rating ranges once and store the results
+    rating_data = {}
+    for rating_dir in tqdm(rating_dirs, desc="Processing rating ranges"):
         train_puzzles = []
         test_puzzles = []
         rating_path = os.path.join(puzzles_dir, rating_dir)
@@ -153,11 +154,11 @@ def create_datasets():
                 test_puzzles.extend(puzzles[:test_size])
                 if train_size > 0:
                     train_puzzles.extend(puzzles[test_size:test_size + train_size])
-                    
-        return train_puzzles, test_puzzles
+        
+        rating_data[rating_dir] = (train_puzzles, test_puzzles)
     
-    # Process sliding windows
-    for i in tqdm(range(len(rating_dirs)), desc="Processing rating windows"):
+    # Create sliding windows using the pre-processed data
+    for i in tqdm(range(len(rating_dirs)), desc="Creating dataset windows"):
         if i == 0:
             # First window: single rating range
             window_dirs = [rating_dirs[0]]
@@ -181,11 +182,11 @@ def create_datasets():
         window_dir = os.path.join(datasets_dir, window_name)
         ensure_dir(window_dir)
         
-        # Process all ranges in this window
+        # Combine pre-processed data for this window
         all_train_puzzles = []
         all_test_puzzles = []
         for rating_dir in window_dirs:
-            train, test = process_rating_range(rating_dir)
+            train, test = rating_data[rating_dir]
             all_train_puzzles.extend(train)
             all_test_puzzles.extend(test)
         
