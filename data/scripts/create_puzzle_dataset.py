@@ -6,6 +6,7 @@ from collections import defaultdict
 import zstandard as zstd
 from tqdm import tqdm
 import gc
+import requests
 
 # Configuration
 compressed_filename = "lichess_db_puzzle.csv.zst"
@@ -24,7 +25,17 @@ def download_dataset():
     """Download the compressed dataset if needed"""
     if not os.path.exists(compressed_filename):
         print(f"Downloading {compressed_filename}...")
-        os.system(f"wget https://database.lichess.org/lichess_db_puzzle.csv.zst -O {compressed_filename}")
+        import requests
+        url = "https://database.lichess.org/lichess_db_puzzle.csv.zst"
+        response = requests.get(url, stream=True)
+        total_size = int(response.headers.get('content-length', 0))
+        
+        with open(compressed_filename, 'wb') as f:
+            with tqdm(total=total_size, unit='B', unit_scale=True, desc="Downloading") as pbar:
+                for chunk in response.iter_content(chunk_size=8192):
+                    if chunk:
+                        f.write(chunk)
+                        pbar.update(len(chunk))
     else:
         print(f"{compressed_filename} already exists. Skipping download.")
 
