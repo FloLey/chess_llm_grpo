@@ -75,8 +75,9 @@ def process_puzzles():
     with open(csv_filename, "r", newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         fieldnames = reader.fieldnames
+        puzzles = list(reader)
         
-        for puzzle in tqdm(reader, desc="Processing puzzles"):
+        for puzzle in tqdm(puzzles, desc="Processing puzzles by rating and theme"):
             rating_str = puzzle.get("Rating", "").strip()
             if not rating_str.isdigit():
                 continue
@@ -131,16 +132,16 @@ def create_datasets():
         test_puzzles = []
         rating_path = os.path.join(puzzles_dir, rating_dir)
         
-        for theme_file in os.listdir(rating_path):
+        for theme_file in tqdm(os.listdir(rating_path), desc=f"Processing themes for {rating_dir}", leave=False):
             if not theme_file.endswith('.csv'):
                 continue
                 
             theme_path = os.path.join(rating_path, theme_file)
             with open(theme_path, 'r', newline='', encoding='utf-8') as f:
                 reader = csv.DictReader(f)
-                puzzles = list(reader)
+                theme_puzzles = list(reader)
                 
-                total_puzzles = len(puzzles)
+                total_puzzles = len(theme_puzzles)
                 if total_puzzles == 0:
                     continue
                 elif total_puzzles == 1:
@@ -150,10 +151,10 @@ def create_datasets():
                     test_size = min(10, total_puzzles // 3)
                     train_size = min(20, total_puzzles - test_size)
                 
-                random.shuffle(puzzles)
-                test_puzzles.extend(puzzles[:test_size])
+                random.shuffle(theme_puzzles)
+                test_puzzles.extend(theme_puzzles[:test_size])
                 if train_size > 0:
-                    train_puzzles.extend(puzzles[test_size:test_size + train_size])
+                    train_puzzles.extend(theme_puzzles[test_size:test_size + train_size])
         
         rating_data[rating_dir] = (train_puzzles, test_puzzles)
     
