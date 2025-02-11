@@ -17,9 +17,6 @@ base_puzzles_dir = os.path.join("data", "puzzles")
 # Set a fixed random seed for reproducibility
 random.seed(42)
 
-# Ensure base puzzles directory exists
-ensure_dir(base_puzzles_dir)
-
 def ensure_dir(directory):
     """Create directory if it doesn't exist"""
     if not os.path.exists(directory):
