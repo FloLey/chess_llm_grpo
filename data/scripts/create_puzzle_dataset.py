@@ -54,38 +54,51 @@ def extract_dataset():
         print(f"{csv_filename} already exists. Skipping extraction.")
 
 def process_puzzles():
-    """Process puzzles and create rating-based files"""
+    """Process puzzles and create rating and theme based files"""
     print("Loading CSV into memory...")
-    rating_groups = defaultdict(list)
     
-    # First pass: Read and group puzzles by rating
+    # Clear existing puzzles directory
+    if os.path.exists(puzzles_dir):
+        import shutil
+        shutil.rmtree(puzzles_dir)
+    
+    # Dictionary to store puzzles by rating bin and theme
+    rating_theme_groups = defaultdict(lambda: defaultdict(list))
+    
     with open(csv_filename, "r", newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         fieldnames = reader.fieldnames
         
         for puzzle in tqdm(reader, desc="Processing puzzles"):
             rating_str = puzzle.get("Rating", "").strip()
-            if rating_str.isdigit():
-                rating = int(rating_str)
-                # Group into 100-point rating bins
-                rating_bin = (rating // 100) * 100
-                rating_groups[rating_bin].append(puzzle)
+            if not rating_str.isdigit():
+                continue
+                
+            rating = int(rating_str)
+            rating_bin = (rating // 100) * 100
+            
+            # Get themes and add puzzle to each theme's list
+            themes_str = puzzle.get("Themes", "").strip()
+            if themes_str:
+                themes = themes_str.split()
+                for theme in themes:
+                    rating_theme_groups[rating_bin][theme].append(puzzle)
 
-    # Create output directory if it doesn't exist
-    ensure_dir(puzzles_dir)
-
-    # Write separate files for each rating group
-    for rating_bin, puzzles in rating_groups.items():
-        output_file = os.path.join(puzzles_dir, f"puzzles_{rating_bin}.csv")
+    # Create output directories and files
+    for rating_bin in sorted(rating_theme_groups.keys()):
+        # Create rating bin directory
+        rating_dir = os.path.join(puzzles_dir, str(rating_bin))
+        ensure_dir(rating_dir)
         
-        # Sort puzzles by theme
-        puzzles.sort(key=lambda x: x.get("Themes", ""))
-        
-        print(f"Writing {len(puzzles)} puzzles to {output_file}")
-        with open(output_file, "w", newline="", encoding="utf-8") as out_file:
-            writer = csv.DictWriter(out_file, fieldnames=fieldnames)
-            writer.writeheader()
-            writer.writerows(puzzles)
+        print(f"\nProcessing rating bin {rating_bin}:")
+        for theme, puzzles in rating_theme_groups[rating_bin].items():
+            output_file = os.path.join(rating_dir, f"{theme}.csv")
+            print(f"  Writing {len(puzzles)} puzzles to {theme}.csv")
+            
+            with open(output_file, "w", newline="", encoding="utf-8") as out_file:
+                writer = csv.DictWriter(out_file, fieldnames=fieldnames)
+                writer.writeheader()
+                writer.writerows(puzzles)
 
 def main():
     """Main execution function"""
